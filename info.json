@@ -1,0 +1,20 @@
+{
+    "arguments": [
+        "--travis",
+        "-a",
+        "-ex",
+        "--plain",
+        "--split",
+        "-t 2",
+        "--share-logs"
+    ],
+    "autosave_minutes": "10",
+    "commit_autosave_message": "Test of polish-pihole-filters",
+    "currently_under_test": "0",
+    "days_until_next_test": "2",
+    "last_test": "0",
+    "list_name": "polish-pihole-filters.list",
+    "name": "polish-pihole-filters",
+    "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
+    "stable": "0"
+}
