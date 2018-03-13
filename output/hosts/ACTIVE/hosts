@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 11 Mar 11:03:49 UTC 2018 
+# Date of generation: Tue 13 Mar 11:03:07 UTC 2018 
 
 0.0.0.0 1.googlenews.xorg.pl 
 0.0.0.0 15minadlt.hit.gemius.pl 
@@ -13,6 +13,7 @@
 0.0.0.0 ad.adocean.pl 
 0.0.0.0 ad.adview.pl 
 0.0.0.0 ad.afilo.pl 
+0.0.0.0 ad.blueice.pl 
 0.0.0.0 ad.filmweb.pl 
 0.0.0.0 ad.gazeta.pl 
 0.0.0.0 ad.glossymedia.pl 
@@ -308,6 +309,7 @@
 0.0.0.0 neogenadro.hit.gemius.pl 
 0.0.0.0 netsprint.hit.gemius.pl 
 0.0.0.0 new.smartcontext.pl 
+0.0.0.0 nextclick.pl 
 0.0.0.0 novem.onet.pl 
 0.0.0.0 o2.hit.gemius.pl 
 0.0.0.0 o2adpl.hit.gemius.pl 

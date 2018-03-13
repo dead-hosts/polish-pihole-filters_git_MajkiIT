@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1520767552": [
+        "1520940637": [
+            "ad2.pl.mediainter.net",
             "adserwer.intercon.pl",
             "adspiro.pl",
             "c.allegrostatic.pl",
@@ -10,8 +11,7 @@
             "s1.lcx.pl",
             "s2.lcx.pl",
             "s3.lcx.pl",
-            "spanel.gem.pl",
-            "ad2.pl.mediainter.net"
+            "spanel.gem.pl"
         ],
         "to_test": []
     }
