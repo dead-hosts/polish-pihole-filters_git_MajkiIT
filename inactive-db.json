@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1520940637": [
+        "1521113401": [
+            "intrack.pl",
             "ad2.pl.mediainter.net",
             "adserwer.intercon.pl",
             "adspiro.pl",
