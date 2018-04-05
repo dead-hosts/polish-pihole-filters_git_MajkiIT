@@ -1,495 +1,455 @@
-# Polish filters for Pi hole
-# Collaborators: xxcriticxx, MajkiIT
-# Homepage: https://www.certyficate.it/
-# Last modified: 111 March 2018
-# Version: 2018031101 
-# Contact: errors@certyficate.it
-# Support: https://github.com/MajkiIT/polish-ads-filter/issues
-# License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2018 Certyficate IT
-# v.2018031101 aktualizacja: nie, 11 marca 2018, 20:45:00
-#
-# [General]
-0.0.0.0 ad.adview.pl
-0.0.0.0 ad.afilo.pl
-0.0.0.0 ad.filmweb.pl
-0.0.0.0 ad.gazeta.pl
-0.0.0.0 ad.glossymedia.pl
-0.0.0.0 ad.groupon.pl
-0.0.0.0 ad.hosting.pl
-0.0.0.0 ad.pl.doubleclick.net
-0.0.0.0 ad.polskiprzemysl.com.pl
-0.0.0.0 ad.prv.pl
-0.0.0.0 ad.prv.pl
-0.0.0.0 ad.stat.4u.pl
-0.0.0.0 ad.yoyo.pl
-0.0.0.0 ad2.pl
-0.0.0.0 adidm.idmnet.pl
-0.0.0.0 adidm07.idmnet.pl
-0.0.0.0 adkontekst.pl
-0.0.0.0 adkontekst.pl
-0.0.0.0 adp.adview.pl
-0.0.0.0 adp.gazeta.pl
-0.0.0.0 ads.businessclick.pl
-0.0.0.0 ads.clickad.com.pl
-0.0.0.0 ads.comperia.pl
-0.0.0.0 ads.edipresse.pl
-0.0.0.0 ads.idg.com.pl
-0.0.0.0 ads.novem.pl
-0.0.0.0 ads.open.pl
-0.0.0.0 ads2.ekologia.pl
-0.0.0.0 ads2.rp.pl
-0.0.0.0 adsearch.adkontekst.pl
-0.0.0.0 adsearch.pl
-0.0.0.0 adserver.gadu-gadu.pl
-0.0.0.0 adserver.home.pl
-0.0.0.0 adserver.magazyn.pl
-0.0.0.0 adserver.pl
-0.0.0.0 adserver.portal.pl
-0.0.0.0 adserver.swiatobrazu.pl
-0.0.0.0 adserver.yanosik.pl
-0.0.0.0 adserver2.atman.pl
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.pl
-0.0.0.0 adserwer.afilo.pl
-0.0.0.0 adseu.novem.pl
-0.0.0.0 adsrv.lua.pl
-0.0.0.0 adstat.4u.pl
-0.0.0.0 adtaily.pl
-0.0.0.0 adtext.pl
-0.0.0.0 adtotal.pl
-0.0.0.0 adv.adview.pl
-0.0.0.0 adv.gazeta.pl
-0.0.0.0 adview.pl
-0.0.0.0 afi.adocean.pl
-0.0.0.0 afilo.pl
-0.0.0.0 nextclick.pl
-0.0.0.0 ad.blueice.pl
-0.0.0.0 ajax.rutracker.org.pl
-0.0.0.0 analytics.gazeta.pl
-0.0.0.0 ankieta-online.pl
-0.0.0.0 app-measurement.com
-0.0.0.0 app.adjust.com
-0.0.0.0 app2.salesmanago.pl
-0.0.0.0 arbomedia.pl
-0.0.0.0 banery.acr.pl
-0.0.0.0 banery.netart.pl
-0.0.0.0 banners.iq.pl
-0.0.0.0 bbcdn.code.new.smartcontext.pl
-0.0.0.0 bbcdn.go.pl.bbelements.com
-0.0.0.0 bi.adview.pl
-0.0.0.0 blogvertising.pl
-0.0.0.0 brahe.apptimize.com
-0.0.0.0 businessclick.com
-0.0.0.0 chip.pl.intellitxt.com
-0.0.0.0 clickad.eo.pl
-0.0.0.0 coin-hive.com
-0.0.0.0 contextad.pl
-0.0.0.0 cookiecontainer.blox.pl
-0.0.0.0 counter.webmedia.pl
-0.0.0.0 crv.clickad.pl
-0.0.0.0 daib.pl
-0.0.0.0 delivery.clickonometrics.pl
-0.0.0.0 disqusads.com
-0.0.0.0 emisja.adsearch.pl
-0.0.0.0 emisja.contentstream.pl
-0.0.0.0 emisjao.contentstream.pl
-0.0.0.0 g1.idg.pl
-0.0.0.0 gde.adocean.pl
-0.0.0.0 gem.pl
-0.0.0.0 gg.adocean.pl
-0.0.0.0 gg.mob.vendimob.pl
-0.0.0.0 go.pl.bbelements.com
-0.0.0.0 googlenews.xorg.pl
-0.0.0.0 gostats.pl
-0.0.0.0 gratkapl.adocean.pl
-0.0.0.0 home.hit.stat.pl
-0.0.0.0 hub.com.pl
-0.0.0.0 huomdgde.adocean.pl
-0.0.0.0 im.of.pl
-0.0.0.0 im.xo.pl
-0.0.0.0 interia.adsearch.adkontekst.pl
-0.0.0.0 intrack.pl
-0.0.0.0 m.pl.pornzone.tv
-0.0.0.0 market.bia24.pl
-0.0.0.0 media.adcarousel.pl
-0.0.0.0 media.nk-net.pl
-0.0.0.0 megapanel.gem.pl
-0.0.0.0 mir.ec.adkontekst.pl
-0.0.0.0 mis.em.nscontext.eu
-0.0.0.0 mklik.gazeta.pl
-0.0.0.0 mobi.yanosik.pl
-0.0.0.0 new.smartcontext.pl
-0.0.0.0 obozua.adocean.pl
-0.0.0.0 onet.hit.stat.pl
-0.0.0.0 openx.cda.pl
-0.0.0.0 openx.kokoma.pl
-0.0.0.0 openx.tai.pl
-0.0.0.0 owabgxis.wp.pl
-0.0.0.0 panel.adtify.pl
-0.0.0.0 partner-ts.groupon.pl
-0.0.0.0 partner.ceneo.pl
-0.0.0.0 partner.pobieraczek.pl
-0.0.0.0 partner.wapacz.pl
-0.0.0.0 partner.wapster.pl
-0.0.0.0 pasaz.goryonline.com
-0.0.0.0 pl.spanel.gem.pl
-0.0.0.0 playlink.pl
-0.0.0.0 pushuser.wp.pl
-0.0.0.0 rec.quartic.pl
-0.0.0.0 rek.adtotal.pl
-0.0.0.0 reklamy.sfd.pl
-0.0.0.0 s.di.com.pl
-0.0.0.0 s1.gratkapl.adocean.pl
-0.0.0.0 show.smartcontext.pl
-0.0.0.0 sisco.hit.stat.pl
-0.0.0.0 skgde.adocean.pl
-0.0.0.0 smartclick.pl
-0.0.0.0 smartclick.pl
-0.0.0.0 smpl.hit.ppdb.pl
-0.0.0.0 stat.4u.pl
-0.0.0.0 stat.ekologia.pl
-0.0.0.0 stat.webmedia.pl
-0.0.0.0 static.clickonometrics.pl
-0.0.0.0 stats.asp24.pl
-0.0.0.0 stats.dziennik.pl
-0.0.0.0 sylaba.net
-0.0.0.0 tags.grajteraz.pl
-0.0.0.0 tracker.pracuj.pl
-0.0.0.0 tracking.novem.pl
-0.0.0.0 unblock.onaudience.com
-0.0.0.0 unblock.onaudience.com
-0.0.0.0 venetia.iad.appboy.com
-0.0.0.0 webhosting-ads.home.pl
-0.0.0.0 wpkoszyk.wp.pl
-0.0.0.0 www.adserver.home.pl
-0.0.0.0 www.mystat.pl
-0.0.0.0 xed.pl
-0.0.0.0 xstatic.nk-net.pl
-0.0.0.0 xr77.adj.st
-0.0.0.0 yts.moatads.com
-#
-# [Privacy]
-0.0.0.0 trackverters.pl
-0.0.0.0 ew1.dms-gld.bigdata.ssp.samsung.com
-0.0.0.0 promo.webpayments.closeby.internet.apps.samsung.com
-#
-# [Popup]
-0.0.0.0 www.bnserving.com
-0.0.0.0 propllrcurlmb.com
-0.0.0.0 fapmeth.com
-0.0.0.0 www.comwgi.com
-0.0.0.0 www.hkoxlirf.com
-#
-# [Bad pages]
-0.0.0.0 facewatch.borec.cz
-0.0.0.0 sprawdzikk.v0r.org
-0.0.0.0 konkursikowo.pl
-0.0.0.0 potwierdzoneinfo.pl
-0.0.0.0 wydawca.lead.network
-0.0.0.0 potwierdzoneinfo.pl
-0.0.0.0 kolor.oq.pl
-0.0.0.0 samnumer.pl
-0.0.0.0 fb-zmiana-koloru.pl
-#
-# [Bitcoin]
-0.0.0.0 vidoza2.github.io
-0.0.0.0 vidoza.github.io
-#
-# [ADS]
-0.0.0.0 ipla.hit.stat24.com
-0.0.0.0 ipla.hit.gemius.pl
-#
-# [wp.pl]
-0.0.0.0 adv.wp.pl
-0.0.0.0 dot.wp.pl
-0.0.0.0 adv.dot.wp.pl
-0.0.0.0 adsearch.wp.pl
-0.0.0.0 badv.wp.pl
-0.0.0.0 rek.www.wp.pl
-
-# [onet.pl]
-0.0.0.0 emisjawidgeet.onet.pl
-0.0.0.0 kropka.onet.pl
-0.0.0.0 reklama.onet.pl
-0.0.0.0 stats.media.onet.pl
-0.0.0.0 banery.onet.pl
-0.0.0.0 banki.onet.pl
-0.0.0.0 boksy.dir.onet.pl
-0.0.0.0 boksy.onet.pl
-0.0.0.0 csr.onet.pl
-0.0.0.0 ds.onet.pl
-0.0.0.0 novem.onet.pl
-0.0.0.0 republika.onet.pl
-#
-# [interia.pl]
-0.0.0.0 geo.interia.pl
-0.0.0.0 iwa.hit.interia.pl
-0.0.0.0 i.interia.pl
-0.0.0.0 x.interia.pl
-#
-# [o2.pl]
-0.0.0.0 ads.o2.pl
-0.0.0.0 adserver.o2.pl
-0.0.0.0 adfiles.o2.pl.sds.o2.pl
-#
-# [stat.pl]
-0.0.0.0 s1.hit.stat.pl
-0.0.0.0 s2.hit.stat.pl
-0.0.0.0 s3.hit.stat.pl
-0.0.0.0 s4.hit.stat.pl
-#
-# [xorg.pl]
-0.0.0.0 1.googlenews.xorg.pl
-0.0.0.0 2.googlenews.xorg.pl
-0.0.0.0 3.googlenews.xorg.pl
-0.0.0.0 4.googlenews.xorg.pl
-0.0.0.0 5.googlenews.xorg.pl
-#
-# [gostats.pl]
-0.0.0.0 c1.gostats.pl
-0.0.0.0 c2.gostats.pl
-0.0.0.0 c3.gostats.pl
-0.0.0.0 c4.gostats.pl
-0.0.0.0 c5.gostats.pl
-#
-# [adocean.pl]
-0.0.0.0 15minlt.adocean.pl
-0.0.0.0 ad.adocean.pl
-0.0.0.0 afilv.adocean.pl
-0.0.0.0 aripaee.adocean.pl
-0.0.0.0 b92rs.adocean.pl
-0.0.0.0 bg.adocean.pl
-0.0.0.0 bggde.adocean.pl
-0.0.0.0 bggde-new.adocean.pl
-0.0.0.0 blitzbg.adocean.pl
-0.0.0.0 by.adocean.pl
-0.0.0.0 cz.adocean.pl
-0.0.0.0 delfiee.adocean.pl
-0.0.0.0 delfilt.adocean.pl
-0.0.0.0 delfilv.adocean.pl
-0.0.0.0 diginet.adocean.pl
-0.0.0.0 digital4ro.adocean.pl
-0.0.0.0 edipresse.adocean.pl
-0.0.0.0 ee.adocean.pl
-0.0.0.0 eegde.adocean.pl
-0.0.0.0 gspro.adocean.pl
-0.0.0.0 hr.adocean.pl
-0.0.0.0 hrgde.adocean.pl
-0.0.0.0 hugde.adocean.pl
-0.0.0.0 ilgde.adocean.pl
-0.0.0.0 indexhu.adocean.pl
-0.0.0.0 intactro.adocean.pl
-0.0.0.0 investorbg.adocean.pl
-0.0.0.0 keepaneyemk.adocean.pl
-0.0.0.0 lrytaslt.adocean.pl
-0.0.0.0 lt.adocean.pl
-0.0.0.0 lv.adocean.pl
-0.0.0.0 my.adocean.pl
-0.0.0.0 myao.adocean.pl
-0.0.0.0 ohtulehtee.adocean.pl
-0.0.0.0 pracuj.adocean.pl
-0.0.0.0 realitatero.adocean.pl
-0.0.0.0 ringierro.adocean.pl
-0.0.0.0 ringierrs.adocean.pl
-0.0.0.0 ro.adocean.pl
-0.0.0.0 ro1ro.adocean.pl
-0.0.0.0 rogde.adocean.pl
-0.0.0.0 rs.adocean.pl
-0.0.0.0 rsgde.adocean.pl
-0.0.0.0 s1.sk.adocean.pl
-0.0.0.0 s1.cz.adocean.pl
-0.0.0.0 s1.czgde.adocean.pl
-0.0.0.0 s1.delfilt.adocean.pl
-0.0.0.0 s1.edipresse.adocean.pl
-0.0.0.0 s1.gojobsru.adocean.pl
-0.0.0.0 s1.my.adocean.pl
-0.0.0.0 s1.myao.adocean.pl
-0.0.0.0 s1.pracuj.adocean.pl
-0.0.0.0 s1.skgde.adocean.pl
-0.0.0.0 sk.adocean.pl
-0.0.0.0 si.adocean.pl
-0.0.0.0 sportalbg.adocean.pl
-0.0.0.0 thinkdigitalro.adocean.pl
-0.0.0.0 trgde.adocean.pl
-0.0.0.0 tvn.adocean.pl
-0.0.0.0 tvn2.adocean.pl
-0.0.0.0 ua.adocean.pl
-0.0.0.0 vbbg.adocean.pl
-0.0.0.0 webgroundbg.adocean.pl
-#
-# [gemius.pl]
-0.0.0.0 gemius.pl
-0.0.0.0 15minadlt.hit.gemius.pl
-0.0.0.0 hit.gemius.pl #[Tracking.Cookie]
-0.0.0.0 activeby.hit.gemius.pl
-0.0.0.0 ad.hit.gemius.pl
-0.0.0.0 adactiongapl.hit.gemius.pl
-0.0.0.0 adafi.hit.gemius.pl
-0.0.0.0 adbg.hit.gemius.pl
-0.0.0.0 adclick.hit.gemius.pl
-0.0.0.0 adcz.hit.gemius.pl
-0.0.0.0 adee.hit.gemius.pl
-0.0.0.0 adhr.hit.gemius.pl
-0.0.0.0 adlt.hit.gemius.pl
-0.0.0.0 adlv.hit.gemius.pl
-0.0.0.0 adnet.hit.gemius.pl
-0.0.0.0 adnetgalt.hit.gemius.pl
-0.0.0.0 adocean-by.hit.gemius.pl
-0.0.0.0 adocean-cz.hit.gemius.pl
-0.0.0.0 adocean-ee.hit.gemius.pl
-0.0.0.0 adocean-hr.hit.gemius.pl
-0.0.0.0 adocean-lt.hit.gemius.pl
-0.0.0.0 adocean-lv.hit.gemius.pl
-0.0.0.0 adocean-pl.hit.gemius.pl
-0.0.0.0 adocean-ro.hit.gemius.pl
-0.0.0.0 adocean-si.hit.gemius.pl
-0.0.0.0 adocean-ua.hit.gemius.pl
-0.0.0.0 adro.hit.gemius.pl
-0.0.0.0 adrs.hit.gemius.pl
-0.0.0.0 advice.hit.gemius.pl
-0.0.0.0 advicead.hit.gemius.pl
-0.0.0.0 aolt.hit.gemius.pl
-0.0.0.0 aolv.hit.gemius.pl
-0.0.0.0 apolloadlv.hit.gemius.pl
-0.0.0.0 arbo.hit.gemius.pl
-0.0.0.0 aripaadee.hit.gemius.pl
-0.0.0.0 avt.hit.gemius.pl
-0.0.0.0 allegro.hit.gemius.pl
-0.0.0.0 axel.hit.gemius.pl
-0.0.0.0 b92adrs.hit.gemius.pl
-0.0.0.0 bestjobs.hit.gemius.pl
-0.0.0.0 bg.hit.gemius.pl
-0.0.0.0 blitzadbg.hit.gemius.pl
-0.0.0.0 ghm_bulgaria.hit.gemius.pl
-0.0.0.0 centrumcz.hit.gemius.pl
-0.0.0.0 ua.cnt.gemius.pl
-0.0.0.0 corm.hit.gemius.pl
-0.0.0.0 counter.gemius.pl
-0.0.0.0 cz.hit.gemius.pl
-0.0.0.0 darikspaceadbg.hit.gemius.pl
-0.0.0.0 delfiadlt.hit.gemius.pl
-0.0.0.0 delfiadlv.hit.gemius.pl
-0.0.0.0 delfiadee.hit.gemius.pl
-0.0.0.0 delfilv.hit.gemius.pl
-0.0.0.0 diginetlt.hit.gemius.pl
-0.0.0.0 digital4adro.hit.gemius.pl
-0.0.0.0 dirbg.hit.gemius.pl
-0.0.0.0 edipresse.hit.gemius.pl
-0.0.0.0 ee.hit.gemius.pl
-0.0.0.0 eega.hit.gemius.pl
-0.0.0.0 eniro.hit.gemius.pl
-0.0.0.0 gaae.hit.gemius.pl
-0.0.0.0 gaat.hit.gemius.pl
-0.0.0.0 gaba.hit.gemius.pl
-0.0.0.0 gabe.hit.gemius.pl
-0.0.0.0 gabg.hit.gemius.pl
-0.0.0.0 gaby.hit.gemius.pl
-0.0.0.0 gacz.hit.gemius.pl
-0.0.0.0 gadk.hit.gemius.pl
-0.0.0.0 gaee.hit.gemius.pl
-0.0.0.0 gadnet.hit.gemius.pl
-0.0.0.0 gahu.hit.gemius.pl
-0.0.0.0 gajo.hit.gemius.pl
-0.0.0.0 gail.hit.gemius.pl
-0.0.0.0 gakz.hit.gemius.pl
-0.0.0.0 galb.hit.gemius.pl
-0.0.0.0 galindia.hit.gemius.pl
-0.0.0.0 galt.hit.gemius.pl
-0.0.0.0 galv.hit.gemius.pl
-0.0.0.0 gamk.hit.gemius.pl
-0.0.0.0 gapl.hit.gemius.pl
-0.0.0.0 gars.hit.gemius.pl
-0.0.0.0 garo.hit.gemius.pl
-0.0.0.0 garu.hit.gemius.pl
-0.0.0.0 gask.hit.gemius.pl
-0.0.0.0 gatr.hit.gemius.pl
-0.0.0.0 gaua.hit.gemius.pl
-0.0.0.0 gazeta.hit.gemius.pl
-0.0.0.0 gdebg.hit.gemius.pl
-0.0.0.0 gdeil.hit.gemius.pl
-0.0.0.0 gdecz.hit.gemius.pl
-0.0.0.0 gdelv.hit.gemius.pl
-0.0.0.0 gdesk.hit.gemius.pl
-0.0.0.0 gders.hit.gemius.pl
-0.0.0.0 gdetr.hit.gemius.pl
-0.0.0.0 gemadhu.hit.gemius.pl
-0.0.0.0 generalmediaadhu.hit.gemius.pl
-0.0.0.0 gg.hit.gemius.pl
-0.0.0.0 gde-default.hit.gemius.pl
-0.0.0.0 ghmme.hit.gemius.pl
-0.0.0.0 ghmbg.hit.gemius.pl
-0.0.0.0 ghmpl.hit.gemius.pl
-0.0.0.0 ghmrs.hit.gemius.pl
-0.0.0.0 goldbach.hit.gemius.pl
-0.0.0.0 gspro.hit.gemius.pl
-0.0.0.0 gtlt.hit.gemius.pl
-0.0.0.0 gtlv.hit.gemius.pl
-0.0.0.0 idg.hit.gemius.pl
-0.0.0.0 hr.hit.gemius.pl
-0.0.0.0 hu.hit.gemius.pl
-0.0.0.0 huadn.hit.gemius.pl
-0.0.0.0 icorpadro.hit.gemius.pl
-0.0.0.0 idm.hit.gemius.pl
-0.0.0.0 interia.hit.gemius.pl
-0.0.0.0 investoradbg.hit.gemius.pl
-0.0.0.0 keepaneyeadmk.hit.gemius.pl
-0.0.0.0 kon.hit.gemius.pl
-0.0.0.0 lrytasadlt.hit.gemius.pl
-0.0.0.0 ls.hit.gemius.pl
-0.0.0.0 lt.hit.gemius.pl
-0.0.0.0 lv.hit.gemius.pl
-0.0.0.0 mbank.hit.gemius.pl
-0.0.0.0 mediaregad.hit.gemius.pl
-0.0.0.0 metagaua.hit.gemius.pl
-0.0.0.0 mreg.hit.gemius.pl
-0.0.0.0 negadbg.hit.gemius.pl
-0.0.0.0 netsprint.hit.gemius.pl
-0.0.0.0 neogenadro.hit.gemius.pl
-0.0.0.0 o2.hit.gemius.pl
-0.0.0.0 o2adpl.hit.gemius.pl
-0.0.0.0 oglasnikadhr.hit.gemius.pl
-0.0.0.0 ohtulehtadee.hit.gemius.pl
-0.0.0.0 olx.hit.gemius.pl
-0.0.0.0 onet.hit.gemius.pl
-0.0.0.0 opt.hit.gemius.pl
-0.0.0.0 prefix.hit.gemius.pl
-0.0.0.0 pracuj.hit.gemius.pl
-0.0.0.0 pro.hit.gemius.pl
-0.0.0.0 rbcgaru.hit.gemius.pl
-0.0.0.0 realitateadro.hit.gemius.pl
-0.0.0.0 ringieradrs.hit.gemius.pl
-0.0.0.0 ringieradro.hit.gemius.pl
-0.0.0.0 ro.hit.gemius.pl
-0.0.0.0 ro1adro.hit.gemius.pl
-0.0.0.0 rp.hit.gemius.pl
-0.0.0.0 scz.hit.gemius.pl
-0.0.0.0 see.hit.gemius.pl
-0.0.0.0 seznam.hit.gemius.pl
-0.0.0.0 si.hit.gemius.pl
-0.0.0.0 sk.hit.gemius.pl
-0.0.0.0 slovakia.hit.gemius.pl
-0.0.0.0 spir.hit.gemius.pl
-0.0.0.0 spl.hit.gemius.pl
-0.0.0.0 sportaladbg.hit.gemius.pl
-0.0.0.0 st.hit.gemius.pl
-0.0.0.0 st1.hit.gemius.pl
-0.0.0.0 std1.hit.gemius.pl #[WebBug]
-0.0.0.0 str.hit.gemius.pl
-0.0.0.0 stua.hit.gemius.pl
-0.0.0.0 thinkdigitaladro.hit.gemius.pl
-0.0.0.0 tr.hit.gemius.pl
-0.0.0.0 tvn.hit.gemius.pl
-0.0.0.0 ua.hit.gemius.pl
-0.0.0.0 vbadbg.hit.gemius.pl
-0.0.0.0 webgroundadbg.hit.gemius.pl
-0.0.0.0 wp.hit.gemius.pl
-0.0.0.0 wykop.hit.gemius.pl
-0.0.0.0 24ratownik.hit.gemius.pl
-0.0.0.0 gdeee.hit.gemius.pl
-0.0.0.0 gdelt.hit.gemius.pl
-0.0.0.0 ghmtr.hit.gemius.pl
-0.0.0.0 go2.hit.gemius.pl
-0.0.0.0 huiwiw.hit.gemius.pl
-0.0.0.0 sec.hit.gemius.pl
-0.0.0.0 pro.hit.gemius.pl
+ad.adview.pl
+ad.afilo.pl
+ad.filmweb.pl
+ad.gazeta.pl
+ad.glossymedia.pl
+ad.groupon.pl
+ad.hosting.pl
+ad.pl.doubleclick.net
+ad.polskiprzemysl.com.pl
+ad.prv.pl
+ad.prv.pl
+ad.stat.4u.pl
+ad.yoyo.pl
+ad2.pl
+adidm.idmnet.pl
+adidm07.idmnet.pl
+adkontekst.pl
+adkontekst.pl
+adp.adview.pl
+adp.gazeta.pl
+ads.businessclick.pl
+ads.clickad.com.pl
+ads.comperia.pl
+ads.edipresse.pl
+ads.idg.com.pl
+ads.novem.pl
+ads.open.pl
+ads2.ekologia.pl
+ads2.rp.pl
+adsearch.adkontekst.pl
+adsearch.pl
+adserver.gadu-gadu.pl
+adserver.home.pl
+adserver.magazyn.pl
+adserver.pl
+adserver.portal.pl
+adserver.swiatobrazu.pl
+adserver.yanosik.pl
+adserver2.atman.pl
+adservice.google.com
+adservice.google.pl
+adserwer.afilo.pl
+adseu.novem.pl
+adsrv.lua.pl
+adstat.4u.pl
+adtaily.pl
+adtext.pl
+adtotal.pl
+adv.adview.pl
+adv.gazeta.pl
+adview.pl
+afi.adocean.pl
+afilo.pl
+nextclick.pl
+ad.blueice.pl
+ajax.rutracker.org.pl
+analytics.gazeta.pl
+ankieta-online.pl
+app-measurement.com
+app.adjust.com
+app2.salesmanago.pl
+arbomedia.pl
+banery.acr.pl
+banery.netart.pl
+banners.iq.pl
+bbcdn.code.new.smartcontext.pl
+bbcdn.go.pl.bbelements.com
+bi.adview.pl
+blogvertising.pl
+brahe.apptimize.com
+businessclick.com
+chip.pl.intellitxt.com
+clickad.eo.pl
+coin-hive.com
+contextad.pl
+cookiecontainer.blox.pl
+counter.webmedia.pl
+crv.clickad.pl
+daib.pl
+delivery.clickonometrics.pl
+disqusads.com
+emisja.adsearch.pl
+emisja.contentstream.pl
+emisjao.contentstream.pl
+g1.idg.pl
+gde.adocean.pl
+gem.pl
+gg.adocean.pl
+gg.mob.vendimob.pl
+go.pl.bbelements.com
+googlenews.xorg.pl
+gostats.pl
+gratkapl.adocean.pl
+home.hit.stat.pl
+hub.com.pl
+huomdgde.adocean.pl
+im.of.pl
+im.xo.pl
+interia.adsearch.adkontekst.pl
+intrack.pl
+m.pl.pornzone.tv
+market.bia24.pl
+media.adcarousel.pl
+media.nk-net.pl
+megapanel.gem.pl
+mir.ec.adkontekst.pl
+mis.em.nscontext.eu
+mklik.gazeta.pl
+mobi.yanosik.pl
+new.smartcontext.pl
+obozua.adocean.pl
+onet.hit.stat.pl
+openx.cda.pl
+openx.kokoma.pl
+openx.tai.pl
+owabgxis.wp.pl
+panel.adtify.pl
+partner-ts.groupon.pl
+partner.ceneo.pl
+partner.pobieraczek.pl
+partner.wapacz.pl
+partner.wapster.pl
+pasaz.goryonline.com
+pl.spanel.gem.pl
+playlink.pl
+pushuser.wp.pl
+rec.quartic.pl
+rek.adtotal.pl
+reklamy.sfd.pl
+s.di.com.pl
+s1.gratkapl.adocean.pl
+show.smartcontext.pl
+sisco.hit.stat.pl
+skgde.adocean.pl
+smartclick.pl
+smartclick.pl
+smpl.hit.ppdb.pl
+stat.4u.pl
+stat.ekologia.pl
+stat.webmedia.pl
+static.clickonometrics.pl
+stats.asp24.pl
+stats.dziennik.pl
+sylaba.net
+tags.grajteraz.pl
+tracker.pracuj.pl
+tracking.novem.pl
+unblock.onaudience.com
+unblock.onaudience.com
+venetia.iad.appboy.com
+webhosting-ads.home.pl
+wpkoszyk.wp.pl
+www.adserver.home.pl
+www.mystat.pl
+xed.pl
+xstatic.nk-net.pl
+xr77.adj.st
+yts.moatads.com
+trackverters.pl
+ew1.dms-gld.bigdata.ssp.samsung.com
+promo.webpayments.closeby.internet.apps.samsung.com
+www.bnserving.com
+propllrcurlmb.com
+fapmeth.com
+www.comwgi.com
+www.hkoxlirf.com
+facewatch.borec.cz
+sprawdzikk.v0r.org
+konkursikowo.pl
+potwierdzoneinfo.pl
+wydawca.lead.network
+potwierdzoneinfo.pl
+kolor.oq.pl
+samnumer.pl
+fb-zmiana-koloru.pl
+vidoza2.github.io
+vidoza.github.io
+ipla.hit.stat24.com
+ipla.hit.gemius.pl
+adv.wp.pl
+dot.wp.pl
+adv.dot.wp.pl
+adsearch.wp.pl
+badv.wp.pl
+rek.www.wp.pl
+emisjawidgeet.onet.pl
+kropka.onet.pl
+reklama.onet.pl
+stats.media.onet.pl
+banery.onet.pl
+banki.onet.pl
+boksy.dir.onet.pl
+boksy.onet.pl
+csr.onet.pl
+ds.onet.pl
+novem.onet.pl
+republika.onet.pl
+geo.interia.pl
+iwa.hit.interia.pl
+i.interia.pl
+x.interia.pl
+ads.o2.pl
+adserver.o2.pl
+adfiles.o2.pl.sds.o2.pl
+s1.hit.stat.pl
+s2.hit.stat.pl
+s3.hit.stat.pl
+s4.hit.stat.pl
+1.googlenews.xorg.pl
+2.googlenews.xorg.pl
+3.googlenews.xorg.pl
+4.googlenews.xorg.pl
+5.googlenews.xorg.pl
+c1.gostats.pl
+c2.gostats.pl
+c3.gostats.pl
+c4.gostats.pl
+c5.gostats.pl
+15minlt.adocean.pl
+ad.adocean.pl
+afilv.adocean.pl
+aripaee.adocean.pl
+b92rs.adocean.pl
+bg.adocean.pl
+bggde.adocean.pl
+bggde-new.adocean.pl
+blitzbg.adocean.pl
+by.adocean.pl
+cz.adocean.pl
+delfiee.adocean.pl
+delfilt.adocean.pl
+delfilv.adocean.pl
+diginet.adocean.pl
+digital4ro.adocean.pl
+edipresse.adocean.pl
+ee.adocean.pl
+eegde.adocean.pl
+gspro.adocean.pl
+hr.adocean.pl
+hrgde.adocean.pl
+hugde.adocean.pl
+ilgde.adocean.pl
+indexhu.adocean.pl
+intactro.adocean.pl
+investorbg.adocean.pl
+keepaneyemk.adocean.pl
+lrytaslt.adocean.pl
+lt.adocean.pl
+lv.adocean.pl
+my.adocean.pl
+myao.adocean.pl
+ohtulehtee.adocean.pl
+pracuj.adocean.pl
+realitatero.adocean.pl
+ringierro.adocean.pl
+ringierrs.adocean.pl
+ro.adocean.pl
+ro1ro.adocean.pl
+rogde.adocean.pl
+rs.adocean.pl
+rsgde.adocean.pl
+s1.sk.adocean.pl
+s1.cz.adocean.pl
+s1.czgde.adocean.pl
+s1.delfilt.adocean.pl
+s1.edipresse.adocean.pl
+s1.gojobsru.adocean.pl
+s1.my.adocean.pl
+s1.myao.adocean.pl
+s1.pracuj.adocean.pl
+s1.skgde.adocean.pl
+sk.adocean.pl
+si.adocean.pl
+sportalbg.adocean.pl
+thinkdigitalro.adocean.pl
+trgde.adocean.pl
+tvn.adocean.pl
+tvn2.adocean.pl
+ua.adocean.pl
+vbbg.adocean.pl
+webgroundbg.adocean.pl
+gemius.pl
+15minadlt.hit.gemius.pl
+hit.gemius.pl
+activeby.hit.gemius.pl
+ad.hit.gemius.pl
+adactiongapl.hit.gemius.pl
+adafi.hit.gemius.pl
+adbg.hit.gemius.pl
+adclick.hit.gemius.pl
+adcz.hit.gemius.pl
+adee.hit.gemius.pl
+adhr.hit.gemius.pl
+adlt.hit.gemius.pl
+adlv.hit.gemius.pl
+adnet.hit.gemius.pl
+adnetgalt.hit.gemius.pl
+adocean-by.hit.gemius.pl
+adocean-cz.hit.gemius.pl
+adocean-ee.hit.gemius.pl
+adocean-hr.hit.gemius.pl
+adocean-lt.hit.gemius.pl
+adocean-lv.hit.gemius.pl
+adocean-pl.hit.gemius.pl
+adocean-ro.hit.gemius.pl
+adocean-si.hit.gemius.pl
+adocean-ua.hit.gemius.pl
+adro.hit.gemius.pl
+adrs.hit.gemius.pl
+advice.hit.gemius.pl
+advicead.hit.gemius.pl
+aolt.hit.gemius.pl
+aolv.hit.gemius.pl
+apolloadlv.hit.gemius.pl
+arbo.hit.gemius.pl
+aripaadee.hit.gemius.pl
+avt.hit.gemius.pl
+allegro.hit.gemius.pl
+axel.hit.gemius.pl
+b92adrs.hit.gemius.pl
+bestjobs.hit.gemius.pl
+bg.hit.gemius.pl
+blitzadbg.hit.gemius.pl
+ghm_bulgaria.hit.gemius.pl
+centrumcz.hit.gemius.pl
+ua.cnt.gemius.pl
+corm.hit.gemius.pl
+counter.gemius.pl
+cz.hit.gemius.pl
+darikspaceadbg.hit.gemius.pl
+delfiadlt.hit.gemius.pl
+delfiadlv.hit.gemius.pl
+delfiadee.hit.gemius.pl
+delfilv.hit.gemius.pl
+diginetlt.hit.gemius.pl
+digital4adro.hit.gemius.pl
+dirbg.hit.gemius.pl
+edipresse.hit.gemius.pl
+ee.hit.gemius.pl
+eega.hit.gemius.pl
+eniro.hit.gemius.pl
+gaae.hit.gemius.pl
+gaat.hit.gemius.pl
+gaba.hit.gemius.pl
+gabe.hit.gemius.pl
+gabg.hit.gemius.pl
+gaby.hit.gemius.pl
+gacz.hit.gemius.pl
+gadk.hit.gemius.pl
+gaee.hit.gemius.pl
+gadnet.hit.gemius.pl
+gahu.hit.gemius.pl
+gajo.hit.gemius.pl
+gail.hit.gemius.pl
+gakz.hit.gemius.pl
+galb.hit.gemius.pl
+galindia.hit.gemius.pl
+galt.hit.gemius.pl
+galv.hit.gemius.pl
+gamk.hit.gemius.pl
+gapl.hit.gemius.pl
+gars.hit.gemius.pl
+garo.hit.gemius.pl
+garu.hit.gemius.pl
+gask.hit.gemius.pl
+gatr.hit.gemius.pl
+gaua.hit.gemius.pl
+gazeta.hit.gemius.pl
+gdebg.hit.gemius.pl
+gdeil.hit.gemius.pl
+gdecz.hit.gemius.pl
+gdelv.hit.gemius.pl
+gdesk.hit.gemius.pl
+gders.hit.gemius.pl
+gdetr.hit.gemius.pl
+gemadhu.hit.gemius.pl
+generalmediaadhu.hit.gemius.pl
+gg.hit.gemius.pl
+gde-default.hit.gemius.pl
+ghmme.hit.gemius.pl
+ghmbg.hit.gemius.pl
+ghmpl.hit.gemius.pl
+ghmrs.hit.gemius.pl
+goldbach.hit.gemius.pl
+gspro.hit.gemius.pl
+gtlt.hit.gemius.pl
+gtlv.hit.gemius.pl
+idg.hit.gemius.pl
+hr.hit.gemius.pl
+hu.hit.gemius.pl
+huadn.hit.gemius.pl
+icorpadro.hit.gemius.pl
+idm.hit.gemius.pl
+interia.hit.gemius.pl
+investoradbg.hit.gemius.pl
+keepaneyeadmk.hit.gemius.pl
+kon.hit.gemius.pl
+lrytasadlt.hit.gemius.pl
+ls.hit.gemius.pl
+lt.hit.gemius.pl
+lv.hit.gemius.pl
+mbank.hit.gemius.pl
+mediaregad.hit.gemius.pl
+metagaua.hit.gemius.pl
+mreg.hit.gemius.pl
+negadbg.hit.gemius.pl
+netsprint.hit.gemius.pl
+neogenadro.hit.gemius.pl
+o2.hit.gemius.pl
+o2adpl.hit.gemius.pl
+oglasnikadhr.hit.gemius.pl
+ohtulehtadee.hit.gemius.pl
+olx.hit.gemius.pl
+onet.hit.gemius.pl
+opt.hit.gemius.pl
+prefix.hit.gemius.pl
+pracuj.hit.gemius.pl
+pro.hit.gemius.pl
+rbcgaru.hit.gemius.pl
+realitateadro.hit.gemius.pl
+ringieradrs.hit.gemius.pl
+ringieradro.hit.gemius.pl
+ro.hit.gemius.pl
+ro1adro.hit.gemius.pl
+rp.hit.gemius.pl
+scz.hit.gemius.pl
+see.hit.gemius.pl
+seznam.hit.gemius.pl
+si.hit.gemius.pl
+sk.hit.gemius.pl
+slovakia.hit.gemius.pl
+spir.hit.gemius.pl
+spl.hit.gemius.pl
+sportaladbg.hit.gemius.pl
+st.hit.gemius.pl
+st1.hit.gemius.pl
+std1.hit.gemius.pl
+str.hit.gemius.pl
+stua.hit.gemius.pl
+thinkdigitaladro.hit.gemius.pl
+tr.hit.gemius.pl
+tvn.hit.gemius.pl
+ua.hit.gemius.pl
+vbadbg.hit.gemius.pl
+webgroundadbg.hit.gemius.pl
+wp.hit.gemius.pl
+wykop.hit.gemius.pl
+24ratownik.hit.gemius.pl
+gdeee.hit.gemius.pl
+gdelt.hit.gemius.pl
+ghmtr.hit.gemius.pl
+go2.hit.gemius.pl
+huiwiw.hit.gemius.pl
+sec.hit.gemius.pl
+pro.hit.gemius.pl
