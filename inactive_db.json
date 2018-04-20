@@ -1,11 +1,12 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1524052048": [
-            "ghm_bulgaria.hit.gemius.pl",
+        "1524224918": [
             "intrack.pl",
             "potwierdzoneinfo.pl",
             "s1.delfilt.adocean.pl"
         ],
-        "to_test": []
+        "to_test": [
+            "ghm_bulgaria.hit.gemius.pl"
+        ]
     }
 }
