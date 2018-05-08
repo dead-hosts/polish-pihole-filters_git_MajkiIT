@@ -37,6 +37,8 @@
         "--commit-autosave-message \"[Autosave] Test of polish-pihole-filters\"",
         "--commit-results-message \"[Results] Test of polish-pihole-filters\"",
         "--commit-autosave-message \"[Autosave] Test of polish-pihole-filters\"",
+        "--commit-results-message \"[Results] Test of polish-pihole-filters\"",
+        "--commit-autosave-message \"[Autosave] Test of polish-pihole-filters\"",
         "--commit-results-message \"[Results] Test of polish-pihole-filters\""
     ],
     "clean_list_file": "clean.list",
@@ -44,7 +46,7 @@
     "commit_autosave_message": "Test of polish-pihole-filters",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1525694024",
+    "last_test": "1525780435",
     "list_name": "polish-pihole-filters.list",
     "name": "polish-pihole-filters",
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
