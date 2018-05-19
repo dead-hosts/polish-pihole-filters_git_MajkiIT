@@ -6,10 +6,9 @@
             "lcx.pl",
             "potwierdzoneinfo.pl",
             "s1.delfilt.adocean.pl",
-            "zobaczto.pisz.pl"
-        ],
-        "to_test": [
+            "zobaczto.pisz.pl",
             "filmik.pisz.pl"
-        ]
+        ],
+        "to_test": []
     }
 }
