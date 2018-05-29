@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1527423026": [
-            "filmik.pisz.pl",
+        "1527595846": [
             "ghm_bulgaria.hit.gemius.pl",
             "intrack.pl",
             "lcx.pl",
@@ -10,7 +9,7 @@
             "zobaczto.pisz.pl"
         ],
         "to_test": [
-            "5.googlenews.xorg.pl"
+            "filmik.pisz.pl"
         ]
     }
 }
