@@ -1,9 +1,14 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 11 Jun 12:06:56 UTC 2018 
+# Date of generation: Wed 13 Jun 12:06:31 UTC 2018 
 
+0.0.0.0 1.googlenews.xorg.pl 
 0.0.0.0 15minadlt.hit.gemius.pl 
 0.0.0.0 15minlt.adocean.pl 
+0.0.0.0 2.googlenews.xorg.pl 
 0.0.0.0 24ratownik.hit.gemius.pl 
+0.0.0.0 3.googlenews.xorg.pl 
+0.0.0.0 4.googlenews.xorg.pl 
+0.0.0.0 5.googlenews.xorg.pl 
 0.0.0.0 activeby.hit.gemius.pl 
 0.0.0.0 ad.adocean.pl 
 0.0.0.0 ad.adview.pl 
@@ -252,6 +257,7 @@
 0.0.0.0 go.pl.bbelements.com 
 0.0.0.0 go2.hit.gemius.pl 
 0.0.0.0 goldbach.hit.gemius.pl 
+0.0.0.0 googlenews.xorg.pl 
 0.0.0.0 googlesyndication.com 
 0.0.0.0 gostats.pl 
 0.0.0.0 gratkapl.adocean.pl 
@@ -422,7 +428,6 @@
 0.0.0.0 stats.dziennik.pl 
 0.0.0.0 stats.media.onet.pl 
 0.0.0.0 std1.hit.gemius.pl 
-0.0.0.0 stop-limitom.pl 
 0.0.0.0 str.hit.gemius.pl 
 0.0.0.0 stua.hit.gemius.pl 
 0.0.0.0 sylaba.net 
