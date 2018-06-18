@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1529237859": [
+        "1529324303": [
+            "fb-zmiana-koloru.pl",
             "filmik.pisz.pl",
             "ghm_bulgaria.hit.gemius.pl",
             "intrack.pl",
@@ -10,8 +11,6 @@
             "stop-limitom.pl",
             "zobaczto.pisz.pl"
         ],
-        "to_test": [
-            "fb-zmiana-koloru.pl"
-        ]
+        "to_test": []
     }
 }
