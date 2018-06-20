@@ -18,7 +18,13 @@
             "adserver.omroepzeeland.nl",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "adworx.at"
+            "adworx.at",
+            "aidu-ads.de",
+            "arc1.msn.com",
+            "clients.tbo.com",
+            "deloo.de",
+            "dmtracking.alibaba.com",
+            "dmtracking2.alibaba.com"
         ],
         "to_test": [
             "fb-zmiana-koloru.pl",
