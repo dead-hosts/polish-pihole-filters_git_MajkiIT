@@ -1,6 +1,15 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1529324303": [
+        "1529497196": [
+            "[imported]",
+            "ad.eurosport.com",
+            "ad.pandora.tv",
+            "adimages.omroepzeeland.nl",
+            "ads.adultswim.com",
+            "ads.aol.com",
+            "ads.batpmturner.com"
+        ],
+        "to_test": [
             "fb-zmiana-koloru.pl",
             "filmik.pisz.pl",
             "ghm_bulgaria.hit.gemius.pl",
@@ -9,8 +18,8 @@
             "potwierdzoneinfo.pl",
             "s1.delfilt.adocean.pl",
             "stop-limitom.pl",
-            "zobaczto.pisz.pl"
-        ],
-        "to_test": []
+            "zobaczto.pisz.pl",
+            "!"
+        ]
     }
 }
