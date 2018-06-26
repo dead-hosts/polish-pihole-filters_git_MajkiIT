@@ -39,14 +39,14 @@
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
-            "potwierdzoneinfo.pl"
-        ],
-        "to_test": [
+            "potwierdzoneinfo.pl",
             "quarterserver.de",
             "s1.delfilt.adocean.pl",
             "stop-limitom.pl",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "zobaczto.pisz.pl",
             "!"
         ]
