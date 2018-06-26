@@ -44,10 +44,10 @@
             "s1.delfilt.adocean.pl",
             "stop-limitom.pl",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com"
+            "track.dating-4-you.com",
+            "zobaczto.pisz.pl"
         ],
         "to_test": [
-            "zobaczto.pisz.pl",
             "!"
         ]
     }
