@@ -7,9 +7,7 @@
             "adimages.omroepzeeland.nl",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
@@ -21,7 +19,9 @@
             "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
-            "aidu-ads.de",
+            "aidu-ads.de"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
