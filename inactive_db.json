@@ -27,18 +27,19 @@
             "deloo.de",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "fb-zmiana-koloru.pl"
-        ],
-        "to_test": [
+            "fb-zmiana-koloru.pl",
             "ghm_bulgaria.hit.gemius.pl",
             "go-clicks.de",
             "intrack.pl",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
+            "lcx.pl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
             "potwierdzoneinfo.pl",
             "quarterserver.de",
             "ranking-charts.de",
