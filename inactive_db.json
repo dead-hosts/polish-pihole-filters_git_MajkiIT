@@ -21,16 +21,17 @@
             "adtrading.de",
             "adworx.at",
             "aidu-ads.de",
-            "arc1.msn.com"
-        ],
-        "to_test": [
+            "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
+            "bannergrabber.internet.gr",
             "clients.tbo.com",
             "deloo.de",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "fb-zmiana-koloru.pl",
+            "fb-zmiana-koloru.pl"
+        ],
+        "to_test": [
             "ghm_bulgaria.hit.gemius.pl",
             "go-clicks.de",
             "intrack.pl",
