@@ -22,16 +22,15 @@
             "adworx.at",
             "aidu-ads.de",
             "app.adblockhyper.us",
-            "arc1.msn.com"
-        ],
-        "to_test": [
+            "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
-            "bannergrabber.internet.gr",
             "clients.tbo.com",
             "deloo.de",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
+            "dmtracking2.alibaba.com"
+        ],
+        "to_test": [
             "fb-zmiana-koloru.pl",
             "ghm_bulgaria.hit.gemius.pl",
             "go-clicks.de",
