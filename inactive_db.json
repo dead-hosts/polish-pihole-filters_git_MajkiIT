@@ -40,17 +40,19 @@
             "lacerta.space",
             "lcx.pl",
             "mtrcs.samba.tv",
-            "oewabox.at"
-        ],
-        "to_test": [
+            "oewabox.at",
             "openad.tf1.fr",
             "potwierdzoneinfo.pl",
             "quarterserver.de",
             "ranking-charts.de",
             "record.affiliates.karjalakasino.com",
             "s1.delfilt.adocean.pl",
+            "sexystat.com",
+            "stteped.pl",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "ws-gateway.com",
             "!"
         ]
