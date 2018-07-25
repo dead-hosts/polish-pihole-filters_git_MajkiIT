@@ -1,16 +1,17 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1532384554": [
+        "1532522287": [
             "[imported]",
             "ad.e-kolay.net",
             "ad.eurosport.com",
             "ad.f1cd.ru",
             "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
-            "adisfy.com",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com",
+            "ads.batpmturner.com"
+        ],
+        "to_test": [
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
@@ -49,9 +50,7 @@
             "s1.delfilt.adocean.pl",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
-            "ws-gateway.com"
-        ],
-        "to_test": [
+            "ws-gateway.com",
             "!"
         ]
     }
