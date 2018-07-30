@@ -32,9 +32,7 @@
             "b0b1o.bid",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com"
-        ],
-        "to_test": [
+            "dmtracking2.alibaba.com",
             "fb-zmiana-koloru.pl",
             "go-clicks.de",
             "intrack.pl",
@@ -42,9 +40,12 @@
             "ivwbox.de",
             "lacerta.space",
             "lcx.pl",
+            "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
             "potwierdzoneinfo.pl",
             "quarterserver.de",
             "ranking-charts.de",

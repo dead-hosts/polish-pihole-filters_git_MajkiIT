@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "down": 30,
+        "down": 41,
         "invalid": 4,
-        "tested": 1631,
-        "up": 1597
+        "tested": 2313,
+        "up": 2268
     }
 }
