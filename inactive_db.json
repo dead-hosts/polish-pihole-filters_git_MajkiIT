@@ -22,11 +22,8 @@
             "adserver.omroepzeeland.nl",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "adworx.at"
-        ],
-        "to_test": [
+            "adworx.at",
             "aidu-ads.de",
-            "aktualizacja-lte5.pl",
             "app.adblockhyper.us",
             "arc1.msn.com",
             "b.aol.com",
@@ -34,7 +31,9 @@
             "b0b1o.bid",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
+            "dmtracking2.alibaba.com"
+        ],
+        "to_test": [
             "fb-zmiana-koloru.pl",
             "go-clicks.de",
             "intrack.pl",
