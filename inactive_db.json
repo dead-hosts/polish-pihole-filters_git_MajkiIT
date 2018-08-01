@@ -10,9 +10,7 @@
             "adimages.omroepzeeland.nl",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
@@ -24,7 +22,9 @@
             "adserver.omroepzeeland.nl",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "adworx.at",
+            "adworx.at"
+        ],
+        "to_test": [
             "aidu-ads.de",
             "aktualizacja-lte5.pl",
             "app.adblockhyper.us",
