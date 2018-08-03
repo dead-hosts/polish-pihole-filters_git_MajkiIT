@@ -41,18 +41,19 @@
             "lcx.pl",
             "m4n.nl",
             "mtrcs.samba.tv",
-            "oewabox.at"
-        ],
-        "to_test": [
+            "oewabox.at",
             "openad.tf1.fr",
             "potwierdzoneinfo.pl",
             "quarterserver.de",
             "record.affiliates.karjalakasino.com",
+            "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
             "stop-limitom.pl",
             "stteped.pl",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "ws-gateway.com",
             "yieldads.com",
             "!"
