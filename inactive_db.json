@@ -10,11 +10,10 @@
             "adimages.omroepzeeland.nl",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
+            "ads.penny-arcade.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.telegraph.co.uk",
@@ -27,7 +26,9 @@
             "adworx.at",
             "aidu-ads.de",
             "app.adblockhyper.us",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
             "b0b1o.bid",
@@ -55,7 +56,6 @@
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "ws-gateway.com",
-            "ads.vnumedia.com",
             "thebugs.ws",
             "!"
         ]
