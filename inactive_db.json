@@ -43,9 +43,7 @@
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr"
-        ],
-        "to_test": [
+            "openad.tf1.fr",
             "potwierdzoneinfo.pl",
             "quarterserver.de",
             "record.affiliates.karjalakasino.com",
@@ -53,8 +51,12 @@
             "s1.delfilt.adocean.pl",
             "stop-limitom.pl",
             "stteped.pl",
+            "thebugs.ws",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
+            "tracking.crunchiemedia.com"
+        ],
+        "to_test": [
             "ws-gateway.com",
             "!"
         ]
