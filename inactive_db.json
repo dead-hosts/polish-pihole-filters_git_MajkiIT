@@ -54,10 +54,10 @@
             "stop-limitom.pl",
             "stteped.pl",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com"
+            "track.dating-4-you.com",
+            "ws-gateway.com"
         ],
         "to_test": [
-            "ws-gateway.com",
             "!"
         ]
     }
