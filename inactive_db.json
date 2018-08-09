@@ -11,9 +11,7 @@
             "adobedc.cf",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
@@ -29,7 +27,9 @@
             "adworx.at",
             "aidu-ads.de",
             "app.adblockhyper.us",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
             "b0b1o.bid",
