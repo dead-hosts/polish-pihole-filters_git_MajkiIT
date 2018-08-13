@@ -20,10 +20,11 @@
             "stop-limitom.pl",
             "stteped.pl",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com"
+            "track.dating-4-you.com",
+            "wantmobi.bid",
+            "ws-gateway.com"
         ],
         "to_test": [
-            "ws-gateway.com",
             "!",
             "[imported]",
             "acuty1adsrv.com",
