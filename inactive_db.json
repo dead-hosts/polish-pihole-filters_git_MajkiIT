@@ -1,6 +1,29 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1534016273": [
+        "1534164541": [
+            "go-clicks.de",
+            "intrack.pl",
+            "ioam.de",
+            "ivwbox.de",
+            "lacerta.space",
+            "lcx.pl",
+            "m4n.nl",
+            "mtrcs.samba.tv",
+            "oewabox.at",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
+            "potwierdzoneinfo.pl",
+            "quarterserver.de",
+            "record.affiliates.karjalakasino.com",
+            "record.bonniergaming.com",
+            "s1.delfilt.adocean.pl",
+            "stop-limitom.pl",
+            "stteped.pl",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com",
+            "ws-gateway.com",
+            "!",
             "[imported]",
             "acuty1adsrv.com",
             "ad.choiceradio.com",
@@ -38,29 +61,6 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "fb-zmiana-koloru.pl"
-        ],
-        "to_test": [
-            "go-clicks.de",
-            "intrack.pl",
-            "ioam.de",
-            "ivwbox.de",
-            "lacerta.space",
-            "lcx.pl",
-            "m4n.nl",
-            "mtrcs.samba.tv",
-            "oewabox.at",
-            "openad.tf1.fr",
-            "potwierdzoneinfo.pl",
-            "quarterserver.de",
-            "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
-            "s1.delfilt.adocean.pl",
-            "stop-limitom.pl",
-            "stteped.pl",
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "ws-gateway.com",
-            "!"
         ]
     }
 }
