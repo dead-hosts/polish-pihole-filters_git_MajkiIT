@@ -37,9 +37,7 @@
             "dhl-paczki.ml",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "fb-zmiana-koloru.pl"
-        ],
-        "to_test": [
+            "fb-zmiana-koloru.pl",
             "go-clicks.de",
             "intrack.pl",
             "ioam.de",
@@ -50,7 +48,9 @@
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
-            "potwierdzoneinfo.pl",
+            "potwierdzoneinfo.pl"
+        ],
+        "to_test": [
             "quarterserver.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
