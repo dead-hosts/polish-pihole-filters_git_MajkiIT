@@ -48,19 +48,18 @@
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
-            "potwierdzoneinfo.pl"
-        ],
-        "to_test": [
+            "potwierdzoneinfo.pl",
             "quarterserver.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "rockabox.co",
             "s1.delfilt.adocean.pl",
             "stop-limitom.pl",
             "stteped.pl",
+            "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "wantmobi.bid",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "ws-gateway.com",
             "!"
         ]
