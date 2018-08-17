@@ -54,14 +54,14 @@
             "stteped.pl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com"
+            "track.dating-4-you.com",
+            "ws-gateway.com"
         ],
         "to_test": [
             "avzadsrv.com",
             "b.aol.com",
             "b.engadget.com",
             "b0b1o.bid",
-            "ws-gateway.com",
             "!"
         ]
     }
