@@ -54,7 +54,8 @@
             "stteped.pl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com"
+            "track.dating-4-you.com",
+            "ws-gateway.com"
         ],
         "to_test": [
             "avzadsrv.com",
@@ -62,7 +63,6 @@
             "b.engadget.com",
             "b0b1o.bid",
             "potwierdzoneinfo.pl",
-            "ws-gateway.com",
             "!"
         ]
     }
