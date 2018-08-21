@@ -35,11 +35,7 @@
             "clients.tbo.com",
             "dhl-paczki.ml",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com"
-        ],
-        "to_test": [
-            "potwierdzoneinfo.pl",
-            "app.adblockhyper.us",
+            "dmtracking2.alibaba.com",
             "fb-zmiana-koloru.pl",
             "go-clicks.de",
             "intrack.pl",
@@ -50,7 +46,11 @@
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
+            "potwierdzoneinfo.pl",
+            "app.adblockhyper.us",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
