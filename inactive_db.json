@@ -46,11 +46,8 @@
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr"
-        ],
-        "to_test": [
+            "openad.tf1.fr",
             "potwierdzoneinfo.pl",
-            "app.adblockhyper.us",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
@@ -59,7 +56,10 @@
             "stteped.pl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
+            "app.adblockhyper.us",
             "ws-gateway.com",
             "!"
         ]
