@@ -47,10 +47,7 @@
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
-            "potwierdzoneinfo.pl"
-        ],
-        "to_test": [
-            "avzadsrv.com",
+            "potwierdzoneinfo.pl",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
@@ -59,7 +56,10 @@
             "stteped.pl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
+            "avzadsrv.com",
             "ws-gateway.com",
             "!"
         ]
