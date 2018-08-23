@@ -28,10 +28,7 @@
             "adworx.at",
             "aidu-ads.de",
             "app.adblockhyper.us",
-            "arc1.msn.com"
-        ],
-        "to_test": [
-            "avzadsrv.com",
+            "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
             "b0b1o.bid",
@@ -39,7 +36,10 @@
             "dhl-paczki.ml",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "fb-zmiana-koloru.pl",
+            "fb-zmiana-koloru.pl"
+        ],
+        "to_test": [
+            "avzadsrv.com",
             "go-clicks.de",
             "intrack.pl",
             "ioam.de",
