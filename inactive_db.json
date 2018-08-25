@@ -27,9 +27,7 @@
             "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
-            "aidu-ads.de"
-        ],
-        "to_test": [
+            "aidu-ads.de",
             "app.adblockhyper.us",
             "arc1.msn.com",
             "avzadsrv.com",
@@ -39,7 +37,9 @@
             "clients.tbo.com",
             "dhl-paczki.ml",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
+            "dmtracking2.alibaba.com"
+        ],
+        "to_test": [
             "fb-zmiana-koloru.pl",
             "go-clicks.de",
             "intrack.pl",
