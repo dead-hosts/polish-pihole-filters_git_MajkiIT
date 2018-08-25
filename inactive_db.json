@@ -54,12 +54,11 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "sx.trhnt.com"
-        ],
-        "to_test": [
+            "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "ws-gateway.com"
-        ]
+        ],
+        "to_test": []
     }
 }
