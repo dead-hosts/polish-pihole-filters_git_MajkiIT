@@ -46,10 +46,7 @@
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr"
-        ],
-        "to_test": [
-            "aidu-ads.de",
+            "openad.tf1.fr",
             "potwierdzoneinfo.pl",
             "quarterserver.de",
             "ranking-street.de",
@@ -58,7 +55,10 @@
             "s1.delfilt.adocean.pl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
+            "aidu-ads.de",
             "ws-gateway.com"
         ]
     }
