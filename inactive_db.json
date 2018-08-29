@@ -14,9 +14,7 @@
             "ads.adultswim.com",
             "ads.allvatar.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
@@ -27,11 +25,14 @@
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserver.omroepzeeland.nl",
+            "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
             "aidu-ads.de",
-            "app.adblockhyper.us",
+            "app.adblockhyper.us"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "avzadsrv.com",
             "b.aol.com",
