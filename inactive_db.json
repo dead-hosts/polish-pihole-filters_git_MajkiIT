@@ -17,7 +17,11 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "sx.trhnt.com"
+            "sx.trhnt.com",
+            "track.dating-4-you.com",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "!",
@@ -60,10 +64,7 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "oewabox.at",
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "vutzmxahqio.co",
-            "ws-gateway.com"
+            "touchclarity.natwest.com"
         ]
     }
 }
