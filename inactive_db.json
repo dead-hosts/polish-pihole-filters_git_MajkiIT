@@ -1,6 +1,18 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1535547316": [
+        "1535720228": [
+            "fb-zmiana-koloru.pl",
+            "go-clicks.de",
+            "intrack.pl",
+            "ioam.de",
+            "ivwbox.de",
+            "koinser.in",
+            "lacerta.space",
+            "lcx.pl",
+            "m4n.nl",
+            "mtrcs.samba.tv"
+        ],
+        "to_test": [
             "!",
             "[imported]",
             "acuty1adsrv.com",
@@ -31,6 +43,7 @@
             "adworx.at",
             "aidu-ads.de",
             "app.adblockhyper.us",
+            "arc1.msn.com",
             "avzadsrv.com",
             "b.aol.com",
             "b.engadget.com",
@@ -38,18 +51,7 @@
             "clients.tbo.com",
             "dhl-paczki.ml",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com"
-        ],
-        "to_test": [
-            "arc1.msn.com",
-            "fb-zmiana-koloru.pl",
-            "go-clicks.de",
-            "intrack.pl",
-            "ioam.de",
-            "ivwbox.de",
-            "lacerta.space",
-            "m4n.nl",
-            "mtrcs.samba.tv",
+            "dmtracking2.alibaba.com",
             "oewabox.at",
             "openad.tf1.fr",
             "potwierdzoneinfo.pl",
