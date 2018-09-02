@@ -1,29 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1535720228": [
-            "fb-zmiana-koloru.pl",
-            "go-clicks.de",
-            "intrack.pl",
-            "ioam.de",
-            "ivwbox.de",
-            "koinser.in",
-            "lacerta.space",
-            "lcx.pl",
-            "m4n.nl",
-            "mtrcs.samba.tv",
-            "openad.tf1.fr",
-            "quarterserver.de",
-            "ranking-street.de",
-            "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
-            "s1.delfilt.adocean.pl",
-            "sx.trhnt.com",
-            "track.dating-4-you.com",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "zgarnijiphone.ml"
-        ],
-        "to_test": [
+        "1535893030": [
             "!",
             "[imported]",
             "acuty1adsrv.com",
@@ -33,11 +10,14 @@
             "ad.f1cd.ru",
             "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
+            "admedia.ro",
             "adobedc.cf",
             "ads.adultswim.com",
             "ads.allvatar.com",
             "ads.aol.com",
-            "ads.batpmturner.com",
+            "ads.batpmturner.com"
+        ],
+        "to_test": [
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
@@ -63,8 +43,29 @@
             "dhl-paczki.ml",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
+            "fb-zmiana-koloru.pl",
+            "go-clicks.de",
+            "intrack.pl",
+            "ioam.de",
+            "ivwbox.de",
+            "koinser.in",
+            "lacerta.space",
+            "lcx.pl",
+            "m4n.nl",
+            "mtrcs.samba.tv",
             "oewabox.at",
-            "touchclarity.natwest.com"
+            "openad.tf1.fr",
+            "quarterserver.de",
+            "ranking-street.de",
+            "record.affiliates.karjalakasino.com",
+            "record.bonniergaming.com",
+            "s1.delfilt.adocean.pl",
+            "sx.trhnt.com",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "zgarnijiphone.ml"
         ]
     }
 }
