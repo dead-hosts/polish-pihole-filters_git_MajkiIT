@@ -15,9 +15,7 @@
             "ads.adultswim.com",
             "ads.allvatar.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
@@ -32,7 +30,9 @@
             "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
-            "aidu-ads.de",
+            "aidu-ads.de"
+        ],
+        "to_test": [
             "app.adblockhyper.us",
             "arc1.msn.com",
             "avzadsrv.com",
