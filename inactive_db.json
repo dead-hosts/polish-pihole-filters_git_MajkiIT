@@ -28,9 +28,7 @@
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "adworx.at"
-        ],
-        "to_test": [
+            "adworx.at",
             "aidu-ads.de",
             "app.adblockhyper.us",
             "arc1.msn.com",
@@ -41,7 +39,9 @@
             "boom.ro",
             "click.absoluteagency.com",
             "clients.tbo.com",
-            "dhl-paczki.ml",
+            "dhl-paczki.ml"
+        ],
+        "to_test": [
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "fb-zmiana-koloru.pl",
