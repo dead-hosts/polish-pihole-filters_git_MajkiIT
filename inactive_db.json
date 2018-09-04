@@ -48,11 +48,7 @@
             "koinser.in",
             "lacerta.space",
             "m4n.nl",
-            "mtrcs.samba.tv"
-        ],
-        "to_test": [
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
+            "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
             "quarterserver.de",
@@ -60,7 +56,12 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "sx.trhnt.com",
+            "samnumer.pl",
+            "sx.trhnt.com"
+        ],
+        "to_test": [
+            "dmtracking.alibaba.com",
+            "dmtracking2.alibaba.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
