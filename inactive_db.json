@@ -39,22 +39,20 @@
             "boom.ro",
             "click.absoluteagency.com",
             "clients.tbo.com",
-            "dhl-paczki.ml"
-        ],
-        "to_test": [
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
+            "dhl-paczki.ml",
             "fb-zmiana-koloru.pl",
-            "go-clicks.de",
             "grafstat.ro",
             "intrack.pl",
             "ioam.de",
             "ivwbox.de",
             "koinser.in",
             "lacerta.space",
-            "lcx.pl",
             "m4n.nl",
-            "mtrcs.samba.tv",
+            "mtrcs.samba.tv"
+        ],
+        "to_test": [
+            "dmtracking.alibaba.com",
+            "dmtracking2.alibaba.com",
             "oewabox.at",
             "openad.tf1.fr",
             "quarterserver.de",
