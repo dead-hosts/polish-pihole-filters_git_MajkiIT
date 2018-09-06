@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1536065906": [
+        "1536238784": [
             "!",
             "[imported]",
             "acuty1adsrv.com",
@@ -36,10 +36,11 @@
             "b.aol.com",
             "b.engadget.com",
             "b0b1o.bid",
-            "boom.ro",
             "click.absoluteagency.com",
             "clients.tbo.com",
             "dhl-paczki.ml",
+            "dmtracking.alibaba.com",
+            "dmtracking2.alibaba.com",
             "fb-zmiana-koloru.pl",
             "grafstat.ro",
             "intrack.pl",
@@ -47,7 +48,6 @@
             "ivwbox.de",
             "koinser.in",
             "lacerta.space",
-            "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -62,12 +62,8 @@
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
-            "zgarnijiphone.ml",
-            "zqtk.net"
+            "zgarnijiphone.ml"
         ],
-        "to_test": [
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com"
-        ]
+        "to_test": []
     }
 }
