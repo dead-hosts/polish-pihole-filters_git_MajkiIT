@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1536238784": [
+        "1536411594": [
             "!",
             "[imported]",
             "acuty1adsrv.com",
@@ -12,7 +12,6 @@
             "adimages.omroepzeeland.nl",
             "adobedc.cf",
             "ads.adultswim.com",
-            "ads.allvatar.com",
             "ads.aol.com",
             "ads.batpmturner.com",
             "ads.larryaffiliates.com",
@@ -36,7 +35,6 @@
             "b.aol.com",
             "b.engadget.com",
             "b0b1o.bid",
-            "click.absoluteagency.com",
             "clients.tbo.com",
             "dhl-paczki.ml",
             "dmtracking.alibaba.com",
