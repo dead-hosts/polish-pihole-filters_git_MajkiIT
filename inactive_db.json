@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1536411594": [
+        "1536584446": [
             "!",
             "[imported]",
             "acuty1adsrv.com",
@@ -46,6 +46,7 @@
             "ivwbox.de",
             "koinser.in",
             "lacerta.space",
+            "lcx.pl",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
