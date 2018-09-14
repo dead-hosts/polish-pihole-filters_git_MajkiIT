@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1536702775": [
+        "1536930161": [
             "!",
             "acuty1adsrv.com",
             "ad.choiceradio.com",
@@ -8,39 +8,42 @@
             "ad.eurosport.com",
             "ad.f1cd.ru",
             "adimages.omroepzeeland.nl",
+            "admedia.ro",
             "adobedc.cf",
             "ad.pandora.tv",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com",
-            "adserver.omroepzeeland.nl",
+            "ads.batpmturner.com"
+        ],
+        "to_test": [
+            "[imported]",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
-            "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.telegraph.co.uk",
             "ads.trinitymirror.co.uk",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.omroepzeeland.nl",
+            "adsremote.scrippsnetworks.com",
+            "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
             "aidu-ads.de",
             "app.adblockhyper.us",
             "arc1.msn.com",
             "avzadsrv.com",
-            "b0b1o.bid",
             "b.aol.com",
             "b.engadget.com",
+            "b0b1o.bid",
             "clients.tbo.com",
             "dhl-paczki.ml",
-            "dmtracking2.alibaba.com",
             "dmtracking.alibaba.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
+            "dmtracking2.alibaba.com",
             "fb-zmiana-koloru.pl",
             "grafstat.ro",
-            "[imported]",
             "intrack.pl",
             "ioam.de",
             "ivwbox.de",
@@ -62,7 +65,6 @@
             "vutzmxahqio.co",
             "ws-gateway.com",
             "zgarnijiphone.ml"
-        ],
-        "to_test": []
+        ]
     }
 }
