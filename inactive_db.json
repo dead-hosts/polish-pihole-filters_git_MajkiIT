@@ -40,21 +40,22 @@
             "dmtracking2.alibaba.com",
             "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com"
-        ],
-        "to_test": [
+            "Adsatt.go.starwave.com",
+            "fragmentserv.iac-online.de",
             "[imported]",
-            "fb-zmiana-koloru.pl",
-            "grafstat.ro",
             "intrack.pl",
             "ioam.de",
             "ivwbox.de",
             "koinser.in",
             "lacerta.space",
             "lcx.pl",
+            "mediadvertising.ro",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
+            "fb-zmiana-koloru.pl",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
