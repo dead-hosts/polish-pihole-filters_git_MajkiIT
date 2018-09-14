@@ -52,10 +52,7 @@
             "mediadvertising.ro",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr"
-        ],
-        "to_test": [
-            "fb-zmiana-koloru.pl",
+            "openad.tf1.fr",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
@@ -64,7 +61,10 @@
             "samnumer.pl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
+            "fb-zmiana-koloru.pl",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "zgarnijiphone.ml"
