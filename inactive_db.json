@@ -48,11 +48,7 @@
             "lcx.pl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr"
-        ],
-        "to_test": [
-            "app.adblockhyper.us",
-            "arc1.msn.com",
+            "openad.tf1.fr",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
@@ -61,7 +57,11 @@
             "samnumer.pl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
+            "app.adblockhyper.us",
+            "arc1.msn.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "zgarnijiphone.ml"
