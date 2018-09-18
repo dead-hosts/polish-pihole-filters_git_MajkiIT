@@ -1,7 +1,12 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1537103058": [
+        "1537275979": [
             "!",
+            "1.googlenews.xorg.pl",
+            "2.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
+            "4.googlenews.xorg.pl",
+            "5.googlenews.xorg.pl",
             "acuty1adsrv.com",
             "ad.choiceradio.com",
             "ad.e-kolay.net",
@@ -13,33 +18,37 @@
             "ad.pandora.tv",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com",
-            "adserver.omroepzeeland.nl",
+            "ads.batpmturner.com"
+        ],
+        "to_test": [
+            "[imported]",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
-            "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.telegraph.co.uk",
             "ads.trinitymirror.co.uk",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.omroepzeeland.nl",
+            "adsremote.scrippsnetworks.com",
+            "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
             "aidu-ads.de",
+            "app.adblockhyper.us",
+            "arc1.msn.com",
             "avzadsrv.com",
-            "b0b1o.bid",
             "b.aol.com",
             "b.engadget.com",
+            "b0b1o.bid",
             "clients.tbo.com",
             "dhl-paczki.ml",
-            "dmtracking2.alibaba.com",
             "dmtracking.alibaba.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
+            "dmtracking2.alibaba.com",
             "fb-zmiana-koloru.pl",
             "fragmentserv.iac-online.de",
-            "[imported]",
             "intrack.pl",
             "ioam.de",
             "ivwbox.de",
@@ -61,10 +70,6 @@
             "vutzmxahqio.co",
             "ws-gateway.com",
             "zgarnijiphone.ml"
-        ],
-        "to_test": [
-            "app.adblockhyper.us",
-            "arc1.msn.com"
         ]
     }
 }
