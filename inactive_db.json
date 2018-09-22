@@ -55,11 +55,7 @@
             "ivwbox.de",
             "koinser.in",
             "lacerta.space",
-            "lcx.pl"
-        ],
-        "to_test": [
-            "ads.batpmturner.com",
-            "mediadvertising.ro",
+            "lcx.pl",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -68,7 +64,11 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "samnumer.pl",
+            "samnumer.pl"
+        ],
+        "to_test": [
+            "ads.batpmturner.com",
+            "mediadvertising.ro",
             "sx.trhnt.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
