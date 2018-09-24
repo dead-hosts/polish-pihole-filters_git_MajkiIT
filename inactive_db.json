@@ -56,9 +56,7 @@
             "koinser.in",
             "lacerta.space",
             "lcx.pl",
-            "mediadvertising.ro"
-        ],
-        "to_test": [
+            "mediadvertising.ro",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -67,7 +65,9 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "samnumer.pl",
+            "samnumer.pl"
+        ],
+        "to_test": [
             "sx.trhnt.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
