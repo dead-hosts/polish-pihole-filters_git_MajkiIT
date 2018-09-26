@@ -53,11 +53,7 @@
             "ivwbox.de",
             "koinser.in",
             "konkursikowo.pl",
-            "lacerta.space"
-        ],
-        "to_test": [
-            "ads.aol.com",
-            "adtrading.de",
+            "lacerta.space",
             "mediadvertising.ro",
             "mtrcs.samba.tv",
             "oewabox.at",
@@ -67,7 +63,11 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "samnumer.pl",
+            "samnumer.pl"
+        ],
+        "to_test": [
+            "ads.aol.com",
+            "adtrading.de",
             "sx.trhnt.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
