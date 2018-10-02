@@ -14,16 +14,17 @@
             "ad.f1cd.ru",
             "adimages.omroepzeeland.nl",
             "adobedc.cf",
-            "ad.pandora.tv"
-        ],
-        "to_test": [
-            "[imported]",
+            "ad.pandora.tv",
             "ads.adultswim.com",
             "ads.allvatar.com",
             "ads.aol.com",
             "ads.batpmturner.com",
+            "adserver.omroepzeeland.nl",
             "ads.larryaffiliates.com",
-            "ads.newsquest.co.uk",
+            "ads.newsquest.co.uk"
+        ],
+        "to_test": [
+            "[imported]",
             "ads.penny-arcade.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
@@ -31,7 +32,6 @@
             "ads.trinitymirror.co.uk",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
