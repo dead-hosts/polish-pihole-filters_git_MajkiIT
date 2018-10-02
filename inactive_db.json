@@ -46,11 +46,8 @@
             "Adsatt.go.starwave.com",
             "fb-zmiana-koloru.pl",
             "fragmentserv.iac-online.de",
-            "googlenews.xorg.pl"
-        ],
-        "to_test": [
+            "googlenews.xorg.pl",
             "[imported]",
-            "ads.penny-arcade.com",
             "intrack.pl",
             "ioam.de",
             "ivwbox.de",
@@ -61,7 +58,10 @@
             "oewabox.at",
             "openad.tf1.fr",
             "quarterserver.de",
-            "ranking-street.de",
+            "ranking-street.de"
+        ],
+        "to_test": [
+            "ads.penny-arcade.com",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
