@@ -67,18 +67,17 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "samnumer.pl"
-        ],
-        "to_test": [
-            "ads.batpmturner.com",
+            "samnumer.pl",
             "sx.trhnt.com",
-            "t.pusk.ru",
-            "top123.ro",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "unblock.onaudience.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "ads.batpmturner.com"
         ]
     }
 }
