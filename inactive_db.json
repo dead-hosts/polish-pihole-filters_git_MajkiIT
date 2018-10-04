@@ -56,10 +56,9 @@
             "koinser.in",
             "konkursikowo.pl",
             "lacerta.space",
-            "lapkowo.pl"
-        ],
-        "to_test": [
-            "ads.batpmturner.com",
+            "lapkowo.pl",
+            "mediadvertising.ro",
+            "media.ftv-publicite.fr",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -68,7 +67,10 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "samnumer.pl",
+            "samnumer.pl"
+        ],
+        "to_test": [
+            "ads.batpmturner.com",
             "sx.trhnt.com",
             "t.pusk.ru",
             "top123.ro",
