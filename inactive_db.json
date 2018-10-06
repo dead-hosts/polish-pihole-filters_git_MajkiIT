@@ -57,10 +57,7 @@
             "lacerta.space",
             "lapkowo.pl",
             "media.ftv-publicite.fr",
-            "mediamarkt.pl.goodsurprises.top"
-        ],
-        "to_test": [
-            "ads.batpmturner.com",
+            "mediamarkt.pl.goodsurprises.top",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -70,6 +67,10 @@
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
+            "spykemediatrack.co"
+        ],
+        "to_test": [
+            "ads.batpmturner.com",
             "sx.trhnt.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
