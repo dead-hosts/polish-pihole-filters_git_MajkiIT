@@ -60,9 +60,8 @@
             "koinser.in",
             "konkursikowo.pl",
             "lacerta.space",
-            "lapkowo.pl"
-        ],
-        "to_test": [
+            "lapkowo.pl",
+            "mediadvertising.ro",
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "mtrcs.samba.tv",
@@ -73,7 +72,9 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
-            "samnumer.pl",
+            "samnumer.pl"
+        ],
+        "to_test": [
             "spykemediatrack.co",
             "sx.trhnt.com",
             "t.pusk.ru",
