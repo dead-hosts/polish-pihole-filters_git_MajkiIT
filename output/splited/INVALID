@@ -3,3 +3,7 @@
 
 Domain                                                                                               Status      HTTP Code 
 !                                                                                                    INVALID     IANA      
+(^|\.)doubleclick\.(com)$                                                                            INVALID     IANA      
+Adsatt.ABCNews.starwave.com                                                                          INVALID     IANA      
+Adsatt.go.starwave.com                                                                               INVALID     IANA      
+(^|\.)gemius\.(com|pl)$                                                                              INVALID     IANA      
