@@ -86,7 +86,9 @@
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "t.pusk.ru",
-            "unblock.onaudience.com"
+            "unblock.onaudience.com",
+            "ws-gateway.com",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "ads.adultswim.com",
@@ -94,9 +96,7 @@
             "ads.tripod.lycos.it",
             "ads.tripod.lycos.nl",
             "ranking-street.de",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "zgarnijiphone.ml"
+            "vutzmxahqio.co"
         ]
     }
 }
