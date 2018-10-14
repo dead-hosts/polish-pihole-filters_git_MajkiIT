@@ -67,15 +67,9 @@
             "konkursikowo.pl",
             "lacerta.space",
             "lapkowo.pl",
-            "(^|\\.)lcx\\.pl$"
-        ],
-        "to_test": [
+            "(^|\\.)lcx\\.pl$",
             "(^|\\.)meetrics\\.net$",
-            "(^|\\.)smartadserver\\.com$",
-            "ads.batpmturner.com",
-            "media.ftv-publicite.fr",
-            "mediadvertising.ro",
-            "mediamarkt.pl.goodsurprises.top",
+            "megabanners.cf",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -85,6 +79,13 @@
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
+            "(^|\\.)smartadserver\\.com$"
+        ],
+        "to_test": [
+            "ads.batpmturner.com",
+            "media.ftv-publicite.fr",
+            "mediadvertising.ro",
+            "mediamarkt.pl.goodsurprises.top",
             "spykemediatrack.co",
             "sx.trhnt.com",
             "t.pusk.ru",
