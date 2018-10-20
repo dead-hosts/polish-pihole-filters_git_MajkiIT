@@ -74,12 +74,7 @@
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "(^|\\.)meetrics\\.net$",
-            "megabanners.cf"
-        ],
-        "to_test": [
-            "(^|\\.)smartadserver\\.com$",
-            "ads.aol.com",
-            "ads.batpmturner.com",
+            "megabanners.cf",
             "mtrcs.samba.tv",
             "oewabox.at",
             "ola100.hopto.org",
@@ -89,10 +84,14 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "rockabox.co",
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
-            "spykemediatrack.co",
+            "(^|\\.)smartadserver\\.com$",
+            "spykemediatrack.co"
+        ],
+        "to_test": [
+            "ads.aol.com",
+            "ads.batpmturner.com",
             "sx.trhnt.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
