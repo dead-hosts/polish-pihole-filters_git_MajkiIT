@@ -75,13 +75,7 @@
             "lapkowo.pl",
             "(^|\\.)lcx\\.pl$",
             "media.ftv-publicite.fr",
-            "mediamarkt.pl.goodsurprises.top"
-        ],
-        "to_test": [
-            "(^|\\.)meetrics\\.net$",
-            "(^|\\.)smartadserver\\.com$",
-            "ads.batpmturner.com",
-            "megabanners.cf",
+            "mediamarkt.pl.goodsurprises.top",
             "mtrcs.samba.tv",
             "oewabox.at",
             "ola100.hopto.org",
@@ -93,7 +87,13 @@
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
-            "spykemediatrack.co",
+            "(^|\\.)smartadserver\\.com$",
+            "spykemediatrack.co"
+        ],
+        "to_test": [
+            "(^|\\.)meetrics\\.net$",
+            "ads.batpmturner.com",
+            "megabanners.cf",
             "sx.trhnt.com",
             "t.pusk.ru",
             "top123.ro",
