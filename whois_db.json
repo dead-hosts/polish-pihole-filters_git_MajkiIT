@@ -5730,6 +5730,56 @@
             "expiration_date": "18-dec-2018",
             "state": "future"
         },
+        "rlcdn.com": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "rle.ru": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "ro88qcuy.com": {
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "roar.com": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "robotreplay.com": {
+            "epoch": "1695686400",
+            "expiration_date": "26-sep-2023",
+            "state": "future"
+        },
+        "rockabox.co": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "roia.biz": {
+            "epoch": "1543622400",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "rotabanner.com": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "roxr.net": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "rtbpop.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
         "rtbpopd.com": {
             "epoch": "1567641600",
             "expiration_date": "05-sep-2019",
@@ -6108,7 +6158,7 @@
         "socialspark.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "sonobi.com": {
             "epoch": "1606608000",
