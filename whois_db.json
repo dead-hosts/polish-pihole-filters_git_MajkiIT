@@ -6820,6 +6820,11 @@
             "expiration_date": "16-may-2019",
             "state": "future"
         },
+        "trafic.ro": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
         "traktrafficflow.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
@@ -7138,6 +7143,11 @@
         "vpon.com": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "vrs.cz": {
+            "epoch": "1551916800",
+            "expiration_date": "07-mar-2019",
             "state": "future"
         },
         "vungle.com": {

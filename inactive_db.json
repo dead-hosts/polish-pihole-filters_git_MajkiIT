@@ -92,19 +92,19 @@
             "spykemediatrack.co",
             "sx.trhnt.com",
             "tailsweep.co.uk",
-            "topping.com.ua"
+            "topping.com.ua",
+            "unblock.onaudience.com",
+            "utarget.co.uk",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
             "b.aol.com",
             "b.engadget.com",
             "t.pusk.ru",
-            "touchclarity.natwest.com",
-            "unblock.onaudience.com",
-            "utarget.co.uk",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "zgarnijiphone.ml"
+            "touchclarity.natwest.com"
         ]
     }
 }
