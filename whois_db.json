@@ -1620,6 +1620,11 @@
             "expiration_date": "29-jan-2020",
             "state": "future"
         },
+        "bannery.cz": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
         "basebanner.com": {
             "epoch": "1558396800",
             "expiration_date": "21-may-2019",
@@ -1723,6 +1728,11 @@
         "bigclicks.com": {
             "epoch": "1582329600",
             "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "billboard.cz": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
             "state": "future"
         },
         "bitads.net": {
@@ -1913,6 +1923,11 @@
         "caniamedia.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "capacitly.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "carambo.la": {
@@ -2398,6 +2413,11 @@
         "counted.com": {
             "epoch": "1555200000",
             "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "counter.cz": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
             "state": "future"
         },
         "cowledges.com": {
@@ -3449,6 +3469,11 @@
             "epoch": "1568764800",
             "expiration_date": "18-sep-2019",
             "state": "future"
+        },
+        "grafstat.ro": {
+            "epoch": "1538092800",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
         },
         "greetzebra.com": {
             "epoch": "1551139200",
