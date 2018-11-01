@@ -610,6 +610,11 @@
             "expiration_date": "27-apr-2021",
             "state": "future"
         },
+        "admedia.ro": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
         "admeld.com": {
             "epoch": "1593907200",
             "expiration_date": "05-jul-2020",
@@ -773,7 +778,7 @@
         "adreporting.com": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adrevolver.com": {
             "epoch": "1563926400",
