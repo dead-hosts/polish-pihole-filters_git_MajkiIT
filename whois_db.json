@@ -4088,7 +4088,7 @@
         "leadboltads.net": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "leadclick.com": {
             "epoch": "1564012800",
@@ -5210,6 +5210,11 @@
             "expiration_date": "06-apr-2022",
             "state": "future"
         },
+        "pinamo.pl": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "pixel.watch": {
             "epoch": "1568764800",
             "expiration_date": "18-sep-2019",
@@ -6186,9 +6191,9 @@
             "state": "future"
         },
         "socialspark.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "sonobi.com": {
             "epoch": "1606608000",
