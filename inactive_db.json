@@ -71,14 +71,9 @@
             "ivwbox.de",
             "koinser.in",
             "konkursikowo.pl",
-            "(^|\\.)lcx\\.pl$"
-        ],
-        "to_test": [
-            "(^|\\.)meetrics\\.net$",
-            "(^|\\.)smartadserver\\.com$",
-            "b.aol.com",
+            "(^|\\.)lcx\\.pl$",
             "media.ftv-publicite.fr",
-            "mediadvertising.ro",
+            "(^|\\.)meetrics\\.net$",
             "megabanners.cf",
             "mtrcs.samba.tv",
             "nephritish.com",
@@ -92,10 +87,14 @@
             "reklamer.com.ua",
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
+            "(^|\\.)smartadserver\\.com$",
             "spykemediatrack.co",
             "sx.trhnt.com",
+            "tailsweep.co.uk"
+        ],
+        "to_test": [
+            "b.aol.com",
             "t.pusk.ru",
-            "tailsweep.co.uk",
             "topping.com.ua",
             "touchclarity.natwest.com",
             "unblock.onaudience.com",

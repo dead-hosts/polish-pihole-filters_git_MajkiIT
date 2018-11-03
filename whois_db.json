@@ -4360,6 +4360,11 @@
             "expiration_date": "29-mar-2019",
             "state": "future"
         },
+        "mediadvertising.ro": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
         "mediageneral.com": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
