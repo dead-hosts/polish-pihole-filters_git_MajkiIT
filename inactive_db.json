@@ -89,7 +89,13 @@
             "(^|\\.)smartadserver\\.com$",
             "spykemediatrack.co",
             "sx.trhnt.com",
-            "tailsweep.co.uk"
+            "tailsweep.co.uk",
+            "track.dating-4-you.com",
+            "unblock.onaudience.com",
+            "utarget.co.uk",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
@@ -97,13 +103,7 @@
             "b.engadget.com",
             "t.pusk.ru",
             "topping.com.ua",
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "unblock.onaudience.com",
-            "utarget.co.uk",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "zgarnijiphone.ml"
+            "touchclarity.natwest.com"
         ]
     }
 }
