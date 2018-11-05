@@ -1415,6 +1415,11 @@
             "expiration_date": "28-feb-2019",
             "state": "future"
         },
+        "antyspam.net": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
         "anxiousapples.com": {
             "epoch": "1571616000",
             "expiration_date": "21-oct-2019",
