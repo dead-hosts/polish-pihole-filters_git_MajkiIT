@@ -4270,6 +4270,11 @@
             "expiration_date": "21-mar-2020",
             "state": "future"
         },
+        "lovemyshoes.pl": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
         "lp3tdqle.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
@@ -6316,9 +6321,9 @@
             "state": "future"
         },
         "srwww1.com": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1604534400",
+            "expiration_date": "05-nov-2020",
+            "state": "future"
         },
         "starffa.com": {
             "epoch": "1554768000",
@@ -6538,7 +6543,7 @@
         "targetpoint.com": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "tcads.net": {
             "epoch": "1568073600",
