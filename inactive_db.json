@@ -95,17 +95,18 @@
             "tailsweep.co.uk",
             "topping.com.ua",
             "touchclarity.natwest.com",
-            "t.pusk.ru"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "b.aol.com",
-            "track.dating-4-you.com",
+            "t.pusk.ru",
             "unblock.onaudience.com",
             "utarget.co.uk",
             "vutzmxahqio.co",
             "ws-gateway.com",
+            "www-banner.chat.ru",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "b.aol.com",
+            "track.dating-4-you.com"
         ]
     }
 }
