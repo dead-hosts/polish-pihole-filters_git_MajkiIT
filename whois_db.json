@@ -4636,8 +4636,8 @@
             "state": "future"
         },
         "muwmedia.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "myaffiliateprogram.com": {
@@ -5973,7 +5973,7 @@
         "searchramp.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sedoparking.com": {
             "epoch": "1568764800",
@@ -6163,6 +6163,11 @@
         "skimresources.com": {
             "epoch": "1594684800",
             "expiration_date": "14-jul-2020",
+            "state": "future"
+        },
+        "sklepnecik.pl": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
             "state": "future"
         },
         "slickaffiliate.com": {
@@ -6541,9 +6546,9 @@
             "state": "future"
         },
         "targetpoint.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
-            "state": "past"
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
         },
         "tcads.net": {
             "epoch": "1568073600",
