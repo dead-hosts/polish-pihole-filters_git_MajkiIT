@@ -1503,7 +1503,7 @@
         "augur.io": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "autohits.dk": {
             "epoch": "1548892800",
