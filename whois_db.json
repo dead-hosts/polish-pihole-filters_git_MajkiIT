@@ -5771,9 +5771,9 @@
             "state": "future"
         },
         "revenue.net": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "revenuedirect.com": {
             "epoch": "1551312000",
@@ -5948,7 +5948,7 @@
         "scratch2cash.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "scrubsky.com": {
             "epoch": "1584748800",
@@ -6506,9 +6506,9 @@
             "state": "future"
         },
         "tagular.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "tailsweep.com": {
             "epoch": "1550102400",
@@ -6603,7 +6603,7 @@
         "textads.biz": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "textlinks.com": {
             "epoch": "1571443200",
