@@ -3016,9 +3016,9 @@
             "state": "future"
         },
         "evidencecleanergold.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
-            "state": "past"
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
         },
         "ewebcounter.com": {
             "epoch": "1569369600",
@@ -3096,9 +3096,9 @@
             "state": "future"
         },
         "extractorandburner.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
-            "state": "past"
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
         },
         "extreme-dm.com": {
             "epoch": "1572307200",
@@ -4063,7 +4063,7 @@
         "kindads.com": {
             "epoch": "1542412800",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "kissmetrics.com": {
             "epoch": "1822089600",
