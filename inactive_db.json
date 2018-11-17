@@ -97,16 +97,17 @@
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "t.pusk.ru",
-            "track.dating-4-you.com"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "b.engadget.com",
+            "track.dating-4-you.com",
             "unblock.onaudience.com",
             "utarget.co.uk",
             "vutzmxahqio.co",
             "ws-gateway.com",
+            "www.money4exit.de",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "b.engadget.com"
         ]
     }
 }
