@@ -1,21 +1,7 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Thu 15 Nov 13:11:30 UTC 2018 
+# Date of generation: Sat 17 Nov 13:11:54 UTC 2018 
 
 0.0.0.0 !
 0.0.0.0 (^|\.)adform\.net$
 0.0.0.0 (^|\.)adocean\.(pl)$
 0.0.0.0 (^|\.)adsbtrack\.com$
-0.0.0.0 (^|\.)adserver\.snapads\.com$
-0.0.0.0 (^|\.)audienceinsights\.net$
-0.0.0.0 (^|\.)behavioralengine\.com$
-0.0.0.0 (^|\.)clickmatic\.pl$
-0.0.0.0 (^|\.)doubleclick\.(com)$
-0.0.0.0 Adsatt.ABCNews.starwave.com
-0.0.0.0 Adsatt.go.starwave.com
-0.0.0.0 (^|\.)gemius\.(com|pl)$
-0.0.0.0 (^|\.)hit\.gemius\.pl$
-0.0.0.0 (^|\.)hit\.interia\.pl$
-0.0.0.0 [imported]
-0.0.0.0 (^|\.)lcx\.pl$
-0.0.0.0 (^|\.)meetrics\.net$
-0.0.0.0 (^|\.)smartadserver\.com$
