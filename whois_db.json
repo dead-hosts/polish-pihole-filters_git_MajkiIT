@@ -2306,8 +2306,8 @@
             "state": "future"
         },
         "cointraffic.io": {
-            "epoch": "1542499200",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1700265600",
+            "expiration_date": "18-nov-2023",
             "state": "future"
         },
         "colonize.com": {
@@ -4061,9 +4061,9 @@
             "state": "future"
         },
         "kindads.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
-            "state": "past"
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "kissmetrics.com": {
             "epoch": "1822089600",
