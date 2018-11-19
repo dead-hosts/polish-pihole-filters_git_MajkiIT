@@ -100,16 +100,15 @@
             "t.pusk.ru",
             "track.dating-4-you.com",
             "unblock.onaudience.com",
-            "utarget.co.uk"
+            "utarget.co.uk",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)meetrics\\.net$",
             "adserver.omroepzeeland.nl",
-            "megabanners.cf",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.money4exit.de",
-            "zgarnijiphone.ml"
+            "megabanners.cf"
         ]
     }
 }
