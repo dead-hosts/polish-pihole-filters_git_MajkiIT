@@ -2528,7 +2528,7 @@
         "crwdcntrl.net": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cryptaloot.pro": {
             "epoch": "1544054400",
