@@ -82,11 +82,7 @@
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "(^|\\.)meetrics\\.net$",
-            "megabanners.cf"
-        ],
-        "to_test": [
-            "(^|\\.)smartadserver\\.com$",
-            "adserver.omroepzeeland.nl",
+            "megabanners.cf",
             "mtrcs.samba.tv",
             "nephritish.com",
             "oewabox.at",
@@ -99,14 +95,18 @@
             "reklamer.com.ua",
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
+            "(^|\\.)smartadserver\\.com$",
             "spykemediatrack.co",
             "sx.trhnt.com",
-            "t.pusk.ru",
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "track.dating-4-you.com",
             "unblock.onaudience.com",
-            "utarget.co.uk",
+            "utarget.co.uk"
+        ],
+        "to_test": [
+            "adserver.omroepzeeland.nl",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "zgarnijiphone.ml"

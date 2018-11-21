@@ -5211,9 +5211,9 @@
             "state": "future"
         },
         "pheedo.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
-            "state": "past"
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "photographpan.com": {
             "epoch": "1548115200",
