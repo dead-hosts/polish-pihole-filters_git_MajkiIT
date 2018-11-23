@@ -2531,9 +2531,9 @@
             "state": "future"
         },
         "crwdcntrl.net": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1605916800",
+            "expiration_date": "21-nov-2020",
+            "state": "future"
         },
         "cryptaloot.pro": {
             "epoch": "1544054400",
@@ -3178,6 +3178,11 @@
         "fimserve.com": {
             "epoch": "1602892800",
             "expiration_date": "17-oct-2020",
+            "state": "future"
+        },
+        "finanse-payu.pl": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "findcommerce.com": {
