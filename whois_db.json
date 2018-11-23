@@ -4965,6 +4965,11 @@
             "expiration_date": "31-aug-2019",
             "state": "future"
         },
+        "onenima.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
         "onestat.com": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
@@ -5289,6 +5294,11 @@
             "epoch": "1526601600",
             "expiration_date": "18-may-2018",
             "state": "past"
+        },
+        "platnosc24.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "play4traffic.com": {
             "epoch": "1562544000",
@@ -5753,6 +5763,16 @@
         "reinvigorate.net": {
             "epoch": "1564358400",
             "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "reklama-lowicz.pl": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "reklamawadowice24.pl": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
             "state": "future"
         },
         "relmaxtop.com": {
