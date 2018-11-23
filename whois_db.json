@@ -370,6 +370,11 @@
             "expiration_date": "22-sep-2019",
             "state": "future"
         },
+        "adclick.lt": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
         "adcomplete.com": {
             "epoch": "1576627200",
             "expiration_date": "18-dec-2019",
