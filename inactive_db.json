@@ -104,15 +104,15 @@
             "track.dating-4-you.com",
             "trackverters.pl",
             "unblock.onaudience.com",
-            "utarget.co.uk"
-        ],
-        "to_test": [
-            "(^|\\.)adserver\\.snapads\\.com$",
-            "adserver.omroepzeeland.nl",
+            "utarget.co.uk",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)adserver\\.snapads\\.com$",
+            "adserver.omroepzeeland.nl"
         ]
     }
 }
