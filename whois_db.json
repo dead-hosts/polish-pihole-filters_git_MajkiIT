@@ -1025,6 +1025,11 @@
             "expiration_date": "24-sep-2021",
             "state": "future"
         },
+        "adtelier.pl": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
         "adtext.pl": {
             "epoch": "1565913600",
             "expiration_date": "16-aug-2019",
