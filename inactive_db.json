@@ -108,14 +108,14 @@
             "trackverters.pl",
             "unblock.onaudience.com",
             "utarget.co.uk",
-            "vutzmxahqio.co"
-        ],
-        "to_test": [
-            "adserver.omroepzeeland.nl",
-            "mtrcs.samba.tv",
+            "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "adserver.omroepzeeland.nl",
+            "mtrcs.samba.tv"
         ]
     }
 }
