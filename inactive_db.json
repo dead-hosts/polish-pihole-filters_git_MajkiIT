@@ -106,17 +106,18 @@
             "track.dating-4-you.com",
             "trackverters.pl",
             "unblock.onaudience.com",
-            "utarget.co.uk"
+            "utarget.co.uk",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "www.comwgi.com",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)meetrics\\.net$",
             "adserver.omroepzeeland.nl",
             "blogvertising.pl",
-            "megabanners.cf",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "megabanners.cf"
         ]
     }
 }
