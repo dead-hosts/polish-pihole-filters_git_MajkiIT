@@ -4486,8 +4486,8 @@
             "state": "future"
         },
         "metanetwork.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "methodcash.com": {
@@ -5731,8 +5731,8 @@
             "state": "future"
         },
         "realtechnetwork.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "realtracker.com": {
@@ -6216,9 +6216,9 @@
             "state": "future"
         },
         "slopeaota.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "smart4ads.com": {
             "epoch": "1583193600",
@@ -6691,9 +6691,9 @@
             "state": "future"
         },
         "thruport.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "tidaltv.com": {
             "epoch": "1643673600",
