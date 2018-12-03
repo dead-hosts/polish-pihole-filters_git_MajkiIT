@@ -1271,9 +1271,9 @@
             "state": "future"
         },
         "affec.tv": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "affili.net": {
             "epoch": "1570320000",
