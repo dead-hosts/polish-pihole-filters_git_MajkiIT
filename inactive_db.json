@@ -106,12 +106,7 @@
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "t.pusk.ru",
-            "track.dating-4-you.com"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "b.engadget.com",
-            "trackverters.pl",
+            "track.dating-4-you.com",
             "unblock.onaudience.com",
             "utarget.co.uk",
             "vutzmxahqio.co",
@@ -119,6 +114,11 @@
             "www.banner-link.com.br",
             "www.comwgi.com",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "b.engadget.com",
+            "trackverters.pl"
         ]
     }
 }
