@@ -2231,9 +2231,9 @@
             "state": "future"
         },
         "clicktracks.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
-            "state": "past"
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
         },
         "clicktrade.com": {
             "epoch": "1556668800",
