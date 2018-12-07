@@ -106,7 +106,13 @@
             "touchclarity.natwest.com",
             "t.pusk.ru",
             "track.dating-4-you.com",
-            "trackverters.pl"
+            "trackverters.pl",
+            "utarget.co.uk",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "www.comwgi.com",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
@@ -114,13 +120,7 @@
             "b.aol.com",
             "b.engadget.com",
             "media.ftv-publicite.fr",
-            "mediamarkt.pl.goodsurprises.top",
-            "utarget.co.uk",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "www.comwgi.com",
-            "zgarnijiphone.ml"
+            "mediamarkt.pl.goodsurprises.top"
         ]
     }
 }
