@@ -106,19 +106,19 @@
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "t.pusk.ru",
-            "track.dating-4-you.com"
+            "track.dating-4-you.com",
+            "utarget.co.uk",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
             "adserver.omroepzeeland.nl",
             "b.aol.com",
             "b.engadget.com",
-            "trackverters.pl",
-            "utarget.co.uk",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "trackverters.pl"
         ]
     }
 }
