@@ -2883,7 +2883,7 @@
         "edynamic-dns.pl": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "effectivemeasure.com": {
             "epoch": "1596585600",
@@ -3541,9 +3541,9 @@
             "state": "future"
         },
         "harrenmedianetwork.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
-            "state": "past"
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
         },
         "havamedia.net": {
             "epoch": "1559606400",
@@ -4366,8 +4366,8 @@
             "state": "future"
         },
         "mathtag.com": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
             "state": "future"
         },
         "maximumcash.com": {
