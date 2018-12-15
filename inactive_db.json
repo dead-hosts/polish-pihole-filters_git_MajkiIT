@@ -116,18 +116,18 @@
             "t.pusk.ru",
             "track.dating-4-you.com",
             "unblock.onaudience.com",
-            "utarget.co.uk"
+            "utarget.co.uk",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)meetrics\\.net$",
             "adserver.omroepzeeland.nl",
             "blogvertising.pl",
             "mediamarkt.pl.goodsurprises.top",
-            "megabanners.cf",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "megabanners.cf"
         ]
     }
 }
