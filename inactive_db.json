@@ -124,11 +124,11 @@
             "(^|\\.)adsbtrack\\.com$",
             "ads.eatinparis.com",
             "b.aol.com",
-            "(^|\\.)behavioralengine\\.com$"
+            "(^|\\.)behavioralengine\\.com$",
+            "koinser.in",
+            "konkursikowo.pl"
         ],
         "to_test": [
-            "koinser.in",
-            "konkursikowo.pl",
             "tailsweep.co.uk"
         ]
     }
