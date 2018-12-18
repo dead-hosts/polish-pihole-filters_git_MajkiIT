@@ -122,11 +122,11 @@
             "ads.adultswim.com",
             "ads.aol.com",
             "(^|\\.)adsbtrack\\.com$",
-            "ads.eatinparis.com"
+            "ads.eatinparis.com",
+            "b.aol.com",
+            "(^|\\.)behavioralengine\\.com$"
         ],
         "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "b.aol.com",
             "koinser.in",
             "konkursikowo.pl",
             "tailsweep.co.uk"
