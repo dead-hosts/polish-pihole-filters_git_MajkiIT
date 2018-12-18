@@ -126,10 +126,9 @@
             "b.aol.com",
             "(^|\\.)behavioralengine\\.com$",
             "koinser.in",
-            "konkursikowo.pl"
-        ],
-        "to_test": [
+            "konkursikowo.pl",
             "tailsweep.co.uk"
-        ]
+        ],
+        "to_test": []
     }
 }
