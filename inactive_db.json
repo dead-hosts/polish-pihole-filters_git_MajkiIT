@@ -120,17 +120,17 @@
             "t.pusk.ru",
             "track.dating-4-you.com",
             "trackverters.pl",
-            "unblock.onaudience.com"
+            "unblock.onaudience.com",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)adserver\\.snapads\\.com$",
             "adserver.omroepzeeland.nl",
             "mon.pebx.pl",
             "mtrcs.samba.tv",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "vutzmxahqio.co"
         ]
     }
 }
