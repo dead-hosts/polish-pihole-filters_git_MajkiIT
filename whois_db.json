@@ -4610,6 +4610,11 @@
             "expiration_date": "16-apr-2019",
             "state": "future"
         },
+        "mojepc.net": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
         "monetate.net": {
             "epoch": "1573344000",
             "expiration_date": "10-nov-2019",
@@ -5211,8 +5216,8 @@
             "state": "future"
         },
         "perfectaudience.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
             "state": "future"
         },
         "perfiliate.com": {
