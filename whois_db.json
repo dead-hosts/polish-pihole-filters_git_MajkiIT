@@ -6983,7 +6983,7 @@
         "trafficz.net": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "traffiq.com": {
             "epoch": "1557964800",
