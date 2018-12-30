@@ -115,16 +115,9 @@
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
             "(^|\\.)smartadserver\\.com$",
-            "spykemediatrack.co"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "b.aol.com",
-            "ivwbox.de",
-            "t.pusk.ru",
-            "tailsweep.co.uk",
-            "tersawards.pl",
+            "spykemediatrack.co",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "track.dating-4-you.com",
             "trackverters.pl",
             "unblock.onaudience.com",
@@ -132,6 +125,13 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "b.aol.com",
+            "ivwbox.de",
+            "tailsweep.co.uk",
+            "tersawards.pl"
         ]
     }
 }
