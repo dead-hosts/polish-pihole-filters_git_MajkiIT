@@ -15,3 +15,6 @@
 0.0.0.0 (^|\.)hit\.gemius\.pl$
 0.0.0.0 (^|\.)hit\.interia\.pl$
 0.0.0.0 [imported]
+0.0.0.0 (^|\.)lcx\.pl$
+0.0.0.0 (^|\.)meetrics\.net$
+0.0.0.0 (^|\.)smartadserver\.com$
