@@ -122,18 +122,18 @@
             "t.pusk.ru",
             "track.dating-4-you.com",
             "trackverters.pl",
-            "unblock.onaudience.com"
+            "unblock.onaudience.com",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "www.money4exit.de",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)adserver\\.snapads\\.com$",
             "(^|\\.)meetrics\\.net$",
             "adserver.omroepzeeland.nl",
             "megabanners.cf",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "www.money4exit.de",
-            "zgarnijiphone.ml"
+            "vutzmxahqio.co"
         ]
     }
 }
