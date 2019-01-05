@@ -122,19 +122,19 @@
             "spykemediatrack.co",
             "tailsweep.co.uk",
             "tersawards.pl",
-            "touchclarity.natwest.com"
-        ],
-        "to_test": [
-            "adserver.omroepzeeland.nl",
-            "t.pusk.ru",
-            "track.dating-4-you.com",
-            "trackverters.pl",
+            "touchclarity.natwest.com",
             "unblock.onaudience.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "www.money4exit.de",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "adserver.omroepzeeland.nl",
+            "t.pusk.ru",
+            "track.dating-4-you.com",
+            "trackverters.pl"
         ]
     }
 }
