@@ -118,15 +118,7 @@
             "(^|\\.)smartadserver\\.com$",
             "spykemediatrack.co",
             "tailsweep.co.uk",
-            "tersawards.pl"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "adserver.omroepzeeland.nl",
-            "b.aol.com",
-            "b.engadget.com",
-            "t.pusk.ru",
-            "touchclarity.natwest.com",
+            "tersawards.pl",
             "track.dating-4-you.com",
             "trackverters.pl",
             "unblock.onaudience.com",
@@ -135,6 +127,14 @@
             "www.banner-link.com.br",
             "www.money4exit.de",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "adserver.omroepzeeland.nl",
+            "b.aol.com",
+            "b.engadget.com",
+            "t.pusk.ru",
+            "touchclarity.natwest.com"
         ]
     }
 }
