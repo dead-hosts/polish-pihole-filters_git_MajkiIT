@@ -888,7 +888,7 @@
         "adserversolutions.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adservinginternational.com": {
             "epoch": "1597363200",
@@ -1406,8 +1406,8 @@
             "state": "future"
         },
         "amplitude.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "amung.us": {
