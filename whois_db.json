@@ -4713,7 +4713,7 @@
         "myaffiliateprogram.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "mybloglog.com": {
             "epoch": "1578528000",
@@ -5536,8 +5536,8 @@
             "state": "future"
         },
         "primetime.net": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "privatecash.com": {
