@@ -1931,8 +1931,8 @@
             "state": "future"
         },
         "c1exchange.com": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "calmfoot.com": {
@@ -3141,8 +3141,8 @@
             "state": "future"
         },
         "extremetracking.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "eyeblaster.com": {
@@ -3181,8 +3181,8 @@
             "state": "future"
         },
         "fapmeth.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "fast-adv.it": {
@@ -3311,8 +3311,8 @@
             "state": "future"
         },
         "freebanner.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "freelogs.com": {
@@ -4138,6 +4138,11 @@
         "kontera.com": {
             "epoch": "1603411200",
             "expiration_date": "23-oct-2020",
+            "state": "future"
+        },
+        "kqlokjfrnz.com": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "kupujemy24.net": {
