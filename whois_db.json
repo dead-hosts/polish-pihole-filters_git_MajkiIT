@@ -2443,7 +2443,7 @@
         "cowledges.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cpalead.com": {
             "epoch": "1552780800",
@@ -2973,7 +2973,7 @@
         "enlarget.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "enoratraffic.com": {
             "epoch": "1558915200",
@@ -3561,8 +3561,8 @@
             "state": "future"
         },
         "harrenmedia.com": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1610582400",
+            "expiration_date": "14-jan-2021",
             "state": "future"
         },
         "harrenmedianetwork.com": {
@@ -3896,8 +3896,8 @@
             "state": "future"
         },
         "infinite-ads.com": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "infinityads.com": {
