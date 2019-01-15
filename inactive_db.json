@@ -123,19 +123,19 @@
             "touchclarity.natwest.com",
             "t.pusk.ru",
             "track.dating-4-you.com",
-            "trackverters.pl"
+            "trackverters.pl",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "www.money4exit.de",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)meetrics\\.net$",
             "adserver.omroepzeeland.nl",
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
-            "unblock.onaudience.com",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "www.money4exit.de",
-            "zgarnijiphone.ml"
+            "unblock.onaudience.com"
         ]
     }
 }
