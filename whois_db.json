@@ -5628,7 +5628,7 @@
         "provalist.info": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "provexia.com": {
             "epoch": "1573430400",
@@ -6636,8 +6636,8 @@
             "state": "future"
         },
         "tacoda.net": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "tagular.com": {
@@ -6813,7 +6813,7 @@
         "tizers.net": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "tlvmedia.com": {
             "epoch": "1555027200",
