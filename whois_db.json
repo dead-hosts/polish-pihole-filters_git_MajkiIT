@@ -2026,9 +2026,9 @@
             "state": "future"
         },
         "casterist.info": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
-            "state": "past"
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
         },
         "cbmall.com": {
             "epoch": "1569542400",
@@ -2226,8 +2226,8 @@
             "state": "future"
         },
         "clickthrutraffic.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "clicktrace.info": {
