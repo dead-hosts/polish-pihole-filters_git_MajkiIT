@@ -2203,7 +2203,7 @@
         "clickhype.com": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickmedia.ro": {
             "epoch": "1539820800",
