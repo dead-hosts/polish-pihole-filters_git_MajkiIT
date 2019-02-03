@@ -2206,9 +2206,9 @@
             "state": "future"
         },
         "clickhype.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
-            "state": "past"
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
         },
         "clickmedia.ro": {
             "epoch": "1539820800",
@@ -3331,8 +3331,8 @@
             "state": "future"
         },
         "freepay.com": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "freeskreen.com": {
@@ -3666,8 +3666,8 @@
             "state": "future"
         },
         "hitometer.com": {
-            "epoch": "1549065600",
-            "expiration_date": "02-feb-2019",
+            "epoch": "1612224000",
+            "expiration_date": "02-feb-2021",
             "state": "future"
         },
         "hits4me.com": {
