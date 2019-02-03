@@ -155,6 +155,11 @@
             "expiration_date": "07-jul-2019",
             "state": "future"
         },
+        "a-o.ninja": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
         "aaddzz.com": {
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
