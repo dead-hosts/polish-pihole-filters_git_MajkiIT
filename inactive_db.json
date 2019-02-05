@@ -122,7 +122,13 @@
             "(^|\\.)smartadserver\\.com$",
             "spykemediatrack.co",
             "tailsweep.co.uk",
-            "tersawards.pl"
+            "tersawards.pl",
+            "trackverters.pl",
+            "unblock.onaudience.com",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
@@ -132,13 +138,7 @@
             "b.engadget.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "trackverters.pl",
-            "unblock.onaudience.com",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "track.dating-4-you.com"
         ]
     }
 }
