@@ -4978,7 +4978,7 @@
         "nuggad.net": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "nuseek.com": {
             "epoch": "1566777600",
@@ -5048,7 +5048,7 @@
         "onenima.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "onestat.com": {
             "epoch": "1553644800",
@@ -6163,7 +6163,7 @@
         "servethis.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "serving-sys.com": {
             "epoch": "1586995200",
@@ -6403,7 +6403,7 @@
         "sparkstudios.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "specially4u.net": {
             "epoch": "1568764800",
