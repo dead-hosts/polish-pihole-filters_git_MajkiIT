@@ -4756,8 +4756,8 @@
             "state": "future"
         },
         "mypowermall.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "mystat-in.net": {
@@ -4976,9 +4976,9 @@
             "state": "future"
         },
         "nuggad.net": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "nuseek.com": {
             "epoch": "1566777600",
@@ -5046,9 +5046,9 @@
             "state": "future"
         },
         "onenima.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "onestat.com": {
             "epoch": "1553644800",
@@ -5206,8 +5206,8 @@
             "state": "future"
         },
         "passion-4.net": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "pay-ads.com": {
@@ -5566,8 +5566,8 @@
             "state": "future"
         },
         "proext.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1612569600",
+            "expiration_date": "06-feb-2021",
             "state": "future"
         },
         "profero.com": {
@@ -5738,7 +5738,7 @@
         "radarurl.com": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "radiate.com": {
             "epoch": "1596758400",
@@ -6161,9 +6161,9 @@
             "state": "future"
         },
         "servethis.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "serving-sys.com": {
             "epoch": "1586995200",
@@ -6401,9 +6401,9 @@
             "state": "future"
         },
         "sparkstudios.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1707091200",
+            "expiration_date": "05-feb-2024",
+            "state": "future"
         },
         "specially4u.net": {
             "epoch": "1568764800",
