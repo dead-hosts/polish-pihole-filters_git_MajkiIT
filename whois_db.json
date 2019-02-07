@@ -7398,7 +7398,7 @@
         "wantmobi.bid": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "warlog.ru": {
             "epoch": "1577232000",
