@@ -132,16 +132,16 @@
             "touchclarity.natwest.com",
             "t.pusk.ru",
             "track.dating-4-you.com",
-            "trackverters.pl"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "b.engadget.com",
-            "unblock.onaudience.com",
+            "trackverters.pl",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "b.engadget.com",
+            "unblock.onaudience.com"
         ]
     }
 }
