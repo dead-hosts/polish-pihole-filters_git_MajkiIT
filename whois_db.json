@@ -973,7 +973,7 @@
         "adsrevenue.net": {
             "epoch": "1549843200",
             "expiration_date": "11-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "adsrvr.org": {
             "epoch": "1616976000",
