@@ -123,15 +123,7 @@
             "samnumer.pl",
             "(^|\\.)smartadserver\\.com$",
             "spykemediatrack.co",
-            "tailsweep.co.uk"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "(^|\\.)lcx\\.pl$",
-            "b.aol.com",
-            "b.engadget.com",
-            "t.pusk.ru",
-            "touchclarity.natwest.com",
+            "tailsweep.co.uk",
             "track.dating-4-you.com",
             "trackverters.pl",
             "unblock.onaudience.com",
@@ -139,6 +131,14 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "(^|\\.)lcx\\.pl$",
+            "b.aol.com",
+            "b.engadget.com",
+            "t.pusk.ru",
+            "touchclarity.natwest.com"
         ]
     }
 }
