@@ -131,14 +131,14 @@
             "t.pusk.ru",
             "track.dating-4-you.com",
             "trackverters.pl",
-            "unblock.onaudience.com"
-        ],
-        "to_test": [
-            "adserver.omroepzeeland.nl",
-            "vutzmxahqio.co",
+            "unblock.onaudience.com",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "adserver.omroepzeeland.nl",
+            "vutzmxahqio.co"
         ]
     }
 }
