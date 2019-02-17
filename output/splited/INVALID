@@ -10,3 +10,10 @@ Adsatt.go.starwave.com                                                          
 (^|\.)adsbtrack\.com$                                                                                INVALID     SYNTAX    
 (^|\.)adserver\.snapads\.com$                                                                        INVALID     SYNTAX    
 (^|\.)audienceinsights\.net$                                                                         INVALID     SYNTAX    
+(^|\.)clickmatic\.pl$                                                                                INVALID     SYNTAX    
+(^|\.)doubleclick\.(com)$                                                                            INVALID     SYNTAX    
+(^|\.)gemius\.(com|pl)$                                                                              INVALID     SYNTAX    
+(^|\.)hit\.gemius\.pl$                                                                               INVALID     SYNTAX    
+(^|\.)hit\.interia\.pl$                                                                              INVALID     SYNTAX    
+[imported]                                                                                           INVALID     SYNTAX    
+(^|\.)lcx\.pl$                                                                                       INVALID     SYNTAX    
