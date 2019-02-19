@@ -741,9 +741,9 @@
             "state": "future"
         },
         "adperium.com": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
-            "state": "past"
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "adplxmd.com": {
             "epoch": "1588982400",
