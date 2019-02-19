@@ -1049,7 +1049,10 @@
             "stat.webmedia.pl",
             "stat.zenon.net",
             "std1.hit.gemius.pl",
-            "st.hit.gemius.pl"
+            "st.hit.gemius.pl",
+            "zeus.developershed.com",
+            "zgarnijiphone.ml",
+            "zobaczto.pisz.pl"
         ],
         "to_test": [
             "(^|\\.)adserver\\.snapads\\.com$",
@@ -1100,8 +1103,7 @@
             "unblock.onaudience.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "www.banner-link.com.br"
         ]
     }
 }
