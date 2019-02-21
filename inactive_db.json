@@ -124,7 +124,16 @@
             "samnumer.pl",
             "(^|\\.)smartadserver\\.com$",
             "spykemediatrack.co",
-            "tailsweep.co.uk"
+            "tailsweep.co.uk",
+            "touchclarity.natwest.com",
+            "t.pusk.ru",
+            "track.dating-4-you.com",
+            "trackverters.pl",
+            "unblock.onaudience.com",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
@@ -151,18 +160,7 @@
             "lrytaslt.adocean.pl",
             "ls.hit.gemius.pl",
             "lt.adocean.pl",
-            "lt.hit.gemius.pl",
-            "t.pusk.ru",
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "trackverters.pl",
-            "unblock.onaudience.com",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zeus.developershed.com",
-            "zgarnijiphone.ml",
-            "zobaczto.pisz.pl"
+            "lt.hit.gemius.pl"
         ]
     }
 }
