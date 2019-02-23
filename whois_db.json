@@ -3051,8 +3051,8 @@
             "state": "future"
         },
         "evergage.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1708646400",
+            "expiration_date": "23-feb-2024",
             "state": "future"
         },
         "evidencecleanergold.com": {
@@ -3301,8 +3301,8 @@
             "state": "future"
         },
         "fpctraffic2.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1645574400",
+            "expiration_date": "23-feb-2022",
             "state": "future"
         },
         "fqtag.com": {
@@ -3690,6 +3690,11 @@
             "expiration_date": "06-jun-2021",
             "state": "future"
         },
+        "hoqqzlvwukpo.com": {
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
         "hotcpm.pl": {
             "epoch": "1574812800",
             "expiration_date": "27-nov-2019",
@@ -3816,8 +3821,8 @@
             "state": "future"
         },
         "ilbanner.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "illustriousoatmeal.com": {
