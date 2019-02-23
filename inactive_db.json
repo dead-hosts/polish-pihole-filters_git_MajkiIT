@@ -129,7 +129,11 @@
             "touchclarity.natwest.com",
             "t.pusk.ru",
             "track.dating-4-you.com",
-            "trackverters.pl"
+            "trackverters.pl",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
@@ -156,11 +160,7 @@
             "ls.hit.gemius.pl",
             "lt.adocean.pl",
             "lt.hit.gemius.pl",
-            "unblock.onaudience.com",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "unblock.onaudience.com"
         ]
     }
 }
