@@ -135,10 +135,9 @@
             "www.banner-link.com.br",
             "zgarnijiphone.ml",
             "(^|\\.)behavioralengine\\.com$",
-            "b.engadget.com"
-        ],
-        "to_test": [
+            "b.engadget.com",
             "unblock.onaudience.com"
-        ]
+        ],
+        "to_test": []
     }
 }
