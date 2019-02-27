@@ -4195,6 +4195,11 @@
             "expiration_date": "08-may-2020",
             "state": "future"
         },
+        "konkursikowo.pl": {
+            "epoch": "1558656000",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
         "kontera.com": {
             "epoch": "1603411200",
             "expiration_date": "23-oct-2020",
@@ -4736,8 +4741,8 @@
             "state": "future"
         },
         "mowfruit.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "mpstat.us": {
@@ -5225,6 +5230,11 @@
             "expiration_date": "01-jun-2019",
             "state": "future"
         },
+        "paczkomat.biz.pl": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
         "pagefair.com": {
             "epoch": "1560211200",
             "expiration_date": "11-jun-2019",
@@ -5561,8 +5571,8 @@
             "state": "future"
         },
         "practicetoothpaste.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "prchecker.info": {
@@ -5925,6 +5935,11 @@
             "expiration_date": "02-apr-2019",
             "state": "future"
         },
+        "reklamer.com.ua": {
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
         "relmaxtop.com": {
             "epoch": "1577145600",
             "expiration_date": "24-dec-2019",
@@ -6111,8 +6126,8 @@
             "state": "future"
         },
         "saysidewalk.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "scanscout.com": {
@@ -6435,6 +6450,11 @@
             "expiration_date": "30-oct-2019",
             "state": "future"
         },
+        "softclick.com.br": {
+            "epoch": "1595289600",
+            "expiration_date": "21-jul-2020",
+            "state": "future"
+        },
         "sonobi.com": {
             "epoch": "1606608000",
             "expiration_date": "29-nov-2020",
@@ -6463,6 +6483,11 @@
         "specially4u.net": {
             "epoch": "1568764800",
             "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "specificmedia.co.uk": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
             "state": "future"
         },
         "specificpop.com": {
