@@ -121,17 +121,10 @@
             "s1.delfilt.adocean.pl",
             "samnumer.pl",
             "(^|\\.)smartadserver\\.com$",
-            "spykemediatrack.co"
-        ],
-        "to_test": [
-            "ads.eatinparis.com",
-            "banner.getgo.de",
-            "impressionz.co.uk",
-            "informacje.nbhost.pl",
-            "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
-            "t.pusk.ru",
+            "spykemediatrack.co",
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "track.dating-4-you.com",
             "trackverters.pl",
             "unblock.onaudience.com",
@@ -139,6 +132,13 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "ads.eatinparis.com",
+            "banner.getgo.de",
+            "impressionz.co.uk",
+            "informacje.nbhost.pl",
+            "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw"
         ]
     }
 }

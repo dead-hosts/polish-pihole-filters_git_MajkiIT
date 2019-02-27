@@ -6881,8 +6881,8 @@
             "state": "future"
         },
         "throattrees.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "thruport.com": {
@@ -6918,6 +6918,11 @@
         "tns-counter.ru": {
             "epoch": "1582070400",
             "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "tntclix.co.uk": {
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
             "state": "future"
         },
         "top-site-list.com": {
@@ -6990,6 +6995,11 @@
             "expiration_date": "14-may-2019",
             "state": "future"
         },
+        "topsites.com.br": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
         "topstats.com": {
             "epoch": "1579478400",
             "expiration_date": "20-jan-2020",
@@ -7011,8 +7021,8 @@
             "state": "future"
         },
         "tracedesire.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "trackalyzer.com": {
@@ -7456,8 +7466,8 @@
             "state": "future"
         },
         "voicevegetable.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "vpon.com": {
@@ -7828,6 +7838,11 @@
         "zedo.com": {
             "epoch": "1664755200",
             "expiration_date": "03-oct-2022",
+            "state": "future"
+        },
+        "zencudo.co.uk": {
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "zenkreka.com": {
