@@ -2528,7 +2528,7 @@
         "crawlability.com": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "crawlclocks.com": {
             "epoch": "1582675200",
@@ -3646,9 +3646,9 @@
             "state": "future"
         },
         "herbalaffiliateprogram.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "heyos.com": {
             "epoch": "1578009600",
@@ -3913,6 +3913,11 @@
         "impressionmedia.cz": {
             "epoch": "1563840000",
             "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "impressionz.co.uk": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
             "state": "future"
         },
         "imrworldwide.com": {
