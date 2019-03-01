@@ -166,9 +166,9 @@
             "state": "future"
         },
         "aaddzz.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "abacho.net": {
             "epoch": "1568592000",
@@ -206,8 +206,8 @@
             "state": "future"
         },
         "actualdeals.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "actuallysheep.com": {
@@ -283,7 +283,7 @@
         "ad4mat.net": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adadvisor.net": {
             "epoch": "1649376000",
@@ -446,8 +446,8 @@
             "state": "future"
         },
         "adflight.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "adforce.com": {
