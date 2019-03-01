@@ -130,12 +130,11 @@
             "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
-            "zgarnijiphone.ml"
-        ],
-        "to_test": [
+            "zgarnijiphone.ml",
+            "adserver.omroepzeeland.nl",
             "(^|\\.)adserver\\.snapads\\.com$",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl"
-        ]
+            "adserv.iafrica.com"
+        ],
+        "to_test": []
     }
 }
