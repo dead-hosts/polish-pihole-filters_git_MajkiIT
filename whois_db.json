@@ -1446,8 +1446,8 @@
             "state": "future"
         },
         "ankieta-online.pl": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "antyspam.net": {
@@ -1595,6 +1595,11 @@
             "expiration_date": "20-oct-2019",
             "state": "future"
         },
+        "banner.kiev.ua": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
         "bannerboxes.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
@@ -1623,6 +1628,11 @@
         "bannerimage.com": {
             "epoch": "1563580800",
             "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "bannerlandia.com.ar": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
             "state": "future"
         },
         "bannermall.com": {
