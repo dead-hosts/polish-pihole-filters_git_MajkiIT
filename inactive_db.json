@@ -126,16 +126,16 @@
             "t.pusk.ru",
             "track.dating-4-you.com",
             "trackverters.pl",
-            "unblock.onaudience.com"
-        ],
-        "to_test": [
-            "(^|\\.)adserver\\.snapads\\.com$",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "unblock.onaudience.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)adserver\\.snapads\\.com$",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl"
         ]
     }
 }

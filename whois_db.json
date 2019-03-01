@@ -7626,8 +7626,8 @@
             "state": "future"
         },
         "whoisonline.net": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "wholesaletraffic.info": {
@@ -7726,8 +7726,8 @@
             "state": "future"
         },
         "xiti.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "xlkredyt.pl": {
@@ -7846,8 +7846,8 @@
             "state": "future"
         },
         "zanox.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "zantracker.com": {
@@ -7883,6 +7883,11 @@
         "zmedia.com": {
             "epoch": "1564185600",
             "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "zobaczto.pisz.pl": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
             "state": "future"
         },
         "zoomica.pl": {
