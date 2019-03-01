@@ -5941,8 +5941,8 @@
             "state": "future"
         },
         "reklama-lowicz.pl": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "reklamawadowice24.pl": {
@@ -5986,8 +5986,8 @@
             "state": "future"
         },
         "revenuedirect.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "revsci.net": {
@@ -6123,6 +6123,11 @@
         "sail-horizon.com": {
             "epoch": "1601164800",
             "expiration_date": "27-sep-2020",
+            "state": "future"
+        },
+        "samnumer.pl": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
             "state": "future"
         },
         "samsungacr.com": {
@@ -6626,8 +6631,8 @@
             "state": "future"
         },
         "storesurprise.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "stormyachiever.com": {
