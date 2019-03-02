@@ -127,14 +127,14 @@
             "t.pusk.ru",
             "track.dating-4-you.com",
             "unblock.onaudience.com",
-            "vutzmxahqio.co"
-        ],
-        "to_test": [
-            "adserver.omroepzeeland.nl",
-            "mtrcs.samba.tv",
+            "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "adserver.omroepzeeland.nl",
+            "mtrcs.samba.tv"
         ]
     }
 }
