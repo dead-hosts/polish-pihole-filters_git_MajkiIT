@@ -124,17 +124,17 @@
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "t.pusk.ru",
-            "track.dating-4-you.com"
+            "track.dating-4-you.com",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "(^|\\.)behavioralengine\\.com$",
             "b.engadget.com",
             "m1.webstats4u.com",
-            "unblock.onaudience.com",
-            "vutzmxahqio.co",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "unblock.onaudience.com"
         ]
     }
 }
