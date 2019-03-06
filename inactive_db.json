@@ -125,18 +125,18 @@
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "t.pusk.ru",
-            "track.dating-4-you.com"
-        ],
-        "to_test": [
-            "(^|\\.)behavioralengine\\.com$",
-            "ads.eatinparis.com",
-            "b.aol.com",
-            "b.engadget.com",
+            "track.dating-4-you.com",
             "unblock.onaudience.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "(^|\\.)behavioralengine\\.com$",
+            "ads.eatinparis.com",
+            "b.aol.com",
+            "b.engadget.com"
         ]
     }
 }
