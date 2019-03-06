@@ -1528,7 +1528,7 @@
         "audience2media.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "audienceinsights.com": {
             "epoch": "1560988800",
