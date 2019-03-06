@@ -2393,7 +2393,7 @@
         "comprabanner.it": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "concernrain.com": {
             "epoch": "1571616000",
