@@ -81,12 +81,7 @@
             "b.engadget.com",
             "b0b1o.bid",
             "banner.getgo.de",
-            "banners.easydns.com"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
+            "banners.easydns.com",
             "ch.questionmarket.com",
             "cinstein.com",
             "dhl-paczki.ml",
@@ -101,7 +96,12 @@
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
             "ioam.de",
             "ivwbox.de",
-            "koinser.in",
+            "koinser.in"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
             "m1.webstats4u.com",
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
