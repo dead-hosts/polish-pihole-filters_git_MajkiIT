@@ -1478,7 +1478,7 @@
         "apusx.com": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "arbomedia.pl": {
             "epoch": "1553990400",
@@ -1526,9 +1526,9 @@
             "state": "future"
         },
         "audience2media.com": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
-            "state": "past"
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
         },
         "audienceinsights.com": {
             "epoch": "1560988800",

@@ -42,9 +42,7 @@
             "ads.ak.facebook.com.edgesuite.net",
             "ads.aol.com",
             "ads.cgnetworks.com",
-            "ads.eatinparis.com"
-        ],
-        "to_test": [
+            "ads.eatinparis.com",
             "ads.expedia.com",
             "ads.foxnews.com",
             "ads.getlucky.com",
@@ -67,9 +65,6 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
             "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
@@ -86,7 +81,12 @@
             "b.engadget.com",
             "b0b1o.bid",
             "banner.getgo.de",
-            "banners.easydns.com",
+            "banners.easydns.com"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
             "ch.questionmarket.com",
             "cinstein.com",
             "dhl-paczki.ml",
