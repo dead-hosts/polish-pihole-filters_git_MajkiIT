@@ -96,14 +96,7 @@
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
             "ioam.de",
             "ivwbox.de",
-            "koinser.in"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "koinser.in",
             "m1.webstats4u.com",
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
@@ -131,7 +124,14 @@
             "t.pusk.ru",
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "unblock.onaudience.com",
             "vutzmxahqio.co",
             "ws-gateway.com",

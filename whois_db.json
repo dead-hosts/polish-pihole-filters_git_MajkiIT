@@ -6231,8 +6231,8 @@
             "state": "future"
         },
         "serv0.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "servedby-buysellads.com": {
@@ -7131,8 +7131,8 @@
             "state": "future"
         },
         "trafficstrategies.com": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
+            "epoch": "1583712000",
+            "expiration_date": "09-mar-2020",
             "state": "future"
         },
         "trafficswarm.com": {
