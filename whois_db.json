@@ -7641,9 +7641,9 @@
             "state": "future"
         },
         "widdit.com": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
-            "state": "past"
+            "epoch": "1583712000",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
         },
         "widespace.com": {
             "epoch": "1617494400",
@@ -7738,7 +7738,7 @@
         "xplusone.com": {
             "epoch": "1552176000",
             "expiration_date": "10-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "xponsor.com": {
             "epoch": "1580515200",
