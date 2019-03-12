@@ -5151,8 +5151,8 @@
             "state": "future"
         },
         "onlinerewardcenter.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "onscroll.com": {
@@ -6311,9 +6311,9 @@
             "state": "future"
         },
         "sharepointads.com": {
-            "epoch": "1552176000",
-            "expiration_date": "10-mar-2019",
-            "state": "past"
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
         },
         "sharethrough.com": {
             "epoch": "1576886400",
@@ -7001,8 +7001,8 @@
             "state": "future"
         },
         "topsafelist.net": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "topsearcher.com": {
