@@ -2238,7 +2238,7 @@
         "clickhouse.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickhype.com": {
             "epoch": "1580515200",
@@ -2631,8 +2631,8 @@
             "state": "future"
         },
         "dakic-ia-300.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "danban.com": {
@@ -4016,8 +4016,8 @@
             "state": "future"
         },
         "inspectlet.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1678492800",
+            "expiration_date": "11-mar-2023",
             "state": "future"
         },
         "inspectorclick.com": {
