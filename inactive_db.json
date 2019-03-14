@@ -122,13 +122,7 @@
             "s1.delfilt.adocean.pl",
             "spykemediatrack.co",
             "t.pusk.ru",
-            "tailsweep.co.uk"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserver.omroepzeeland.nl",
+            "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "unblock.onaudience.com",
@@ -136,6 +130,12 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.omroepzeeland.nl"
         ]
     }
 }
