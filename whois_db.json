@@ -4516,8 +4516,8 @@
             "state": "future"
         },
         "media.net": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "media6degrees.com": {
@@ -4641,8 +4641,8 @@
             "state": "future"
         },
         "microstatic.pl": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "microticker.com": {
@@ -5203,7 +5203,7 @@
         "ordingly.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "outbrain.com": {
             "epoch": "1691539200",
@@ -5561,8 +5561,8 @@
             "state": "future"
         },
         "porntrack.com": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
             "state": "future"
         },
         "possibleboats.com": {
@@ -5931,8 +5931,8 @@
             "state": "future"
         },
         "regnow.com": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
             "state": "future"
         },
         "reinvigorate.net": {
@@ -6286,8 +6286,8 @@
             "state": "future"
         },
         "sexystat.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "shakesea.com": {
@@ -6373,6 +6373,11 @@
         "sinoa.com": {
             "epoch": "1576627200",
             "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "sitebravefull.info": {
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "sitedataprocessing.com": {
@@ -7058,7 +7063,7 @@
         "trackingsoft.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "trackmysales.com": {
             "epoch": "1578873600",
