@@ -81,14 +81,7 @@
             "b.engadget.com",
             "b0b1o.bid",
             "banner.getgo.de",
-            "banners.easydns.com"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "banners.easydns.com",
             "ch.questionmarket.com",
             "cinstein.com",
             "clients.tbo.com",
@@ -106,7 +99,14 @@
             "ivwbox.de",
             "koinser.in",
             "media.ftv-publicite.fr",
-            "mediamarkt.pl.goodsurprises.top",
+            "mediamarkt.pl.goodsurprises.top"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "megabanners.cf",
             "mon.pebx.pl",
             "mtrcs.samba.tv",
