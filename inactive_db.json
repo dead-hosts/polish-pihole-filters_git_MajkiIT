@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1553438203": [
+        "1553555138": [
             "!",
             "(^|\\.)adform\\.net$",
             "(^|\\.)adocean\\.(pl)$",
@@ -34,6 +34,7 @@
             "ad.globe7.com",
             "ad.onad.eu",
             "ad.pandora.tv",
+            "ad.profiwin.de",
             "ad2.linxcz.cz",
             "adboost.de.vu",
             "adimages.omroepzeeland.nl",
@@ -47,11 +48,12 @@
             "ads.eatinparis.com",
             "ads.expedia.com",
             "ads.foxnews.com",
-            "ads.getlucky.com",
+            "ads.getlucky.com"
+        ],
+        "to_test": [
             "ads.heias.com",
             "ads.hideyourarms.com",
             "ads.iafrica.com",
-            "ad.yoyo.pl",
             "ads.larryaffiliates.com",
             "ads.linuxsecurity.com",
             "ads.newdream.net",
@@ -68,6 +70,11 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -100,6 +107,7 @@
             "ivwbox.de",
             "koinser.in",
             "media.ftv-publicite.fr",
+            "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
             "mon.pebx.pl",
             "mtrcs.samba.tv",
@@ -124,18 +132,10 @@
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "unblock.onaudience.com",
+            "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "mediamarkt.pl.goodsurprises.top",
-            "vutzmxahqio.co"
         ]
     }
 }
