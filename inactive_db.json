@@ -85,13 +85,7 @@
             "b0b1o.bid",
             "banner.getgo.de",
             "banner.orb.net",
-            "banners.easydns.com"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserver.omroepzeeland.nl",
+            "banners.easydns.com",
             "ch.questionmarket.com",
             "cinstein.com",
             "clients.tbo.com",
@@ -105,9 +99,16 @@
             "googlenews.xorg.pl",
             "informacje.nbhost.pl",
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
+            "interstat.hu",
             "ioam.de",
             "ivwbox.de",
-            "koinser.in",
+            "koinser.in"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.omroepzeeland.nl",
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
