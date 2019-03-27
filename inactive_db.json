@@ -101,15 +101,7 @@
             "ivwbox.de",
             "koinser.in",
             "media.ftv-publicite.fr",
-            "mediamarkt.pl.goodsurprises.top"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "megabanners.cf",
+            "mediamarkt.pl.goodsurprises.top",
             "mon.pebx.pl",
             "mtrcs.samba.tv",
             "nephritish.com",
@@ -132,7 +124,15 @@
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
-            "unblock.onaudience.com",
+            "unblock.onaudience.com"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
+            "megabanners.cf",
             "vutzmxahqio.co",
             "wantmobi.bid",
             "ws-gateway.com",
