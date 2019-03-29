@@ -2626,8 +2626,8 @@
             "state": "future"
         },
         "daib.pl": {
-            "epoch": "1553731200",
-            "expiration_date": "28-mar-2019",
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
             "state": "future"
         },
         "dakic-ia-300.com": {
@@ -3776,8 +3776,8 @@
             "state": "future"
         },
         "httpool.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1711670400",
+            "expiration_date": "29-mar-2024",
             "state": "future"
         },
         "hub.com.pl": {
@@ -4533,7 +4533,7 @@
         "mediacharger.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediadvertising.ro": {
             "epoch": "1565568000",
