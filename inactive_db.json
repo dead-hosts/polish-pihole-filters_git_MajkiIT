@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1554043204": [
+        "1554216196": [
             "!",
             "(^|\\.)adform\\.net$",
             "(^|\\.)adocean\\.(pl)$",
@@ -51,9 +51,10 @@
             "ads.heias.com",
             "ads.hideyourarms.com",
             "ads.iafrica.com",
-            "ad.yoyo.pl",
             "ads.larryaffiliates.com",
-            "ads.linuxsecurity.com",
+            "ads.linuxsecurity.com"
+        ],
+        "to_test": [
             "ads.newdream.net",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
@@ -68,6 +69,11 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -132,13 +138,6 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl"
         ]
     }
 }
