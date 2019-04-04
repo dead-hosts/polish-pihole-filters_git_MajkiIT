@@ -2058,7 +2058,7 @@
         "casinotreasure.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "casterist.info": {
             "epoch": "1579132800",
@@ -2378,7 +2378,7 @@
         "commandwalk.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "commissionmonster.com": {
             "epoch": "1572912000",
@@ -2416,8 +2416,8 @@
             "state": "future"
         },
         "consciouscabbage.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "contextad.pl": {
@@ -2578,7 +2578,7 @@
         "crownclam.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "crwdcntrl.net": {
             "epoch": "1605916800",
@@ -2676,8 +2676,8 @@
             "state": "future"
         },
         "decisiveducks.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "decknetwork.net": {
@@ -2688,7 +2688,7 @@
         "delightdriving.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "deloton.com": {
             "epoch": "1569715200",
@@ -2710,6 +2710,11 @@
             "expiration_date": "31-jul-2021",
             "state": "future"
         },
+        "dexessee.com": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
         "dialerporn.com": {
             "epoch": "1578009600",
             "expiration_date": "03-jan-2020",
@@ -2728,7 +2733,7 @@
         "differentdesk.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "digitalmerkat.com": {
             "epoch": "1557360000",
@@ -2846,8 +2851,8 @@
             "state": "future"
         },
         "doubtfulrainstorm.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "downfiles.pl": {
@@ -2856,8 +2861,8 @@
             "state": "future"
         },
         "dragzebra.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "drumcash.com": {
@@ -3406,8 +3411,8 @@
             "state": "future"
         },
         "functionalclam.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "funklicks.com": {
@@ -3431,13 +3436,13 @@
             "state": "future"
         },
         "futuristicfairies.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "fuzzyflavor.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "fxstyle.net": {
@@ -3596,8 +3601,8 @@
             "state": "future"
         },
         "guardedgovernor.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "guitarbelieve.com": {
@@ -4116,9 +4121,9 @@
             "state": "future"
         },
         "its-that-easy.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "itsptp.com": {
             "epoch": "1574726400",
@@ -4243,7 +4248,7 @@
         "lakequincy.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "lapkowo.pl": {
             "epoch": "1569024000",
@@ -4321,8 +4326,8 @@
             "state": "future"
         },
         "limpingline.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "link4ads.com": {
@@ -4416,8 +4421,8 @@
             "state": "future"
         },
         "lopsidedspoon.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "loudloss.com": {
