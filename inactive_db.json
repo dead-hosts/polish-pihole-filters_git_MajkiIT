@@ -104,14 +104,7 @@
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
             "mon.pebx.pl",
-            "mtrcs.samba.tv"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "mtrcs.samba.tv",
             "nephritish.com",
             "oas.salon.com",
             "oewabox.at",
@@ -131,7 +124,14 @@
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "unblock.onaudience.com",
-            "vutzmxahqio.co",
+            "vutzmxahqio.co"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
