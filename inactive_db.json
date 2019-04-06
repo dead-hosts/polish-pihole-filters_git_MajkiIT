@@ -83,14 +83,7 @@
             "b0b1o.bid",
             "banner.getgo.de",
             "banners.easydns.com",
-            "ch.questionmarket.com"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "ch.questionmarket.com",
             "cinstein.com",
             "clients.tbo.com",
             "dhl-paczki.ml",
@@ -111,7 +104,14 @@
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
             "mon.pebx.pl",
-            "mtrcs.samba.tv",
+            "mtrcs.samba.tv"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "nephritish.com",
             "oas.salon.com",
             "oewabox.at",
