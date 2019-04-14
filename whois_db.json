@@ -2056,9 +2056,9 @@
             "state": "future"
         },
         "casinotreasure.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1586649600",
+            "expiration_date": "12-apr-2020",
+            "state": "future"
         },
         "casterist.info": {
             "epoch": "1579132800",
@@ -2473,7 +2473,7 @@
         "counted.com": {
             "epoch": "1555200000",
             "expiration_date": "14-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "counter.cz": {
             "epoch": "1570838400",
@@ -3381,8 +3381,8 @@
             "state": "future"
         },
         "freeskreen.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
             "state": "future"
         },
         "freestats.com": {
