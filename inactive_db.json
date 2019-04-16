@@ -51,9 +51,7 @@
             "ads.getlucky.com",
             "ads.heias.com",
             "ads.hideyourarms.com",
-            "ads.iafrica.com"
-        ],
-        "to_test": [
+            "ads.iafrica.com",
             "ads.larryaffiliates.com",
             "ads.linuxsecurity.com",
             "ads.newdream.net",
@@ -70,11 +68,6 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -91,7 +84,14 @@
             "b0b1o.bid",
             "banner.getgo.de",
             "bannerexchange.cjb.net",
-            "banners.easydns.com",
+            "banners.easydns.com"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "ch.questionmarket.com",
             "cinstein.com",
             "clients.tbo.com",
