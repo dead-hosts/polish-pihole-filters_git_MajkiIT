@@ -478,7 +478,7 @@
         "adgoto.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "adgridwork.com": {
             "epoch": "1572566400",
