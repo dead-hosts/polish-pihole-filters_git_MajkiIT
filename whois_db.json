@@ -143,7 +143,7 @@
         "99count.com": {
             "epoch": "1555545600",
             "expiration_date": "18-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "9utwbj08.top": {
             "epoch": "1579651200",
@@ -476,9 +476,9 @@
             "state": "future"
         },
         "adgoto.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
-            "state": "past"
+            "epoch": "1618531200",
+            "expiration_date": "16-apr-2021",
+            "state": "future"
         },
         "adgridwork.com": {
             "epoch": "1572566400",
@@ -551,8 +551,8 @@
             "state": "future"
         },
         "adjustnetwork.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "adk2.com": {
@@ -576,8 +576,8 @@
             "state": "future"
         },
         "adlegend.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "adloox.com": {
