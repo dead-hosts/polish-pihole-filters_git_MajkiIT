@@ -5326,8 +5326,8 @@
             "state": "future"
         },
         "paypopup.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "payserve.com": {
@@ -6741,9 +6741,9 @@
             "state": "future"
         },
         "switchadhub.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
-            "state": "past"
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
         },
         "switchads.com": {
             "epoch": "1564531200",
@@ -6896,9 +6896,9 @@
             "state": "future"
         },
         "theads.me": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
-            "state": "past"
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
         },
         "thebugs.ws": {
             "epoch": "1583280000",
@@ -7011,8 +7011,8 @@
             "state": "future"
         },
         "topgamesites.net": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "toplist.cz": {
