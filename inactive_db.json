@@ -107,15 +107,7 @@
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
-            "mon.pebx.pl"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "mtrcs.samba.tv",
+            "mon.pebx.pl",
             "nephritish.com",
             "oas.salon.com",
             "oewabox.at",
@@ -134,7 +126,15 @@
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
-            "unblock.onaudience.com",
+            "unblock.onaudience.com"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
+            "mtrcs.samba.tv",
             "vutzmxahqio.co",
             "ws-gateway.com",
             "www.banner-link.com.br",
