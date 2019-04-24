@@ -5035,6 +5035,11 @@
             "expiration_date": "08-jul-2019",
             "state": "future"
         },
+        "netmng.com": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
         "netshelter.net": {
             "epoch": "1577577600",
             "expiration_date": "29-dec-2019",
@@ -5100,6 +5105,11 @@
             "expiration_date": "21-apr-2021",
             "state": "future"
         },
+        "nsaudience.pl": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
         "ntv.io": {
             "epoch": "1569888000",
             "expiration_date": "01-oct-2019",
@@ -5141,8 +5151,8 @@
             "state": "future"
         },
         "offermatica.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "offerplaying.com": {
@@ -5558,6 +5568,11 @@
         "plista.com": {
             "epoch": "1569542400",
             "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "plugin.management": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
             "state": "future"
         },
         "plugrush.com": {
@@ -6193,6 +6208,21 @@
         "sail-horizon.com": {
             "epoch": "1601164800",
             "expiration_date": "27-sep-2020",
+            "state": "future"
+        },
+        "salesbee.pl": {
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
+            "state": "future"
+        },
+        "salesbeehive.com": {
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "salesmanago.pl": {
+            "epoch": "1601856000",
+            "expiration_date": "05-oct-2020",
             "state": "future"
         },
         "samnumer.pl": {
@@ -6886,8 +6916,8 @@
             "state": "future"
         },
         "tealeaf.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "techclicks.net": {
@@ -7473,6 +7503,11 @@
         "veille-referencement.com": {
             "epoch": "1558483200",
             "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "vendimob.pl": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "ventivmedia.com": {
