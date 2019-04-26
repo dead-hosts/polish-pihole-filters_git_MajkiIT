@@ -4966,8 +4966,8 @@
             "state": "future"
         },
         "ndparking.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "nedstat.com": {
@@ -5781,8 +5781,8 @@
             "state": "future"
         },
         "proton-tm.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "protraffic.com": {
@@ -7123,7 +7123,7 @@
         "topsites.com.br": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "topstats.com": {
             "epoch": "1579478400",
