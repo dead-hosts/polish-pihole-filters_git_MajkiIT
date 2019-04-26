@@ -87,13 +87,8 @@
             "banery.acr.pl",
             "banner.getgo.de",
             "bannerexchange.cjb.net",
-            "banners.easydns.com"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserver.omroepzeeland.nl",
+            "banners.easydns.com",
+            "block734.oplatyi.pl",
             "ch.questionmarket.com",
             "cinstein.com",
             "clients.tbo.com",
@@ -113,7 +108,13 @@
             "interstat.hu",
             "ioam.de",
             "ivwbox.de",
-            "koinser.in",
+            "koinser.in"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.omroepzeeland.nl",
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
