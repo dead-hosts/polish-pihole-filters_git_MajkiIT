@@ -7730,6 +7730,11 @@
             "expiration_date": "25-oct-2019",
             "state": "future"
         },
+        "whegadry.com": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
         "whenu.com": {
             "epoch": "1563753600",
             "expiration_date": "22-jul-2019",
