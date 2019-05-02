@@ -17,3 +17,14 @@
 (^|\.)meetrics\.net$
 (^|\.)smartadserver\.com$
 [imported]
+(^|\.)audienceinsights\.net$
+(^|\.)behavioralengine\.com$
+(^|\.)clickmatic\.pl$
+(^|\.)doubleclick\.(com)$
+(^|\.)gemius\.(com|pl)$
+(^|\.)hit\.gemius\.pl$
+(^|\.)hit\.interia\.pl$
+(^|\.)lcx\.pl$
+(^|\.)meetrics\.net$
+(^|\.)smartadserver\.com$
+[imported]
