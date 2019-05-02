@@ -99,7 +99,12 @@
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "tracker.twenga.pl",
-            "unblock.onaudience.com"
+            "unblock.onaudience.com",
+            "vutzmxahqio.co",
+            "wantmobi.bid",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "!",
@@ -143,12 +148,7 @@
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "vutzmxahqio.co",
-            "wantmobi.bid",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "adserver.omroepzeeland.nl"
         ]
     }
 }
