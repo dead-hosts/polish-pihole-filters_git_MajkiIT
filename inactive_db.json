@@ -57,9 +57,7 @@
             "ads.larryaffiliates.com",
             "ads.linuxsecurity.com",
             "ads.newdream.net",
-            "ads.newsquest.co.uk"
-        ],
-        "to_test": [
+            "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
             "ads.returnpath.net",
             "ads.s3.sitepoint.com",
@@ -73,11 +71,6 @@
             "ads.web.aol.com",
             "ads.web.cs.com",
             "ads.yourfreedvds.com",
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -96,7 +89,14 @@
             "bannerexchange.cjb.net",
             "banners.easydns.com",
             "block734.oplatyi.pl",
-            "ch.questionmarket.com",
+            "ch.questionmarket.com"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "cinstein.com",
             "clicktag.de",
             "clients.tbo.com",
