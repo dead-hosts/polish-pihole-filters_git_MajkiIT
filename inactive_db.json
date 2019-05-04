@@ -113,15 +113,7 @@
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
-            "mon.pebx.pl"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "mtrcs.samba.tv",
+            "mon.pebx.pl",
             "nephritish.com",
             "netpool.netbookia.net",
             "oas.salon.com",
@@ -143,7 +135,15 @@
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "tracker.twenga.pl",
-            "unblock.onaudience.com",
+            "unblock.onaudience.com"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
+            "mtrcs.samba.tv",
             "vutzmxahqio.co",
             "wantmobi.bid",
             "ws-gateway.com",
