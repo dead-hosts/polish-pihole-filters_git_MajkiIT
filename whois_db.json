@@ -2446,8 +2446,8 @@
             "state": "future"
         },
         "contextad.pl": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "contextweb.com": {
@@ -2658,6 +2658,11 @@
         "daib.pl": {
             "epoch": "1585353600",
             "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "daily-jokes.net": {
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
             "state": "future"
         },
         "dakic-ia-300.com": {
@@ -3361,8 +3366,8 @@
             "state": "future"
         },
         "flurry.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "foresee.com": {
@@ -3736,8 +3741,8 @@
             "state": "future"
         },
         "hitbox.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "hitfarm.com": {
@@ -3746,8 +3751,8 @@
             "state": "future"
         },
         "hitiz.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "hitlist.ru": {
@@ -3918,7 +3923,7 @@
         "identads.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "idtargeting.com": {
             "epoch": "1572652800",
@@ -4631,8 +4636,8 @@
             "state": "future"
         },
         "mediatext.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "mediatrking.com": {

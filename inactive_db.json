@@ -89,14 +89,7 @@
             "bannerexchange.cjb.net",
             "banners.easydns.com",
             "block734.oplatyi.pl",
-            "ch.questionmarket.com"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "ch.questionmarket.com",
             "cinstein.com",
             "clicktag.de",
             "clients.tbo.com",
@@ -120,7 +113,14 @@
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
-            "mon.pebx.pl",
+            "mon.pebx.pl"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "mtrcs.samba.tv",
             "nephritish.com",
             "netpool.netbookia.net",
