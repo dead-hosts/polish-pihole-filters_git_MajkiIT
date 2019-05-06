@@ -5991,8 +5991,8 @@
             "state": "future"
         },
         "realtracker.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "receptiveink.com": {
@@ -6598,6 +6598,11 @@
         "sonobi.com": {
             "epoch": "1606608000",
             "expiration_date": "29-nov-2020",
+            "state": "future"
+        },
+        "sooloaph.com": {
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "sortable.com": {
@@ -7501,8 +7506,8 @@
             "state": "future"
         },
         "valuecommerce.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "variablefitness.com": {
