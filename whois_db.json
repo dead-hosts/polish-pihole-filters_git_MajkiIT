@@ -1536,8 +1536,8 @@
             "state": "future"
         },
         "audienceinsights.net": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
             "state": "future"
         },
         "augur.io": {
@@ -2018,7 +2018,7 @@
         "casalmedia.com": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cash4members.com": {
             "epoch": "1565049600",
