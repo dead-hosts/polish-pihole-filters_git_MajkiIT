@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1557327544": [
+        "1557500409": [
             "!",
             "(^|\\.)adform\\.net$",
             "(^|\\.)adocean\\.(pl)$",
@@ -56,7 +56,9 @@
             "ads.iafrica.com",
             "ads.larryaffiliates.com",
             "ads.linuxsecurity.com",
-            "ads.newdream.net",
+            "ads.newdream.net"
+        ],
+        "to_test": [
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
             "ads.returnpath.net",
@@ -71,6 +73,11 @@
             "ads.web.aol.com",
             "ads.web.cs.com",
             "ads.yourfreedvds.com",
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -112,6 +119,7 @@
             "media.ftv-publicite.fr",
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
+            "mon.pebx.pl",
             "mtrcs.samba.tv",
             "nephritish.com",
             "oas.salon.com",
@@ -139,14 +147,6 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "mon.pebx.pl"
         ]
     }
 }
