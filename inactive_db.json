@@ -135,17 +135,17 @@
             "tracker.twenga.pl",
             "unblock.onaudience.com",
             "vutzmxahqio.co",
-            "wantmobi.bid"
+            "wantmobi.bid",
+            "ws-gateway.com",
+            "www.banner-link.com.br",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "ads2.rp.pl",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "ws-gateway.com",
-            "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "adserver.omroepzeeland.nl"
         ]
     }
 }
