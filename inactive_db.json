@@ -130,13 +130,7 @@
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
             "spykemediatrack.co",
-            "stats-srv.rp.pl"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "banners.easydns.com",
+            "stats-srv.rp.pl",
             "t.pusk.ru",
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
@@ -148,6 +142,12 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "banners.easydns.com"
         ]
     }
 }
