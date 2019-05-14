@@ -1411,8 +1411,8 @@
             "state": "future"
         },
         "amazingcounters.com": {
-            "epoch": "1557792000",
-            "expiration_date": "14-may-2019",
+            "epoch": "1589414400",
+            "expiration_date": "14-may-2020",
             "state": "future"
         },
         "amazon-adsystem.com": {
@@ -1586,9 +1586,9 @@
             "state": "future"
         },
         "b59812ee54afcabd.com": {
-            "epoch": "1557619200",
-            "expiration_date": "12-may-2019",
-            "state": "past"
+            "epoch": "1589241600",
+            "expiration_date": "12-may-2020",
+            "state": "future"
         },
         "back.marketing": {
             "epoch": "1569110400",
