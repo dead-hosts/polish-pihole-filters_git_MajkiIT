@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1557673247": [
+        "1557846125": [
             "!",
             "(^|\\.)adform\\.net$",
             "(^|\\.)adocean\\.(pl)$",
@@ -36,6 +36,7 @@
             "ad.onad.eu",
             "ad.pandora.tv",
             "ad.slutload.com",
+            "ad.yoyo.pl",
             "ad2.linxcz.cz",
             "adboost.de.vu",
             "adimages.omroepzeeland.nl",
@@ -47,7 +48,9 @@
             "ads.cgnetworks.com",
             "ads.datinggold.com",
             "ads.eatinparis.com",
-            "ads.expedia.com",
+            "ads.expedia.com"
+        ],
+        "to_test": [
             "ads.foxnews.com",
             "ads.getlucky.com",
             "ads.heias.com",
@@ -69,6 +72,11 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -139,13 +147,6 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl"
         ]
     }
 }
