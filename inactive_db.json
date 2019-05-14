@@ -103,13 +103,7 @@
             "fragmentserv.iac-online.de",
             "gift.gifts-for-free.online",
             "googlenews.xorg.pl",
-            "hitslink.interia.com.pl"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "banners.easydns.com",
+            "hitslink.interia.com.pl",
             "informacje.nbhost.pl",
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
             "int.sitestat.com",
@@ -136,7 +130,13 @@
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
             "spykemediatrack.co",
-            "stats-srv.rp.pl",
+            "stats-srv.rp.pl"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "banners.easydns.com",
             "t.pusk.ru",
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
