@@ -87,13 +87,7 @@
             "b.engadget.com",
             "b0b1o.bid",
             "banner.getgo.de",
-            "bannerexchange.cjb.net"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "banners.easydns.com",
+            "bannerexchange.cjb.net",
             "block734.oplatyi.pl",
             "ch.questionmarket.com",
             "cinstein.com",
@@ -109,7 +103,13 @@
             "fragmentserv.iac-online.de",
             "gift.gifts-for-free.online",
             "googlenews.xorg.pl",
-            "hitslink.interia.com.pl",
+            "hitslink.interia.com.pl"
+        ],
+        "to_test": [
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "banners.easydns.com",
             "informacje.nbhost.pl",
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
             "int.sitestat.com",
