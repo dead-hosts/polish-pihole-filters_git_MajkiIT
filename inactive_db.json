@@ -41,7 +41,16 @@
             "ads.virtualcountries.com"
         ],
         "1558019438": [
-            "ads.sptimes.com"
+            "ads.sptimes.com",
+            "adverts.carltononline.com",
+            "analytics.newsinc.com",
+            "(^|\\.)audienceinsights\\.net$",
+            "bannerexchange.cjb.net",
+            "banner.getgo.de",
+            "b.aol.com",
+            "banners.easydns.com",
+            "(^|\\.)behavioralengine\\.com$",
+            "block734.oplatyi.pl"
         ],
         "to_test": [
             "!",
