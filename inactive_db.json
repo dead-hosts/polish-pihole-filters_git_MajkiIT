@@ -1,6 +1,49 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1557846125": [
+        "1558019004": [
+            "!",
+            "0daib.pl",
+            "a.0day.kiev.ua",
+            "a32.g.a.yimg.com",
+            "ad.afy11.net",
+            "ad2.linxcz.cz",
+            "adboost.de.vu",
+            "(^|\\.)adform\\.net$",
+            "ad.globe7.com",
+            "(^|\\.)adocean\\.(pl)$",
+            "ad.onad.eu",
+            "adq.nextag.com",
+            "ads.ak.facebook.com.edgesuite.net",
+            "ads2.rp.pl",
+            "(^|\\.)adsbtrack\\.com$",
+            "ads.cgnetworks.com",
+            "adserver.43plc.com"
+        ],
+        "1558019334": [
+            "ads.datinggold.com",
+            "adserv.iafrica.com"
+        ],
+        "1558019341": [
+            "(^|\\.)adserver\\.snapads\\.com$"
+        ],
+        "1558019372": [
+            "ads.foxnews.com",
+            "ads.hideyourarms.com"
+        ],
+        "1558019403": [
+            "ad.slutload.com",
+            "ads.linuxsecurity.com",
+            "ads.iafrica.com",
+            "ads.newdream.net",
+            "ads.penny-arcade.com",
+            "ads.returnpath.net",
+            "ads.s3.sitepoint.com",
+            "ads.virtualcountries.com"
+        ],
+        "1558019438": [
+            "ads.sptimes.com"
+        ],
+        "to_test": [
             "!",
             "(^|\\.)adform\\.net$",
             "(^|\\.)adocean\\.(pl)$",
@@ -71,6 +114,9 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "ads2.rp.pl",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
             "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
@@ -88,6 +134,7 @@
             "b0b1o.bid",
             "banner.getgo.de",
             "bannerexchange.cjb.net",
+            "banners.easydns.com",
             "block734.oplatyi.pl",
             "ch.questionmarket.com",
             "cinstein.com",
@@ -142,12 +189,6 @@
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
-        ],
-        "to_test": [
-            "ads2.rp.pl",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "banners.easydns.com"
         ]
     }
 }
