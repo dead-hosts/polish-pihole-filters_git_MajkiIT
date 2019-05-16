@@ -50,7 +50,12 @@
             "b.aol.com",
             "banners.easydns.com",
             "(^|\\.)behavioralengine\\.com$",
-            "block734.oplatyi.pl"
+            "block734.oplatyi.pl",
+            "ch.questionmarket.com",
+            "(^|\\.)clickmatic\\.pl$",
+            "clients.tbo.com",
+            "clicktag.de",
+            "count.rbc.ru"
         ],
         "to_test": [
             "!",
