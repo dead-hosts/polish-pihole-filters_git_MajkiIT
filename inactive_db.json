@@ -55,7 +55,17 @@
             "(^|\\.)clickmatic\\.pl$",
             "clients.tbo.com",
             "clicktag.de",
-            "count.rbc.ru"
+            "count.rbc.ru",
+            "(^|\\.)doubleclick\\.(com)$",
+            "eur.a1.yimg.com",
+            "(^|\\.)gemius\\.(com|pl)$",
+            "gift.gifts-for-free.online",
+            "(^|\\.)hit\\.interia\\.pl$",
+            "(^|\\.)hit\\.gemius\\.pl$",
+            "hitslink.interia.com.pl",
+            "[imported]",
+            "interstat.hu",
+            "int.sitestat.com"
         ],
         "to_test": [
             "!",
