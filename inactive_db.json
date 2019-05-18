@@ -1,71 +1,58 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1558019004": [
+        "1558191886": [
+            "(^|\\.)lcx\\.pl$"
+        ],
+        "1558191899": [
+            "(^|\\.)meetrics\\.net$",
+            "oas.salon.com"
+        ],
+        "1558191936": [
+            "(^|\\.)smartadserver\\.com$",
+            "pixel.redditmedia.com",
+            "tracker.twenga.pl"
+        ],
+        "1558192027": [
             "!",
-            "0daib.pl",
-            "a.0day.kiev.ua",
-            "a32.g.a.yimg.com",
-            "ad.afy11.net",
-            "ad2.linxcz.cz",
-            "adboost.de.vu",
-            "(^|\\.)adform\\.net$",
-            "ad.globe7.com",
-            "(^|\\.)adocean\\.(pl)$",
-            "ad.onad.eu",
-            "adq.nextag.com",
-            "ads.ak.facebook.com.edgesuite.net",
-            "ads2.rp.pl",
-            "(^|\\.)adsbtrack\\.com$",
-            "ads.cgnetworks.com",
-            "adserver.43plc.com"
+            "1.googlenews.xorg.pl",
+            "2.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
+            "4.googlenews.xorg.pl",
+            "5.googlenews.xorg.pl",
+            "accounts.goouigle.net",
+            "acuty1adsrv.com",
+            "ad.e-kolay.net",
+            "ad.f1cd.ru",
+            "adobedc.cf",
+            "ads.adultswim.com",
+            "ads.aol.com",
+            "ads.eatinparis.com",
+            "ads.expedia.com",
+            "ads.slim.com",
+            "ads.telegraph.co.uk",
+            "ads.tripod.spray.se",
+            "adsremote.scrippsnetworks.com",
+            "adsrv.eacdn.com",
+            "adtrading.de",
+            "an.tacoda.net",
+            "avzadsrv.com",
+            "b.engadget.com",
+            "b0b1o.bid",
+            "cinstein.com",
+            "dhl-paczki.ml",
+            "wantmobi.bid",
+            "www.banner-link.com.br"
         ],
-        "1558019334": [
-            "ads.datinggold.com",
-            "adserv.iafrica.com"
-        ],
-        "1558019341": [
-            "(^|\\.)adserver\\.snapads\\.com$"
-        ],
-        "1558019372": [
-            "ads.foxnews.com",
-            "ads.hideyourarms.com"
-        ],
-        "1558019403": [
-            "ad.slutload.com",
-            "ads.linuxsecurity.com",
-            "ads.iafrica.com",
-            "ads.newdream.net",
-            "ads.penny-arcade.com",
-            "ads.returnpath.net",
-            "ads.s3.sitepoint.com",
-            "ads.virtualcountries.com"
-        ],
-        "1558019438": [
-            "ads.sptimes.com",
-            "adverts.carltononline.com",
-            "analytics.newsinc.com",
-            "(^|\\.)audienceinsights\\.net$",
-            "bannerexchange.cjb.net",
-            "banner.getgo.de",
-            "b.aol.com",
-            "banners.easydns.com",
-            "(^|\\.)behavioralengine\\.com$",
-            "block734.oplatyi.pl",
-            "ch.questionmarket.com",
-            "(^|\\.)clickmatic\\.pl$",
-            "clients.tbo.com",
-            "clicktag.de",
-            "count.rbc.ru",
-            "(^|\\.)doubleclick\\.(com)$",
-            "eur.a1.yimg.com",
-            "(^|\\.)gemius\\.(com|pl)$",
-            "gift.gifts-for-free.online",
-            "(^|\\.)hit\\.interia\\.pl$",
-            "(^|\\.)hit\\.gemius\\.pl$",
-            "hitslink.interia.com.pl",
-            "[imported]",
-            "interstat.hu",
-            "int.sitestat.com"
+        "1558192082": [
+            "forum-windows.eu",
+            "informacje.nbhost.pl",
+            "mediamarkt.pl.goodsurprises.top",
+            "megabanners.cf",
+            "przelew.otrans.pl",
+            "s1.delfilt.adocean.pl",
+            "t.pusk.ru",
+            "tailsweep.co.uk",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
             "!",
@@ -142,6 +129,7 @@
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
+            "adserver.43plc.com",
             "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
@@ -194,7 +182,6 @@
             "openad.tf1.fr",
             "pixel.redditmedia.com",
             "platnosc.link",
-            "przelew.otrans.pl",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",

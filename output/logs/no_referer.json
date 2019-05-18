@@ -1,6 +1,46 @@
 {
-    "1558023385.5983632": {
-        "domain": "clickcompare.co.uk",
+    "1558192048.1280382": {
+        "domain": "ad.pandora.tv",
+        "extension": "tv"
+    },
+    "1558192052.2069018": {
+        "domain": "ads.newsquest.co.uk",
         "extension": "uk"
+    },
+    "1558192052.3026147": {
+        "domain": "ads.sift.co.uk",
+        "extension": "uk"
+    },
+    "1558192052.3477736": {
+        "domain": "ads.telegraph.co.uk",
+        "extension": "uk"
+    },
+    "1558192052.3638577": {
+        "domain": "ads.trinitymirror.co.uk",
+        "extension": "uk"
+    },
+    "1558192052.6960227": {
+        "domain": "dhl-paczki.ml",
+        "extension": "ml"
+    },
+    "1558192081.730172": {
+        "domain": "mediamarkt.pl.goodsurprises.top",
+        "extension": "top"
+    },
+    "1558192081.7539039": {
+        "domain": "mtrcs.samba.tv",
+        "extension": "tv"
+    },
+    "1558192081.826907": {
+        "domain": "platnosc.link",
+        "extension": "link"
+    },
+    "1558192081.90084": {
+        "domain": "tailsweep.co.uk",
+        "extension": "uk"
+    },
+    "1558192081.9489512": {
+        "domain": "zgarnijiphone.ml",
+        "extension": "ml"
     }
 }
