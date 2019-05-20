@@ -1,58 +1,156 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1558191886": [
-            "(^|\\.)lcx\\.pl$"
+        "1558364712": [
+            "!"
         ],
-        "1558191899": [
-            "(^|\\.)meetrics\\.net$",
-            "oas.salon.com"
+        "1558364713": [
+            "0daib.pl",
+            "a32.g.a.yimg.com",
+            "a.0day.kiev.ua",
+            "ad2.linxcz.cz"
         ],
-        "1558191936": [
-            "(^|\\.)smartadserver\\.com$",
+        "1558364736": [
+            "ad.afy11.net",
+            "adboost.de.vu"
+        ],
+        "1558364754": [
+            "(^|\\.)adform\\.net$",
+            "ad.globe7.com",
+            "(^|\\.)adocean\\.(pl)$",
+            "ad.onad.eu",
+            "adq.nextag.com",
+            "ads.ak.facebook.com.edgesuite.net",
+            "ads2.rp.pl",
+            "(^|\\.)adsbtrack\\.com$",
+            "ads.cgnetworks.com",
+            "ads.datinggold.com",
+            "adserver.43plc.com"
+        ],
+        "1558364801": [
+            "(^|\\.)adserver\\.snapads\\.com$",
+            "adserv.iafrica.com",
+            "ads.foxnews.com",
+            "ads.hideyourarms.com",
+            "ad.slutload.com",
+            "ads.linuxsecurity.com",
+            "ads.iafrica.com"
+        ],
+        "1558364834": [
+            "ads.newdream.net",
+            "ads.penny-arcade.com",
+            "ads.returnpath.net",
+            "ads.s3.sitepoint.com",
+            "ads.sptimes.com",
+            "ads.virtualcountries.com"
+        ],
+        "1558364873": [
+            "adverts.carltononline.com",
+            "analytics.newsinc.com"
+        ],
+        "1558364898": [
+            "(^|\\.)audienceinsights\\.net$",
+            "banner.getgo.de"
+        ],
+        "1558364912": [
+            "bannerexchange.cjb.net",
+            "banners.easydns.com",
+            "b.aol.com",
+            "banner.wirenode.com",
+            "(^|\\.)behavioralengine\\.com$",
+            "block734.oplatyi.pl",
+            "ch.questionmarket.com",
+            "(^|\\.)clickmatic\\.pl$",
+            "clicktag.de"
+        ],
+        "1558364978": [
+            "clients.tbo.com"
+        ],
+        "1558364987": [
+            "count.rbc.ru",
+            "(^|\\.)doubleclick\\.(com)$",
+            "eur.a1.yimg.com",
+            "(^|\\.)gemius\\.(com|pl)$",
+            "gift.gifts-for-free.online",
+            "(^|\\.)hit\\.interia\\.pl$",
+            "(^|\\.)hit\\.gemius\\.pl$",
+            "hitslink.interia.com.pl",
+            "[imported]",
+            "interstat.hu",
+            "int.sitestat.com",
+            "(^|\\.)lcx\\.pl$",
+            "(^|\\.)meetrics\\.net$"
+        ],
+        "1558365127": [
+            "oas.salon.com",
             "pixel.redditmedia.com",
-            "tracker.twenga.pl"
+            "(^|\\.)smartadserver\\.com$",
+            "tracker.twenga.pl",
+            "wantmobi.bid"
         ],
-        "1558192027": [
-            "!",
-            "1.googlenews.xorg.pl",
-            "2.googlenews.xorg.pl",
+        "1558365248": [
+            "www.banner-link.com.br",
+            "!"
+        ],
+        "1558365259": [
             "3.googlenews.xorg.pl",
             "4.googlenews.xorg.pl",
             "5.googlenews.xorg.pl",
+            "ads.adultswim.com",
+            "2.googlenews.xorg.pl",
+            "ads.expedia.com",
+            "ads.aol.com",
+            "1.googlenews.xorg.pl",
             "accounts.goouigle.net",
-            "acuty1adsrv.com",
+            "ads.eatinparis.com",
             "ad.e-kolay.net",
             "ad.f1cd.ru",
-            "adobedc.cf",
-            "ads.adultswim.com",
-            "ads.aol.com",
-            "ads.eatinparis.com",
-            "ads.expedia.com",
-            "ads.slim.com",
-            "ads.telegraph.co.uk",
-            "ads.tripod.spray.se",
-            "adsremote.scrippsnetworks.com",
+            "acuty1adsrv.com",
+            "adobedc.cf"
+        ],
+        "1558365263": [
             "adsrv.eacdn.com",
-            "adtrading.de",
-            "an.tacoda.net",
+            "ads.tripod.spray.se",
             "avzadsrv.com",
-            "b.engadget.com",
             "b0b1o.bid",
             "cinstein.com",
+            "ch.questionmarket.com",
+            "ads.telegraph.co.uk",
+            "banners.easydns.com",
+            "ads.slim.com",
+            "clicktag.de",
+            "b.engadget.com",
+            "count.rbc.ru",
             "dhl-paczki.ml",
-            "wantmobi.bid",
-            "www.banner-link.com.br"
+            "an.tacoda.net",
+            "adtrading.de",
+            "adsremote.scrippsnetworks.com",
+            "block734.oplatyi.pl",
+            "googlenews.xorg.pl"
         ],
-        "1558192082": [
+        "1558365302": [
+            "mon.pebx.pl",
+            "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
+            "ola100.hopto.org",
+            "fb-zmiana-koloru.pl",
+            "nephritish.com",
+            "fragmentserv.iac-online.de",
+            "spykemediatrack.co",
+            "vutzmxahqio.co",
+            "ws-gateway.com",
+            "track.dating-4-you.com",
+            "koinser.in",
+            "mtrcs.samba.tv",
+            "platnosc.link",
             "forum-windows.eu",
-            "informacje.nbhost.pl",
-            "mediamarkt.pl.goodsurprises.top",
-            "megabanners.cf",
-            "przelew.otrans.pl",
-            "s1.delfilt.adocean.pl",
-            "t.pusk.ru",
             "tailsweep.co.uk",
-            "zgarnijiphone.ml"
+            "ranking-street.de",
+            "informacje.nbhost.pl",
+            "t.pusk.ru",
+            "megabanners.cf",
+            "s1.delfilt.adocean.pl",
+            "zgarnijiphone.ml",
+            "mediamarkt.pl.goodsurprises.top",
+            "przelew.otrans.pl"
         ],
         "to_test": [
             "!",
@@ -182,6 +280,7 @@
             "openad.tf1.fr",
             "pixel.redditmedia.com",
             "platnosc.link",
+            "przelew.otrans.pl",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
