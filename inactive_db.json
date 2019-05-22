@@ -1,156 +1,187 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
-        "1558364712": [
-            "!"
+        "1558537583": [
+            "eur.a1.yimg.com"
         ],
-        "1558364713": [
-            "0daib.pl",
-            "a32.g.a.yimg.com",
-            "a.0day.kiev.ua",
-            "ad2.linxcz.cz"
-        ],
-        "1558364736": [
-            "ad.afy11.net",
-            "adboost.de.vu"
-        ],
-        "1558364754": [
-            "(^|\\.)adform\\.net$",
-            "ad.globe7.com",
-            "(^|\\.)adocean\\.(pl)$",
-            "ad.onad.eu",
-            "adq.nextag.com",
-            "ads.ak.facebook.com.edgesuite.net",
-            "ads2.rp.pl",
-            "(^|\\.)adsbtrack\\.com$",
-            "ads.cgnetworks.com",
-            "ads.datinggold.com",
-            "adserver.43plc.com"
-        ],
-        "1558364801": [
-            "(^|\\.)adserver\\.snapads\\.com$",
-            "adserv.iafrica.com",
-            "ads.foxnews.com",
-            "ads.hideyourarms.com",
-            "ad.slutload.com",
-            "ads.linuxsecurity.com",
-            "ads.iafrica.com"
-        ],
-        "1558364834": [
-            "ads.newdream.net",
-            "ads.penny-arcade.com",
+        "1558537592": [
             "ads.returnpath.net",
-            "ads.s3.sitepoint.com",
-            "ads.sptimes.com",
+            "(^|\\.)behavioralengine\\.com$",
+            "(^|\\.)meetrics\\.net$",
+            "oas.salon.com",
+            "ads2.rp.pl"
+        ],
+        "1558537610": [
+            "(^|\\.)audienceinsights\\.net$",
+            "(^|\\.)adocean\\.(pl)$"
+        ],
+        "1558537624": [
+            "(^|\\.)gemius\\.(com|pl)$",
+            "stats-srv.rp.pl",
+            "ads.linuxsecurity.com",
+            "ads.ak.facebook.com.edgesuite.net"
+        ],
+        "1558537675": [
+            "ch.questionmarket.com"
+        ],
+        "1558537681": [
+            "a32.g.a.yimg.com"
+        ],
+        "1558537685": [
+            "ads.hideyourarms.com",
+            "ads.datinggold.com",
+            "(^|\\.)lcx\\.pl$",
+            "interstat.hu",
+            "adq.nextag.com",
+            "adserv.iafrica.com",
             "ads.virtualcountries.com"
         ],
-        "1558364873": [
-            "adverts.carltononline.com",
-            "analytics.newsinc.com"
+        "1558537705": [
+            "ads.newdream.net",
+            "ads.foxnews.com",
+            "ad.afy11.net"
         ],
-        "1558364898": [
-            "(^|\\.)audienceinsights\\.net$",
-            "banner.getgo.de"
-        ],
-        "1558364912": [
-            "bannerexchange.cjb.net",
-            "banners.easydns.com",
-            "b.aol.com",
-            "banner.wirenode.com",
-            "(^|\\.)behavioralengine\\.com$",
-            "block734.oplatyi.pl",
-            "ch.questionmarket.com",
-            "(^|\\.)clickmatic\\.pl$",
-            "clicktag.de"
-        ],
-        "1558364978": [
-            "clients.tbo.com"
-        ],
-        "1558364987": [
-            "count.rbc.ru",
-            "(^|\\.)doubleclick\\.(com)$",
-            "eur.a1.yimg.com",
-            "(^|\\.)gemius\\.(com|pl)$",
-            "gift.gifts-for-free.online",
-            "(^|\\.)hit\\.interia\\.pl$",
-            "(^|\\.)hit\\.gemius\\.pl$",
-            "hitslink.interia.com.pl",
-            "[imported]",
-            "interstat.hu",
-            "int.sitestat.com",
-            "(^|\\.)lcx\\.pl$",
-            "(^|\\.)meetrics\\.net$"
-        ],
-        "1558365127": [
-            "oas.salon.com",
-            "pixel.redditmedia.com",
-            "(^|\\.)smartadserver\\.com$",
+        "1558537733": [
+            "0daib.pl",
+            "ads.web.cs.com",
             "tracker.twenga.pl",
+            "a.0day.kiev.ua",
+            "(^|\\.)adform\\.net$",
+            "www.banner-link.com.br",
+            "adboost.de.vu",
+            "(^|\\.)adsbtrack\\.com$"
+        ],
+        "1558537788": [
+            "ads.web.aol.com",
+            "adverts.carltononline.com",
+            "(^|\\.)adserver\\.snapads\\.com$"
+        ],
+        "1558537797": [
+            "banner.wirenode.com",
+            "hitslink.interia.com.pl",
+            "nedstat.nl"
+        ],
+        "1558537820": [
+            "banner.getgo.de",
+            "ads.s3.sitepoint.com",
+            "clicktag.de",
+            "ad2.linxcz.cz",
+            "pixel.redditmedia.com",
+            "ads.iafrica.com",
+            "ads.cgnetworks.com",
+            "ads.getlucky.com",
+            "adserver.43plc.com",
+            "gift.gifts-for-free.online",
+            "[imported]",
             "wantmobi.bid"
         ],
-        "1558365248": [
-            "www.banner-link.com.br",
-            "!"
+        "1558537858": [
+            "ad.slutload.com",
+            "analytics.newsinc.com"
         ],
-        "1558365259": [
-            "3.googlenews.xorg.pl",
-            "4.googlenews.xorg.pl",
-            "5.googlenews.xorg.pl",
-            "ads.adultswim.com",
-            "2.googlenews.xorg.pl",
-            "ads.expedia.com",
-            "ads.aol.com",
+        "1558537873": [
+            "(^|\\.)doubleclick\\.(com)$",
+            "ad.globe7.com",
+            "clients.tbo.com",
+            "block734.oplatyi.pl"
+        ],
+        "1558537916": [
+            "(^|\\.)clickmatic\\.pl$",
+            "ads.penny-arcade.com",
+            "(^|\\.)smartadserver\\.com$",
+            "b.aol.com",
+            "(^|\\.)hit\\.interia\\.pl$",
+            "ad.onad.eu"
+        ],
+        "1558537968": [
+            "(^|\\.)hit\\.gemius\\.pl$"
+        ],
+        "1558537992": [
+            "count.rbc.ru",
+            "!",
+            "banners.easydns.com",
+            "ads.sptimes.com"
+        ],
+        "1558538036": [
+            "int.sitestat.com"
+        ],
+        "1558538041": [
+            "bannerexchange.cjb.net"
+        ],
+        "1558538056": [
             "1.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
             "accounts.goouigle.net",
-            "ads.eatinparis.com",
-            "ad.e-kolay.net",
-            "ad.f1cd.ru",
+            "ad.choiceradio.com",
+            "4.googlenews.xorg.pl",
             "acuty1adsrv.com",
-            "adobedc.cf"
+            "ad.eurosport.com",
+            "ads.adultswim.com",
+            "ads.foxnews.com",
+            "2.googlenews.xorg.pl",
+            "ads.aol.com",
+            "5.googlenews.xorg.pl",
+            "ads.expedia.com",
+            "ads.getlucky.com",
+            "ad.e-kolay.net",
+            "adimages.omroepzeeland.nl",
+            "ads.eatinparis.com",
+            "ad.f1cd.ru",
+            "adobedc.cf",
+            "ads.heias.com",
+            "ads.slim.com",
+            "arc1.msn.com"
         ],
-        "1558365263": [
-            "adsrv.eacdn.com",
+        "1558538059": [
+            "ads.saymedia.com",
             "ads.tripod.spray.se",
+            "adsrv.eacdn.com",
+            "b.engadget.com",
             "avzadsrv.com",
             "b0b1o.bid",
             "cinstein.com",
-            "ch.questionmarket.com",
+            "ads.larryaffiliates.com",
+            "ads.sift.co.uk",
+            "adserver.omroepzeeland.nl",
             "ads.telegraph.co.uk",
-            "banners.easydns.com",
-            "ads.slim.com",
-            "clicktag.de",
-            "b.engadget.com",
-            "count.rbc.ru",
+            "ads.trinitymirror.co.uk",
+            "ads.newsquest.co.uk",
             "dhl-paczki.ml",
             "an.tacoda.net",
             "adtrading.de",
             "adsremote.scrippsnetworks.com",
-            "block734.oplatyi.pl",
-            "googlenews.xorg.pl"
+            "forum-windows.eu"
         ],
-        "1558365302": [
+        "1558538084": [
             "mon.pebx.pl",
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
-            "ola100.hopto.org",
-            "fb-zmiana-koloru.pl",
-            "nephritish.com",
             "fragmentserv.iac-online.de",
-            "spykemediatrack.co",
+            "nephritish.com",
+            "googlenews.xorg.pl",
+            "fb-zmiana-koloru.pl",
+            "record.bonniergaming.com",
+            "openad.tf1.fr",
+            "ola100.hopto.org",
+            "record.affiliates.karjalakasino.com",
+            "touchclarity.natwest.com",
+            "dmtracking2.alibaba.com",
+            "track.dating-4-you.com",
             "vutzmxahqio.co",
             "ws-gateway.com",
-            "track.dating-4-you.com",
-            "koinser.in",
-            "mtrcs.samba.tv",
-            "platnosc.link",
-            "forum-windows.eu",
-            "tailsweep.co.uk",
+            "media.ftv-publicite.fr",
             "ranking-street.de",
+            "mtrcs.samba.tv",
+            "koinser.in",
+            "platnosc.link",
             "informacje.nbhost.pl",
+            "dmtracking.alibaba.com",
             "t.pusk.ru",
-            "megabanners.cf",
+            "tailsweep.co.uk",
             "s1.delfilt.adocean.pl",
+            "megabanners.cf",
+            "przelew.otrans.pl",
             "zgarnijiphone.ml",
             "mediamarkt.pl.goodsurprises.top",
-            "przelew.otrans.pl"
+            "spykemediatrack.co"
         ],
         "to_test": [
             "!",
@@ -243,6 +274,7 @@
             "b.engadget.com",
             "b0b1o.bid",
             "banner.getgo.de",
+            "banner.wirenode.com",
             "bannerexchange.cjb.net",
             "banners.easydns.com",
             "block734.oplatyi.pl",
@@ -298,7 +330,8 @@
             "wantmobi.bid",
             "ws-gateway.com",
             "www.banner-link.com.br",
-            "zgarnijiphone.ml"
+            "zgarnijiphone.ml",
+            "ad.slutkt.pl.goodsurprises.top"
         ]
     }
 }
