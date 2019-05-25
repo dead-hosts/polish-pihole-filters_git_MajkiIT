@@ -4384,6 +4384,11 @@
         "expiration_date": "22-jul-2023",
         "state": "future"
     },
+    "lijjt.com": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
     "limpingline.com": {
         "epoch": "1585872000",
         "expiration_date": "03-apr-2020",
@@ -4520,8 +4525,8 @@
         "state": "future"
     },
     "lzjl.com": {
-        "epoch": "1557878400",
-        "expiration_date": "15-may-2019",
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "m32.media": {
@@ -4672,6 +4677,11 @@
     "megastats.com": {
         "epoch": "1570838400",
         "expiration_date": "12-oct-2019",
+        "state": "future"
+    },
+    "megolbassia.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
         "state": "future"
     },
     "mellowads.com": {
@@ -4880,8 +4890,8 @@
         "state": "future"
     },
     "mycounter.ua": {
-        "epoch": "1557878400",
-        "expiration_date": "15-may-2019",
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "mydas.mobi": {
@@ -4930,8 +4940,8 @@
         "state": "future"
     },
     "mzbcdn.net": {
-        "epoch": "1558396800",
-        "expiration_date": "21-may-2019",
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "n69.com": {
@@ -4985,8 +4995,8 @@
         "state": "future"
     },
     "nedstat.com": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "nedstatbasic.net": {
@@ -5060,8 +5070,8 @@
         "state": "future"
     },
     "neudesicmediagroup.com": {
-        "epoch": "1557878400",
-        "expiration_date": "15-may-2019",
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "newbie.com": {
@@ -5325,8 +5335,8 @@
         "state": "future"
     },
     "oxcash.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "p986524.pl": {
@@ -5365,8 +5375,8 @@
         "state": "future"
     },
     "parsely.com": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1684454400,
+        "expiration_date": "19-may-2023",
         "state": "future"
     },
     "partner-ads.com": {
@@ -5470,8 +5480,8 @@
         "state": "future"
     },
     "pgmediaserve.com": {
-        "epoch": "1557878400",
-        "expiration_date": "15-may-2019",
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "pgpartner.com": {
@@ -5650,8 +5660,8 @@
         "state": "future"
     },
     "porngraph.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "porntrack.com": {
@@ -5820,8 +5830,8 @@
         "state": "future"
     },
     "prsitecheck.com": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "ps7894.com": {
