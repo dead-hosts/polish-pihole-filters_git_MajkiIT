@@ -7295,8 +7295,8 @@
         "state": "future"
     },
     "traffiq.com": {
-        "epoch": "1557964800",
-        "expiration_date": "16-may-2019",
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "trafic.ro": {
@@ -7525,8 +7525,8 @@
         "state": "future"
     },
     "variablefitness.com": {
-        "epoch": "1558051200",
-        "expiration_date": "17-may-2019",
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "vdztrack.com": {
@@ -7535,8 +7535,8 @@
         "state": "future"
     },
     "veille-referencement.com": {
-        "epoch": "1558483200",
-        "expiration_date": "22-may-2019",
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "vendimob.pl": {
@@ -7725,8 +7725,8 @@
         "state": "future"
     },
     "webstats4u.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
         "state": "future"
     },
     "webtrackerplus.com": {
@@ -7980,8 +7980,8 @@
         "state": "future"
     },
     "ymetrica.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "yoggrt.com": {
