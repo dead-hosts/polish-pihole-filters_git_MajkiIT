@@ -214,5 +214,45 @@
     "1558972181.5097046": {
         "domain": "plugin.management",
         "extension": "management"
+    },
+    "1558972496.9859853": {
+        "domain": "softclick.com.br",
+        "extension": "br"
+    },
+    "1558972499.2845356": {
+        "domain": "specificmedia.co.uk",
+        "extension": "uk"
+    },
+    "1558972554.3338842": {
+        "domain": "stats.mirrorfootball.co.uk",
+        "extension": "uk"
+    },
+    "1558972596.5913887": {
+        "domain": "teads.tv",
+        "extension": "tv"
+    },
+    "1558972622.2719707": {
+        "domain": "tntclix.co.uk",
+        "extension": "uk"
+    },
+    "1558972640.4035828": {
+        "domain": "topsites.com.br",
+        "extension": "br"
+    },
+    "1558972787.7395356": {
+        "domain": "www.banner-link.com.br",
+        "extension": "br"
+    },
+    "1558972802.323148": {
+        "domain": "www.photo-ads.co.uk",
+        "extension": "uk"
+    },
+    "1558972822.9587781": {
+        "domain": "zencudo.co.uk",
+        "extension": "uk"
+    },
+    "1558972830.7933674": {
+        "domain": "zostofou.link",
+        "extension": "link"
     }
 }
