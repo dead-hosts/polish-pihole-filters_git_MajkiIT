@@ -1,306 +1,70 @@
 {
-    "1558796884.3107312": {
+    "1558969719.937525": {
         "domain": "9utwbj08.top",
         "extension": "top"
     },
-    "1558796900.815077": {
+    "1558969734.4796176": {
         "domain": "ad1.emediate.dk",
         "extension": "dk"
     },
-    "1558796967.0298042": {
+    "1558969800.8484085": {
         "domain": "adapt.tv",
         "extension": "tv"
     },
-    "1558796968.1393833": {
+    "1558969802.8928685": {
         "domain": "adap.tv",
         "extension": "tv"
     },
-    "1558796976.018538": {
+    "1558969810.5963907": {
         "domain": "adboost.de.vu",
         "extension": "vu"
     },
-    "1558797018.2486463": {
+    "1558969875.8441584": {
         "domain": "adclick.lt",
         "extension": "lt"
     },
-    "1558797084.7442548": {
+    "1558969944.9483368": {
         "domain": "adimage.guardian.co.uk",
         "extension": "uk"
     },
-    "1558797112.6690502": {
+    "1558969972.504152": {
         "domain": "ad.jamster.co.uk",
         "extension": "uk"
     },
-    "1558797167.1354878": {
+    "1558970027.7694776": {
         "domain": "admotion.com.ar",
         "extension": "ar"
     },
-    "1558797202.8485177": {
+    "1558970068.5651832": {
         "domain": "adpepper.dk",
         "extension": "dk"
     },
-    "1558797244.5285285": {
+    "1558970108.7285411": {
         "domain": "ads2.jubii.dk",
         "extension": "dk"
     },
-    "1558797245.4869735": {
+    "1558970109.8131645": {
         "domain": "ads2.net-communities.co.uk",
         "extension": "uk"
     },
-    "1558797271.771983": {
+    "1558970136.915359": {
         "domain": "ads.5ci.lt",
         "extension": "lt"
     },
-    "1558797298.853709": {
+    "1558970161.478635": {
         "domain": "ads.aol.co.uk",
         "extension": "uk"
     },
-    "1558797394.9071288": {
+    "1558970254.6090765": {
         "domain": "ads.dennisnet.co.uk",
         "extension": "uk"
     },
-    "1558797411.9535975": {
+    "1558970271.6292412": {
         "domain": "ads.edbindex.dk",
         "extension": "dk"
     },
-    "1558797416.4789438": {
+    "1558970276.061638": {
         "domain": "ads.egrana.com.br",
         "extension": "br"
-    },
-    "1558797645.009304": {
-        "domain": "ads.guardian.co.uk",
-        "extension": "uk"
-    },
-    "1558797651.6385064": {
-        "domain": "ads.guardianunlimited.co.uk",
-        "extension": "uk"
-    },
-    "1558797660.824093": {
-        "domain": "ads.ibest.com.br",
-        "extension": "br"
-    },
-    "1558797680.1815674": {
-        "domain": "ads.jobsite.co.uk",
-        "extension": "uk"
-    },
-    "1558797683.0051248": {
-        "domain": "ads.jubii.dk",
-        "extension": "dk"
-    },
-    "1558797716.514748": {
-        "domain": "ads.newsint.co.uk",
-        "extension": "uk"
-    },
-    "1558797792.4362087": {
-        "domain": "ads.silverdisc.co.uk",
-        "extension": "uk"
-    },
-    "1558797817.7568743": {
-        "domain": "ads.tripod.lycos.co.uk",
-        "extension": "uk"
-    },
-    "1558797820.354268": {
-        "domain": "ads-trk.vidible.tv",
-        "extension": "tv"
-    },
-    "1558797821.03274": {
-        "domain": "ads.tso.dennisnet.co.uk",
-        "extension": "uk"
-    },
-    "1558797821.8281434": {
-        "domain": "ads.uknetguide.co.uk",
-        "extension": "uk"
-    },
-    "1558797952.5121262": {
-        "domain": "af-ad.co.uk",
-        "extension": "uk"
-    },
-    "1558797953.8563194": {
-        "domain": "affec.tv",
-        "extension": "tv"
-    },
-    "1558797986.4679644": {
-        "domain": "alphonso.tv",
-        "extension": "tv"
-    },
-    "1558798064.9383166": {
-        "domain": "autohits.dk",
-        "extension": "dk"
-    },
-    "1558798082.0473795": {
-        "domain": "babs.tv2.dk",
-        "extension": "dk"
-    },
-    "1558798118.7578247": {
-        "domain": "bannerlandia.com.ar",
-        "extension": "ar"
-    },
-    "1558798225.5544329": {
-        "domain": "banners.bol.com.br",
-        "extension": "br"
-    },
-    "1558798382.318794": {
-        "domain": "chart.dk",
-        "extension": "dk"
-    },
-    "1558798399.5346234": {
-        "domain": "clickcompare.co.uk",
-        "extension": "uk"
-    },
-    "1558798501.4987264": {
-        "domain": "counter.search.bg",
-        "extension": "bg"
-    },
-    "1558798621.103979": {
-        "domain": "emediate.dk",
-        "extension": "dk"
-    },
-    "1558798666.6860073": {
-        "domain": "exchange.bg",
-        "extension": "bg"
-    },
-    "1558798679.0332503": {
-        "domain": "filmoteka.tv",
-        "extension": "tv"
-    },
-    "1558798694.875493": {
-        "domain": "freestats.tv",
-        "extension": "tv"
-    },
-    "1558798745.4413671": {
-        "domain": "gift.gifts-for-free.online",
-        "extension": "online"
-    },
-    "1558798752.5371165": {
-        "domain": "grapeshot.co.uk",
-        "extension": "uk"
-    },
-    "1558798764.3870814": {
-        "domain": "hexusads.fluent.ltd.uk",
-        "extension": "uk"
-    },
-    "1558798769.5860057": {
-        "domain": "hit.bg",
-        "extension": "bg"
-    },
-    "1558798788.7458038": {
-        "domain": "hit.webcentre.lycos.co.uk",
-        "extension": "uk"
-    },
-    "1558798807.6075952": {
-        "domain": "iad.anm.co.uk",
-        "extension": "uk"
-    },
-    "1558798989.4418333": {
-        "domain": "lacerta.space",
-        "extension": "space"
-    },
-    "1558799060.6634316": {
-        "domain": "mediabridge.cc",
-        "extension": "cc"
-    },
-    "1558799097.3939302": {
-        "domain": "m.pl.pornzone.tv",
-        "extension": "tv"
-    },
-    "1558799123.2856445": {
-        "domain": "nativeroll.tv",
-        "extension": "tv"
-    },
-    "1558799217.7539775": {
-        "domain": "openx.angelsgroup.org.uk",
-        "extension": "uk"
-    },
-    "1558799275.665073": {
-        "domain": "plugin.management",
-        "extension": "management"
-    },
-    "1558799490.5886467": {
-        "domain": "softclick.com.br",
-        "extension": "br"
-    },
-    "1558799492.7778118": {
-        "domain": "specificmedia.co.uk",
-        "extension": "uk"
-    },
-    "1558799629.3665972": {
-        "domain": "stats.mirrorfootball.co.uk",
-        "extension": "uk"
-    },
-    "1558799680.6544588": {
-        "domain": "teads.tv",
-        "extension": "tv"
-    },
-    "1558799706.0495355": {
-        "domain": "tntclix.co.uk",
-        "extension": "uk"
-    },
-    "1558799725.9355066": {
-        "domain": "topsites.com.br",
-        "extension": "br"
-    },
-    "1558799893.9577668": {
-        "domain": "www.banner-link.com.br",
-        "extension": "br"
-    },
-    "1558799908.9942324": {
-        "domain": "www.photo-ads.co.uk",
-        "extension": "uk"
-    },
-    "1558799932.60056": {
-        "domain": "zencudo.co.uk",
-        "extension": "uk"
-    },
-    "1558799940.6853921": {
-        "domain": "zostofou.link",
-        "extension": "link"
-    },
-    "1558799945.9981847": {
-        "domain": "ad.pandora.tv",
-        "extension": "tv"
-    },
-    "1558799946.9290688": {
-        "domain": "ad.slutkt.pl.goodsurprises.top",
-        "extension": "top"
-    },
-    "1558799951.95481": {
-        "domain": "ads.newsquest.co.uk",
-        "extension": "uk"
-    },
-    "1558799953.451555": {
-        "domain": "ads.sift.co.uk",
-        "extension": "uk"
-    },
-    "1558799954.4668202": {
-        "domain": "ads.telegraph.co.uk",
-        "extension": "uk"
-    },
-    "1558799955.0715024": {
-        "domain": "ads.trinitymirror.co.uk",
-        "extension": "uk"
-    },
-    "1558799989.7078137": {
-        "domain": "dhl-paczki.ml",
-        "extension": "ml"
-    },
-    "1558799996.2119503": {
-        "domain": "mediamarkt.pl.goodsurprises.top",
-        "extension": "top"
-    },
-    "1558799999.096479": {
-        "domain": "mtrcs.samba.tv",
-        "extension": "tv"
-    },
-    "1558800001.6301575": {
-        "domain": "platnosc.link",
-        "extension": "link"
-    },
-    "1558800006.53833": {
-        "domain": "tailsweep.co.uk",
-        "extension": "uk"
-    },
-    "1558800008.3028924": {
-        "domain": "zgarnijiphone.ml",
-        "extension": "ml"
     }
 }
