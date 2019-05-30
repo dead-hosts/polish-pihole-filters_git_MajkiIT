@@ -13,7 +13,9 @@
             "(^|\\.)gemius\\.(com|pl)$",
             "(^|\\.)hit\\.gemius\\.pl$",
             "(^|\\.)hit\\.interia\\.pl$",
+            "(^|\\.)lcx\\.pl$",
             "0daib.pl",
+            "[imported]",
             "a.0day.kiev.ua",
             "a32.g.a.yimg.com",
             "ad.afy11.net",
@@ -58,10 +60,10 @@
             "eur.a1.yimg.com",
             "gbanners.hornymatches.com",
             "gift.gifts-for-free.online",
-            "hitslink.interia.com.pl"
+            "hitslink.interia.com.pl",
+            "int.sitestat.com"
         ],
         "to_test": [
-            "(^|\\.)lcx\\.pl$",
             "(^|\\.)meetrics\\.net$",
             "(^|\\.)smartadserver\\.com$",
             "1.googlenews.xorg.pl",
@@ -69,7 +71,6 @@
             "3.googlenews.xorg.pl",
             "4.googlenews.xorg.pl",
             "5.googlenews.xorg.pl",
-            "[imported]",
             "accounts.goouigle.net",
             "acuty1adsrv.com",
             "ad.choiceradio.com",
@@ -118,7 +119,6 @@
             "googlenews.xorg.pl",
             "informacje.nbhost.pl",
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
-            "int.sitestat.com",
             "interstat.hu",
             "ioam.de",
             "ivwbox.de",
