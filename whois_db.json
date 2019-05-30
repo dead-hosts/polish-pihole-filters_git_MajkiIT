@@ -1705,8 +1705,8 @@
         "state": "future"
     },
     "bbelements.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "beamincrease.com": {
@@ -2425,9 +2425,9 @@
         "state": "future"
     },
     "confirmed-profits.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "connatix.com": {
         "epoch": "1572998400",
@@ -2875,8 +2875,8 @@
         "state": "future"
     },
     "doubleclick.com": {
-        "epoch": "1559001600",
-        "expiration_date": "28-may-2019",
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "doubleclick.net": {
@@ -3025,8 +3025,8 @@
         "state": "future"
     },
     "elitetoplist.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "elthamely.com": {
