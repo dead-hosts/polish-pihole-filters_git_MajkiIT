@@ -1625,8 +1625,8 @@
         "state": "future"
     },
     "bannerflow.com": {
-        "epoch": "1559520000",
-        "expiration_date": "03-jun-2019",
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "bannerhost.com": {
