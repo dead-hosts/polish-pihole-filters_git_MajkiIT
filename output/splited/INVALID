@@ -11,3 +11,9 @@ Subject                                                                         
 (^|\.)behavioralengine\.com$                                                                         INVALID     IANA      
 (^|\.)clickmatic\.pl$                                                                                INVALID     IANA      
 (^|\.)doubleclick\.(com)$                                                                            INVALID     IANA      
+(^|\.)gemius\.(com|pl)$                                                                              INVALID     IANA      
+(^|\.)hit\.gemius\.pl$                                                                               INVALID     IANA      
+(^|\.)hit\.interia\.pl$                                                                              INVALID     IANA      
+[imported]                                                                                           INVALID     IANA      
+(^|\.)lcx\.pl$                                                                                       INVALID     IANA      
+(^|\.)meetrics\.net$                                                                                 INVALID     IANA      
