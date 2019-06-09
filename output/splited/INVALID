@@ -14,3 +14,7 @@ Subject                                                                         
 (^|\.)gemius\.(com|pl)$                                                                              INVALID     IANA      
 (^|\.)hit\.gemius\.pl$                                                                               INVALID     IANA      
 (^|\.)hit\.interia\.pl$                                                                              INVALID     IANA      
+[imported]                                                                                           INVALID     IANA      
+(^|\.)lcx\.pl$                                                                                       INVALID     IANA      
+(^|\.)meetrics\.net$                                                                                 INVALID     IANA      
+(^|\.)smartadserver\.com$                                                                            INVALID     IANA      
