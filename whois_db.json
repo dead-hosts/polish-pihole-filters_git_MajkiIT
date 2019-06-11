@@ -5350,14 +5350,14 @@
         "state": "future"
     },
     "pagefair.com": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "pagefair.net": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "pagerank4you.com": {
         "epoch": "1583107200",
