@@ -15,6 +15,7 @@
             "(^|\\.)hit\\.interia\\.pl$",
             "(^|\\.)lcx\\.pl$",
             "(^|\\.)meetrics\\.net$",
+            "(^|\\.)smartadserver\\.com$",
             "0daib.pl",
             "[imported]",
             "a.0day.kiev.ua",
@@ -69,10 +70,12 @@
             "int.sitestat.com",
             "nedstat.nl",
             "oas.salon.com",
-            "pixel.redditmedia.com"
+            "pixel.redditmedia.com",
+            "stats-srv.rp.pl",
+            "tracker.twenga.pl",
+            "wantmobi.bid"
         ],
         "to_test": [
-            "(^|\\.)smartadserver\\.com$",
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -148,15 +151,12 @@
             "record.bonniergaming.com",
             "s1.delfilt.adocean.pl",
             "spykemediatrack.co",
-            "stats-srv.rp.pl",
             "t.pusk.ru",
             "tailsweep.co.uk",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
-            "tracker.twenga.pl",
             "unblock.onaudience.com",
             "vutzmxahqio.co",
-            "wantmobi.bid",
             "ws-gateway.com",
             "www.banner-link.com.br",
             "zgarnijiphone.ml"
