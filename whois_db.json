@@ -3730,8 +3730,8 @@
         "state": "future"
     },
     "histats.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "hit-parade.com": {
@@ -4465,8 +4465,8 @@
         "state": "future"
     },
     "loading321.com": {
-        "epoch": "1560384000",
-        "expiration_date": "13-jun-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "logrocket.com": {
@@ -4532,6 +4532,11 @@
     "m32.media": {
         "epoch": "1569888000",
         "expiration_date": "01-oct-2019",
+        "state": "future"
+    },
+    "maciekkurier.info": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "madisonavenue.com": {
@@ -5350,14 +5355,14 @@
         "state": "future"
     },
     "pagefair.com": {
-        "epoch": 1560211200,
-        "expiration_date": "11-jun-2019",
-        "state": "past"
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
     },
     "pagefair.net": {
-        "epoch": 1560211200,
-        "expiration_date": "11-jun-2019",
-        "state": "past"
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
     },
     "pagerank4you.com": {
         "epoch": "1583107200",
@@ -6315,8 +6320,8 @@
         "state": "future"
     },
     "searchfeast.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "searchmarketing.com": {
