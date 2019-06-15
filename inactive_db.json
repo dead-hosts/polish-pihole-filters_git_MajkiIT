@@ -71,7 +71,9 @@
             "oas.salon.com",
             "pixel.redditmedia.com",
             "stats-srv.rp.pl",
-            "tracker.twenga.pl"
+            "tracker.twenga.pl",
+            "wantmobi.bid",
+            "www.banner-link.com.br"
         ],
         "to_test": [
             "1.googlenews.xorg.pl",
@@ -156,9 +158,7 @@
             "track.dating-4-you.com",
             "unblock.onaudience.com",
             "vutzmxahqio.co",
-            "wantmobi.bid",
             "ws-gateway.com",
-            "www.banner-link.com.br",
             "zgarnijiphone.ml"
         ]
     }
