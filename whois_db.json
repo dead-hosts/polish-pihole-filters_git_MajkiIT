@@ -15,9 +15,9 @@
         "state": "future"
     },
     "123freeavatars.com": {
-        "epoch": "1560556800",
+        "epoch": 1560556800,
         "expiration_date": "15-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "180searchassistant.com": {
         "epoch": "1583884800",
