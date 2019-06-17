@@ -2355,8 +2355,8 @@
         "state": "future"
     },
     "clustrmaps.com": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1655424000,
+        "expiration_date": "17-jun-2022",
         "state": "future"
     },
     "cnomy.com": {
@@ -2585,8 +2585,8 @@
         "state": "future"
     },
     "criteo.com": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "critictruck.com": {
@@ -4215,8 +4215,8 @@
         "state": "future"
     },
     "jumptap.com": {
-        "epoch": "1560643200",
-        "expiration_date": "16-jun-2019",
+        "epoch": 1623801600,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "justrelevant.com": {
