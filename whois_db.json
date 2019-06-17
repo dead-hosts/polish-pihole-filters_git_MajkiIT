@@ -7255,8 +7255,8 @@
         "state": "future"
     },
     "trafficjunky.net": {
-        "epoch": "1560643200",
-        "expiration_date": "16-jun-2019",
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "trafficleader.com": {
@@ -7610,9 +7610,9 @@
         "state": "future"
     },
     "visitpath.com": {
-        "epoch": 1560556800,
-        "expiration_date": "15-jun-2019",
-        "state": "past"
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
     },
     "visual-pagerank.fr": {
         "epoch": "1566345600",
