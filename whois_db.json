@@ -15,9 +15,9 @@
         "state": "future"
     },
     "123freeavatars.com": {
-        "epoch": 1560556800,
-        "expiration_date": "15-jun-2019",
-        "state": "past"
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
     },
     "180searchassistant.com": {
         "epoch": "1583884800",
@@ -330,8 +330,8 @@
         "state": "future"
     },
     "adbrite.com": {
-        "epoch": "1560643200",
-        "expiration_date": "16-jun-2019",
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "adbrn.com": {
@@ -765,8 +765,8 @@
         "state": "future"
     },
     "adprofile.net": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "adrazzi.com": {
