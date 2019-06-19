@@ -2095,8 +2095,8 @@
         "state": "future"
     },
     "channel1vids.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "channelintelligence.com": {
@@ -2330,8 +2330,8 @@
         "state": "future"
     },
     "cliksolution.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "clixgalore.com": {
@@ -2455,8 +2455,8 @@
         "state": "future"
     },
     "conversantmedia.com": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "conversionruler.com": {
@@ -3160,8 +3160,8 @@
         "state": "future"
     },
     "exchangeclicksonline.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "exclusivebrass.com": {
@@ -3605,8 +3605,8 @@
         "state": "future"
     },
     "googleadservices.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "googlesyndication.com": {
@@ -3740,8 +3740,8 @@
         "state": "future"
     },
     "hit.ua": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "hitbox.com": {
@@ -4337,6 +4337,11 @@
     "leadingedgecash.com": {
         "epoch": "1589155200",
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "leadmy.pl": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "leadplace.fr": {
