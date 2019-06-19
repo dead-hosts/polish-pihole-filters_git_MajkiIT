@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
         "1560611836": {},
         "1560698224": {},
-        "1560788140": {
+        "1560788140": {},
+        "1560960675": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -17,6 +18,7 @@
             "(^|\\.)hit\\.interia\\.pl$": "INVALID",
             "(^|\\.)lcx\\.pl$": "INVALID",
             "(^|\\.)meetrics\\.net$": "INVALID",
+            "(^|\\.)mylead\\.global$": "INVALID",
             "(^|\\.)smartadserver\\.com$": "INVALID",
             "0daib.pl": "INACTIVE",
             "[imported]": "INVALID",
@@ -139,9 +141,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1560960675": {
-            "(^|\\.)mylead\\.global$": "INVALID"
         }
     }
 }
