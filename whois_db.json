@@ -1110,9 +1110,9 @@
         "state": "future"
     },
     "adv-adserver.com": {
-        "epoch": 1560729600,
-        "expiration_date": "17-jun-2019",
-        "state": "past"
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
     },
     "advariant.com": {
         "epoch": "1564790400",
@@ -1460,8 +1460,8 @@
         "state": "future"
     },
     "app-measurement.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "appsflyer.com": {
