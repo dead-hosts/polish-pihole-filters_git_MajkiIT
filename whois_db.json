@@ -690,8 +690,8 @@
         "state": "future"
     },
     "adnetinteractive.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "adnetwork.net": {
@@ -770,9 +770,9 @@
         "state": "future"
     },
     "adrazzi.com": {
-        "epoch": "1561075200",
+        "epoch": 1561075200,
         "expiration_date": "21-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adreactor.com": {
         "epoch": "1628726400",
