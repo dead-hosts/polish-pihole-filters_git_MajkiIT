@@ -5,7 +5,8 @@
         "1560788140": {},
         "1560960675": {},
         "1561134610": {},
-        "1561310374": {
+        "1561310374": {},
+        "1561476670": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -46,6 +47,7 @@
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
+            "ads.clickad.com.pl": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
             "ads.eatinparis.com": "INACTIVE",
@@ -73,6 +75,7 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
+            "ads.yourfreedvds.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.43plc.com": "INACTIVE",
@@ -95,10 +98,8 @@
             "banners.sexsearch.com": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
             "cinstein.com": "INACTIVE",
-            "click.kmindex.ru": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
-            "counting.kmindex.ru": "INACTIVE",
             "dhl-paczki.ml": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
@@ -142,10 +143,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1561476670": {
-            "ads.clickad.com.pl": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE"
         }
     }
 }
