@@ -5710,9 +5710,9 @@
         "state": "future"
     },
     "precisioncounter.com": {
-        "epoch": "1561420800",
+        "epoch": 1561420800,
         "expiration_date": "25-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "predictad.com": {
         "epoch": "1600732800",
@@ -5740,8 +5740,8 @@
         "state": "future"
     },
     "privatecash.com": {
-        "epoch": "1561334400",
-        "expiration_date": "24-jun-2019",
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "privy.com": {
@@ -6330,9 +6330,9 @@
         "state": "future"
     },
     "searchmarketing.com": {
-        "epoch": "1561420800",
+        "epoch": 1561420800,
         "expiration_date": "25-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "searchramp.com": {
         "epoch": "1573257600",
