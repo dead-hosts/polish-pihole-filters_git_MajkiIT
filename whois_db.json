@@ -40,9 +40,9 @@
         "state": "future"
     },
     "24pm-affiliation.com": {
-        "epoch": "1561420800",
+        "epoch": 1561420800,
         "expiration_date": "25-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "2mdn.net": {
         "epoch": "1588377600",
