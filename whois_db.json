@@ -7790,9 +7790,9 @@
         "state": "future"
     },
     "wholesaletraffic.info": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "wiarygodnafirma24.pl": {
         "epoch": "1550016000",
