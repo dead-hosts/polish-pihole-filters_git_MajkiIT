@@ -7,7 +7,8 @@
         "1561134610": {},
         "1561310374": {},
         "1561476670": {},
-        "1561823981": {
+        "1561823981": {},
+        "1561999173": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -108,6 +109,7 @@
             "forum-windows.eu": "INACTIVE",
             "fragmentserv.iac-online.de": "INACTIVE",
             "gbanners.hornymatches.com": "INACTIVE",
+            "gg.mob.vendimob.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE",
             "hitslink.interia.com.pl": "INACTIVE",
             "informacje.nbhost.pl": "INACTIVE",
@@ -143,9 +145,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1561999173": {
-            "gg.mob.vendimob.pl": "INACTIVE"
         }
     }
 }
