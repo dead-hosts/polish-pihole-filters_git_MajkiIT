@@ -5260,9 +5260,9 @@
         "state": "future"
     },
     "onscroll.com": {
-        "epoch": 1561766400,
-        "expiration_date": "29-jun-2019",
-        "state": "past"
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
     },
     "openads.org": {
         "epoch": "1613779200",
@@ -5400,8 +5400,8 @@
         "state": "future"
     },
     "pay-ads.com": {
-        "epoch": "1561939200",
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "pay24iv.com": {
@@ -5955,8 +5955,8 @@
         "state": "future"
     },
     "rankyou.com": {
-        "epoch": "1561852800",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "rapidcounter.com": {
@@ -6030,9 +6030,9 @@
         "state": "future"
     },
     "reduxmedia.com": {
-        "epoch": "1561939200",
+        "epoch": 1561939200,
         "expiration_date": "01-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "referralware.com": {
         "epoch": "1575936000",
@@ -6765,8 +6765,8 @@
         "state": "future"
     },
     "steelhouse.com": {
-        "epoch": "1561852800",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "steelhousemedia.com": {
