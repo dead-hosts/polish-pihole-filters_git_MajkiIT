@@ -8,7 +8,8 @@
         "1561310374": {},
         "1561476670": {},
         "1561823981": {},
-        "1561999173": {
+        "1561999173": {},
+        "1562178763": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -102,6 +103,7 @@
             "clients.tbo.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
             "dhl-paczki.ml": "INACTIVE",
+            "di1.shopping.com": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
             "eur.a1.yimg.com": "INACTIVE",
@@ -145,9 +147,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1562178763": {
-            "di1.shopping.com": "INACTIVE"
         }
     }
 }
