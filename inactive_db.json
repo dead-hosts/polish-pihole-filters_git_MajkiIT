@@ -9,7 +9,8 @@
         "1561476670": {},
         "1561823981": {},
         "1561999173": {},
-        "1562178763": {
+        "1562178763": {},
+        "1562342046": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -95,6 +96,7 @@
             "b0b1o.bid": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
+            "bannerads.de": "INACTIVE",
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
@@ -147,9 +149,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1562342046": {
-            "bannerads.de": "INACTIVE"
         }
     }
 }
