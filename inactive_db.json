@@ -10,7 +10,8 @@
         "1561823981": {},
         "1561999173": {},
         "1562178763": {},
-        "1562342046": {
+        "1562342046": {},
+        "1562520281": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -96,7 +97,6 @@
             "b0b1o.bid": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
-            "bannerads.de": "INACTIVE",
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
