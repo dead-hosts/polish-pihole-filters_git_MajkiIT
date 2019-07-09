@@ -2860,9 +2860,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": "1562544000",
+        "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "domainsponsor.com": {
         "epoch": "1564531200",
@@ -3060,9 +3060,9 @@
         "state": "future"
     },
     "enginenetwork.com": {
-        "epoch": "1562630400",
+        "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "enlarget.com": {
         "epoch": "1579046400",
@@ -3185,8 +3185,8 @@
         "state": "future"
     },
     "exitexchange.com": {
-        "epoch": "1562630400",
-        "expiration_date": "09-jul-2019",
+        "epoch": 1625788800,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "exitfuel.com": {
