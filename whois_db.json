@@ -5070,8 +5070,8 @@
         "state": "future"
     },
     "netincap.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "netmng.com": {
@@ -5585,8 +5585,8 @@
         "state": "future"
     },
     "play4traffic.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "playhaven.com": {
@@ -6137,6 +6137,11 @@
     "rightstats.com": {
         "epoch": "1576627200",
         "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
+    "rinsouxy.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "rlcdn.com": {
@@ -6940,8 +6945,8 @@
         "state": "future"
     },
     "targetnet.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "targetpoint.com": {
@@ -7445,8 +7450,8 @@
         "state": "future"
     },
     "ultramercial.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "unarmedindustry.com": {
