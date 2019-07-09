@@ -1364,6 +1364,11 @@
         "expiration_date": "29-jul-2019",
         "state": "future"
     },
+    "ailegro.pl.ua": {
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
     "aim4media.com": {
         "epoch": "1577577600",
         "expiration_date": "29-dec-2019",
@@ -1830,8 +1835,8 @@
         "state": "future"
     },
     "blogherads.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "blogrush.com": {
