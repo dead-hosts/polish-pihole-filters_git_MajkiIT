@@ -11,7 +11,8 @@
         "1561999173": {},
         "1562178763": {},
         "1562342046": {},
-        "1562520281": {
+        "1562520281": {},
+        "1562687099": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -70,6 +71,7 @@
             "ads.penny-arcade.com": "INACTIVE",
             "ads.returnpath.net": "INACTIVE",
             "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.satyamonline.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE",
             "ads.slim.com": "INACTIVE",
@@ -90,6 +92,7 @@
             "adverts.carltononline.com": "INACTIVE",
             "an.tacoda.net": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
+            "app.adblockhyper.us": "INACTIVE",
             "arc1.msn.com": "INACTIVE",
             "avzadsrv.com": "INACTIVE",
             "b.aol.com": "INACTIVE",
@@ -100,6 +103,7 @@
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
+            "beacon.gu-web.net": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
             "cinstein.com": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
@@ -149,11 +153,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1562687099": {
-            "ads.satyamonline.com": "INACTIVE",
-            "app.adblockhyper.us": "INACTIVE",
-            "beacon.gu-web.net": "INACTIVE"
         }
     }
 }
