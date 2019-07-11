@@ -12,7 +12,8 @@
         "1562178763": {},
         "1562342046": {},
         "1562520281": {},
-        "1562687099": {
+        "1562687099": {},
+        "1562863889": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -103,7 +104,6 @@
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
-            "beacon.gu-web.net": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
             "cinstein.com": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
@@ -142,6 +142,7 @@
             "record.bonniergaming.com": "INACTIVE",
             "s1.delfilt.adocean.pl": "INACTIVE",
             "spykemediatrack.co": "INACTIVE",
+            "stat.dealtime.com": "INACTIVE",
             "stats-srv.rp.pl": "INACTIVE",
             "t.pusk.ru": "INACTIVE",
             "tailsweep.co.uk": "INACTIVE",
@@ -152,10 +153,8 @@
             "wantmobi.bid": "INACTIVE",
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
+            "xlkredyt.pl": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1562863889": {
-            "stat.dealtime.com": "INACTIVE"
         }
     }
 }
