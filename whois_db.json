@@ -2210,8 +2210,8 @@
         "state": "future"
     },
     "clickbank.net": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "clickbooth.com": {
@@ -3060,9 +3060,9 @@
         "state": "future"
     },
     "enginenetwork.com": {
-        "epoch": 1562630400,
-        "expiration_date": "09-jul-2019",
-        "state": "past"
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
     },
     "enlarget.com": {
         "epoch": "1579046400",
@@ -3320,8 +3320,8 @@
         "state": "future"
     },
     "findcommerce.com": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "findepended.com": {
@@ -3755,9 +3755,9 @@
         "state": "future"
     },
     "hitfarm.com": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "hitiz.com": {
         "epoch": "1588464000",
