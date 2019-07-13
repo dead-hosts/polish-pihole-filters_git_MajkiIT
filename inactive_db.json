@@ -13,7 +13,8 @@
         "1562342046": {},
         "1562520281": {},
         "1562687099": {},
-        "1562863889": {
+        "1562863889": {},
+        "1563032676": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -50,6 +51,7 @@
             "adimages.omroepzeeland.nl": "INACTIVE",
             "adobedc.cf": "INACTIVE",
             "adq.nextag.com": "INACTIVE",
+            "ads.adshareware.net": "INACTIVE",
             "ads.adultswim.com": "INACTIVE",
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
@@ -74,6 +76,7 @@
             "ads.s3.sitepoint.com": "INACTIVE",
             "ads.satyamonline.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
+            "ads.shizmoo.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE",
             "ads.slim.com": "INACTIVE",
             "ads.sptimes.com": "INACTIVE",
@@ -93,7 +96,6 @@
             "adverts.carltononline.com": "INACTIVE",
             "an.tacoda.net": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
-            "app.adblockhyper.us": "INACTIVE",
             "arc1.msn.com": "INACTIVE",
             "avzadsrv.com": "INACTIVE",
             "b.aol.com": "INACTIVE",
@@ -155,10 +157,6 @@
             "www.banner-link.com.br": "INACTIVE",
             "xlkredyt.pl": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1563032676": {
-            "ads.adshareware.net": "INACTIVE",
-            "ads.shizmoo.com": "INACTIVE"
         }
     }
 }
