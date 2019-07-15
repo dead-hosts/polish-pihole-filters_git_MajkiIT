@@ -6179,6 +6179,11 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "roojouma.com": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
     "rotabanner.com": {
         "epoch": "1573257600",
         "expiration_date": "09-nov-2019",
@@ -6540,8 +6545,8 @@
         "state": "future"
     },
     "sitestat.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "sixsigmatraffic.com": {
@@ -6645,8 +6650,8 @@
         "state": "future"
     },
     "spacash.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "spaceforyou.cc": {
