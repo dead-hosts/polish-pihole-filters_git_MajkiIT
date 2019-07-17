@@ -15,7 +15,8 @@
         "1562687099": {},
         "1562863889": {},
         "1563032676": {},
-        "1563207992": {
+        "1563207992": {},
+        "1563380722": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -74,7 +75,6 @@
             "ads.penny-arcade.com": "INACTIVE",
             "ads.returnpath.net": "INACTIVE",
             "ads.s3.sitepoint.com": "INACTIVE",
-            "ads.satyamonline.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE",
             "ads.slim.com": "INACTIVE",
@@ -109,6 +109,7 @@
             "cinstein.com": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
+            "deloo.de": "INACTIVE",
             "dhl-paczki.ml": "INACTIVE",
             "di1.shopping.com": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
@@ -156,9 +157,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1563380722": {
-            "deloo.de": "INACTIVE"
         }
     }
 }
