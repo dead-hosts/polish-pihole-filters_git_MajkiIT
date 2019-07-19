@@ -2650,9 +2650,9 @@
         "state": "future"
     },
     "cyberbounty.com": {
-        "epoch": 1563321600,
-        "expiration_date": "17-jul-2019",
-        "state": "past"
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
     },
     "d2cmedia.ca": {
         "epoch": "1580947200",
@@ -3605,8 +3605,8 @@
         "state": "future"
     },
     "google-analytics.com": {
-        "epoch": "1563408000",
-        "expiration_date": "18-jul-2019",
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "googleadservices.com": {
