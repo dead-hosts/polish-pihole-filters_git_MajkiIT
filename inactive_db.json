@@ -18,7 +18,8 @@
         "1563207992": {},
         "1563380722": {},
         "1563553357": {},
-        "1563726132": {
+        "1563726132": {},
+        "1563896437": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -75,6 +76,7 @@
             "ads.newdream.net": "INACTIVE",
             "ads.newsquest.co.uk": "INACTIVE",
             "ads.penny-arcade.com": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
             "ads.returnpath.net": "INACTIVE",
             "ads.s3.sitepoint.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
@@ -87,6 +89,8 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
+            "ads.yourfreedvds.com": "INACTIVE",
+            "ads03.redtube.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.43plc.com": "INACTIVE",
@@ -111,6 +115,8 @@
             "cinstein.com": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
+            "counter.fateback.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
             "deloo.de": "INACTIVE",
             "dhl-paczki.ml": "INACTIVE",
             "di1.shopping.com": "INACTIVE",
@@ -154,19 +160,12 @@
             "touchclarity.natwest.com": "INACTIVE",
             "track.dating-4-you.com": "INACTIVE",
             "tracker.twenga.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE",
             "vutzmxahqio.co": "INACTIVE",
             "wantmobi.bid": "INACTIVE",
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1563896437": {
-            "ads.redtube.com": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE",
-            "counter.fateback.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
