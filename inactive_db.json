@@ -19,7 +19,8 @@
         "1563380722": {},
         "1563553357": {},
         "1563726132": {},
-        "1563896437": {
+        "1563896437": {},
+        "1564071849": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -89,7 +90,6 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
@@ -115,7 +115,6 @@
             "cinstein.com": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
-            "counter.fateback.com": "INACTIVE",
             "counter.gemius.pl": "INACTIVE",
             "deloo.de": "INACTIVE",
             "dhl-paczki.ml": "INACTIVE",
