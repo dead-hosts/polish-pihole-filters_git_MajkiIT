@@ -5110,9 +5110,9 @@
         "state": "future"
     },
     "newtopsites.com": {
-        "epoch": "1564185600",
+        "epoch": 1564185600,
         "expiration_date": "27-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "nexage.com": {
         "epoch": "1637193600",
@@ -6735,8 +6735,8 @@
         "state": "future"
     },
     "spywords.com": {
-        "epoch": "1564099200",
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "squeamishscarecrow.com": {
