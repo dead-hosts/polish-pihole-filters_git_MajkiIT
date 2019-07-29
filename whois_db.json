@@ -5110,9 +5110,9 @@
         "state": "future"
     },
     "newtopsites.com": {
-        "epoch": 1564185600,
-        "expiration_date": "27-jul-2019",
-        "state": "past"
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
     },
     "nexage.com": {
         "epoch": "1637193600",
@@ -6055,9 +6055,9 @@
         "state": "future"
     },
     "reinvigorate.net": {
-        "epoch": "1564358400",
+        "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "reklama-lowicz.pl": {
         "epoch": "1582848000",
@@ -6775,9 +6775,9 @@
         "state": "future"
     },
     "stats4all.com": {
-        "epoch": "1564358400",
+        "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "statsie.com": {
         "epoch": "1568937600",
