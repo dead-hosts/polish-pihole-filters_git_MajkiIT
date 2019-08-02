@@ -23,7 +23,8 @@
         "1564071849": {},
         "1564242727": {},
         "1564417523": {},
-        "1564590321": {
+        "1564590321": {},
+        "1564761399": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -93,6 +94,7 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
+            "ads.yourfreedvds.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
@@ -114,6 +116,7 @@
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
             "cinstein.com": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
@@ -144,6 +147,7 @@
             "mtrcs.samba.tv": "INACTIVE",
             "nedstat.nl": "INACTIVE",
             "nephritish.com": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE",
             "oas.salon.com": "INACTIVE",
             "ola100.hopto.org": "INACTIVE",
             "openad.tf1.fr": "INACTIVE",
@@ -154,6 +158,7 @@
             "record.affiliates.karjalakasino.com": "INACTIVE",
             "record.bonniergaming.com": "INACTIVE",
             "s1.delfilt.adocean.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
             "spykemediatrack.co": "INACTIVE",
             "stat.dealtime.com": "INACTIVE",
             "stats-srv.rp.pl": "INACTIVE",
@@ -168,12 +173,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1564761399": {
-            "ads.yourfreedvds.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE"
         }
     }
 }
