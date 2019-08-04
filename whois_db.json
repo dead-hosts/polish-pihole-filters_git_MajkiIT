@@ -1115,8 +1115,8 @@
         "state": "future"
     },
     "advariant.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "adventory.com": {
@@ -1700,8 +1700,8 @@
         "state": "future"
     },
     "bawdybeast.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "baypops.com": {
@@ -1900,8 +1900,8 @@
         "state": "future"
     },
     "boudja.com": {
-        "epoch": "1564876800",
-        "expiration_date": "04-aug-2019",
+        "epoch": 1628035200,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "bounceexchange.com": {
