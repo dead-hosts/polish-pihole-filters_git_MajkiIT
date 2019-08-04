@@ -6565,8 +6565,8 @@
         "state": "future"
     },
     "slickaffiliate.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "slopeaota.com": {
@@ -7480,8 +7480,8 @@
         "state": "future"
     },
     "unknowntray.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "unrulymedia.com": {
