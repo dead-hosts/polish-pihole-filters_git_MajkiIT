@@ -24,7 +24,8 @@
         "1564242727": {},
         "1564417523": {},
         "1564590321": {},
-        "1564761399": {
+        "1564761399": {},
+        "1564933769": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -94,11 +95,11 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.43plc.com": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
@@ -128,7 +129,6 @@
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
             "eur.a1.yimg.com": "INACTIVE",
-            "fb-zmiana-koloru.pl": "INACTIVE",
             "forum-windows.eu": "INACTIVE",
             "fragmentserv.iac-online.de": "INACTIVE",
             "gbanners.hornymatches.com": "INACTIVE",
@@ -173,9 +173,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1564933769": {
-            "adserver.flossiemediagroup.com": "INACTIVE"
         }
     }
 }

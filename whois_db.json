@@ -3289,6 +3289,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "fb-zmiana-koloru.pl": {
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "feedbackresearch.com": {
         "epoch": "1586044800",
         "expiration_date": "05-apr-2020",
