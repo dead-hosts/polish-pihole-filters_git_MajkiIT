@@ -2205,9 +2205,9 @@
         "state": "future"
     },
     "clickbank.com": {
-        "epoch": "1564876800",
+        "epoch": 1564876800,
         "expiration_date": "04-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickbank.net": {
         "epoch": 1594339200,
@@ -3010,8 +3010,8 @@
         "state": "future"
     },
     "elasticchange.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "elektro24h.pl": {
@@ -3300,8 +3300,8 @@
         "state": "future"
     },
     "filmik.pisz.pl": {
-        "epoch": 1564790400,
-        "expiration_date": "03-aug-2019",
+        "epoch": 1566000000,
+        "expiration_date": "17-aug-2019",
         "state": "future"
     },
     "filmoteka.tv": {
@@ -3560,8 +3560,8 @@
         "state": "future"
     },
     "giddycoat.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "glaimtug.com": {
