@@ -2025,8 +2025,8 @@
         "state": "future"
     },
     "cash4members.com": {
-        "epoch": "1565049600",
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "cashcrate.com": {
@@ -2205,9 +2205,9 @@
         "state": "future"
     },
     "clickbank.com": {
-        "epoch": 1564876800,
-        "expiration_date": "04-aug-2019",
-        "state": "past"
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
     },
     "clickbank.net": {
         "epoch": 1594339200,
@@ -2975,8 +2975,8 @@
         "state": "future"
     },
     "ecircle-ag.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "ecoupons.com": {
@@ -3272,6 +3272,11 @@
     "f5biz.com": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "faidoud.com": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "fapmeth.com": {
@@ -4095,8 +4100,8 @@
         "state": "future"
     },
     "inspectorclick.com": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "instantmadness.com": {
@@ -4440,8 +4445,8 @@
         "state": "future"
     },
     "linkshighway.com": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "linkstorms.com": {
