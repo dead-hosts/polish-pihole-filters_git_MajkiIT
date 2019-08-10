@@ -25,7 +25,8 @@
         "1564417523": {},
         "1564590321": {},
         "1564761399": {},
-        "1564933769": {
+        "1564933769": {},
+        "1565452194": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -65,6 +66,7 @@
             "ads.adultswim.com": "INACTIVE",
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
+            "ads.betfair.com.au": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
             "ads.clickad.com.pl": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
@@ -95,18 +97,21 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
+            "ads.yourfreedvds.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.43plc.com": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
+            "adsk2.co": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
             "adtrading.de": "INACTIVE",
             "adverts.carltononline.com": "INACTIVE",
             "an.tacoda.net": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
+            "app.adblockhyper.us": "INACTIVE",
             "arc1.msn.com": "INACTIVE",
             "avzadsrv.com": "INACTIVE",
             "b.aol.com": "INACTIVE",
@@ -173,12 +178,6 @@
             "ws-gateway.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "zgarnijiphone.ml": "INACTIVE"
-        },
-        "1565452194": {
-            "ads.betfair.com.au": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
-            "adsk2.co": "INACTIVE",
-            "app.adblockhyper.us": "INACTIVE"
         }
     }
 }
