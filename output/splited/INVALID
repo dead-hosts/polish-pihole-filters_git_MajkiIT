@@ -8,3 +8,10 @@ Subject                                                                         
 (^|\.)adsbtrack\.com$                                                                                SYNTAX     ***        Mon 12 Aug 13:08:58 UTC 2019
 (^|\.)adserver\.snapads\.com$                                                                        SYNTAX     ***        Mon 12 Aug 13:08:46 UTC 2019
 (^|\.)audienceinsights\.net$                                                                         SYNTAX     ***        Mon 12 Aug 13:08:46 UTC 2019
+(^|\.)behavioralengine\.com$                                                                         SYNTAX     ***        Mon 12 Aug 14:08:13 UTC 2019
+(^|\.)clickmatic\.pl$                                                                                SYNTAX     ***        Mon 12 Aug 14:08:13 UTC 2019
+(^|\.)doubleclick\.(com)$                                                                            SYNTAX     ***        Mon 12 Aug 14:08:13 UTC 2019
+(^|\.)gemius\.(com|pl)$                                                                              SYNTAX     ***        Mon 12 Aug 14:08:13 UTC 2019
+(^|\.)hit\.gemius\.pl$                                                                               SYNTAX     ***        Mon 12 Aug 14:08:13 UTC 2019
+(^|\.)hit\.interia\.pl$                                                                              SYNTAX     ***        Mon 12 Aug 14:08:13 UTC 2019
+[imported]                                                                                           SYNTAX     ***        Mon 12 Aug 14:08:13 UTC 2019
