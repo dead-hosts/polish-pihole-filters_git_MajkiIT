@@ -4640,9 +4640,9 @@
         "state": "future"
     },
     "mediadvertising.ro": {
-        "epoch": "1565568000",
+        "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediageneral.com": {
         "epoch": "1586649600",
@@ -6515,8 +6515,8 @@
         "state": "future"
     },
     "shoplov.in": {
-        "epoch": "1565568000",
-        "expiration_date": "12-aug-2019",
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "shoppingads.com": {
