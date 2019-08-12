@@ -84,7 +84,12 @@
             "oas.salon.com": "INACTIVE",
             "pixel.redditmedia.com": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
-            "stat.dealtime.com": "INACTIVE"
+            "stat.dealtime.com": "INACTIVE",
+            "stats-srv.rp.pl": "INACTIVE",
+            "tracker.twenga.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE",
+            "wantmobi.bid": "INACTIVE",
+            "www.banner-link.com.br": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
