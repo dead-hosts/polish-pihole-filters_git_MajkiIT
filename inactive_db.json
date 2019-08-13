@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1565615340": {
+        "1565615340": {},
+        "1565714005": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -49,7 +50,6 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
