@@ -1050,8 +1050,8 @@
         "state": "future"
     },
     "adtext.pl": {
-        "epoch": "1565913600",
-        "expiration_date": "16-aug-2019",
+        "epoch": 1568505600,
+        "expiration_date": "15-sep-2019",
         "state": "future"
     },
     "adthis.com": {
@@ -1505,8 +1505,8 @@
         "state": "future"
     },
     "atdmt.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "attributiontracker.com": {
