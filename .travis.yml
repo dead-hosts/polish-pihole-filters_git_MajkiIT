@@ -1,43 +1,40 @@
-env:
-  global:
-    - secure: H3jr/9o+IMx13spsDOp2SEAvLQaUbsZIZNkzlhX2a17BtcfRkbFOai5zv/047fZkyZOO4spKe5KnFPGJJ7f9xqIOIPupDHNhbxmyVp8gt/UQHPeoJMMfhrsYvCOK3fy/FBJWCRLb0QteNPH0EX+1uS2LqULI38Ttdg73S2q1V6QpViOER4AA8I3h902Y8EZ/nhjN+mEiQBLG2O66Y6Ysgz07dH+fyvgpNZyjXjtWZ3tETSprj382HkI4ov1gIy/lDS2BL6FtFSrlHoz19nmZXKyS0NYMVVaIqw0qS0to97HSTtcDaDK9IKJilyV6t/O6Lucu4v7l+jveJfcfumQw/lyYdU/QFbzU90lW79A7OQ2Ys0viirElgG6S+8UAWTeOCt4Xc2MnY3li2GMQLYL0z8SyoPoIIu4KFpsV7FoFRKz9iBdqMapPA/oLmRDQr4C4HUkJc5k/8BPoKKgdArrxQsGcS11THM+lYjHfq5yHwnDHfcom6XYlUnvjS1guAe3bjxrWWGicXxdPFFg9LLiy0TOQP4TMmUtjv48jyF9TdPyhfzTHZlU4uWWNDICJVJxQem2ODDivekwO19M7pDhQ2fFW9MesepOLtpPzTNvnlTZ1pWhmcLjLNXXQqCPbCTx8oN+7J5vVZvDyxrfHir/HRkhmMCHIwYJRaH1164z7ISo=
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: dead-hosts@funilrys.com
-    - TRAVIS_REPO_SLUG: dead-hosts/polish-pihole-filters_git_MajkiIT
-    - GIT_BRANCH: master
-    - UPDATE_ME_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/update_me.py
-    - ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
-
-dist: xenial
-sudo: required
-
-language: python
-
-python:
-  - "3.7"
-
-matrix:
-  fast_finish: true
-
-cache:
-  - pip
-
 addons:
-  apt:
-    packages:
-      - dos2unix
-
+    apt:
+        packages:
+        - dos2unix
+env:
+    global:
+    -   secure: H3jr/9o+IMx13spsDOp2SEAvLQaUbsZIZNkzlhX2a17BtcfRkbFOai5zv/047fZkyZOO4spKe5KnFPGJJ7f9xqIOIPupDHNhbxmyVp8gt/UQHPeoJMMfhrsYvCOK3fy/FBJWCRLb0QteNPH0EX+1uS2LqULI38Ttdg73S2q1V6QpViOER4AA8I3h902Y8EZ/nhjN+mEiQBLG2O66Y6Ysgz07dH+fyvgpNZyjXjtWZ3tETSprj382HkI4ov1gIy/lDS2BL6FtFSrlHoz19nmZXKyS0NYMVVaIqw0qS0to97HSTtcDaDK9IKJilyV6t/O6Lucu4v7l+jveJfcfumQw/lyYdU/QFbzU90lW79A7OQ2Ys0viirElgG6S+8UAWTeOCt4Xc2MnY3li2GMQLYL0z8SyoPoIIu4KFpsV7FoFRKz9iBdqMapPA/oLmRDQr4C4HUkJc5k/8BPoKKgdArrxQsGcS11THM+lYjHfq5yHwnDHfcom6XYlUnvjS1guAe3bjxrWWGicXxdPFFg9LLiy0TOQP4TMmUtjv48jyF9TdPyhfzTHZlU4uWWNDICJVJxQem2ODDivekwO19M7pDhQ2fFW9MesepOLtpPzTNvnlTZ1pWhmcLjLNXXQqCPbCTx8oN+7J5vVZvDyxrfHir/HRkhmMCHIwYJRaH1164z7ISo=
+    -   GIT_NAME: Travis CI
+    -   GIT_EMAIL: dead-hosts@funilrys.com
+    -   TRAVIS_REPO_SLUG: dead-hosts/polish-pihole-filters_git_MajkiIT
+    -   GIT_BRANCH: master
+    -   ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
+    matrix:
+    - PYTHON_VERSION="3.7.3"
 install:
-  - pip3 install --upgrade pip
-  - pip3 install dead-hosts-launcher
-
-script:
-  - dead_hosts_launcher
-
-
+- export PATH="${HOME}/miniconda/bin:${PATH}"
+- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+- bash miniconda.sh -b -p ${HOME}/miniconda
+- hash -r
+- conda config --set always_yes yes --set changeps1 no
+- conda update -q conda
+- conda create -q -n launcher-environment python="${PYTHON_VERSION}"
+- source activate launcher-environment
+- python -VV
+- pip --version
+- pip install dead-hosts-launcher
+- rm miniconda.sh
+language: generic
 notifications:
-  email:
-    recipients:
-      - dead-hosts@funilrys.com
-    on_success: never
-    on_failure: always
+    email:
+        on_failure: always
+        on_success: never
+        recipients:
+        - dead-hosts@funilrys.com
+os:
+- linux
+script:
+- dead_hosts_launcher --version
+- dead_hosts_launcher
+sudo: required
