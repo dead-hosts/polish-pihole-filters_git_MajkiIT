@@ -5250,8 +5250,8 @@
         "state": "future"
     },
     "onestatfree.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "online-metrix.net": {
@@ -5655,9 +5655,9 @@
         "state": "future"
     },
     "popflawlessads.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "popub.com": {
         "epoch": 1590710400,
@@ -5700,8 +5700,8 @@
         "state": "future"
     },
     "postrelease.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "potenza.cz": {
@@ -7195,9 +7195,9 @@
         "state": "future"
     },
     "topsearcher.com": {
-        "epoch": "1566172800",
+        "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "topsir.com": {
         "epoch": "1589414400",
