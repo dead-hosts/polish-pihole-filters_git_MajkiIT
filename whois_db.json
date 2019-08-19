@@ -7655,8 +7655,8 @@
         "state": "future"
     },
     "visistat.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "visitpath.com": {
@@ -8100,8 +8100,8 @@
         "state": "future"
     },
     "zobaczto.pisz.pl": {
-        "epoch": 1566086400,
-        "expiration_date": "18-aug-2019",
+        "epoch": 1567296000,
+        "expiration_date": "01-sep-2019",
         "state": "future"
     },
     "zoomica.pl": {
