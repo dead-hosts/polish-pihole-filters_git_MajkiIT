@@ -1525,8 +1525,8 @@
         "state": "future"
     },
     "auctionads.net": {
-        "epoch": "1566172800",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "audience2media.com": {
@@ -1600,9 +1600,9 @@
         "state": "future"
     },
     "backbeatmedia.com": {
-        "epoch": "1566172800",
+        "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "banner.cz": {
         "epoch": "1571529600",
@@ -1820,9 +1820,9 @@
         "state": "future"
     },
     "blast4traffic.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "blingbucks.com": {
         "epoch": "1725840000",
