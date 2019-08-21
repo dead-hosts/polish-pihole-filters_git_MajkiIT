@@ -3310,9 +3310,9 @@
         "state": "future"
     },
     "filmik.pisz.pl": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
+        "state": "future"
     },
     "filmoteka.tv": {
         "epoch": "1579046400",
@@ -7195,9 +7195,9 @@
         "state": "future"
     },
     "topsearcher.com": {
-        "epoch": 1566172800,
-        "expiration_date": "19-aug-2019",
-        "state": "past"
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
     },
     "topsir.com": {
         "epoch": "1589414400",
@@ -7665,8 +7665,8 @@
         "state": "future"
     },
     "visual-pagerank.fr": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "visualrevenue.com": {
