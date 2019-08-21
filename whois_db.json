@@ -1330,8 +1330,8 @@
         "state": "future"
     },
     "affiliation-france.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "afilo.pl": {
@@ -1600,9 +1600,9 @@
         "state": "future"
     },
     "backbeatmedia.com": {
-        "epoch": 1566172800,
-        "expiration_date": "19-aug-2019",
-        "state": "past"
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
     },
     "banner.cz": {
         "epoch": "1571529600",
