@@ -335,9 +335,9 @@
         "state": "future"
     },
     "adbrn.com": {
-        "epoch": 1566345600,
-        "expiration_date": "21-aug-2019",
-        "state": "past"
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
     },
     "adbunker.com": {
         "epoch": "1583452800",
