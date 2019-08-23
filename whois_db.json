@@ -2530,8 +2530,8 @@
         "state": "future"
     },
     "cpmstar.com": {
-        "epoch": "1566432000",
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "cpxinteractive.com": {
@@ -2860,9 +2860,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
     },
     "domainsponsor.com": {
         "epoch": 1596153600,
@@ -3790,8 +3790,8 @@
         "state": "future"
     },
     "hits4me.com": {
-        "epoch": "1566518400",
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "hits4pay.com": {
