@@ -5175,8 +5175,8 @@
         "state": "future"
     },
     "nuseek.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "nzaza.com": {
@@ -5675,8 +5675,8 @@
         "state": "future"
     },
     "popupnation.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "popuptraffic.com": {
@@ -5705,9 +5705,9 @@
         "state": "future"
     },
     "potenza.cz": {
-        "epoch": "1566691200",
+        "epoch": 1566691200,
         "expiration_date": "25-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "potwierdzoneinfo.pl": {
         "epoch": "1567036800",
@@ -5790,8 +5790,8 @@
         "state": "future"
     },
     "projectwonderful.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "promobenef.com": {
@@ -6545,9 +6545,9 @@
         "state": "future"
     },
     "sitedataprocessing.com": {
-        "epoch": "1566864000",
+        "epoch": 1566864000,
         "expiration_date": "27-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "sitemeter.com": {
         "epoch": "1617408000",
