@@ -2045,8 +2045,8 @@
         "state": "future"
     },
     "cashlayer.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "cashpartner.com": {
@@ -2870,8 +2870,8 @@
         "state": "future"
     },
     "domdex.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1629936000,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "domniespodzianek.com": {
@@ -3860,8 +3860,8 @@
         "state": "future"
     },
     "hub.com.pl": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "hunterstyle.pl": {
