@@ -8,7 +8,8 @@
         "1566403655": {},
         "1566579059": {},
         "1566751621": {},
-        "1566924092": {
+        "1566924092": {},
+        "1567182670": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -72,6 +73,7 @@
             "banners.sexsearch.com": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
+            "boersego-ads.de": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
             "counter.gemius.pl": "INACTIVE",
@@ -93,9 +95,6 @@
             "ua.cnt.gemius.pl": "INACTIVE",
             "wantmobi.bid": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1567182670": {
-            "boersego-ads.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
