@@ -5055,8 +5055,8 @@
         "state": "future"
     },
     "net-filter.com": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "netaffiliation.com": {
@@ -5710,8 +5710,8 @@
         "state": "past"
     },
     "potwierdzoneinfo.pl": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1569628800,
+        "expiration_date": "28-sep-2019",
         "state": "future"
     },
     "practicetoothpaste.com": {
@@ -5985,8 +5985,8 @@
         "state": "future"
     },
     "re-directme.com": {
-        "epoch": "1566950400",
-        "expiration_date": "28-aug-2019",
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "reachjunction.com": {
@@ -6200,8 +6200,8 @@
         "state": "future"
     },
     "roxr.net": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "rtbpop.com": {
@@ -6545,9 +6545,9 @@
         "state": "future"
     },
     "sitedataprocessing.com": {
-        "epoch": 1566864000,
-        "expiration_date": "27-aug-2019",
-        "state": "past"
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
     },
     "sitemeter.com": {
         "epoch": "1617408000",
@@ -6740,8 +6740,8 @@
         "state": "future"
     },
     "spywarenuker.com": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "spywords.com": {
@@ -6940,8 +6940,8 @@
         "state": "future"
     },
     "tailsweep.se": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "takru.com": {
