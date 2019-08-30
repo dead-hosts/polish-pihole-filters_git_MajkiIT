@@ -2630,8 +2630,8 @@
         "state": "future"
     },
     "cubics.com": {
-        "epoch": "1566950400",
-        "expiration_date": "28-aug-2019",
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "curtaincows.com": {
@@ -4025,8 +4025,8 @@
         "state": "future"
     },
     "indexstats.com": {
-        "epoch": "1567123200",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "indexww.com": {
@@ -4335,8 +4335,8 @@
         "state": "future"
     },
     "lcx.pl": {
-        "epoch": "1567123200",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "leadboltads.net": {
