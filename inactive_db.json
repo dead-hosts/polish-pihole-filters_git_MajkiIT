@@ -96,7 +96,8 @@
             "www.banner-link.com.br": "INACTIVE"
         },
         "1567527171": {
-            "app.adblockhyper.us": "INACTIVE"
+            "app.adblockhyper.us": "INACTIVE",
+            "potenza.cz": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
