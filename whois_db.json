@@ -2685,8 +2685,8 @@
         "state": "future"
     },
     "datashreddergold.com": {
-        "epoch": "1567382400",
-        "expiration_date": "02-sep-2019",
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "dbbsrv.com": {
@@ -3730,8 +3730,8 @@
         "state": "future"
     },
     "hgads.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "hightrafficads.com": {
@@ -3985,9 +3985,9 @@
         "state": "future"
     },
     "imprese.cz": {
-        "epoch": "1566950400",
+        "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "impressionmedia.cz": {
         "epoch": 1595462400,
@@ -4085,8 +4085,8 @@
         "state": "future"
     },
     "insightexpress.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "insightexpressai.com": {
