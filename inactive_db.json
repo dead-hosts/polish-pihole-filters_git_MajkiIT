@@ -10,7 +10,8 @@
         "1566751621": {},
         "1566924092": {},
         "1567182670": {},
-        "1567353663": {
+        "1567353663": {},
+        "1567527171": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -67,6 +68,7 @@
             "adsk2.co": "INACTIVE",
             "adverts.carltononline.com": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
+            "app.adblockhyper.us": "INACTIVE",
             "b.aol.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
@@ -88,16 +90,13 @@
             "nedstat.nl": "INACTIVE",
             "oas.salon.com": "INACTIVE",
             "pixel.redditmedia.com": "INACTIVE",
+            "potenza.cz": "INACTIVE",
             "stat.dealtime.com": "INACTIVE",
             "stats-srv.rp.pl": "INACTIVE",
             "tracker.twenga.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE",
             "wantmobi.bid": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1567527171": {
-            "app.adblockhyper.us": "INACTIVE",
-            "potenza.cz": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
