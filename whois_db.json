@@ -3160,8 +3160,8 @@
         "state": "future"
     },
     "exchangead.com": {
-        "epoch": "1567555200",
-        "expiration_date": "04-sep-2019",
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "exchangeclicksonline.com": {
@@ -3450,8 +3450,8 @@
         "state": "future"
     },
     "freestats.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "freestats.tv": {
@@ -3890,8 +3890,8 @@
         "state": "future"
     },
     "hyphenion.com": {
-        "epoch": "1567555200",
-        "expiration_date": "04-sep-2019",
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "i-clicks.net": {
@@ -4055,8 +4055,8 @@
         "state": "future"
     },
     "infinityads.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "infolinks.com": {
@@ -4360,8 +4360,8 @@
         "state": "future"
     },
     "leadplace.fr": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "leadzupc.com": {
