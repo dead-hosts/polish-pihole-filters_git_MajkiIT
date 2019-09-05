@@ -11,7 +11,8 @@
         "1566924092": {},
         "1567182670": {},
         "1567353663": {},
-        "1567527171": {
+        "1567527171": {},
+        "1567700810": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -81,6 +82,7 @@
             "count.rbc.ru": "INACTIVE",
             "counter.gemius.pl": "INACTIVE",
             "di1.shopping.com": "INACTIVE",
+            "eclick.vn": "INACTIVE",
             "eur.a1.yimg.com": "INACTIVE",
             "gbanners.hornymatches.com": "INACTIVE",
             "gg.mob.vendimob.pl": "INACTIVE",
@@ -97,9 +99,6 @@
             "ua.cnt.gemius.pl": "INACTIVE",
             "wantmobi.bid": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1567700810": {
-            "eclick.vn": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
