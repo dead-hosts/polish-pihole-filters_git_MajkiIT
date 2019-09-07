@@ -5139,6 +5139,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "newsinsider.me": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
     "newstarads.com": {
         "epoch": "1576108800",
         "expiration_date": "12-dec-2019",
@@ -5315,8 +5320,8 @@
         "state": "future"
     },
     "opienetwork.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "opinionstage.com": {
@@ -6635,8 +6640,8 @@
         "state": "future"
     },
     "smowtion.com": {
-        "epoch": "1567814400",
-        "expiration_date": "07-sep-2019",
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "snakesort.com": {
@@ -6920,9 +6925,9 @@
         "state": "future"
     },
     "swan-swan-goose.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "switchadhub.com": {
         "epoch": "1586995200",
