@@ -1759,6 +1759,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "betegy.com": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "bidclix.com": {
         "epoch": "1587254400",
         "expiration_date": "19-apr-2020",
