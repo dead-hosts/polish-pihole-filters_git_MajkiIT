@@ -99,6 +99,9 @@
             "ua.cnt.gemius.pl": "INACTIVE",
             "wantmobi.bid": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
+        },
+        "1568029624": {
+            "potenza.cz": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
