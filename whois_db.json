@@ -2375,9 +2375,9 @@
         "state": "future"
     },
     "code-server.biz": {
-        "epoch": "1567987200",
+        "epoch": 1567987200,
         "expiration_date": "09-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "coin-have.com": {
         "epoch": "1569196800",
@@ -2500,8 +2500,8 @@
         "state": "future"
     },
     "cottawa.info": {
-        "epoch": "1567900800",
-        "expiration_date": "08-sep-2019",
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
         "state": "future"
     },
     "counted.com": {
@@ -2605,8 +2605,8 @@
         "state": "future"
     },
     "croissed.info": {
-        "epoch": "1567900800",
-        "expiration_date": "08-sep-2019",
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "crowdgravity.com": {
@@ -4560,8 +4560,8 @@
         "state": "future"
     },
     "lucklayed.info": {
-        "epoch": "1567900800",
-        "expiration_date": "08-sep-2019",
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "lumpyleaf.com": {
@@ -4680,8 +4680,8 @@
         "state": "future"
     },
     "mediaiqdigital.com": {
-        "epoch": "1567987200",
-        "expiration_date": "09-sep-2019",
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "mediamath.com": {
