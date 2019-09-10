@@ -1055,8 +1055,8 @@
         "state": "future"
     },
     "adthis.com": {
-        "epoch": "1568073600",
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "adthrive.com": {
@@ -2090,9 +2090,9 @@
         "state": "future"
     },
     "cecash.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "centerpointmedia.com": {
         "epoch": "1584921600",
