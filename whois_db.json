@@ -2820,9 +2820,9 @@
         "state": "future"
     },
     "discountclick.com": {
-        "epoch": 1568073600,
-        "expiration_date": "10-sep-2019",
-        "state": "past"
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
     },
     "displayadsmedia.com": {
         "epoch": "1584230400",
@@ -2930,9 +2930,9 @@
         "state": "future"
     },
     "dyntrk.com": {
-        "epoch": 1568073600,
-        "expiration_date": "10-sep-2019",
-        "state": "past"
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
     },
     "e-debtconsolidation.com": {
         "epoch": "1571097600",
