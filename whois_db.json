@@ -5920,8 +5920,8 @@
         "state": "future"
     },
     "pushengage.com": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1631750400,
+        "expiration_date": "16-sep-2021",
         "state": "future"
     },
     "qctop.com": {
@@ -6925,9 +6925,9 @@
         "state": "future"
     },
     "supertop100.com": {
-        "epoch": "1568592000",
+        "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "swan-swan-goose.com": {
         "epoch": 1599436800,
@@ -7065,9 +7065,9 @@
         "state": "future"
     },
     "text-link-ads.com": {
-        "epoch": "1568592000",
+        "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "textads.biz": {
         "epoch": "1573776000",
@@ -7785,9 +7785,9 @@
         "state": "future"
     },
     "webmasterplan.com": {
-        "epoch": "1568592000",
+        "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "weborama.fr": {
         "epoch": "1572393600",
