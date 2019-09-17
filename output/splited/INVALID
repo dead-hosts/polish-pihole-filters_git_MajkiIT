@@ -9,3 +9,10 @@ Subject                                                                         
 (^|\.)adserver\.snapads\.com$                                                                        SYNTAX     XXX        Tue 17 Sep 10:09:40 UTC 2019
 (^|\.)audienceinsights\.net$                                                                         SYNTAX     XXX        Tue 17 Sep 11:09:19 UTC 2019
 (^|\.)behavioralengine\.com$                                                                         SYNTAX     XXX        Tue 17 Sep 11:09:19 UTC 2019
+(^|\.)clickmatic\.pl$                                                                                SYNTAX     XXX        Tue 17 Sep 11:09:27 UTC 2019
+(^|\.)doubleclick\.(com)$                                                                            SYNTAX     XXX        Tue 17 Sep 11:09:27 UTC 2019
+(^|\.)gemius\.(com|pl)$                                                                              SYNTAX     XXX        Tue 17 Sep 11:09:27 UTC 2019
+(^|\.)hit\.gemius\.pl$                                                                               SYNTAX     XXX        Tue 17 Sep 11:09:27 UTC 2019
+(^|\.)hit\.interia\.pl$                                                                              SYNTAX     XXX        Tue 17 Sep 11:09:27 UTC 2019
+[imported]                                                                                           SYNTAX     XXX        Tue 17 Sep 11:09:27 UTC 2019
+(^|\.)lcx\.pl$                                                                                       SYNTAX     XXX        Tue 17 Sep 11:09:27 UTC 2019
