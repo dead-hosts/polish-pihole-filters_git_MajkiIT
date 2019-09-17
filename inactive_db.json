@@ -20,10 +20,7 @@
         "1568375081": {
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1568563408": {
-            "ua.cnt.gemius.pl": "INACTIVE",
-            "wantmobi.bid": "INACTIVE"
-        },
+        "1568563408": {},
         "1568716362": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
@@ -110,7 +107,9 @@
             "stat.dealtime.com": "INACTIVE",
             "stats-srv.rp.pl": "INACTIVE",
             "teliad.de": "INACTIVE",
-            "tracker.twenga.pl": "INACTIVE"
+            "tracker.twenga.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE",
+            "wantmobi.bid": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
