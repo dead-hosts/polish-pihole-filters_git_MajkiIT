@@ -1050,8 +1050,8 @@
         "state": "future"
     },
     "adtext.pl": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "adthis.com": {
@@ -1280,8 +1280,8 @@
         "state": "future"
     },
     "adzones.com": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "af-ad.co.uk": {
@@ -1420,8 +1420,8 @@
         "state": "future"
     },
     "amazon-adsystem.com": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1726444800,
+        "expiration_date": "16-sep-2024",
         "state": "future"
     },
     "ambitiousagreement.com": {
