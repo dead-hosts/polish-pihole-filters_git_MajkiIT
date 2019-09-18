@@ -22,19 +22,6 @@
         },
         "1568563408": {},
         "1568716362": {
-            "(^|\\.)meetrics\\.net$": "INVALID",
-            "(^|\\.)mylead\\.global$": "INVALID",
-            "(^|\\.)smartadserver\\.com$": "INVALID",
-            "nedstat.nl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "oas.salon.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "stat.dealtime.com": "INACTIVE",
-            "stats-srv.rp.pl": "INACTIVE",
-            "teliad.de": "INACTIVE",
-            "tracker.twenga.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE",
             "wantmobi.bid": "INACTIVE"
         },
@@ -52,6 +39,9 @@
             "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
             "(^|\\.)hit\\.interia\\.pl$": "INVALID",
             "(^|\\.)lcx\\.pl$": "INVALID",
+            "(^|\\.)meetrics\\.net$": "INVALID",
+            "(^|\\.)mylead\\.global$": "INVALID",
+            "(^|\\.)smartadserver\\.com$": "INVALID",
             "0daib.pl": "INACTIVE",
             "[imported]": "INVALID",
             "a.0day.kiev.ua": "INACTIVE",
@@ -111,7 +101,17 @@
             "gbanners.hornymatches.com": "INACTIVE",
             "gg.mob.vendimob.pl": "INACTIVE",
             "hitslink.interia.com.pl": "INACTIVE",
-            "int.sitestat.com": "INACTIVE"
+            "int.sitestat.com": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "oas.salon.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
+            "stat.dealtime.com": "INACTIVE",
+            "stats-srv.rp.pl": "INACTIVE",
+            "teliad.de": "INACTIVE",
+            "tracker.twenga.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
