@@ -940,8 +940,8 @@
         "state": "future"
     },
     "adsmarket.com": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "adsmart.com": {
@@ -1447,6 +1447,11 @@
     "anahtars.com": {
         "epoch": "1578960000",
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "anetakurier.info": {
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "ankieta-online.pl": {
