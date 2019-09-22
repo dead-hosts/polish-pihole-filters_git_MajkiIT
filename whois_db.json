@@ -1600,9 +1600,9 @@
         "state": "future"
     },
     "back.marketing": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "backbeatmedia.com": {
         "epoch": 1597795200,
@@ -2205,9 +2205,9 @@
         "state": "future"
     },
     "clickadz.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickagents.com": {
         "epoch": "1579564800",
