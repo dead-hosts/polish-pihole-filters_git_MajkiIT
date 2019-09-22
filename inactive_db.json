@@ -24,13 +24,6 @@
         "1568716362": {},
         "1568822662": {},
         "1568995523": {
-            "(^|\\.)smartadserver\\.com$": "INVALID",
-            "show.smartcontext.pl": "INACTIVE",
-            "stat.dealtime.com": "INACTIVE",
-            "stats-srv.rp.pl": "INACTIVE",
-            "teliad.de": "INACTIVE",
-            "tracker.twenga.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE",
             "wantmobi.bid": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
@@ -51,6 +44,7 @@
             "(^|\\.)lcx\\.pl$": "INVALID",
             "(^|\\.)meetrics\\.net$": "INVALID",
             "(^|\\.)mylead\\.global$": "INVALID",
+            "(^|\\.)smartadserver\\.com$": "INVALID",
             "0daib.pl": "INACTIVE",
             "[imported]": "INVALID",
             "a.0day.kiev.ua": "INACTIVE",
@@ -118,7 +112,13 @@
             "oas.foxnews.com": "INACTIVE",
             "oas.salon.com": "INACTIVE",
             "openx.blindferret.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE"
+            "pixel.redditmedia.com": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
+            "stat.dealtime.com": "INACTIVE",
+            "stats-srv.rp.pl": "INACTIVE",
+            "teliad.de": "INACTIVE",
+            "tracker.twenga.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
