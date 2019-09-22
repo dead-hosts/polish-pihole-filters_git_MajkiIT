@@ -4815,9 +4815,9 @@
         "state": "future"
     },
     "mixtraffic.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ml314.com": {
         "epoch": "1808352000",
@@ -4875,8 +4875,8 @@
         "state": "future"
     },
     "monsterpops.com": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "mookie1.com": {

@@ -10,3 +10,10 @@
 (^|\.)behavioralengine\.com$
 (^|\.)clickmatic\.pl$
 (^|\.)doubleclick\.(com)$
+(^|\.)gemius\.(com|pl)$
+(^|\.)hit\.gemius\.pl$
+(^|\.)hit\.interia\.pl$
+[imported]
+(^|\.)lcx\.pl$
+(^|\.)meetrics\.net$
+(^|\.)mylead\.global$
