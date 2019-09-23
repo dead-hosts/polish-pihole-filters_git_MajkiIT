@@ -4815,9 +4815,9 @@
         "state": "future"
     },
     "mixtraffic.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "ml314.com": {
         "epoch": "1808352000",
