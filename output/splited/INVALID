@@ -4,3 +4,5 @@
 Subject                                                                                              Source     HTTP Code  Analyze Date        
 !                                                                                                    SYNTAX     XXX        Tue 24 Sep 16:09:43 UTC 2019
 (^|\.)adform\.net$                                                                                   SYNTAX     XXX        Tue 24 Sep 16:09:43 UTC 2019
+(^|\.)adocean\.(pl)$                                                                                 SYNTAX     XXX        Tue 24 Sep 16:09:22 UTC 2019
+(^|\.)adsbtrack\.com$                                                                                SYNTAX     XXX        Tue 24 Sep 16:09:22 UTC 2019
