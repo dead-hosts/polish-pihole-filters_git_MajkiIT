@@ -4800,9 +4800,9 @@
         "state": "future"
     },
     "misstrends.com": {
-        "epoch": "1569369600",
+        "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mixedreading.com": {
         "epoch": "1584748800",
