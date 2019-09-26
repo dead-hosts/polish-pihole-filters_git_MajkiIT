@@ -26,9 +26,7 @@
         "1568995523": {},
         "1569105699": {},
         "1569234685": {},
-        "1569341324": {
-            "www.money4exit.de": "INACTIVE"
-        },
+        "1569341324": {},
         "1569514190": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
@@ -121,7 +119,8 @@
             "tracker.twenga.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE",
             "wantmobi.bid": "INACTIVE",
-            "www.banner-link.com.br": "INACTIVE"
+            "www.banner-link.com.br": "INACTIVE",
+            "www.money4exit.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
