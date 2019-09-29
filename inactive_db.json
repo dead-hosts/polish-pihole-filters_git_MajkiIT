@@ -41,11 +41,6 @@
             "(^|\\.)mylead\\.global$": "INVALID",
             "(^|\\.)smartadserver\\.com$": "INVALID",
             "[imported]": "INVALID",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "adverts.carltononline.com": "INACTIVE",
-            "analytics.newsinc.com": "INACTIVE",
             "b.aol.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
@@ -116,6 +111,9 @@
             "ads.redtube.com": "INACTIVE",
             "ads.returnpath.net": "INACTIVE",
             "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
@@ -123,7 +121,9 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.portalofevil.com": "INACTIVE",
             "adserver1.ogilvy-interactive.de": "INACTIVE",
-            "adsk2.co": "INACTIVE"
+            "adsk2.co": "INACTIVE",
+            "adverts.carltononline.com": "INACTIVE",
+            "analytics.newsinc.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
