@@ -4585,9 +4585,9 @@
         "state": "future"
     },
     "m32.media": {
-        "epoch": "1569888000",
+        "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "maciekkurier.info": {
         "epoch": 1591747200,
@@ -4920,9 +4920,9 @@
         "state": "future"
     },
     "mtree.com": {
-        "epoch": "1569888000",
+        "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "musiccounter.ru": {
         "epoch": "1583193600",
@@ -5200,8 +5200,8 @@
         "state": "future"
     },
     "ntv.io": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "ntvk1.ru": {
@@ -5230,8 +5230,8 @@
         "state": "future"
     },
     "oclasrv.com": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "offerforge.com": {
@@ -5260,8 +5260,8 @@
         "state": "future"
     },
     "onclasrv.com": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "onclickads.net": {

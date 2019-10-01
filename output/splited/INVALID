@@ -12,3 +12,9 @@ Subject                                                                         
 (^|\.)clickmatic\.pl$                                                                                SYNTAX     XXX        Tue 01 Oct 11:10:34 UTC 2019
 (^|\.)doubleclick\.(com)$                                                                            SYNTAX     XXX        Tue 01 Oct 11:10:47 UTC 2019
 (^|\.)gemius\.(com|pl)$                                                                              SYNTAX     XXX        Tue 01 Oct 11:10:47 UTC 2019
+(^|\.)hit\.gemius\.pl$                                                                               SYNTAX     XXX        Tue 01 Oct 12:10:04 UTC 2019
+(^|\.)hit\.interia\.pl$                                                                              SYNTAX     XXX        Tue 01 Oct 12:10:04 UTC 2019
+[imported]                                                                                           SYNTAX     XXX        Tue 01 Oct 12:10:04 UTC 2019
+(^|\.)lcx\.pl$                                                                                       SYNTAX     XXX        Tue 01 Oct 12:10:04 UTC 2019
+(^|\.)meetrics\.net$                                                                                 SYNTAX     XXX        Tue 01 Oct 12:10:04 UTC 2019
+(^|\.)mylead\.global$                                                                                SYNTAX     XXX        Tue 01 Oct 12:10:04 UTC 2019
