@@ -3060,9 +3060,9 @@
         "state": "future"
     },
     "emediate.dk": {
-        "epoch": "1569801600",
+        "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "emerse.com": {
         "epoch": "1714694400",
@@ -3515,8 +3515,8 @@
         "state": "future"
     },
     "fusionquest.com": {
-        "epoch": "1569801600",
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "futuristicfairies.com": {
