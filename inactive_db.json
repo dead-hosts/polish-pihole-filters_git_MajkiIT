@@ -29,15 +29,7 @@
         "1569341324": {},
         "1569514190": {},
         "1569666754": {},
-        "1569773505": {
-            "stats-srv.rp.pl": "INACTIVE",
-            "teliad.de": "INACTIVE",
-            "tracker.twenga.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE",
-            "wantmobi.bid": "INACTIVE",
-            "www.banner-link.com.br": "INACTIVE",
-            "www.money4exit.de": "INACTIVE"
-        },
+        "1569773505": {},
         "1569925016": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
@@ -123,7 +115,14 @@
             "pixel.redditmedia.com": "INACTIVE",
             "potenza.cz": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
-            "stat.dealtime.com": "INACTIVE"
+            "stat.dealtime.com": "INACTIVE",
+            "stats-srv.rp.pl": "INACTIVE",
+            "teliad.de": "INACTIVE",
+            "tracker.twenga.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE",
+            "wantmobi.bid": "INACTIVE",
+            "www.banner-link.com.br": "INACTIVE",
+            "www.money4exit.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
