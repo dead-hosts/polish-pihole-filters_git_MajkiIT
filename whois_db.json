@@ -964,6 +964,11 @@
         "expiration_date": "21-jun-2021",
         "state": "future"
     },
+    "adsnet.pl": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "adsoftware.com": {
         "epoch": "1578960000",
         "expiration_date": "14-jan-2020",
