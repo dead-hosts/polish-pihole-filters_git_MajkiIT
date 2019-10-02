@@ -4595,9 +4595,9 @@
         "state": "future"
     },
     "m32.media": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
-        "state": "past"
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
     },
     "maciekkurier.info": {
         "epoch": 1591747200,
@@ -4909,6 +4909,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "moviads.pl": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "mowfruit.com": {
         "epoch": "1582675200",
         "expiration_date": "26-feb-2020",
@@ -4930,9 +4935,9 @@
         "state": "future"
     },
     "mtree.com": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
-        "state": "past"
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
     },
     "musiccounter.ru": {
         "epoch": "1583193600",
