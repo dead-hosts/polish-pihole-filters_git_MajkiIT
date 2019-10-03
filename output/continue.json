@@ -545,7 +545,49 @@
             "ads.fool.com",
             "ads.footymad.net",
             "ads.forbes.com",
-            "ads.forbes.net"
+            "ads.forbes.net",
+            "ads.forium.de",
+            "ads.fortunecity.com",
+            "ads.fotosidan.se",
+            "ads.foxnetworks.com",
+            "ads.freecity.de",
+            "ads.friendfinder.com",
+            "ads.ft.com",
+            "ads.gamecity.net",
+            "ads.gamershell.com"
+        ],
+        "INACTIVE": [
+            "0daib.pl",
+            "a.0day.kiev.ua",
+            "a32.g.a.yimg.com",
+            "ad2.linxcz.cz",
+            "ad.afy11.net",
+            "adboost.de.vu",
+            "ad.globe7.com",
+            "ad.onad.eu",
+            "adq.nextag.com",
+            "ads03.redtube.com",
+            "ads2.rp.pl",
+            "ads.ak.facebook.com.edgesuite.net",
+            "ads.betanews.com",
+            "ads.betfair.com.au",
+            "ads.cgnetworks.com",
+            "ads.clickad.com.pl",
+            "ads.crakmedia.com",
+            "ads.datinggold.com",
+            "adserver1.ogilvy-interactive.de",
+            "adserver.43plc.com",
+            "adserver.flossiemediagroup.com",
+            "adserver.portalofevil.com",
+            "adserv.iafrica.com",
+            "ads.foxnews.com"
+        ],
+        "INVALID": [
+            "!",
+            "(^|\\.)adform\\.net$",
+            "(^|\\.)adocean\\.(pl)$",
+            "(^|\\.)adsbtrack\\.com$",
+            "(^|\\.)adserver\\.snapads\\.com$"
         ]
     }
 }
