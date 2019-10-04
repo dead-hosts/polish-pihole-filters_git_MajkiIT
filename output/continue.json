@@ -667,7 +667,11 @@
             "ad-space.net",
             "ads.passion.com",
             "adspeed.net",
-            "ads.pennet.com"
+            "ads.pennet.com",
+            "ads.phpclasses.org",
+            "adspirit.de",
+            "ads.planet.nl",
+            "ads.pni.com"
         ],
         "INACTIVE": [
             "0daib.pl",
@@ -701,7 +705,8 @@
             "ads.linuxsecurity.com",
             "ad.slutload.com",
             "ads.motor-forum.nl",
-            "ads.newdream.net"
+            "ads.newdream.net",
+            "ads.penny-arcade.com"
         ],
         "INVALID": [
             "!",
