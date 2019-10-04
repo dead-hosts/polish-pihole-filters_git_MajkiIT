@@ -690,7 +690,14 @@
             "ads.resoom.de",
             "adsrevenue.net",
             "adsrv.deviantart.com",
-            "adsrv.iol.co.za"
+            "adsrv.iol.co.za",
+            "adsrv.lua.pl",
+            "adsrvr.org",
+            "ads.satyamonline.com",
+            "ads.scifi.com",
+            "ads.seniorfriendfinder.com",
+            "ads.servebom.com",
+            "ads.sexinyourcity.com"
         ],
         "INACTIVE": [
             "0daib.pl",
@@ -727,7 +734,8 @@
             "ads.newdream.net",
             "ads.penny-arcade.com",
             "ads.redtube.com",
-            "ads.returnpath.net"
+            "ads.returnpath.net",
+            "ads.s3.sitepoint.com"
         ],
         "INVALID": [
             "!",
