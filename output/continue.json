@@ -684,7 +684,13 @@
             "ads.pushplay.com",
             "ads.quoka.de",
             "ads.rcs.it",
-            "ads.recoletos.es"
+            "ads.recoletos.es",
+            "ads.rediff.com",
+            "ads.redlightcenter.com",
+            "ads.resoom.de",
+            "adsrevenue.net",
+            "adsrv.deviantart.com",
+            "adsrv.iol.co.za"
         ],
         "INACTIVE": [
             "0daib.pl",
@@ -719,7 +725,9 @@
             "ad.slutload.com",
             "ads.motor-forum.nl",
             "ads.newdream.net",
-            "ads.penny-arcade.com"
+            "ads.penny-arcade.com",
+            "ads.redtube.com",
+            "ads.returnpath.net"
         ],
         "INVALID": [
             "!",
