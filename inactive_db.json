@@ -44,9 +44,7 @@
             "(^|\\.)smartadserver\\.com$": "INVALID",
             "[imported]": "INVALID",
             "b.aol.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
@@ -129,7 +127,9 @@
             "(^|\\.)audienceinsights\\.net$": "INVALID",
             "adverts.carltononline.com": "INACTIVE",
             "affiliates.internationaljock.com": "INACTIVE",
-            "analytics.newsinc.com": "INACTIVE"
+            "analytics.newsinc.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
