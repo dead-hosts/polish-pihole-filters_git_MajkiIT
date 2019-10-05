@@ -883,7 +883,16 @@
             "affiliate.gamestop.com",
             "affiliate.mercola.com",
             "affiliate.mogs.com",
-            "affiliate.offgamers.com"
+            "affiliate.offgamers.com",
+            "affiliates.allposters.com",
+            "affiliates.babylon.com",
+            "affiliates.digitalriver.com",
+            "affiliates.globat.com",
+            "affiliates.rozetka.com.ua",
+            "affiliates.streamray.com",
+            "affiliates.thinkhost.net",
+            "affiliates.thrixxx.com",
+            "affiliates.ultrahosting.com"
         ],
         "INACTIVE": [
             "0daib.pl",
@@ -925,7 +934,8 @@
             "ads.sptimes.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
-            "adverts.carltononline.com"
+            "adverts.carltononline.com",
+            "affiliates.internationaljock.com"
         ],
         "INVALID": [
             "!",
