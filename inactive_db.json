@@ -32,7 +32,6 @@
         "1569773505": {},
         "1569925016": {},
         "1570032891": {
-            "(^|\\.)audienceinsights\\.net$": "INVALID",
             "(^|\\.)behavioralengine\\.com$": "INVALID",
             "(^|\\.)clickmatic\\.pl$": "INVALID",
             "(^|\\.)doubleclick\\.(com)$": "INVALID",
@@ -127,6 +126,7 @@
             "adsk2.co": "INACTIVE"
         },
         "1570225356": {
+            "(^|\\.)audienceinsights\\.net$": "INVALID",
             "adverts.carltononline.com": "INACTIVE",
             "affiliates.internationaljock.com": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE"

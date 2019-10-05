@@ -975,7 +975,14 @@
             "athena-ads.wikia.com",
             "attributiontracker.com",
             "atwola.com",
-            "a.ucoz.net"
+            "a.ucoz.net",
+            "a.ucoz.ru",
+            "auctionads.com",
+            "auctionads.net",
+            "audience2media.com",
+            "audienceinsights.com",
+            "audienceinsights.net",
+            "audit.median.hu"
         ],
         "INACTIVE": [
             "0daib.pl",
@@ -1026,7 +1033,8 @@
             "(^|\\.)adform\\.net$",
             "(^|\\.)adocean\\.(pl)$",
             "(^|\\.)adsbtrack\\.com$",
-            "(^|\\.)adserver\\.snapads\\.com$"
+            "(^|\\.)adserver\\.snapads\\.com$",
+            "(^|\\.)audienceinsights\\.net$"
         ]
     }
 }
