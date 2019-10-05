@@ -934,7 +934,13 @@
             "analytics.adpost.org",
             "analytics.ccs.mcafee.com",
             "analytics.ceneo.pl",
-            "analyticsdcs.ccs.mcafee.com"
+            "analyticsdcs.ccs.mcafee.com",
+            "analytics.gazeta.pl",
+            "analytics.google.com",
+            "analytics.live.com",
+            "analytics.yahoo.com",
+            "ankieta-online.pl",
+            "anm.intelli-direct.com"
         ],
         "INACTIVE": [
             "0daib.pl",
@@ -977,7 +983,8 @@
             "ads.web.aol.com",
             "ads.web.cs.com",
             "adverts.carltononline.com",
-            "affiliates.internationaljock.com"
+            "affiliates.internationaljock.com",
+            "analytics.newsinc.com"
         ],
         "INVALID": [
             "!",

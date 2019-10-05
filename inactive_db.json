@@ -44,7 +44,6 @@
             "(^|\\.)mylead\\.global$": "INVALID",
             "(^|\\.)smartadserver\\.com$": "INVALID",
             "[imported]": "INVALID",
-            "analytics.newsinc.com": "INACTIVE",
             "b.aol.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
@@ -129,7 +128,8 @@
         },
         "1570225356": {
             "adverts.carltononline.com": "INACTIVE",
-            "affiliates.internationaljock.com": "INACTIVE"
+            "affiliates.internationaljock.com": "INACTIVE",
+            "analytics.newsinc.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
