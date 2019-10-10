@@ -189,6 +189,12 @@
         },
         "1570680926": {
             "adclient1.tucows.com": "INACTIVE"
+        },
+        "1570685104": {
+            "ad.docer.pl": "INACTIVE"
+        },
+        "1570685235": {
+            "ad.doctissimo.fr": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
