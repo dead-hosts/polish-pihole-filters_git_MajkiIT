@@ -139,6 +139,24 @@
         },
         "1570667975": {
             "ad01.mediacorpsingapore.com": "INACTIVE"
+        },
+        "1570672197": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1570672328": {
+            "ad1.pamedia.com.au": "INACTIVE"
+        },
+        "1570672329": {
+            "ad2.lupa.cz": "INACTIVE"
+        },
+        "1570672461": {
+            "ad2.xrea.com": "INACTIVE"
+        },
+        "1570672592": {
+            "ad3.pamedia.com.au": "INACTIVE"
+        },
+        "1570672723": {
+            "ad3.xrea.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
