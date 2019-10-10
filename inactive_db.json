@@ -166,6 +166,29 @@
         },
         "1570676638": {
             "ad.abctv.com": "INACTIVE"
+        },
+        "1570680376": {
+            "ad.allstar.cz": "INACTIVE"
+        },
+        "1570680507": {
+            "ad.anuntis.com": "INACTIVE"
+        },
+        "1570680508": {
+            "ad.auditude.com": "INACTIVE"
+        },
+        "1570680639": {
+            "ad.blueice.pl": "INACTIVE",
+            "ad.bnmla.com": "INACTIVE"
+        },
+        "1570680791": {
+            "ad.caradisiac.com": "INACTIVE",
+            "adcast.deviantart.com": "INACTIVE"
+        },
+        "1570680794": {
+            "ad.cgi.cz": "INACTIVE"
+        },
+        "1570680926": {
+            "adclient1.tucows.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
