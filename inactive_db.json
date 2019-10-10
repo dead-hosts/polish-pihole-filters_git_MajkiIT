@@ -126,6 +126,19 @@
         },
         "1570663165": {
             "bans.adserver.co.il": "INACTIVE"
+        },
+        "1570667442": {
+            "15minlt.adocean.pl": "INACTIVE"
+        },
+        "1570667709": {
+            "Adsatt.ABCNews.starwave.com": "INVALID",
+            "Adsatt.go.starwave.com": "INVALID"
+        },
+        "1570667844": {
+            "ac.rnm.ca": "INACTIVE"
+        },
+        "1570667975": {
+            "ad01.mediacorpsingapore.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
