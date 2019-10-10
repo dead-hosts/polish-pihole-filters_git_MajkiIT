@@ -157,6 +157,15 @@
         },
         "1570672723": {
             "ad3.xrea.com": "INACTIVE"
+        },
+        "1570676376": {
+            "ad.a8.net": "INACTIVE"
+        },
+        "1570676507": {
+            "ad.abcnews.com": "INACTIVE"
+        },
+        "1570676638": {
+            "ad.abctv.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
