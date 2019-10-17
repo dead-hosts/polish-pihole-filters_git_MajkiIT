@@ -3,246 +3,2044 @@
         "1568375081": {
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1570032891": {
-            "(^|\\.)behavioralengine\\.com$": "INVALID",
-            "(^|\\.)clickmatic\\.pl$": "INVALID",
-            "(^|\\.)doubleclick\\.(com)$": "INVALID",
-            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
-            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
-            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
-            "(^|\\.)lcx\\.pl$": "INVALID",
-            "(^|\\.)meetrics\\.net$": "INVALID",
-            "(^|\\.)mylead\\.global$": "INVALID",
-            "(^|\\.)smartadserver\\.com$": "INVALID",
-            "[imported]": "INVALID",
-            "b.aol.com": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "block734.oplatyi.pl": "INACTIVE",
-            "clients.tbo.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "di1.shopping.com": "INACTIVE",
-            "eur.a1.yimg.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "gg.mob.vendimob.pl": "INACTIVE",
-            "hitslink.interia.com.pl": "INACTIVE",
-            "imprese.cz": "INACTIVE",
-            "int.sitestat.com": "INACTIVE",
-            "nedstat.nl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "oas.salon.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "stat.dealtime.com": "INACTIVE",
-            "stats-srv.rp.pl": "INACTIVE",
-            "teliad.de": "INACTIVE",
-            "tracker.twenga.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE",
-            "wantmobi.bid": "INACTIVE",
-            "www.banner-link.com.br": "INACTIVE",
-            "www.money4exit.de": "INACTIVE",
-            "www.photo-ads.co.uk": "INACTIVE"
-        },
-        "1570122142": {
-            "!": "INVALID",
-            "(^|\\.)adform\\.net$": "INVALID",
-            "(^|\\.)adocean\\.(pl)$": "INVALID",
-            "(^|\\.)adsbtrack\\.com$": "INVALID",
-            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
-            "0daib.pl": "INACTIVE",
-            "a.0day.kiev.ua": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
-            "ad.globe7.com": "INACTIVE",
-            "ad.onad.eu": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ad2.linxcz.cz": "INACTIVE",
-            "adboost.de.vu": "INACTIVE",
-            "adq.nextag.com": "INACTIVE",
-            "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
-            "ads.betfair.com.au": "INACTIVE",
-            "ads.cgnetworks.com": "INACTIVE",
-            "ads.clickad.com.pl": "INACTIVE",
-            "ads.crakmedia.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "ads.foxnews.com": "INACTIVE",
-            "ads.getlucky.com": "INACTIVE",
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.motor-forum.nl": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "ads.returnpath.net": "INACTIVE",
-            "ads.s3.sitepoint.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE",
-            "ads2.rp.pl": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
-            "adserver.43plc.com": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.portalofevil.com": "INACTIVE",
-            "adserver1.ogilvy-interactive.de": "INACTIVE",
-            "adsk2.co": "INACTIVE"
-        },
-        "1570225356": {
-            "(^|\\.)audienceinsights\\.net$": "INVALID",
-            "adverts.carltononline.com": "INACTIVE",
-            "affiliates.internationaljock.com": "INACTIVE",
-            "analytics.newsinc.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE"
-        },
-        "1570662487": {
-            "banners.czi.cz": "INACTIVE"
-        },
-        "1570662618": {
-            "banners.freett.com": "INACTIVE"
-        },
-        "1570662623": {
-            "banners.linkbuddies.com": "INACTIVE"
-        },
-        "1570662753": {
-            "bannersng.yell.com": "INACTIVE"
-        },
-        "1570662884": {
-            "banners.resultonline.com": "INACTIVE"
-        },
-        "1570662900": {
-            "banners.thomsonlocal.com": "INACTIVE"
-        },
-        "1570663032": {
-            "banner.titan-dsl.de": "INACTIVE"
-        },
-        "1570663165": {
-            "bans.adserver.co.il": "INACTIVE"
-        },
-        "1570667442": {
-            "15minlt.adocean.pl": "INACTIVE"
-        },
-        "1570667709": {
-            "Adsatt.ABCNews.starwave.com": "INVALID",
-            "Adsatt.go.starwave.com": "INVALID"
-        },
-        "1570667844": {
-            "ac.rnm.ca": "INACTIVE"
-        },
-        "1570667975": {
-            "ad01.mediacorpsingapore.com": "INACTIVE"
-        },
-        "1570672197": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
-        "1570672328": {
-            "ad1.pamedia.com.au": "INACTIVE"
-        },
-        "1570672329": {
-            "ad2.lupa.cz": "INACTIVE"
-        },
-        "1570672461": {
-            "ad2.xrea.com": "INACTIVE"
-        },
-        "1570672592": {
-            "ad3.pamedia.com.au": "INACTIVE"
-        },
-        "1570672723": {
-            "ad3.xrea.com": "INACTIVE"
-        },
-        "1570676376": {
-            "ad.a8.net": "INACTIVE"
-        },
-        "1570676507": {
-            "ad.abcnews.com": "INACTIVE"
-        },
-        "1570676638": {
-            "ad.abctv.com": "INACTIVE"
-        },
-        "1570680376": {
-            "ad.allstar.cz": "INACTIVE"
-        },
-        "1570680507": {
-            "ad.anuntis.com": "INACTIVE"
-        },
-        "1570680508": {
-            "ad.auditude.com": "INACTIVE"
-        },
-        "1570680639": {
-            "ad.blueice.pl": "INACTIVE",
-            "ad.bnmla.com": "INACTIVE"
-        },
-        "1570680791": {
-            "ad.caradisiac.com": "INACTIVE",
-            "adcast.deviantart.com": "INACTIVE"
-        },
-        "1570680794": {
-            "ad.cgi.cz": "INACTIVE"
-        },
-        "1570680926": {
-            "adclient1.tucows.com": "INACTIVE"
-        },
-        "1570685104": {
-            "ad.docer.pl": "INACTIVE"
-        },
-        "1570685235": {
-            "ad.doctissimo.fr": "INACTIVE"
-        },
-        "1570688898": {
-            "ad.domainfactory.de": "INACTIVE"
-        },
-        "1570689032": {
-            "ad.facetpo40.pl": "INACTIVE"
-        },
-        "1570689033": {
-            "ad.filmweb.pl": "INACTIVE"
-        },
-        "1570689035": {
-            "ad.foxnetworks.com": "INACTIVE"
-        },
-        "1570689343": {
-            "ad.freecity.de": "INACTIVE"
-        },
-        "1570697433": {
-            "ad.grafika.cz": "INACTIVE"
-        },
-        "1570697564": {
-            "ad.hbv.de": "INACTIVE"
-        },
-        "1570706494": {
-            "ad.hodomobile.com": "INACTIVE"
-        },
-        "1570714056": {
-            "adidm07.idmnet.pl": "INACTIVE"
-        },
-        "1570721758": {
-            "adidm.idmnet.pl": "INACTIVE"
-        },
-        "1570729737": {
-            "adimages.go.com": "INACTIVE"
-        },
-        "1570737014": {
-            "adimages.sanomawsoy.fi": "INACTIVE"
-        },
-        "1570744659": {
-            "adimg1.chosun.com": "INACTIVE"
-        },
-        "1570744789": {
-            "adimg.cnet.com": "INACTIVE"
-        },
-        "1570758043": {
-            "adk2ads.tictacti.com": "INACTIVE"
-        },
         "1571298955": {
             "ad.cooks.com": "INACTIVE"
+        },
+        "1571348906": {
+            "!": "INVALID",
+            "0daib.pl": "INVALID",
+            "15minadlt.hit.gemius.pl": "INVALID",
+            "15minlt.adocean.pl": "INVALID",
+            "24ratownik.hit.gemius.pl": "INVALID"
+        },
+        "1571348907": {
+            "600z.com": "INVALID"
+        },
+        "1571348908": {
+            "Adsatt.ABCNews.starwave.com": "INVALID",
+            "Adsatt.go.starwave.com": "INVALID",
+            "a.0day.kiev.ua": "INVALID",
+            "a135.wftv.com": "INVALID"
+        },
+        "1571348909": {
+            "a.aproductmsg.com": "INVALID",
+            "a32.g.a.yimg.com": "INVALID"
+        },
+        "1571348910": {
+            "a.consumer.net": "INVALID",
+            "abandonedclover.com": "INVALID",
+            "ac.rnm.ca": "INVALID",
+            "activeby.hit.gemius.pl": "INVALID",
+            "ad0.bigmir.net": "INVALID",
+            "ad01.mediacorpsingapore.com": "INVALID"
+        },
+        "1571348911": {
+            "ad1.emediate.dk": "INVALID",
+            "ad1.kde.cz": "INVALID",
+            "ad1.pamedia.com.au": "INVALID"
+        },
+        "1571348912": {
+            "ad2.iinfo.cz": "INVALID",
+            "ad2.linxcz.cz": "INVALID",
+            "ad2.lupa.cz": "INVALID"
+        },
+        "1571348913": {
+            "ad2.xrea.com": "INVALID",
+            "ad3.iinfo.cz": "INVALID",
+            "ad3.pamedia.com.au": "INVALID",
+            "ad3.xrea.com": "INVALID"
+        },
+        "1571348914": {
+            "ad.71i.de": "INVALID",
+            "ad.a8.net": "INVALID",
+            "ad.abcnews.com": "INVALID",
+            "ad.abctv.com": "INVALID",
+            "ad.aboutwebservices.com": "INVALID",
+            "adactiongapl.hit.gemius.pl": "INVALID"
+        },
+        "1571348915": {
+            "ad.adocean.pl": "INVALID",
+            "ad.adview.pl": "INVALID",
+            "ad.afilo.pl": "INVALID",
+            "adafi.hit.gemius.pl": "INVALID"
+        },
+        "1571348916": {
+            "ad.afy11.net": "INVALID",
+            "ad.allstar.cz": "INVALID",
+            "ad.altervista.org": "INVALID",
+            "ad.amgdgt.com": "INVALID",
+            "ad.anuntis.com": "INVALID",
+            "ad.auditude.com": "INVALID"
+        },
+        "1571348917": {
+            "ad.blueice.pl": "INVALID",
+            "ad.bnmla.com": "INVALID"
+        },
+        "1571348925": {
+            "ad.caradisiac.com": "INVALID",
+            "ad.cgi.cz": "INVALID",
+            "ad.docer.pl": "INVALID",
+            "ad.doctissimo.fr": "INVALID",
+            "ad.domainfactory.de": "INVALID",
+            "ad.facetpo40.pl": "INVALID",
+            "adboost.de.vu": "INVALID",
+            "adcast.deviantart.com": "INVALID",
+            "adclient1.tucows.com": "INVALID"
+        },
+        "1571348926": {
+            "(^|\\.)adform\\.net$": "INVALID",
+            "ad.filmweb.pl": "INVALID",
+            "ad.foxnetworks.com": "INVALID",
+            "ad.freecity.de": "INVALID",
+            "ad.globe7.com": "INVALID",
+            "ad.grafika.cz": "INVALID",
+            "ad.groupon.pl": "INVALID",
+            "ad.hbv.de": "INVALID"
+        },
+        "1571348927": {
+            "ad.hit.gemius.pl": "INVALID",
+            "ad.hodomobile.com": "INVALID",
+            "ad.hosting.pl": "INVALID",
+            "adhr.hit.gemius.pl": "INVALID"
+        },
+        "1571348928": {
+            "ad.httpool.com": "INVALID",
+            "ad.iinfo.cz": "INVALID",
+            "ad.ilove.ch": "INVALID",
+            "adidm.idmnet.pl": "INVALID",
+            "adidm07.idmnet.pl": "INVALID",
+            "adimage.guardian.co.uk": "INVALID",
+            "adimages.carsoup.com": "INVALID"
+        },
+        "1571348929": {
+            "ad.infoseek.com": "INVALID",
+            "adimages.go.com": "INVALID",
+            "adimages.sanomawsoy.fi": "INVALID",
+            "adimg.cnet.com": "INVALID",
+            "adimg.com.com": "INVALID",
+            "adimg.uimserv.net": "INVALID",
+            "adimg1.chosun.com": "INVALID",
+            "adimgs.sapo.pt": "INVALID"
+        },
+        "1571348930": {
+            "ad.jamba.net": "INVALID",
+            "ad.jamster.co.uk": "INVALID",
+            "ad.jetsoftware.com": "INVALID",
+            "adk.docer.pl": "INVALID",
+            "adk2ads.tictacti.com": "INVALID"
+        },
+        "1571348931": {
+            "ad.keenspace.com": "INVALID",
+            "ad.leadbolt.net": "INVALID",
+            "ad.liveinternet.ru": "INVALID",
+            "adlog.com.com": "INVALID"
+        },
+        "1571348932": {
+            "ad.lupa.cz": "INVALID",
+            "adlt.hit.gemius.pl": "INVALID",
+            "adlv.hit.gemius.pl": "INVALID",
+            "admailtiser.com": "INVALID"
+        },
+        "1571348933": {
+            "ad.media-servers.net": "INVALID",
+            "adman.otenet.gr": "INVALID",
+            "admanager.btopenworld.com": "INVALID",
+            "admanager.carsoup.com": "INVALID",
+            "admax.nexage.com": "INVALID"
+        },
+        "1571348938": {
+            "ad.mediastorm.hu": "INVALID",
+            "ad.mgd.de": "INVALID",
+            "ad.musicmatch.com": "INVALID",
+            "adm.fwmrm.net": "INVALID"
+        },
+        "1571348939": {
+            "ad.nachtagenten.de": "INVALID",
+            "adnet.asahi.com": "INVALID",
+            "adnet.hit.gemius.pl": "INVALID",
+            "adnetgalt.hit.gemius.pl": "INVALID"
+        },
+        "1571348940": {
+            "ad.nozonedata.com": "INVALID",
+            "ad.nttnavi.co.jp": "INVALID",
+            "adnet-media.net": "INVALID",
+            "adnet.worldreviewer.com": "INVALID",
+            "adnews.maddog2000.de": "INVALID"
+        },
+        "1571348941": {
+            "ad.nwt.cz": "INVALID",
+            "adocean-by.hit.gemius.pl": "INVALID"
+        },
+        "1571348942": {
+            "adocean-cz.hit.gemius.pl": "INVALID",
+            "adocean-ee.hit.gemius.pl": "INVALID",
+            "adocean-hr.hit.gemius.pl": "INVALID",
+            "adocean-lt.hit.gemius.pl": "INVALID"
+        },
+        "1571348943": {
+            "(^|\\.)adocean\\.(pl)$": "INVALID",
+            "adocean-lv.hit.gemius.pl": "INVALID",
+            "adocean-pl.hit.gemius.pl": "INVALID",
+            "adocean-ro.hit.gemius.pl": "INVALID",
+            "adocean-si.hit.gemius.pl": "INVALID"
+        },
+        "1571348944": {
+            "ad.onad.eu": "INVALID",
+            "adocean-ua.hit.gemius.pl": "INVALID",
+            "adp.adview.pl": "INVALID",
+            "adp.gazeta.pl": "INVALID"
+        },
+        "1571348945": {
+            "ad.pl.doubleclick.net": "INVALID",
+            "ad.polskiprzemysl.com.pl": "INVALID"
+        },
+        "1571348946": {
+            "ad.profiwin.de": "INVALID",
+            "ad.prv.pl": "INVALID",
+            "ad.rambler.ru": "INVALID",
+            "adq.nextag.com": "INVALID",
+            "adremedy.com": "INVALID"
+        },
+        "1571348947": {
+            "ad.reunion.com": "INVALID",
+            "adro.hit.gemius.pl": "INVALID",
+            "adrotic.girlonthenet.com": "INVALID",
+            "adrs.hit.gemius.pl": "INVALID"
+        },
+        "1571348948": {
+            "ads03.redtube.com": "INVALID",
+            "ads1.canoe.ca": "INVALID",
+            "ads1.mediacapital.pt": "INVALID",
+            "ads1.msn.com": "INVALID",
+            "ads1.rne.com": "INVALID",
+            "ads1.virtual-nights.com": "INVALID",
+            "ads10.speedbit.com": "INVALID",
+            "ads2.brazzers.com": "INVALID",
+            "ads2.clearchannel.com": "INVALID",
+            "ads2.contentabc.com": "INVALID",
+            "ads2.jubii.dk": "INVALID",
+            "ads2004.treiberupdate.de": "INVALID"
+        },
+        "1571348949": {
+            "ads2.net-communities.co.uk": "INVALID",
+            "ads2.oneplace.com": "INVALID",
+            "ads2.rne.com": "INVALID",
+            "ads2.rp.pl": "INVALID",
+            "ads2.virtual-nights.com": "INVALID",
+            "ads2.xnet.cz": "INVALID",
+            "ads3.contentabc.com": "INVALID"
+        },
+        "1571348950": {
+            "ads.4tube.com": "INVALID",
+            "ads.5ci.lt": "INVALID",
+            "ads.abovetopsecret.com": "INVALID",
+            "ads.aceweb.net": "INVALID",
+            "ads3.virtual-nights.com": "INVALID",
+            "ads4.clearchannel.com": "INVALID",
+            "ads4.virtual-nights.com": "INVALID",
+            "ads5.canoe.ca": "INVALID",
+            "ads5.virtual-nights.com": "INVALID"
+        },
+        "1571348951": {
+            "ads.adfox.ru": "INVALID",
+            "ads.administrator.de": "INVALID",
+            "ads.adshareware.net": "INVALID",
+            "ads.adultfriendfinder.com": "INVALID",
+            "ads.advance.net": "INVALID",
+            "ads.adverline.com": "INVALID",
+            "ads.affiliates-spinit.com": "INVALID",
+            "ads.affiliates.match.com": "INVALID",
+            "ads.ak.facebook.com.edgesuite.net": "INVALID",
+            "ads.allvatar.com": "INVALID",
+            "ads.alt.com": "INVALID"
+        },
+        "1571348952": {
+            "ads.amdmb.com": "INVALID",
+            "ads.amigos.com": "INVALID",
+            "ads.aol.co.uk": "INVALID",
+            "ads.apn.co.nz": "INVALID",
+            "ads.appsgeyser.com": "INVALID",
+            "ads.as4x.tmcs.net": "INVALID",
+            "ads.as4x.tmcs.ticketmaster.com": "INVALID",
+            "ads.asiafriendfinder.com": "INVALID",
+            "ads.ask.com": "INVALID",
+            "ads.aspalliance.com": "INVALID",
+            "adsatt.abc.starwave.com": "INVALID",
+            "adsatt.espn.go.com": "INVALID"
+        },
+        "1571348953": {
+            "ads.avazu.net": "INVALID",
+            "ads.belointeractive.com": "INVALID",
+            "ads.berlinonline.de": "INVALID",
+            "ads.betanews.com": "INVALID",
+            "ads.betfair.com.au": "INVALID",
+            "ads.bigchurch.com": "INVALID",
+            "ads.bigfoot.com": "INVALID",
+            "ads.bing.com": "INVALID",
+            "ads.bittorrent.com": "INVALID",
+            "ads.blog.com": "INVALID",
+            "ads.bloomberg.com": "INVALID",
+            "ads.bluelithium.com": "INVALID",
+            "ads.bluemountain.com": "INVALID",
+            "adsatt.espn.starwave.com": "INVALID"
+        },
+        "1571348954": {
+            "(^|\\.)adsbtrack\\.com$": "INVALID",
+            "ads.bluesq.com": "INVALID",
+            "ads.bonniercorp.com": "INVALID",
+            "ads.boylesports.com": "INVALID",
+            "ads.brazzers.com": "INVALID",
+            "ads.bumq.com": "INVALID",
+            "ads.businessclick.pl": "INVALID",
+            "ads.businessweek.com": "INVALID",
+            "adsby.bidtheatre.com": "INVALID"
+        },
+        "1571348955": {
+            "ads.canoe.ca": "INVALID",
+            "ads.casinocity.com": "INVALID",
+            "ads.cbc.ca": "INVALID",
+            "ads.cc-dt.com": "INVALID",
+            "ads.centraliprom.com": "INVALID",
+            "ads.cgnetworks.com": "INVALID",
+            "ads.channel4.com": "INVALID",
+            "ads.clearchannel.com": "INVALID"
+        },
+        "1571348957": {
+            "ads.clickad.com.pl": "INVALID",
+            "ads.com.com": "INVALID",
+            "ads.comperia.pl": "INVALID",
+            "ads.contactmusic.com": "INVALID",
+            "ads.contentabc.com": "INVALID",
+            "ads.contextweb.com": "INVALID",
+            "ads.crakmedia.com": "INVALID",
+            "ads.creative-serving.com": "INVALID",
+            "ads.creativematch.com": "INVALID",
+            "ads.cricbuzz.com": "INVALID",
+            "ads.cybersales.cz": "INVALID"
+        },
+        "1571348958": {
+            "ads.dada.it": "INVALID",
+            "ads.datinggold.com": "INVALID",
+            "ads.datingyes.com": "INVALID",
+            "ads.dazoot.ro": "INVALID",
+            "ads.deltha.hu": "INVALID",
+            "ads.desmoinesregister.com": "INVALID"
+        },
+        "1571348959": {
+            "ads.detelefoongids.nl": "INVALID",
+            "ads.deviantart.com": "INVALID",
+            "ads.digital-digest.com": "INVALID",
+            "ads.digitalmedianet.com": "INVALID",
+            "ads.digitalpoint.com": "INVALID",
+            "ads.domain.com": "INVALID",
+            "ads.eagletribune.com": "INVALID",
+            "adsdk.com": "INVALID"
+        },
+        "1571348960": {
+            "ads.easy-forex.com": "INVALID",
+            "adsearch.adkontekst.pl": "INVALID",
+            "adsearch.wp.pl": "INVALID"
+        },
+        "1571348961": {
+            "ads.edbindex.dk": "INVALID",
+            "ads.edipresse.pl": "INVALID",
+            "ads.egrana.com.br": "INVALID",
+            "ads.elitetrader.com": "INVALID",
+            "ads.emirates.net.ae": "INVALID"
+        },
+        "1571348962": {
+            "ad.sensismediasmart.com.au": "INVALID",
+            "ads.epltalk.com": "INVALID",
+            "adserve.ams.rhythmxchange.com": "INVALID",
+            "adserver1-images.backbeatmedia.com": "INVALID",
+            "adserver1.backbeatmedia.com": "INVALID",
+            "adserver1.mindshare.de": "INVALID",
+            "adserver2.atman.pl": "INVALID"
+        },
+        "1571348963": {
+            "adserver.43plc.com": "INVALID",
+            "adserver.71i.de": "INVALID",
+            "adserver.adultfriendfinder.com": "INVALID",
+            "adserver2.mindshare.de": "INVALID"
+        },
+        "1571348964": {
+            "adserver.aidameter.com": "INVALID",
+            "adserver.aol.fr": "INVALID",
+            "adserver.betandwin.de": "INVALID",
+            "adserver.bing.com": "INVALID",
+            "adserver.bizhat.com": "INVALID",
+            "adserver.break-even.it": "INVALID",
+            "adserver.cams.com": "INVALID",
+            "adserver.digitoday.com": "INVALID",
+            "adserver.flossiemediagroup.com": "INVALID",
+            "adserver.freecity.de": "INVALID",
+            "adserver.friendfinder.com": "INVALID"
+        },
+        "1571348965": {
+            "ad-server.gulasidorna.se": "INVALID",
+            "adserver.gadu-gadu.pl": "INVALID",
+            "adserver.hardsextube.com": "INVALID",
+            "adserver.hardwareanalysis.com": "INVALID",
+            "adserver.html.it": "INVALID",
+            "adserver.hwupgrade.it": "INVALID",
+            "adserver.irishwebmasterforum.com": "INVALID",
+            "adserver.janes.com": "INVALID",
+            "adserver.libero.it": "INVALID",
+            "adserver.magazyn.pl": "INVALID",
+            "adserver.news.com.au": "INVALID"
+        },
+        "1571348966": {
+            "adserver.nydailynews.com": "INVALID",
+            "adserver.o2.pl": "INVALID",
+            "adserver.oddschecker.com": "INVALID",
+            "adserver.portalofevil.com": "INVALID"
+        },
+        "1571348967": {
+            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
+            "adserver.portal.pl": "INVALID",
+            "adserver.portugalmail.net": "INVALID",
+            "adserver.portugalmail.pt": "INVALID",
+            "adserver.pressboard.ca": "INVALID",
+            "adserver.sanomawsoy.fi": "INVALID",
+            "adserver.sciflicks.com": "INVALID"
+        },
+        "1571348968": {
+            "adserv.gamezone.de": "INVALID",
+            "adserver.spankaway.com": "INVALID",
+            "adserver.theonering.net": "INVALID",
+            "adserver.twitpic.com": "INVALID",
+            "adserver.virginmedia.com": "INVALID",
+            "adserver.yahoo.com": "INVALID"
+        },
+        "1571348969": {
+            "ads.eu.msn.com": "INVALID",
+            "ads.exactdrive.com": "INVALID",
+            "adserv.iafrica.com": "INVALID",
+            "adservice.google.com": "INVALID",
+            "adservice.google.pl": "INVALID",
+            "adserving.unibet.com": "INVALID",
+            "adserwer.afilo.pl": "INVALID",
+            "adseu.novem.pl": "INVALID"
+        },
+        "1571348970": {
+            "ad.seznam.cz": "INVALID",
+            "ads.expat-blog.biz": "INVALID",
+            "ads.factorymedia.com": "INVALID",
+            "ads.fairfax.com.au": "INVALID",
+            "ads.fasttrack-ignite.com": "INVALID",
+            "ads.ferianc.com": "INVALID",
+            "ads.filmup.com": "INVALID"
+        },
+        "1571348971": {
+            "ads.financialcontent.com": "INVALID",
+            "ads.flooble.com": "INVALID",
+            "ads.fool.com": "INVALID",
+            "ads.footymad.net": "INVALID",
+            "ads.forbes.com": "INVALID",
+            "ads.forbes.net": "INVALID",
+            "ads.forium.de": "INVALID",
+            "ads.fortunecity.com": "INVALID",
+            "ads.fotosidan.se": "INVALID",
+            "ads.foxnetworks.com": "INVALID",
+            "ads.foxnews.com": "INVALID",
+            "ads.freecity.de": "INVALID"
+        },
+        "1571348972": {
+            "ads.friendfinder.com": "INVALID",
+            "ads.ft.com": "INVALID",
+            "ads.gamershell.com": "INVALID",
+            "ads.gamespyid.com": "INVALID",
+            "ads.gamigo.de": "INVALID",
+            "ads.gaming-universe.de": "INVALID",
+            "ads.gawker.com": "INVALID",
+            "ads.geekswithblogs.net": "INVALID",
+            "ads.getlucky.com": "INVALID",
+            "ads.glispa.com": "INVALID",
+            "ads.gmodules.com": "INVALID",
+            "ads.goyk.com": "INVALID",
+            "ads.gplusmedia.com": "INVALID",
+            "ads.gradfinder.com": "INVALID"
+        },
+        "1571348973": {
+            "ads.grindinggears.com": "INVALID",
+            "ads.gry-online.pl": "INVALID",
+            "ads.gsm-exchange.com": "INVALID",
+            "ads.gsmexchange.com": "INVALID",
+            "ads.guardian.co.uk": "INVALID",
+            "ads.guardianunlimited.co.uk": "INVALID",
+            "ads.guru3d.com": "INVALID",
+            "ads.harpers.org": "INVALID",
+            "ads.hbv.de": "INVALID",
+            "ads.hearstmags.com": "INVALID",
+            "ads.heartlight.org": "INVALID",
+            "ads.hideyourarms.com": "INVALID",
+            "ads.horyzon-media.com": "INVALID"
+        },
+        "1571348974": {
+            "ads.iafrica.com": "INVALID",
+            "ads.ibest.com.br": "INVALID",
+            "ads.ibryte.com": "INVALID"
+        },
+        "1571348975": {
+            "ads.idg.com.pl": "INVALID",
+            "ads.ign.com": "INVALID",
+            "ads.img.co.za": "INVALID",
+            "ads.imgur.com": "INVALID",
+            "ads.indiatimes.com": "INVALID",
+            "ads.infi.net": "INVALID",
+            "ads.internic.co.il": "INVALID",
+            "ads.ipowerweb.com": "INVALID"
+        },
+        "1571348976": {
+            "ads.isoftmarketing.com": "INVALID",
+            "ads.itv.com": "INVALID",
+            "ads.iwon.com": "INVALID",
+            "ads.jewishfriendfinder.com": "INVALID",
+            "ads.jiwire.com": "INVALID",
+            "ads.jobsite.co.uk": "INVALID",
+            "ads.jpost.com": "INVALID",
+            "ads.jubii.dk": "INVALID",
+            "ads.justhungry.com": "INVALID",
+            "ads.kabooaffiliates.com": "INVALID",
+            "ads.kaktuz.net": "INVALID",
+            "ads.kelbymediagroup.com": "INVALID",
+            "adsk2.co": "INVALID",
+            "adskape.ru": "INVALID"
+        },
+        "1571348977": {
+            "ads.kinxxx.com": "INVALID",
+            "ads.kompass.com": "INVALID",
+            "ads.krawall.de": "INVALID",
+            "ads.leovegas.com": "INVALID",
+            "ads.lesbianpersonals.com": "INVALID",
+            "ads.linkedin.com": "INVALID",
+            "ads.linuxfoundation.org": "INVALID",
+            "ads.linuxsecurity.com": "INVALID"
+        },
+        "1571348978": {
+            "ad.slutload.com": "INVALID",
+            "ad.smartclip.net": "INVALID",
+            "ads.livenation.com": "INVALID",
+            "ads.mariuana.it": "INVALID",
+            "ads.mcafee.com": "INVALID",
+            "ads.mediaodyssey.com": "INVALID",
+            "ads.mgnetwork.com": "INVALID"
+        },
+        "1571348979": {
+            "ads.mmania.com": "INVALID",
+            "ads.motor-forum.nl": "INVALID",
+            "ads.msn.com": "INVALID",
+            "ads.multimania.lycos.fr": "INVALID",
+            "ads.nationalgeographic.com": "INVALID",
+            "ads.ncm.com": "INVALID",
+            "ads.ndtv1.com": "INVALID"
+        },
+        "1571348980": {
+            "ads.networksolutions.com": "INVALID",
+            "ads.newdream.net": "INVALID",
+            "ads.newmedia.cz": "INVALID",
+            "ads.newsint.co.uk": "INVALID",
+            "ads.ninemsn.com.au": "INVALID",
+            "ads.nj.com": "INVALID",
+            "ads.nola.com": "INVALID",
+            "ads.nordichardware.com": "INVALID"
+        },
+        "1571348981": {
+            "ads.nwsource.com": "INVALID",
+            "ads.nyi.net": "INVALID",
+            "ads.nytimes.com": "INVALID",
+            "ads.nyx.cz": "INVALID",
+            "ads.nzcity.co.nz": "INVALID",
+            "ads.oddschecker.com": "INVALID",
+            "ads.okcimg.com": "INVALID"
+        },
+        "1571348982": {
+            "ads.ole.com": "INVALID",
+            "ads.olivebrandresponse.com": "INVALID",
+            "ads.oneplace.com": "INVALID",
+            "adsonar.com": "INVALID"
+        },
+        "1571348983": {
+            "ads.open.pl": "INVALID",
+            "ads.optusnet.com.au": "INVALID",
+            "ads.outpersonals.com": "INVALID",
+            "ads.passion.com": "INVALID",
+            "ads.pennet.com": "INVALID",
+            "ads.penny-arcade.com": "INVALID",
+            "ads.phpclasses.org": "INVALID"
+        },
+        "1571348984": {
+            "ads.planet.nl": "INVALID",
+            "ads.pni.com": "INVALID",
+            "ads.pof.com": "INVALID",
+            "ads.powweb.com": "INVALID",
+            "ads.prisacom.com": "INVALID",
+            "ads.program3.com": "INVALID",
+            "ads.programattik.com": "INVALID",
+            "ads.pushplay.com": "INVALID",
+            "ads.quoka.de": "INVALID",
+            "ads.rcs.it": "INVALID"
+        },
+        "1571348992": {
+            "ads.recoletos.es": "INVALID"
+        },
+        "1571348993": {
+            "ads.rediff.com": "INVALID",
+            "ads.redlightcenter.com": "INVALID",
+            "ads.redtube.com": "INVALID",
+            "ads.resoom.de": "INVALID",
+            "ads.returnpath.net": "INVALID",
+            "adsrv.deviantart.com": "INVALID",
+            "adsrv.iol.co.za": "INVALID"
+        },
+        "1571348994": {
+            "ads.s3.sitepoint.com": "INVALID",
+            "ads.scifi.com": "INVALID",
+            "ads.seniorfriendfinder.com": "INVALID",
+            "ads.servebom.com": "INVALID",
+            "ads.sexinyourcity.com": "INVALID",
+            "ads.shizmoo.com": "INVALID",
+            "ads.shopstyle.com": "INVALID",
+            "ads.silverdisc.co.uk": "INVALID",
+            "ads.space.com": "INVALID",
+            "ads.sptimes.com": "INVALID",
+            "ads.stackoverflow.com": "INVALID",
+            "ads.sun.com": "INVALID",
+            "adsrv.lua.pl": "INVALID"
+        },
+        "1571348995": {
+            "ads.suomiautomaatti.com": "INVALID",
+            "ads.supplyframe.com": "INVALID",
+            "ads.tahono.com": "INVALID",
+            "adstat.4u.pl": "INVALID"
+        },
+        "1571348996": {
+            "ad.stat.4u.pl": "INVALID",
+            "ads.techtv.com": "INVALID",
+            "ads.themovienation.com": "INVALID",
+            "ads.thestar.com": "INVALID",
+            "ads.thrillsaffiliates.com": "INVALID",
+            "ads.tmcs.net": "INVALID",
+            "ads.totallyfreestuff.com": "INVALID",
+            "ads.townhall.com": "INVALID",
+            "ads.tripod.com": "INVALID",
+            "ads.tripod.lycos.co.uk": "INVALID",
+            "ads.tripod.lycos.de": "INVALID",
+            "ads.tripod.lycos.es": "INVALID",
+            "adstest.weather.com": "INVALID"
+        },
+        "1571348997": {
+            "ads-trk.vidible.tv": "INVALID",
+            "ads.tripod.lycos.it": "INVALID",
+            "ads.tripod.lycos.nl": "INVALID",
+            "ads.twitter.com": "INVALID",
+            "ads.uknetguide.co.uk": "INVALID",
+            "ads.ultimate-guitar.com": "INVALID",
+            "ads.uncrate.com": "INVALID",
+            "ads.undertone.com": "INVALID",
+            "ads.usatoday.com": "INVALID",
+            "ads.verticalresponse.com": "INVALID",
+            "ads.vgchartz.com": "INVALID",
+            "ads.videosz.com": "INVALID",
+            "ads.virtual-nights.com": "INVALID"
+        },
+        "1571348998": {
+            "ads.waps.cn": "INVALID",
+            "ads.wapx.cn": "INVALID",
+            "ads.web.aol.com": "INVALID",
+            "ads.web.cs.com": "INVALID",
+            "ads.web.de": "INVALID"
+        },
+        "1571348999": {
+            "ads.webmasterpoint.org": "INVALID",
+            "ads.websiteservices.com": "INVALID",
+            "ads.wiezoekje.nl": "INVALID",
+            "ads.wikia.nocookie.net": "INVALID",
+            "ads.wineenthusiast.com": "INVALID",
+            "ads.wwe.biz": "INVALID",
+            "ads.xhamster.com": "INVALID",
+            "ads.xtra.co.nz": "INVALID"
+        },
+        "1571349000": {
+            "ads.y-0.net": "INVALID",
+            "ads.yahoo.com": "INVALID",
+            "ads.yap.yahoo.com": "INVALID",
+            "ads.yimg.com": "INVALID",
+            "ads.yldmgrimg.net": "INVALID",
+            "ads.yourfreedvds.com": "INVALID"
+        },
+        "1571349001": {
+            "ad.technoratimedia.com": "INVALID",
+            "ads.youtube.com": "INVALID",
+            "ads.zdnet.com": "INVALID",
+            "ads.ztod.com": "INVALID",
+            "adsystem.simplemachines.org": "INVALID"
+        },
+        "1571349003": {
+            "ad.turn.com": "INVALID",
+            "ad.tv2.no": "INVALID",
+            "ad.twitchguru.com": "INVALID",
+            "ad.usatoday.com": "INVALID",
+            "adultadvertising.com": "INVALID",
+            "adv-banner.libero.it": "INVALID",
+            "adv.adview.pl": "INVALID",
+            "adv.cooperhosting.net": "INVALID",
+            "adv.dot.wp.pl": "INVALID",
+            "advariant.com": "INVALID"
+        },
+        "1571349004": {
+            "advert.bayarea.com": "INVALID",
+            "advert.dyna.ultraweb.hu": "INVALID"
+        },
+        "1571349005": {
+            "adv.freeonline.it": "INVALID",
+            "advertpro.sitepoint.com": "INVALID",
+            "advertpro.ya.com": "INVALID",
+            "adverts.carltononline.com": "INVALID",
+            "advfromnwl.com": "INVALID"
+        },
+        "1571349006": {
+            "ad.vider.pl": "INVALID",
+            "adv.gazeta.pl": "INVALID",
+            "adv.hwupgrade.it": "INVALID",
+            "advice.hit.gemius.pl": "INVALID",
+            "advicead.hit.gemius.pl": "INVALID",
+            "advideo.uimserv.net": "INVALID"
+        },
+        "1571349007": {
+            "ad.virtual-nights.com": "INVALID",
+            "adview.ppro.de": "INVALID"
+        },
+        "1571349008": {
+            "ad.wavu.hu": "INVALID",
+            "adv.livedoor.com": "INVALID",
+            "adv.nexthardware.com": "INVALID",
+            "adv.webmd.com": "INVALID",
+            "adv.wp.pl": "INVALID"
+        },
+        "1571349009": {
+            "ad.way.cz": "INVALID",
+            "ad.weatherbug.com": "INVALID",
+            "ad.webshark.pl": "INVALID",
+            "ad.wsod.com": "INVALID",
+            "ad.wz.cz": "INVALID",
+            "adx.allstar.cz": "INVALID",
+            "adx.atnext.com": "INVALID"
+        },
+        "1571349010": {
+            "ad.xrea.com": "INVALID",
+            "ad.yadro.ru": "INVALID",
+            "ad.yourmedia.com": "INVALID",
+            "ad.zanox.com": "INVALID"
+        },
+        "1571349011": {
+            "affiliate.1800flowers.com": "INVALID",
+            "affiliate.doubleyourdating.com": "INVALID",
+            "affiliate.gamestop.com": "INVALID",
+            "affiliate.mercola.com": "INVALID",
+            "affiliate.mogs.com": "INVALID",
+            "affiliate.offgamers.com": "INVALID",
+            "affiliates.allposters.com": "INVALID",
+            "affiliates.babylon.com": "INVALID",
+            "affiliates.digitalriver.com": "INVALID",
+            "affiliates.globat.com": "INVALID"
+        },
+        "1571349012": {
+            "affiliate.travelnow.com": "INVALID",
+            "affiliate.treated.com": "INVALID",
+            "affiliate.viator.com": "INVALID",
+            "affiliates.internationaljock.com": "INVALID",
+            "affiliates.rozetka.com.ua": "INVALID",
+            "affiliates.streamray.com": "INVALID",
+            "affiliates.thinkhost.net": "INVALID",
+            "affiliates.thrixxx.com": "INVALID",
+            "affiliates.ultrahosting.com": "INVALID"
+        },
+        "1571349013": {
+            "afftracking.justanswer.com": "INVALID",
+            "afi.adocean.pl": "INVALID",
+            "afilv.adocean.pl": "INVALID"
+        },
+        "1571349014": {
+            "a.ib.gazeta.pl": "INVALID",
+            "aktrack.pubmatic.com": "INVALID"
+        },
+        "1571349015": {
+            "allegro.hit.gemius.pl": "INVALID"
+        },
+        "1571349017": {
+            "a.mktw.net": "INVALID",
+            "analytics.adpost.org": "INVALID",
+            "analytics.ccs.mcafee.com": "INVALID",
+            "analytics.ceneo.pl": "INVALID"
+        },
+        "1571349018": {
+            "analytics.gazeta.pl": "INVALID",
+            "analytics.google.com": "INVALID",
+            "analytics.live.com": "INVALID",
+            "analytics.newsinc.com": "INVALID",
+            "analytics.yahoo.com": "INVALID",
+            "analyticsdcs.ccs.mcafee.com": "INVALID",
+            "anm.intelli-direct.com": "INVALID",
+            "annonser.dagbladet.no": "INVALID",
+            "aolt.hit.gemius.pl": "INVALID"
+        },
+        "1571349019": {
+            "aolv.hit.gemius.pl": "INVALID",
+            "api.intensifier.de": "INVALID",
+            "api.systempartnerski.pl": "INVALID",
+            "api.useinsider.com": "INVALID",
+            "apolloadlv.hit.gemius.pl": "INVALID",
+            "app2.salesmanago.pl": "INVALID"
+        },
+        "1571349020": {
+            "app.adblockhyper.us": "INVALID",
+            "app.adjust.com": "INVALID",
+            "app.pendo.io": "INVALID",
+            "aps.hearstnp.com": "INVALID",
+            "apusx.com": "INVALID",
+            "arbo.hit.gemius.pl": "INVALID"
+        },
+        "1571349021": {
+            "a.sakh.com": "INVALID",
+            "arcadebanners.com": "INVALID",
+            "ard.xxxblackbook.com": "INVALID",
+            "aripaadee.hit.gemius.pl": "INVALID",
+            "aripaee.adocean.pl": "INVALID",
+            "as1.advfn.com": "INVALID",
+            "assets1.exgfnetwork.com": "INVALID"
+        },
+        "1571349022": {
+            "(^|\\.)audienceinsights\\.net$": "INVALID",
+            "a.ucoz.net": "INVALID",
+            "a.ucoz.ru": "INVALID",
+            "at-adserver.alltop.com": "INVALID"
+        },
+        "1571349023": {
+            "audit.median.hu": "INVALID",
+            "audit.webinform.hu": "INVALID",
+            "avpa.javalobby.org": "INVALID"
+        },
+        "1571349024": {
+            "a.xanga.com": "INVALID",
+            "avt.hit.gemius.pl": "INVALID",
+            "axel.hit.gemius.pl": "INVALID",
+            "b54m4qbmt0b9.com": "INVALID",
+            "b92adrs.hit.gemius.pl": "INVALID",
+            "b92rs.adocean.pl": "INVALID"
+        },
+        "1571349025": {
+            "ba.afl.rakuten.co.jp": "INVALID",
+            "babs.tv2.dk": "INVALID"
+        },
+        "1571349026": {
+            "badv.wp.pl": "INVALID",
+            "banery.acr.pl": "INVALID",
+            "banery.netart.pl": "INVALID",
+            "banery.onet.pl": "INVALID"
+        },
+        "1571349027": {
+            "banik.redigy.cz": "INVALID",
+            "banki.onet.pl": "INVALID",
+            "banner.ad.nu": "INVALID",
+            "banner.ambercoastcasino.com": "INVALID",
+            "banner.buempliz-online.ch": "INVALID",
+            "banner.casinodelrio.com": "INVALID"
+        },
+        "1571349028": {
+            "banner.casino.net": "INVALID",
+            "banner.cotedazurpalace.com": "INVALID",
+            "banner.coza.com": "INVALID",
+            "banner.easyspace.com": "INVALID",
+            "banner.elisa.net": "INVALID",
+            "banner.eurogrand.com": "INVALID"
+        },
+        "1571349029": {
+            "banner.getgo.de": "INVALID",
+            "banner.goldenpalace.com": "INVALID",
+            "bannerexchange.cjb.net": "INVALID",
+            "bannergrabber.internet.gr": "INVALID"
+        },
+        "1571349030": {
+            "banner.img.co.za": "INVALID",
+            "banner.inyourpocket.com": "INVALID",
+            "banner.linux.se": "INVALID",
+            "banner.media-system.de": "INVALID"
+        },
+        "1571349031": {
+            "banner.mindshare.de": "INVALID",
+            "banner.noblepoker.com": "INVALID",
+            "banner.northsky.com": "INVALID",
+            "banner.penguin.cz": "INVALID"
+        },
+        "1571349032": {
+            "banner.rbc.ru": "INVALID",
+            "banner.relcom.ru": "INVALID",
+            "banners.adultfriendfinder.com": "INVALID",
+            "banners.amigos.com": "INVALID",
+            "banners.asiafriendfinder.com": "INVALID"
+        },
+        "1571349040": {
+            "banners.babylon-x.com": "INVALID",
+            "banners.bol.com.br": "INVALID",
+            "banners.cams.com": "INVALID",
+            "banners.clubseventeen.com": "INVALID"
+        },
+        "1571349041": {
+            "banners.czi.cz": "INVALID",
+            "banners.direction-x.com": "INVALID",
+            "banners.directnic.com": "INVALID",
+            "banners.easydns.com": "INVALID",
+            "banners.freett.com": "INVALID"
+        },
+        "1571349042": {
+            "banners.friendfinder.com": "INVALID",
+            "banners.getiton.com": "INVALID",
+            "banners.iq.pl": "INVALID",
+            "banners.isoftmarketing.com": "INVALID",
+            "banners.linkbuddies.com": "INVALID",
+            "banners.passion.com": "INVALID",
+            "banners.resultonline.com": "INVALID",
+            "bannershotlink.perfectgonzo.com": "INVALID",
+            "bannersng.yell.com": "INVALID"
+        },
+        "1571349043": {
+            "banner.tanto.de": "INVALID",
+            "banners.sexsearch.com": "INVALID",
+            "banners.sys-con.com": "INVALID",
+            "banners.thomsonlocal.com": "INVALID",
+            "banners.videosz.com": "INVALID",
+            "banners.virtuagirlhd.com": "INVALID",
+            "banners.wunderground.com": "INVALID"
+        },
+        "1571349044": {
+            "banner.titan-dsl.de": "INVALID",
+            "banner.vadian.net": "INVALID",
+            "banner.webmersion.com": "INVALID",
+            "banner.wirenode.com": "INVALID"
+        },
+        "1571349046": {
+            "b.aol.com": "INVALID",
+            "bans.adserver.co.il": "INVALID",
+            "bans.bride.ru": "INVALID",
+            "barnesandnoble.bfast.com": "INVALID",
+            "bat.bing.com": "INVALID"
+        },
+        "1571349047": {
+            "bbcdn.code.new.smartcontext.pl": "INVALID"
+        },
+        "1571349049": {
+            "bbcdn.go.pl.bbelements.com": "INVALID",
+            "bbn.img.com.ua": "INVALID",
+            "beacon.gu-web.net": "INVALID"
+        },
+        "1571349050": {
+            "(^|\\.)behavioralengine\\.com$": "INVALID",
+            "beamkite.com": "INVALID",
+            "bestjobs.hit.gemius.pl": "INVALID",
+            "bg.adocean.pl": "INVALID"
+        },
+        "1571349051": {
+            "bg.hit.gemius.pl": "INVALID",
+            "bggde-new.adocean.pl": "INVALID",
+            "bggde.adocean.pl": "INVALID",
+            "bi.adview.pl": "INVALID"
+        },
+        "1571349052": {
+            "bitads.net": "INVALID",
+            "bizad.nikkeibp.co.jp": "INVALID",
+            "blitzadbg.hit.gemius.pl": "INVALID",
+            "blitzbg.adocean.pl": "INVALID"
+        },
+        "1571349060": {
+            "block734.oplatyi.pl": "INVALID"
+        },
+        "1571349069": {
+            "blueadvertise.com": "INVALID",
+            "bm.annonce.cz": "INVALID",
+            "bn.bfast.com": "INVALID"
+        },
+        "1571349070": {
+            "boksy.dir.onet.pl": "INVALID",
+            "boksy.onet.pl": "INVALID",
+            "box.anchorfree.net": "INVALID",
+            "brahe.apptimize.com": "INVALID"
+        },
+        "1571349071": {
+            "bs.yandex.ru": "INVALID",
+            "bullseye.backbeatmedia.com": "INVALID",
+            "burdaffi.burdadigital.pl": "INVALID"
+        },
+        "1571349072": {
+            "buyhitscheap.com": "INVALID",
+            "bwp.download.com": "INVALID",
+            "by.adocean.pl": "INVALID",
+            "c1.gostats.pl": "INVALID",
+            "c2.gostats.pl": "INVALID",
+            "c3.gostats.pl": "INVALID",
+            "c4.gostats.pl": "INVALID",
+            "c5.gostats.pl": "INVALID",
+            "calmfoot.com": "INVALID",
+            "campaign.bharatmatrimony.com": "INVALID"
+        },
+        "1571349073": {
+            "cbanners.virtuagirlhd.com": "INVALID"
+        },
+        "1571349074": {
+            "c.bigmir.net": "INVALID",
+            "cbmall.com": "INVALID",
+            "cdn.comperia.pl": "INVALID",
+            "cdn.mediaessence.net": "INVALID",
+            "cdn.onesignal.com": "INVALID",
+            "cdn1.pebx.pl": "INVALID"
+        },
+        "1571349075": {
+            "centrumcz.hit.gemius.pl": "INVALID",
+            "cgicounter.puretec.de": "INVALID"
+        },
+        "1571349076": {
+            "ch.questionmarket.com": "INVALID",
+            "cherrythread.com": "INVALID",
+            "chiefcurrent.com": "INVALID",
+            "chip.pl.intellitxt.com": "INVALID",
+            "cityads.telus.net": "INVALID"
+        },
+        "1571349077": {
+            "clickad.eo.pl": "INVALID"
+        },
+        "1571349078": {
+            "(^|\\.)clickmatic\\.pl$": "INVALID",
+            "click.aliexpress.com": "INVALID",
+            "click.fool.com": "INVALID",
+            "clickhereforcellphones.com": "INVALID"
+        },
+        "1571349079": {
+            "clicks.equantum.com": "INVALID",
+            "clicks.mods.de": "INVALID",
+            "clickserve.cc-dt.com": "INVALID",
+            "clickserve.dartsearch.net": "INVALID",
+            "clicksor.com": "INVALID"
+        },
+        "1571349080": {
+            "clicktrack.ziyu.net": "INVALID",
+            "clientmetrics-pa.googleapis.com": "INVALID",
+            "clients.tbo.com": "INVALID",
+            "clk.tradedoubler.com": "INVALID"
+        },
+        "1571349081": {
+            "cluster.adultworld.com": "INVALID",
+            "cml.sad.ukrd.com": "INVALID",
+            "cnt.spbland.ru": "INVALID",
+            "cnt1.pocitadlo.cz": "INVALID",
+            "cod.bitrec.com": "INVALID",
+            "commandwalk.com": "INVALID"
+        },
+        "1571349082": {
+            "confirmed-profits.com": "INVALID",
+            "connect-lb.islay.tech": "INVALID",
+            "consciouscabbage.com": "INVALID"
+        },
+        "1571349083": {
+            "content.acc-hd.de": "INVALID",
+            "cookiecontainer.blox.pl": "INVALID",
+            "cookies.cmpnet.com": "INVALID"
+        },
+        "1571349084": {
+            "corm.hit.gemius.pl": "INVALID",
+            "corto.www.wp.pl": "INVALID",
+            "counter.bloke.com": "INVALID",
+            "counter.cnw.cz": "INVALID",
+            "counter.dreamhost.com": "INVALID",
+            "counter.fateback.com": "INVALID"
+        },
+        "1571349085": {
+            "counter.gemius.pl": "INVALID",
+            "counter.hitslink.com": "INVALID",
+            "counter.mirohost.net": "INVALID",
+            "counter.mojgorod.ru": "INVALID",
+            "counter.rambler.ru": "INVALID"
+        },
+        "1571349086": {
+            "counter.search.bg": "INVALID",
+            "counter.snackly.co": "INVALID",
+            "counter.sparklit.com": "INVALID",
+            "counter.webmedia.pl": "INVALID",
+            "counter.yadro.ru": "INVALID",
+            "counters.honesty.com": "INVALID"
+        },
+        "1571349087": {
+            "count.rbc.ru": "INVALID",
+            "count.rin.ru": "INVALID",
+            "count.west263.com": "INVALID",
+            "counts.tucows.com": "INVALID",
+            "cp.abbp1.pw": "INVALID",
+            "cpmaffiliation.com": "INVALID"
+        },
+        "1571349088": {
+            "creatives.as4x.tmcs.net": "INVALID",
+            "creatives.livejasmin.com": "INVALID"
+        },
+        "1571349089": {
+            "crownclam.com": "INVALID",
+            "crtv.mate1.com": "INVALID",
+            "crv.clickad.pl": "INVALID",
+            "csr.onet.pl": "INVALID",
+            "ctnet2.in": "INVALID",
+            "customad.cnn.com": "INVALID",
+            "cz.adocean.pl": "INVALID"
+        },
+        "1571349090": {
+            "cz.hit.gemius.pl": "INVALID",
+            "d.adroll.com": "INVALID"
+        },
+        "1571349091": {
+            "darikspaceadbg.hit.gemius.pl": "INVALID",
+            "datashreddergold.com": "INVALID"
+        },
+        "1571349092": {
+            "delfiadee.hit.gemius.pl": "INVALID",
+            "delfiadlt.hit.gemius.pl": "INVALID",
+            "delfiadlv.hit.gemius.pl": "INVALID",
+            "delfiee.adocean.pl": "INVALID",
+            "delfilt.adocean.pl": "INVALID"
+        },
+        "1571349093": {
+            "delfilv.adocean.pl": "INVALID",
+            "delfilv.hit.gemius.pl": "INVALID",
+            "delightdriving.com": "INVALID",
+            "delivery.clickonometrics.pl": "INVALID",
+            "di1.shopping.com": "INVALID"
+        },
+        "1571349094": {
+            "diginet.adocean.pl": "INVALID",
+            "diginetlt.hit.gemius.pl": "INVALID"
+        },
+        "1571349095": {
+            "digital4adro.hit.gemius.pl": "INVALID",
+            "digital4ro.adocean.pl": "INVALID",
+            "dirbg.hit.gemius.pl": "INVALID",
+            "dist.belnk.com": "INVALID"
+        },
+        "1571349096": {
+            "(^|\\.)doubleclick\\.(com)$": "INVALID",
+            "dnads.directnic.com": "INVALID",
+            "dot.wp.pl": "INVALID"
+        },
+        "1571349097": {
+            "ds.onet.pl": "INVALID",
+            "dynamic.fmpub.net": "INVALID",
+            "e-adimages.scrippsnetworks.com": "INVALID",
+            "eas.almamedia.fi": "INVALID"
+        },
+        "1571349098": {
+            "edipresse.adocean.pl": "INVALID",
+            "edipresse.hit.gemius.pl": "INVALID",
+            "ee.adocean.pl": "INVALID"
+        },
+        "1571349099": {
+            "e.kde.cz": "INVALID",
+            "ee.hit.gemius.pl": "INVALID",
+            "eega.hit.gemius.pl": "INVALID",
+            "eegde.adocean.pl": "INVALID",
+            "eiv.baidu.com": "INVALID"
+        },
+        "1571349100": {
+            "elthamely.com": "INVALID",
+            "embed.powercontent.pl": "INVALID",
+            "emisja.adsearch.pl": "INVALID",
+            "emisja.contentstream.pl": "INVALID"
+        },
+        "1571349101": {
+            "emisjao.contentstream.pl": "INVALID",
+            "emisjawidgeet.onet.pl": "INVALID",
+            "engine.espace.netavenir.com": "INVALID",
+            "eniro.hit.gemius.pl": "INVALID"
+        },
+        "1571349102": {
+            "entryhit.wp.pl": "INVALID",
+            "eu1.madsone.com": "INVALID"
+        },
+        "1571349103": {
+            "eur.a1.yimg.com": "INVALID"
+        },
+        "1571349105": {
+            "euroclick.com": "INVALID",
+            "eventbeacon.ca": "INVALID",
+            "ew1.dms-gld.bigdata.ssp.samsung.com": "INVALID",
+            "ewebcounter.com": "INVALID"
+        },
+        "1571349114": {
+            "experteerads.com": "INVALID",
+            "facemap.foldlife.net": "INVALID"
+        },
+        "1571349115": {
+            "fastclick.com.edgesuite.net": "INVALID",
+            "fc.webmasterpro.de": "INVALID",
+            "ffxcam.fairfax.com.au": "INVALID",
+            "filmik.pisz.pl": "INVALID",
+            "findcommerce.com": "INVALID"
+        },
+        "1571349116": {
+            "fineclicks.com": "INVALID",
+            "first.nova.cz": "INVALID",
+            "foo.cosmocode.de": "INVALID"
+        },
+        "1571349118": {
+            "g1.idg.pl": "INVALID",
+            "gaae.hit.gemius.pl": "INVALID"
+        },
+        "1571349119": {
+            "gaat.hit.gemius.pl": "INVALID",
+            "gaba.hit.gemius.pl": "INVALID",
+            "gabe.hit.gemius.pl": "INVALID",
+            "gabg.hit.gemius.pl": "INVALID"
+        },
+        "1571349120": {
+            "ga.clearbit.com": "INVALID",
+            "gaby.hit.gemius.pl": "INVALID",
+            "gacz.hit.gemius.pl": "INVALID",
+            "gadk.hit.gemius.pl": "INVALID",
+            "gadnet.hit.gemius.pl": "INVALID"
+        },
+        "1571349121": {
+            "gaee.hit.gemius.pl": "INVALID",
+            "gahu.hit.gemius.pl": "INVALID",
+            "gail.hit.gemius.pl": "INVALID",
+            "gajo.hit.gemius.pl": "INVALID"
+        },
+        "1571349122": {
+            "gakz.hit.gemius.pl": "INVALID",
+            "galaxien.com": "INVALID",
+            "galb.hit.gemius.pl": "INVALID",
+            "galindia.hit.gemius.pl": "INVALID"
+        },
+        "1571349123": {
+            "galt.hit.gemius.pl": "INVALID",
+            "galv.hit.gemius.pl": "INVALID",
+            "gamk.hit.gemius.pl": "INVALID"
+        },
+        "1571349124": {
+            "gapl.hit.gemius.pl": "INVALID",
+            "garo.hit.gemius.pl": "INVALID",
+            "gars.hit.gemius.pl": "INVALID",
+            "garu.hit.gemius.pl": "INVALID"
+        },
+        "1571349125": {
+            "gask.hit.gemius.pl": "INVALID",
+            "gasurvey.gemius.com": "INVALID",
+            "gatr.hit.gemius.pl": "INVALID",
+            "gaua.hit.gemius.pl": "INVALID",
+            "gazeta.hit.gemius.pl": "INVALID"
+        },
+        "1571349126": {
+            "g.cda.pl": "INVALID",
+            "gbanners.hornymatches.com": "INVALID",
+            "gcontent.services.tvn.pl": "INVALID",
+            "gde.adocean.pl": "INVALID",
+            "gdebg.hit.gemius.pl": "INVALID"
+        },
+        "1571349127": {
+            "gde-default.hit.gemius.pl": "INVALID",
+            "gdecz.hit.gemius.pl": "INVALID",
+            "gdeee.hit.gemius.pl": "INVALID",
+            "gdeil.hit.gemius.pl": "INVALID"
+        },
+        "1571349128": {
+            "gdelt.hit.gemius.pl": "INVALID",
+            "gdelv.hit.gemius.pl": "INVALID",
+            "gders.hit.gemius.pl": "INVALID",
+            "gdesk.hit.gemius.pl": "INVALID"
+        },
+        "1571349129": {
+            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
+            "gdetr.hit.gemius.pl": "INVALID",
+            "gemadhu.hit.gemius.pl": "INVALID",
+            "generalmediaadhu.hit.gemius.pl": "INVALID",
+            "geo.digitalpoint.com": "INVALID",
+            "geobanner.adultfriendfinder.com": "INVALID"
+        },
+        "1571349130": {
+            "geo.interia.pl": "INVALID",
+            "gg.adocean.pl": "INVALID",
+            "gg.hit.gemius.pl": "INVALID"
+        },
+        "1571349131": {
+            "gg.mob.vendimob.pl": "INVALID",
+            "ghm_bulgaria.hit.gemius.pl": "INVALID",
+            "ghmbg.hit.gemius.pl": "INVALID",
+            "ghmme.hit.gemius.pl": "INVALID"
+        },
+        "1571349132": {
+            "ghmpl.hit.gemius.pl": "INVALID",
+            "ghmrs.hit.gemius.pl": "INVALID",
+            "ghmtr.hit.gemius.pl": "INVALID"
+        },
+        "1571349133": {
+            "go.pl.bbelements.com": "INVALID",
+            "go2.hit.gemius.pl": "INVALID",
+            "goldbach.hit.gemius.pl": "INVALID"
+        },
+        "1571349134": {
+            "gp.dejanews.com": "INVALID",
+            "graph.instagram.com": "INVALID",
+            "gratkapl.adocean.pl": "INVALID",
+            "gspro.adocean.pl": "INVALID",
+            "gspro.hit.gemius.pl": "INVALID"
+        },
+        "1571349135": {
+            "gtlt.hit.gemius.pl": "INVALID",
+            "gtlv.hit.gemius.pl": "INVALID",
+            "guardedgovernor.com": "INVALID"
+        },
+        "1571349136": {
+            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
+            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
+            "hexusads.fluent.ltd.uk": "INVALID"
+        },
+        "1571349137": {
+            "hits.europuls.eu": "INVALID",
+            "hits.informer.com": "INVALID"
+        },
+        "1571349138": {
+            "hit.webcentre.lycos.co.uk": "INVALID",
+            "hits.puls.lv": "INVALID",
+            "hits.theguardian.com": "INVALID",
+            "hitslink.interia.com.pl": "INVALID",
+            "home.hit.stat.pl": "INVALID",
+            "hoqqzlvwukpo.com": "INVALID"
+        },
+        "1571349139": {
+            "hostedads.realitykings.com": "INVALID",
+            "hr.adocean.pl": "INVALID",
+            "hrgde.adocean.pl": "INVALID"
+        },
+        "1571349140": {
+            "hr.hit.gemius.pl": "INVALID",
+            "huadn.hit.gemius.pl": "INVALID",
+            "hugde.adocean.pl": "INVALID"
+        },
+        "1571349141": {
+            "hu.hit.gemius.pl": "INVALID",
+            "huiwiw.hit.gemius.pl": "INVALID",
+            "huomdgde.adocean.pl": "INVALID",
+            "hyphenion.com": "INVALID",
+            "iaatzkkqyv.com": "INVALID"
+        },
+        "1571349142": {
+            "ia.iinfo.cz": "INVALID",
+            "iad.anm.co.uk": "INVALID",
+            "icorpadro.hit.gemius.pl": "INVALID"
+        },
+        "1571349150": {
+            "idcounter.com": "INVALID"
+        },
+        "1571349151": {
+            "i.interia.pl": "INVALID",
+            "idg.hit.gemius.pl": "INVALID",
+            "idm.hit.gemius.pl": "INVALID",
+            "ifa.tube8live.com": "INVALID"
+        },
+        "1571349152": {
+            "ilead.itrack.it": "INVALID",
+            "ilgde.adocean.pl": "INVALID",
+            "imageads.canoe.ca": "INVALID",
+            "images-pw.secureserver.net": "INVALID",
+            "img.prohardver.hu": "INVALID"
+        },
+        "1571349153": {
+            "[imported]": "INVALID",
+            "im.of.pl": "INVALID",
+            "imgpromo.easyrencontre.com": "INVALID",
+            "imonitor.nethost.cz": "INVALID"
+        },
+        "1571349154": {
+            "im.xo.pl": "INVALID",
+            "incrediblesugar.com": "INVALID",
+            "indexhu.adocean.pl": "INVALID"
+        },
+        "1571349155": {
+            "info.evidon.com": "INVALID"
+        },
+        "1571349156": {
+            "intactro.adocean.pl": "INVALID",
+            "interactive.forthnet.gr": "INVALID",
+            "interia.adsearch.adkontekst.pl": "INVALID",
+            "interia.hit.gemius.pl": "INVALID"
+        },
+        "1571349157": {
+            "int.sitestat.com": "INVALID"
+        },
+        "1571349158": {
+            "investoradbg.hit.gemius.pl": "INVALID",
+            "investorbg.adocean.pl": "INVALID",
+            "ipla.hit.gemius.pl": "INVALID",
+            "ipla.hit.stat24.com": "INVALID"
+        },
+        "1571349159": {
+            "i.xx.openx.com": "INVALID",
+            "iwa.hit.interia.pl": "INVALID",
+            "iwa3.hit.interia.pl": "INVALID"
+        },
+        "1571349161": {
+            "js.users.51.la": "INVALID",
+            "kapitanbomba.hopto.org": "INVALID"
+        },
+        "1571349162": {
+            "k.iinfo.cz": "INVALID",
+            "keepaneyeadmk.hit.gemius.pl": "INVALID",
+            "keepaneyemk.adocean.pl": "INVALID"
+        },
+        "1571349163": {
+            "kon.hit.gemius.pl": "INVALID",
+            "konto.amronet.pl": "INVALID",
+            "kqlokjfrnz.com": "INVALID",
+            "kropka.onet.pl": "INVALID"
+        },
+        "1571349165": {
+            "ktu.sv2.biz": "INVALID"
+        },
+        "1571349166": {
+            "(^|\\.)lcx\\.pl$": "INVALID"
+        },
+        "1571349167": {
+            "lib.wtg-ads.com": "INVALID"
+        },
+        "1571349168": {
+            "lightningcast.net": "INVALID",
+            "limpingline.com": "INVALID"
+        },
+        "1571349169": {
+            "log.btopenworld.com": "INVALID",
+            "logger.snackly.co": "INVALID",
+            "lopsidedspoon.com": "INVALID",
+            "lrytasadlt.hit.gemius.pl": "INVALID",
+            "lrytaslt.adocean.pl": "INVALID"
+        },
+        "1571349170": {
+            "ls.hit.gemius.pl": "INVALID",
+            "lt.adocean.pl": "INVALID",
+            "lt.hit.gemius.pl": "INVALID",
+            "lv.adocean.pl": "INVALID",
+            "lv.hit.gemius.pl": "INVALID"
+        },
+        "1571349171": {
+            "m1.webstats4u.com": "INVALID",
+            "mackeeperapp.mackeeper.com": "INVALID",
+            "madclient.uimserv.net": "INVALID",
+            "mads.cnet.com": "INVALID",
+            "market.bia24.pl": "INVALID",
+            "marketing.888.com": "INVALID",
+            "marketing.hearstmagazines.nl": "INVALID",
+            "marketing.nyi.net": "INVALID"
+        },
+        "1571349172": {
+            "marketing.osijek031.com": "INVALID",
+            "marketingsolutions.yahoo.com": "INVALID",
+            "mas.sector.sk": "INVALID"
+        },
+        "1571349173": {
+            "max.i12.de": "INVALID",
+            "mbank.hit.gemius.pl": "INVALID",
+            "mbs.megaroticlive.com": "INVALID",
+            "mdotm.com": "INVALID"
+        },
+        "1571349174": {
+            "media-adrunner.mycomputer.com": "INVALID",
+            "media.adcarousel.pl": "INVALID",
+            "media.funpic.de": "INVALID",
+            "mediadvertising.ro": "INVALID",
+            "mediamgr.ugo.com": "INVALID"
+        },
+        "1571349175": {
+            "media.nk-net.pl": "INVALID",
+            "mediaregad.hit.gemius.pl": "INVALID",
+            "mediaserver.bwinpartypartners.it": "INVALID",
+            "mediatrking.com": "INVALID"
+        },
+        "1571349176": {
+            "(^|\\.)meetrics\\.net$": "INVALID",
+            "mediax.angloinfo.com": "INVALID",
+            "mediaz.angloinfo.com": "INVALID",
+            "megapanel.gem.pl": "INVALID",
+            "metagaua.hit.gemius.pl": "INVALID"
+        },
+        "1571349177": {
+            "metrics.cnn.com": "INVALID",
+            "metrics.ctv.ca": "INVALID",
+            "metrics.foxnews.com": "INVALID",
+            "metrics.govexec.com": "INVALID",
+            "metrics.windowsitpro.com": "INVALID",
+            "mir.ec.adkontekst.pl": "INVALID"
+        },
+        "1571349178": {
+            "mis.em.nscontext.eu": "INVALID",
+            "misstrends.com": "INVALID",
+            "mklik.gazeta.pl": "INVALID",
+            "mobi.yanosik.pl": "INVALID"
+        },
+        "1571349179": {
+            "m.pl.pornzone.tv": "INVALID",
+            "mreg.hit.gemius.pl": "INVALID",
+            "mrex.exs.pl": "INVALID"
+        },
+        "1571349180": {
+            "m.trb.com": "INVALID",
+            "my.adocean.pl": "INVALID",
+            "myao.adocean.pl": "INVALID"
+        },
+        "1571349181": {
+            "(^|\\.)mylead\\.global$": "INVALID",
+            "mzbcdn.net": "INVALID"
+        },
+        "1571349183": {
+            "nbhxgjz.com": "INVALID"
+        },
+        "1571349184": {
+            "nedstat.com": "INVALID"
+        },
+        "1571349185": {
+            "nedstat.nl": "INVALID"
+        },
+        "1571349186": {
+            "nedstatpro.net": "INVALID",
+            "negadbg.hit.gemius.pl": "INVALID"
+        },
+        "1571349190": {
+            "neoffic.com": "INVALID"
+        },
+        "1571349191": {
+            "neogenadro.hit.gemius.pl": "INVALID",
+            "netsprint.hit.gemius.pl": "INVALID"
+        },
+        "1571349199": {
+            "newnet.qsrch.com": "INVALID"
+        },
+        "1571349200": {
+            "new.smartcontext.pl": "INVALID",
+            "newopenx.detik.com": "INVALID",
+            "newt1.adultadworld.com": "INVALID",
+            "newt1.adultworld.com": "INVALID"
+        },
+        "1571349201": {
+            "newtopsites.com": "INVALID"
+        },
+        "1571349202": {
+            "n.serialeonline.pl": "INVALID",
+            "novem.onet.pl": "INVALID",
+            "numax.nu-1.com": "INVALID",
+            "o2adpl.hit.gemius.pl": "INVALID"
+        },
+        "1571349203": {
+            "o2.hit.gemius.pl": "INVALID",
+            "oas.benchmark.fr": "INVALID",
+            "oas.foxnews.com": "INVALID",
+            "oas.repubblica.it": "INVALID",
+            "oas.roanoke.com": "INVALID",
+            "oas.salon.com": "INVALID",
+            "oas.toronto.com": "INVALID",
+            "oas.uniontrib.com": "INVALID",
+            "oas.villagevoice.com": "INVALID",
+            "oascentral.businessweek.com": "INVALID",
+            "oascentral.chicagobusiness.com": "INVALID",
+            "oascentral.fortunecity.com": "INVALID",
+            "oascentral.register.com": "INVALID"
+        },
+        "1571349204": {
+            "obozua.adocean.pl": "INVALID",
+            "oglasnikadhr.hit.gemius.pl": "INVALID",
+            "ohtulehtadee.hit.gemius.pl": "INVALID",
+            "ohtulehtee.adocean.pl": "INVALID"
+        },
+        "1571349205": {
+            "olx.hit.gemius.pl": "INVALID",
+            "onet.hit.gemius.pl": "INVALID",
+            "onet.hit.stat.pl": "INVALID"
+        },
+        "1571349206": {
+            "open.oneplus.net": "INVALID",
+            "openad.travelnow.com": "INVALID",
+            "openads.friendfinder.com": "INVALID",
+            "openx.angelsgroup.org.uk": "INVALID",
+            "openx.blindferret.com": "INVALID",
+            "openx.cda.pl": "INVALID",
+            "openx.tai.pl": "INVALID"
+        },
+        "1571349207": {
+            "opt.hit.gemius.pl": "INVALID",
+            "optimize-stats.voxmedia.com": "INVALID",
+            "ota.cartrawler.com": "INVALID",
+            "otto-images.developershed.com": "INVALID",
+            "ovh.webshark.pl": "INVALID",
+            "owabgxis.wp.pl": "INVALID"
+        },
+        "1571349208": {
+            "oxen.hillcountrytexas.com": "INVALID",
+            "pagead.l.google.com": "INVALID"
+        },
+        "1571349209": {
+            "panel.adtify.pl": "INVALID",
+            "partner-ts.groupon.pl": "INVALID",
+            "partner.ceneo.pl": "INVALID",
+            "partner.pelikan.cz": "INVALID",
+            "partner.pobieraczek.pl": "INVALID",
+            "partnerad.l.google.com": "INVALID",
+            "partners.priceline.com": "INVALID"
+        },
+        "1571349210": {
+            "partner.wapster.pl": "INVALID",
+            "partnerzyapi.ceneo.pl": "INVALID",
+            "pasaz.goryonline.com": "INVALID"
+        },
+        "1571349211": {
+            "pcash.imlive.com": "INVALID"
+        },
+        "1571349212": {
+            "phoenix-adrunner.mycomputer.com": "INVALID",
+            "phpadsnew.new.natuurpark.nl": "INVALID",
+            "ping.ublock.org": "INVALID",
+            "pixel.adsafeprotected.com": "INVALID",
+            "pixel.condenastdigital.com": "INVALID",
+            "pixel.digitru.st": "INVALID",
+            "pixel.redditmedia.com": "INVALID",
+            "pixel.sojern.com": "INVALID",
+            "pixel.solvemedia.com": "INVALID"
+        },
+        "1571349213": {
+            "pixel.wp.pl": "INVALID",
+            "pl.spanel.gem.pl": "INVALID"
+        },
+        "1571349214": {
+            "pop-under.ru": "INVALID",
+            "popup.msn.com": "INVALID",
+            "popups.infostart.com": "INVALID"
+        },
+        "1571349215": {
+            "potenza.cz": "INVALID",
+            "potwierdzoneinfo.pl": "INVALID",
+            "pp.funhub.pl": "INVALID",
+            "practicetoothpaste.com": "INVALID",
+            "pracuj.adocean.pl": "INVALID",
+            "pracuj.hit.gemius.pl": "INVALID"
+        },
+        "1571349216": {
+            "prefix.hit.gemius.pl": "INVALID"
+        },
+        "1571349224": {
+            "primaryads.com": "INVALID",
+            "pro.hit.gemius.pl": "INVALID",
+            "promo.badoink.com": "INVALID"
+        },
+        "1571349227": {
+            "promos.bwin.it": "INVALID",
+            "promos.fling.com": "INVALID"
+        },
+        "1571349229": {
+            "promo.ulust.com": "INVALID",
+            "promote.pair.com": "INVALID"
+        },
+        "1571349232": {
+            "provalist.info": "INVALID",
+            "provideplant.com": "INVALID"
+        },
+        "1571349233": {
+            "psstt.com": "INVALID",
+            "pub.chez.com": "INVALID",
+            "pub.club-internet.fr": "INVALID"
+        },
+        "1571349234": {
+            "pub.hardware.fr": "INVALID",
+            "pub.realmedia.fr": "INVALID",
+            "pubs.lemonde.fr": "INVALID",
+            "pushuser.wp.pl": "INVALID",
+            "px.dynamicyield.com": "INVALID"
+        },
+        "1571349235": {
+            "px.wp.pl": "INVALID"
+        },
+        "1571349236": {
+            "quigo.com": "INVALID",
+            "radar.cedexis.com": "INVALID"
+        },
+        "1571349237": {
+            "ratings.lycos.com": "INVALID",
+            "rbcgaru.hit.gemius.pl": "INVALID"
+        },
+        "1571349238": {
+            "realitateadro.hit.gemius.pl": "INVALID",
+            "realitatero.adocean.pl": "INVALID",
+            "realmedia-a800.d4p.net": "INVALID",
+            "rec.quartic.pl": "INVALID",
+            "record.mrwin.com": "INVALID"
+        },
+        "1571349239": {
+            "rect.b2bpersonals.net": "INVALID",
+            "referrer.disqus.com": "INVALID",
+            "rek.adtotal.pl": "INVALID",
+            "reklama.mironet.cz": "INVALID",
+            "reklama.onet.pl": "INVALID"
+        },
+        "1571349240": {
+            "reklam.rfsl.se": "INVALID",
+            "reklama.reflektor.cz": "INVALID",
+            "reklame.unwired-i.net": "INVALID",
+            "reklamy.sfd.pl": "INVALID"
+        },
+        "1571349241": {
+            "rek.www.wp.pl": "INVALID",
+            "remotead.cnet.com": "INVALID",
+            "republika.onet.pl": "INVALID"
+        },
+        "1571349242": {
+            "richmedia.yimg.com": "INVALID",
+            "ringieradro.hit.gemius.pl": "INVALID",
+            "ringieradrs.hit.gemius.pl": "INVALID",
+            "ringierro.adocean.pl": "INVALID",
+            "ringierrs.adocean.pl": "INVALID"
+        },
+        "1571349243": {
+            "rmads.msn.com": "INVALID",
+            "rmedia.boston.com": "INVALID",
+            "ro.adocean.pl": "INVALID",
+            "ro1adro.hit.gemius.pl": "INVALID",
+            "ro1ro.adocean.pl": "INVALID",
+            "rogde.adocean.pl": "INVALID"
+        },
+        "1571349244": {
+            "ro.hit.gemius.pl": "INVALID",
+            "rok.com.com": "INVALID",
+            "rose.ixbt.com": "INVALID"
+        },
+        "1571349245": {
+            "rp.hit.gemius.pl": "INVALID",
+            "rs.adocean.pl": "INVALID",
+            "rsgde.adocean.pl": "INVALID",
+            "rulerabbit.com": "INVALID",
+            "s1.cz.adocean.pl": "INVALID"
+        },
+        "1571349246": {
+            "s1.czgde.adocean.pl": "INVALID",
+            "s1.edipresse.adocean.pl": "INVALID",
+            "s1.gojobsru.adocean.pl": "INVALID"
+        },
+        "1571349247": {
+            "s1.gratkapl.adocean.pl": "INVALID",
+            "s1.hit.stat.pl": "INVALID",
+            "s1.my.adocean.pl": "INVALID",
+            "s1.myao.adocean.pl": "INVALID",
+            "s1.pracuj.adocean.pl": "INVALID"
+        },
+        "1571349248": {
+            "s1.sk.adocean.pl": "INVALID",
+            "s1.skgde.adocean.pl": "INVALID",
+            "s2.hit.stat.pl": "INVALID",
+            "s3.hit.stat.pl": "INVALID",
+            "s4.hit.stat.pl": "INVALID"
+        },
+        "1571349249": {
+            "s.adroll.com": "INVALID",
+            "sbx.pagesjaunes.fr": "INVALID"
+        },
+        "1571349250": {
+            "scambiobanner.aruba.it": "INVALID",
+            "scarcestream.com": "INVALID",
+            "scz.hit.gemius.pl": "INVALID"
+        },
+        "1571349251": {
+            "s.di.com.pl": "INVALID",
+            "searchfeast.com": "INVALID",
+            "sec.hit.gemius.pl": "INVALID",
+            "secure.webconnect.net": "INVALID",
+            "see.hit.gemius.pl": "INVALID"
+        },
+        "1571349252": {
+            "services.hearstmags.com": "INVALID",
+            "seznam.hit.gemius.pl": "INVALID"
+        },
+        "1571349253": {
+            "shelterstraw.com": "INVALID",
+            "sher.index.hu": "INVALID",
+            "shiveringsail.com": "INVALID",
+            "show.smartcontext.pl": "INVALID"
+        },
+        "1571349254": {
+            "si.adocean.pl": "INVALID",
+            "si.hit.gemius.pl": "INVALID",
+            "sidebar.angelfire.com": "INVALID",
+            "simplisticnose.com": "INVALID",
+            "sisco.hit.stat.pl": "INVALID"
+        },
+        "1571349255": {
+            "sitestat.com": "INVALID",
+            "sk.adocean.pl": "INVALID",
+            "skgde.adocean.pl": "INVALID"
+        },
+        "1571349256": {
+            "(^|\\.)smartadserver\\.com$": "INVALID",
+            "sk.hit.gemius.pl": "INVALID",
+            "slovakia.hit.gemius.pl": "INVALID",
+            "smart.brvaffs.com": "INVALID"
+        },
+        "1571349257": {
+            "smart.idmnet.pl": "INVALID",
+            "smetrics.ctv.ca": "INVALID",
+            "smetrics.walgreens.com": "INVALID",
+            "smpl.hit.ppdb.pl": "INVALID",
+            "snakesort.com": "INVALID"
+        },
+        "1571349260": {
+            "sofia.trustx.org": "INVALID",
+            "somniture.stuff.co.nz": "INVALID"
+        },
+        "1571349261": {
+            "spectacularsnail.com": "INVALID",
+            "spinbox.techtracker.com": "INVALID",
+            "spinbox.versiontracker.com": "INVALID",
+            "spir.hit.gemius.pl": "INVALID",
+            "spl.hit.gemius.pl": "INVALID"
+        },
+        "1571349262": {
+            "sponsors.thoughtsmedia.com": "INVALID",
+            "sportaladbg.hit.gemius.pl": "INVALID",
+            "sportalbg.adocean.pl": "INVALID",
+            "spot.fitness.com": "INVALID"
+        },
+        "1571349270": {
+            "spywarenuker.com": "INVALID"
+        },
+        "1571349271": {
+            "s.spolecznosci.net": "INVALID",
+            "squeamishscarecrow.com": "INVALID",
+            "st1.hit.gemius.pl": "INVALID",
+            "stat24.meta.ua": "INVALID"
+        },
+        "1571349272": {
+            "stat.4u.pl": "INVALID",
+            "stat.cliche.se": "INVALID",
+            "stat.dealtime.com": "INVALID",
+            "stat.dyna.ultraweb.hu": "INVALID",
+            "stat.dziennik.pl": "INVALID"
+        },
+        "1571349273": {
+            "stat.onestat.com": "INVALID",
+            "static.clickonometrics.pl": "INVALID",
+            "static.fmpub.net": "INVALID",
+            "static.itrack.it": "INVALID",
+            "staticads.btopenworld.com": "INVALID",
+            "statm.the-adult-company.com": "INVALID",
+            "stats2.self.com": "INVALID"
+        },
+        "1571349274": {
+            "stats.asp24.pl": "INVALID",
+            "stats.blogger.com": "INVALID",
+            "stats.directnic.com": "INVALID",
+            "stats.dziennik.pl": "INVALID",
+            "stats.goldenline.pl": "INVALID",
+            "stats.hyperinzerce.cz": "INVALID",
+            "stats.media.onet.pl": "INVALID",
+            "stats.merriam-webster.com": "INVALID",
+            "stats.mirrorfootball.co.uk": "INVALID",
+            "stats.olark.com": "INVALID"
+        },
+        "1571349275": {
+            "stats-srv.rp.pl": "INVALID",
+            "stats.pusher.com": "INVALID",
+            "stats.self.com": "INVALID",
+            "stats.unwired-i.net": "INVALID"
+        },
+        "1571349276": {
+            "stat.webmedia.pl": "INVALID"
+        },
+        "1571349280": {
+            "stat.zenon.net": "INVALID",
+            "std1.hit.gemius.pl": "INVALID",
+            "stg.wp.pl": "INVALID"
+        },
+        "1571349281": {
+            "st.hit.gemius.pl": "INVALID",
+            "str.hit.gemius.pl": "INVALID",
+            "stua.hit.gemius.pl": "INVALID"
+        },
+        "1571349282": {
+            "subscribe.hearstmags.com": "INVALID",
+            "superficialsink.com": "INVALID",
+            "switchads.com": "INVALID"
+        },
+        "1571349283": {
+            "tacoda.net": "INVALID",
+            "tags.grajteraz.pl": "INVALID"
+        },
+        "1571349284": {
+            "teliad.de": "INVALID",
+            "terribleturkey.com": "INVALID",
+            "textad.sexsearch.com": "INVALID"
+        },
+        "1571349285": {
+            "theads.me": "INVALID",
+            "thinkdigitaladro.hit.gemius.pl": "INVALID",
+            "thinkdigitalro.adocean.pl": "INVALID"
+        },
+        "1571349286": {
+            "t.insigit.com": "INVALID",
+            "thrnt.com": "INVALID",
+            "top100-images.rambler.ru": "INVALID",
+            "top100.mafia.ru": "INVALID"
+        },
+        "1571349288": {
+            "topacity.info": "INVALID"
+        },
+        "1571349289": {
+            "top.mail.ru": "INVALID",
+            "topbarh.box.sk": "INVALID",
+            "toplist.pornhost.com": "INVALID",
+            "toplista.mw.hu": "INVALID"
+        },
+        "1571349290": {
+            "top.proext.com": "INVALID",
+            "tour.brazzers.com": "INVALID",
+            "tracedesire.com": "INVALID",
+            "track.adform.net": "INVALID",
+            "track.anchorfree.com": "INVALID",
+            "track.buybox.click": "INVALID",
+            "track.contently.com": "INVALID",
+            "track1.viewdeos.com": "INVALID"
+        },
+        "1571349291": {
+            "track.cux.io": "INVALID",
+            "track.flexlinks.com": "INVALID",
+            "track.flexlinkspro.com": "INVALID",
+            "track.gawker.com": "INVALID",
+            "tracker-pm2.spilleren.com": "INVALID",
+            "tracker.pracuj.pl": "INVALID",
+            "tracker.twenga.pl": "INVALID",
+            "tracking.affiliate44.com.pl": "INVALID",
+            "tracking.crunchiemedia.com": "INVALID",
+            "tracking.gajmp.com": "INVALID"
+        },
+        "1571349292": {
+            "track.omgpl.com": "INVALID",
+            "track.reinvigorate.net": "INVALID",
+            "track.viewdeos.com": "INVALID",
+            "tracking.internetstores.de": "INVALID",
+            "tracking.novem.pl": "INVALID",
+            "tracking.quisma.com": "INVALID",
+            "traffic.focuusing.com": "INVALID"
+        },
+        "1571349293": {
+            "travis.bosscasinos.com": "INVALID",
+            "trgde.adocean.pl": "INVALID"
+        },
+        "1571349294": {
+            "tr.hit.gemius.pl": "INVALID",
+            "trhunt.com": "INVALID",
+            "tritetongue.com": "INVALID"
+        },
+        "1571349295": {
+            "truehits1.gits.net.th": "INVALID",
+            "truehits2.gits.net.th": "INVALID",
+            "tvn2.adocean.pl": "INVALID"
+        },
+        "1571349296": {
+            "tvn.adocean.pl": "INVALID",
+            "tvn.hit.gemius.pl": "INVALID",
+            "ua.adocean.pl": "INVALID"
+        },
+        "1571349297": {
+            "ua.cnt.gemius.pl": "INVALID",
+            "ua.hit.gemius.pl": "INVALID",
+            "unknow.now.sh": "INVALID"
+        },
+        "1571349298": {
+            "us.a1.yimg.com": "INVALID",
+            "ut.o2.pl": "INVALID",
+            "utils.mediageneral.net": "INVALID",
+            "v1.cnzz.com": "INVALID"
+        },
+        "1571349299": {
+            "vbadbg.hit.gemius.pl": "INVALID",
+            "vbbg.adocean.pl": "INVALID"
+        },
+        "1571349300": {
+            "venetia.iad.appboy.com": "INVALID"
+        },
+        "1571349308": {
+            "vertadnet.com": "INVALID"
+        },
+        "1571349316": {
+            "veruta.com": "INVALID",
+            "video-stats.video.google.com": "INVALID",
+            "video.vid4u.org": "INVALID",
+            "vidoza.github.io": "INVALID",
+            "vidoza2.github.io": "INVALID",
+            "visit.webhosting.yahoo.com": "INVALID",
+            "visitpath.com": "INVALID"
+        },
+        "1571349317": {
+            "vs.tucows.com": "INVALID"
+        },
+        "1571349318": {
+            "v.wpimg.pl": "INVALID",
+            "wantmobi.bid": "INVALID",
+            "wdads.sx.atl.publicus.com": "INVALID",
+            "web2.deja.com": "INVALID",
+            "webcounter.goweb.de": "INVALID"
+        },
+        "1571349319": {
+            "web.informer.com": "INVALID",
+            "webgroundadbg.hit.gemius.pl": "INVALID",
+            "webgroundbg.adocean.pl": "INVALID"
+        },
+        "1571349320": {
+            "webstat.channel4.com": "INVALID",
+            "werbung.meteoxpress.com": "INVALID"
+        },
+        "1571349321": {
+            "widget.aftermarket.pl": "INVALID",
+            "wintricksbanner.googlepages.com": "INVALID",
+            "wp.hit.gemius.pl": "INVALID"
+        },
+        "1571349322": {
+            "wpkoszyk.wp.pl": "INVALID",
+            "www8.glam.com": "INVALID"
+        },
+        "1571349323": {
+            "www-banner.chat.ru": "INVALID",
+            "www.banner-link.com.br": "INVALID",
+            "www.bnserving.com": "INVALID"
+        },
+        "1571349324": {
+            "www-google-analytics.l.google.com": "INVALID",
+            "www.comwgi.com": "INVALID",
+            "www.dnps.com": "INVALID",
+            "www.forfollow.net": "INVALID"
+        },
+        "1571349327": {
+            "www.money4exit.de": "INVALID",
+            "www.msftconnecttest.com": "INVALID",
+            "www.msftncsi.com": "INVALID",
+            "www.mystat.pl": "INVALID",
+            "wydawca.lead.network": "INVALID"
+        },
+        "1571349328": {
+            "wykop.hit.gemius.pl": "INVALID",
+            "x.interia.pl": "INVALID",
+            "x6.yakiuchi.com": "INVALID"
+        },
+        "1571349329": {
+            "x.sare25.com": "INVALID",
+            "xq1.net": "INVALID",
+            "xr77.adj.st": "INVALID",
+            "xstatic.nk-net.pl": "INVALID"
+        },
+        "1571349330": {
+            "y.ibsys.com": "INVALID",
+            "yabuka.com": "INVALID"
+        },
+        "1571349331": {
+            "yts.moatads.com": "INVALID"
+        },
+        "1571349332": {
+            "zeus.developershed.com": "INVALID",
+            "zobaczto.pisz.pl": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
