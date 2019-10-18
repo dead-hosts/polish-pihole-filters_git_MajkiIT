@@ -610,8 +610,8 @@
         "state": "future"
     },
     "admarketplace.net": {
-        "epoch": "1570752000",
-        "expiration_date": "11-oct-2019",
+        "epoch": 1633910400,
+        "expiration_date": "11-oct-2021",
         "state": "future"
     },
     "admarvel.com": {
@@ -640,8 +640,8 @@
         "state": "future"
     },
     "admex.com": {
-        "epoch": "1570406400",
-        "expiration_date": "07-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "adminder.com": {
@@ -860,8 +860,8 @@
         "state": "future"
     },
     "adscpm.com": {
-        "epoch": "1570492800",
-        "expiration_date": "08-oct-2019",
+        "epoch": 1602115200,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "adsdaq.com": {
@@ -895,8 +895,8 @@
         "state": "future"
     },
     "adserverplus.com": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1665532800,
+        "expiration_date": "12-oct-2022",
         "state": "future"
     },
     "adserverpub.com": {
@@ -1090,8 +1090,8 @@
         "state": "future"
     },
     "adtrace.org": {
-        "epoch": "1570320000",
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "adtrade.net": {
@@ -1205,8 +1205,8 @@
         "state": "future"
     },
     "adview.pl": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "advisormedia.cz": {
@@ -1305,8 +1305,8 @@
         "state": "future"
     },
     "affili.net": {
-        "epoch": "1570320000",
-        "expiration_date": "06-oct-2019",
+        "epoch": 1665014400,
+        "expiration_date": "06-oct-2022",
         "state": "future"
     },
     "affiliatefuel.com": {
@@ -1520,8 +1520,8 @@
         "state": "future"
     },
     "attributiontracker.com": {
-        "epoch": "1570924800",
-        "expiration_date": "13-oct-2019",
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "atwola.com": {
@@ -2200,8 +2200,8 @@
         "state": "future"
     },
     "click2paid.com": {
-        "epoch": "1570060800",
-        "expiration_date": "03-oct-2019",
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "clickability.com": {
@@ -2235,8 +2235,8 @@
         "state": "future"
     },
     "clickboothlnk.com": {
-        "epoch": "1570233600",
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "clickbrokers.com": {
@@ -2250,8 +2250,8 @@
         "state": "future"
     },
     "clickcounters.com": {
-        "epoch": "1570579200",
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "clickdensity.com": {
@@ -2345,8 +2345,8 @@
         "state": "future"
     },
     "clikerz.net": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "cliksolution.com": {
@@ -2365,8 +2365,8 @@
         "state": "future"
     },
     "cloudcoins.biz": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "clrstm.com": {
@@ -2520,8 +2520,8 @@
         "state": "future"
     },
     "counter.cz": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "cowledges.com": {
