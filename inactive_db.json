@@ -6,172 +6,6 @@
         "1571349324": {
             "www.forfollow.net": "INVALID"
         },
-        "1571590834": {
-            "content.acc-hd.de": "INACTIVE"
-        },
-        "1571590836": {
-            "cookiecontainer.blox.pl": "INACTIVE"
-        },
-        "1571590851": {
-            "counter.bloke.com": "INACTIVE"
-        },
-        "1571590857": {
-            "counter.cnw.cz": "INACTIVE"
-        },
-        "1571590864": {
-            "counter.dreamhost.com": "INACTIVE"
-        },
-        "1571590870": {
-            "counter.fateback.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE"
-        },
-        "1571590877": {
-            "count.rbc.ru": "INACTIVE"
-        },
-        "1571590879": {
-            "cp.abbp1.pw": "INACTIVE"
-        },
-        "1571590906": {
-            "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1571590915": {
-            "crv.clickad.pl": "INACTIVE"
-        },
-        "1571590929": {
-            "customad.cnn.com": "INACTIVE"
-        },
-        "1571590934": {
-            "d.adroll.com": "INACTIVE"
-        },
-        "1571590966": {
-            "delfiee.adocean.pl": "INACTIVE"
-        },
-        "1571590967": {
-            "delfilt.adocean.pl": "INACTIVE",
-            "delfilv.adocean.pl": "INACTIVE"
-        },
-        "1571590968": {
-            "delivery.clickonometrics.pl": "INACTIVE"
-        },
-        "1571590970": {
-            "di1.shopping.com": "INACTIVE"
-        },
-        "1571590971": {
-            "diginet.adocean.pl": "INACTIVE"
-        },
-        "1571591001": {
-            "dnads.directnic.com": "INACTIVE"
-        },
-        "1571591008": {
-            "(^|\\.)doubleclick\\.(com)$": "INVALID"
-        },
-        "1571591010": {
-            "ds.onet.pl": "INACTIVE",
-            "dynamic.fmpub.net": "INACTIVE",
-            "e-adimages.scrippsnetworks.com": "INACTIVE"
-        },
-        "1571591017": {
-            "eas.almamedia.fi": "INACTIVE"
-        },
-        "1571591040": {
-            "embed.powercontent.pl": "INACTIVE"
-        },
-        "1571591059": {
-            "emisjawidgeet.onet.pl": "INACTIVE"
-        },
-        "1571591090": {
-            "eur.a1.yimg.com": "INACTIVE"
-        },
-        "1571591094": {
-            "eventbeacon.ca": "INACTIVE"
-        },
-        "1571591095": {
-            "ew1.dms-gld.bigdata.ssp.samsung.com": "INACTIVE"
-        },
-        "1571591110": {
-            "facemap.foldlife.net": "INACTIVE"
-        },
-        "1571591111": {
-            "fastclick.com.edgesuite.net": "INACTIVE"
-        },
-        "1571591121": {
-            "first.nova.cz": "INACTIVE"
-        },
-        "1571591159": {
-            "g.cda.pl": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1571591160": {
-            "gde.adocean.pl": "INACTIVE"
-        },
-        "1571591167": {
-            "(^|\\.)gemius\\.(com|pl)$": "INVALID"
-        },
-        "1571591177": {
-            "gg.adocean.pl": "INACTIVE"
-        },
-        "1571591178": {
-            "gg.mob.vendimob.pl": "INACTIVE"
-        },
-        "1571591188": {
-            "gp.dejanews.com": "INACTIVE"
-        },
-        "1571591190": {
-            "gratkapl.adocean.pl": "INACTIVE",
-            "gspro.adocean.pl": "INACTIVE"
-        },
-        "1571591213": {
-            "hexusads.fluent.ltd.uk": "INACTIVE"
-        },
-        "1571591228": {
-            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
-            "(^|\\.)hit\\.interia\\.pl$": "INVALID"
-        },
-        "1571591238": {
-            "hitslink.interia.com.pl": "INACTIVE"
-        },
-        "1571591257": {
-            "iad.anm.co.uk": "INACTIVE"
-        },
-        "1571591284": {
-            "images-pw.secureserver.net": "INACTIVE"
-        },
-        "1571591286": {
-            "im.of.pl": "INACTIVE"
-        },
-        "1571591287": {
-            "[imported]": "INVALID"
-        },
-        "1571591314": {
-            "info.evidon.com": "INACTIVE"
-        },
-        "1571591316": {
-            "intactro.adocean.pl": "INACTIVE",
-            "interactive.forthnet.gr": "INACTIVE"
-        },
-        "1571591321": {
-            "int.sitestat.com": "INACTIVE",
-            "investoradbg.hit.gemius.pl": "INACTIVE",
-            "investorbg.adocean.pl": "INACTIVE"
-        },
-        "1571591339": {
-            "iwa3.hit.interia.pl": "INACTIVE"
-        },
-        "1571591340": {
-            "iwa.hit.interia.pl": "INACTIVE"
-        },
-        "1571591347": {
-            "js.users.51.la": "INACTIVE"
-        },
-        "1571591350": {
-            "kapitanbomba.hopto.org": "INACTIVE"
-        },
-        "1571591356": {
-            "k.iinfo.cz": "INACTIVE"
-        },
-        "1571591470": {
-            "(^|\\.)lcx\\.pl$": "INVALID"
-        },
         "1571591504": {
             "log.btopenworld.com": "INACTIVE"
         },
@@ -1383,6 +1217,183 @@
         "1571748602": {
             "clientmetrics-pa.googleapis.com": "INACTIVE",
             "clients.tbo.com": "INACTIVE"
+        },
+        "1571751214": {
+            "content.acc-hd.de": "INACTIVE"
+        },
+        "1571751216": {
+            "cookiecontainer.blox.pl": "INACTIVE"
+        },
+        "1571751230": {
+            "counter.bloke.com": "INACTIVE"
+        },
+        "1571751236": {
+            "counter.cnw.cz": "INACTIVE"
+        },
+        "1571751243": {
+            "counter.dreamhost.com": "INACTIVE"
+        },
+        "1571751249": {
+            "counter.fateback.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1571751254": {
+            "count.rbc.ru": "INACTIVE"
+        },
+        "1571751256": {
+            "cp.abbp1.pw": "INACTIVE"
+        },
+        "1571751282": {
+            "creatives.as4x.tmcs.net": "INACTIVE"
+        },
+        "1571751297": {
+            "crv.clickad.pl": "INACTIVE"
+        },
+        "1571751311": {
+            "customad.cnn.com": "INACTIVE"
+        },
+        "1571751314": {
+            "d.adroll.com": "INACTIVE"
+        },
+        "1571751347": {
+            "delfiee.adocean.pl": "INACTIVE",
+            "delfilt.adocean.pl": "INACTIVE",
+            "delfilv.adocean.pl": "INACTIVE"
+        },
+        "1571751348": {
+            "delivery.clickonometrics.pl": "INACTIVE"
+        },
+        "1571751350": {
+            "di1.shopping.com": "INACTIVE"
+        },
+        "1571751351": {
+            "diginet.adocean.pl": "INACTIVE"
+        },
+        "1571751360": {
+            "dirbg.hit.gemius.pl": "INACTIVE"
+        },
+        "1571751387": {
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1571751395": {
+            "(^|\\.)doubleclick\\.(com)$": "INVALID"
+        },
+        "1571751397": {
+            "ds.onet.pl": "INACTIVE",
+            "dynamic.fmpub.net": "INACTIVE",
+            "e-adimages.scrippsnetworks.com": "INACTIVE"
+        },
+        "1571751404": {
+            "eas.almamedia.fi": "INACTIVE"
+        },
+        "1571751433": {
+            "embed.powercontent.pl": "INACTIVE"
+        },
+        "1571751449": {
+            "emisjawidgeet.onet.pl": "INACTIVE"
+        },
+        "1571751480": {
+            "eur.a1.yimg.com": "INACTIVE"
+        },
+        "1571751484": {
+            "eventbeacon.ca": "INACTIVE",
+            "ew1.dms-gld.bigdata.ssp.samsung.com": "INACTIVE"
+        },
+        "1571751500": {
+            "facemap.foldlife.net": "INACTIVE"
+        },
+        "1571751501": {
+            "fastclick.com.edgesuite.net": "INACTIVE"
+        },
+        "1571751509": {
+            "first.nova.cz": "INACTIVE"
+        },
+        "1571751545": {
+            "gabg.hit.gemius.pl": "INACTIVE"
+        },
+        "1571751567": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1571751568": {
+            "g.cda.pl": "INACTIVE"
+        },
+        "1571751569": {
+            "gde.adocean.pl": "INACTIVE"
+        },
+        "1571751575": {
+            "gdebg.hit.gemius.pl": "INACTIVE"
+        },
+        "1571751582": {
+            "(^|\\.)gemius\\.(com|pl)$": "INVALID"
+        },
+        "1571751592": {
+            "gg.adocean.pl": "INACTIVE"
+        },
+        "1571751594": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1571751600": {
+            "ghmbg.hit.gemius.pl": "INACTIVE"
+        },
+        "1571751615": {
+            "gp.dejanews.com": "INACTIVE"
+        },
+        "1571751616": {
+            "gratkapl.adocean.pl": "INACTIVE"
+        },
+        "1571751617": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1571751639": {
+            "hexusads.fluent.ltd.uk": "INACTIVE"
+        },
+        "1571751656": {
+            "(^|\\.)hit\\.gemius\\.pl$": "INVALID"
+        },
+        "1571751657": {
+            "(^|\\.)hit\\.interia\\.pl$": "INVALID"
+        },
+        "1571751667": {
+            "hitslink.interia.com.pl": "INACTIVE"
+        },
+        "1571751686": {
+            "iad.anm.co.uk": "INACTIVE"
+        },
+        "1571751711": {
+            "images-pw.secureserver.net": "INACTIVE"
+        },
+        "1571751716": {
+            "im.of.pl": "INACTIVE"
+        },
+        "1571751717": {
+            "[imported]": "INVALID"
+        },
+        "1571751734": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1571751735": {
+            "interactive.forthnet.gr": "INACTIVE"
+        },
+        "1571751739": {
+            "int.sitestat.com": "INACTIVE",
+            "investoradbg.hit.gemius.pl": "INACTIVE",
+            "investorbg.adocean.pl": "INACTIVE"
+        },
+        "1571751751": {
+            "iwa.hit.interia.pl": "INACTIVE",
+            "iwa3.hit.interia.pl": "INACTIVE"
+        },
+        "1571751760": {
+            "js.users.51.la": "INACTIVE"
+        },
+        "1571751762": {
+            "kapitanbomba.hopto.org": "INACTIVE"
+        },
+        "1571751768": {
+            "k.iinfo.cz": "INACTIVE"
+        },
+        "1571751786": {
+            "(^|\\.)lcx\\.pl$": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
