@@ -1125,8 +1125,8 @@
         "state": "future"
     },
     "adventory.com": {
-        "epoch": "1571702400",
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "adverticum.com": {
@@ -1470,8 +1470,8 @@
         "state": "future"
     },
     "anxiousapples.com": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "app-measurement.com": {
@@ -1810,8 +1810,8 @@
         "state": "future"
     },
     "billboard.cz": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "bitads.net": {
@@ -1895,13 +1895,13 @@
         "state": "future"
     },
     "bodelen.com": {
-        "epoch": "1571702400",
+        "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "boilingbeetle.com": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "boom.ro": {
@@ -1940,8 +1940,8 @@
         "state": "future"
     },
     "brassrule.com": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1578441600,
+        "expiration_date": "08-jan-2020",
         "state": "future"
     },
     "bridgetrack.com": {
