@@ -4635,8 +4635,8 @@
         "state": "future"
     },
     "matheranalytics.com": {
-        "epoch": "1571788800",
-        "expiration_date": "23-oct-2019",
+        "epoch": 1666483200,
+        "expiration_date": "23-oct-2022",
         "state": "future"
     },
     "mathtag.com": {
@@ -4735,8 +4735,8 @@
         "state": "future"
     },
     "medleyads.com": {
-        "epoch": "1571875200",
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "medyanetads.com": {
@@ -4860,8 +4860,8 @@
         "state": "future"
     },
     "moggattice.com": {
-        "epoch": "1571788800",
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "mojeklocki.com": {
@@ -5150,9 +5150,9 @@
         "state": "future"
     },
     "newbie.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
-        "state": "past"
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
     },
     "newnudecash.com": {
         "epoch": "1587513600",
@@ -5760,9 +5760,9 @@
         "state": "future"
     },
     "potenza.cz": {
-        "epoch": 1566691200,
-        "expiration_date": "25-aug-2019",
-        "state": "past"
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
     },
     "potwierdzoneinfo.pl": {
         "epoch": 1578614400,
@@ -5795,8 +5795,8 @@
         "state": "future"
     },
     "presetrabbits.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "primaryads.com": {
@@ -6395,8 +6395,8 @@
         "state": "future"
     },
     "scrubswim.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "seanse24.pl": {
