@@ -7180,9 +7180,9 @@
         "state": "future"
     },
     "tnkexchange.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
-        "state": "past"
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
     },
     "tns-counter.ru": {
         "epoch": "1582070400",
@@ -7220,9 +7220,9 @@
         "state": "future"
     },
     "topbucks.com": {
-        "epoch": "1572134400",
+        "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "topforall.com": {
         "epoch": "1576886400",
@@ -7690,8 +7690,8 @@
         "state": "future"
     },
     "videoadex.com": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "videoegg.com": {
@@ -7949,6 +7949,11 @@
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
+    "wp.pl": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
     "wpnrtnmrewunrtok.xyz": {
         "epoch": "1588032000",
         "expiration_date": "28-apr-2020",
@@ -7957,6 +7962,11 @@
     "wt-eu02.net": {
         "epoch": "1572652800",
         "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
+    "wtg-ads.com": {
+        "epoch": 1604880000,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "wtlive.com": {
