@@ -3230,9 +3230,9 @@
         "state": "future"
     },
     "exosrv.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
-        "state": "past"
+        "epoch": 1635292800,
+        "expiration_date": "27-oct-2021",
+        "state": "future"
     },
     "experteerads.com": {
         "epoch": "1588982400",
@@ -3255,8 +3255,8 @@
         "state": "future"
     },
     "extreme-dm.com": {
-        "epoch": "1572307200",
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "extremetracking.com": {
@@ -3820,9 +3820,9 @@
         "state": "future"
     },
     "hitlounge.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
-        "state": "past"
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "hitometer.com": {
         "epoch": "1612224000",
@@ -4255,8 +4255,8 @@
         "state": "future"
     },
     "joneself.com": {
-        "epoch": "1572307200",
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "jsecoin.com": {
@@ -4275,9 +4275,9 @@
         "state": "future"
     },
     "justrelevant.com": {
-        "epoch": "1572307200",
+        "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "justwebads.com": {
         "epoch": "1572739200",
