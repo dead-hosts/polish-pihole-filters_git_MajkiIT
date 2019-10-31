@@ -6700,8 +6700,8 @@
         "state": "future"
     },
     "socialspark.com": {
-        "epoch": "1572393600",
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "softclick.com.br": {
@@ -7810,8 +7810,8 @@
         "state": "future"
     },
     "weborama.fr": {
-        "epoch": "1572393600",
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "webpower.com": {
