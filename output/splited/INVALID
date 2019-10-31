@@ -11,3 +11,10 @@ Adsatt.go.starwave.com                                                          
 (^|\.)adserver\.snapads\.com$                                                                        SYNTAX     XXX        Thu 31 Oct 11:10:36 UTC 2019
 (^|\.)audienceinsights\.net$                                                                         SYNTAX     XXX        Thu 31 Oct 12:10:05 UTC 2019
 (^|\.)behavioralengine\.com$                                                                         SYNTAX     XXX        Thu 31 Oct 12:10:05 UTC 2019
+(^|\.)clickmatic\.pl$                                                                                SYNTAX     XXX        Thu 31 Oct 13:10:00 UTC 2019
+(^|\.)doubleclick\.(com)$                                                                            SYNTAX     XXX        Thu 31 Oct 13:10:00 UTC 2019
+(^|\.)gemius\.(com|pl)$                                                                              SYNTAX     XXX        Thu 31 Oct 13:10:00 UTC 2019
+(^|\.)hit\.gemius\.pl$                                                                               SYNTAX     XXX        Thu 31 Oct 13:10:00 UTC 2019
+(^|\.)hit\.interia\.pl$                                                                              SYNTAX     XXX        Thu 31 Oct 13:10:00 UTC 2019
+[imported]                                                                                           SYNTAX     XXX        Thu 31 Oct 13:10:00 UTC 2019
+(^|\.)lcx\.pl$                                                                                       SYNTAX     XXX        Thu 31 Oct 13:10:00 UTC 2019
