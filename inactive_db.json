@@ -6,254 +6,6 @@
         "1571349324": {
             "www.forfollow.net": "INVALID"
         },
-        "1572367803": {
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE"
-        },
-        "1572367804": {
-            "ads.web.de": "INACTIVE"
-        },
-        "1572367811": {
-            "ads.wiezoekje.nl": "INACTIVE",
-            "ads.wikia.nocookie.net": "INACTIVE"
-        },
-        "1572367817": {
-            "ads.wineenthusiast.com": "INACTIVE"
-        },
-        "1572367823": {
-            "ads.wwe.biz": "INACTIVE"
-        },
-        "1572367927": {
-            "ads.xtra.co.nz": "INACTIVE"
-        },
-        "1572367928": {
-            "ads.yap.yahoo.com": "INACTIVE",
-            "ads.yimg.com": "INACTIVE"
-        },
-        "1572367941": {
-            "ads.zdnet.com": "INACTIVE"
-        },
-        "1572367947": {
-            "ads.ztod.com": "INACTIVE"
-        },
-        "1572367988": {
-            "adv.cooperhosting.net": "INACTIVE"
-        },
-        "1572368002": {
-            "adverts.carltononline.com": "INACTIVE"
-        },
-        "1572368005": {
-            "ad.vider.pl": "INACTIVE"
-        },
-        "1572368010": {
-            "ad.virtual-nights.com": "INACTIVE"
-        },
-        "1572368017": {
-            "adv.livedoor.com": "INACTIVE"
-        },
-        "1572368018": {
-            "adv.wp.pl": "INACTIVE"
-        },
-        "1572368025": {
-            "ad.wavu.hu": "INACTIVE"
-        },
-        "1572368032": {
-            "ad.way.cz": "INACTIVE",
-            "ad.webshark.pl": "INACTIVE"
-        },
-        "1572368041": {
-            "adx.atnext.com": "INACTIVE"
-        },
-        "1572368048": {
-            "ad.xrea.com": "INACTIVE"
-        },
-        "1572368055": {
-            "ad.yadro.ru": "INACTIVE"
-        },
-        "1572368061": {
-            "ad.yourmedia.com": "INACTIVE"
-        },
-        "1572368070": {
-            "affiliate.gamestop.com": "INACTIVE",
-            "affiliate.mogs.com": "INACTIVE"
-        },
-        "1572368077": {
-            "affiliate.offgamers.com": "INACTIVE"
-        },
-        "1572368078": {
-            "affiliates.internationaljock.com": "INACTIVE"
-        },
-        "1572368085": {
-            "affiliates.thinkhost.net": "INACTIVE"
-        },
-        "1572368092": {
-            "affiliates.ultrahosting.com": "INACTIVE"
-        },
-        "1572368095": {
-            "afilv.adocean.pl": "INACTIVE"
-        },
-        "1572368123": {
-            "analytics.adpost.org": "INACTIVE"
-        },
-        "1572368129": {
-            "analytics.ccs.mcafee.com": "INACTIVE"
-        },
-        "1572368136": {
-            "analyticsdcs.ccs.mcafee.com": "INACTIVE"
-        },
-        "1572368142": {
-            "analytics.live.com": "INACTIVE",
-            "analytics.newsinc.com": "INACTIVE"
-        },
-        "1572368149": {
-            "anm.intelli-direct.com": "INACTIVE"
-        },
-        "1572368155": {
-            "annonser.dagbladet.no": "INACTIVE"
-        },
-        "1572368162": {
-            "api.intensifier.de": "INACTIVE"
-        },
-        "1572368164": {
-            "app.adblockhyper.us": "INACTIVE"
-        },
-        "1572368165": {
-            "app.adjust.com": "INACTIVE",
-            "aps.hearstnp.com": "INACTIVE"
-        },
-        "1572368168": {
-            "ard.xxxblackbook.com": "INACTIVE"
-        },
-        "1572368169": {
-            "as1.advfn.com": "INACTIVE"
-        },
-        "1572368185": {
-            "a.ucoz.net": "INACTIVE",
-            "a.ucoz.ru": "INACTIVE"
-        },
-        "1572368192": {
-            "(^|\\.)audienceinsights\\.net$": "INVALID"
-        },
-        "1572368198": {
-            "audit.median.hu": "INACTIVE"
-        },
-        "1572368207": {
-            "avpa.javalobby.org": "INACTIVE"
-        },
-        "1572368217": {
-            "ba.afl.rakuten.co.jp": "INACTIVE"
-        },
-        "1572368229": {
-            "banner.ambercoastcasino.com": "INACTIVE"
-        },
-        "1572368237": {
-            "banner.cotedazurpalace.com": "INACTIVE"
-        },
-        "1572368238": {
-            "banner.coza.com": "INACTIVE"
-        },
-        "1572368245": {
-            "banner.elisa.net": "INACTIVE"
-        },
-        "1572368246": {
-            "bannerexchange.cjb.net": "INACTIVE"
-        },
-        "1572368247": {
-            "banner.getgo.de": "INACTIVE",
-            "bannergrabber.internet.gr": "INACTIVE"
-        },
-        "1572368249": {
-            "banner.inyourpocket.com": "INACTIVE"
-        },
-        "1572368263": {
-            "banner.media-system.de": "INACTIVE"
-        },
-        "1572368269": {
-            "banner.mindshare.de": "INACTIVE"
-        },
-        "1572368276": {
-            "banner.noblepoker.com": "INACTIVE"
-        },
-        "1572368284": {
-            "banner.rbc.ru": "INACTIVE"
-        },
-        "1572368290": {
-            "banner.relcom.ru": "INACTIVE"
-        },
-        "1572368298": {
-            "banners.bol.com.br": "INACTIVE"
-        },
-        "1572368300": {
-            "banners.czi.cz": "INACTIVE"
-        },
-        "1572368301": {
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1572368308": {
-            "banners.freett.com": "INACTIVE"
-        },
-        "1572368309": {
-            "banners.isoftmarketing.com": "INACTIVE"
-        },
-        "1572368312": {
-            "banners.linkbuddies.com": "INACTIVE"
-        },
-        "1572368318": {
-            "bannersng.yell.com": "INACTIVE"
-        },
-        "1572368325": {
-            "banners.resultonline.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE"
-        },
-        "1572368331": {
-            "banners.thomsonlocal.com": "INACTIVE"
-        },
-        "1572368339": {
-            "banner.titan-dsl.de": "INACTIVE"
-        },
-        "1572368340": {
-            "banner.wirenode.com": "INACTIVE"
-        },
-        "1572368347": {
-            "b.aol.com": "INACTIVE",
-            "bans.adserver.co.il": "INACTIVE"
-        },
-        "1572368354": {
-            "barnesandnoble.bfast.com": "INACTIVE"
-        },
-        "1572368358": {
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1572368360": {
-            "beacon.gu-web.net": "INACTIVE"
-        },
-        "1572368361": {
-            "(^|\\.)behavioralengine\\.com$": "INVALID"
-        },
-        "1572368366": {
-            "bi.adview.pl": "INACTIVE"
-        },
-        "1572368396": {
-            "block734.oplatyi.pl": "INACTIVE"
-        },
-        "1572368426": {
-            "bn.bfast.com": "INACTIVE"
-        },
-        "1572368428": {
-            "boksy.dir.onet.pl": "INACTIVE"
-        },
-        "1572368436": {
-            "box.anchorfree.net": "INACTIVE"
-        },
-        "1572368444": {
-            "bs.yandex.ru": "INACTIVE"
-        },
-        "1572368451": {
-            "bullseye.backbeatmedia.com": "INACTIVE"
-        },
-        "1572368481": {
-            "cgicounter.puretec.de": "INACTIVE"
-        },
         "1572368487": {
             "chip.pl.intellitxt.com": "INACTIVE"
         },
@@ -1382,6 +1134,255 @@
         },
         "1572522581": {
             "ads.virtual-nights.com": "INACTIVE"
+        },
+        "1572525549": {
+            "ads.web.aol.com": "INACTIVE"
+        },
+        "1572525550": {
+            "ads.web.cs.com": "INACTIVE",
+            "ads.web.de": "INACTIVE"
+        },
+        "1572525557": {
+            "ads.wiezoekje.nl": "INACTIVE",
+            "ads.wikia.nocookie.net": "INACTIVE"
+        },
+        "1572525563": {
+            "ads.wineenthusiast.com": "INACTIVE"
+        },
+        "1572525570": {
+            "ads.wwe.biz": "INACTIVE"
+        },
+        "1572525576": {
+            "ads.xtra.co.nz": "INACTIVE"
+        },
+        "1572525577": {
+            "ads.yap.yahoo.com": "INACTIVE",
+            "ads.yimg.com": "INACTIVE"
+        },
+        "1572525590": {
+            "ads.zdnet.com": "INACTIVE"
+        },
+        "1572525596": {
+            "ads.ztod.com": "INACTIVE"
+        },
+        "1572525634": {
+            "adv.cooperhosting.net": "INACTIVE"
+        },
+        "1572525646": {
+            "adverts.carltononline.com": "INACTIVE"
+        },
+        "1572525650": {
+            "ad.vider.pl": "INACTIVE"
+        },
+        "1572525654": {
+            "ad.virtual-nights.com": "INACTIVE"
+        },
+        "1572525662": {
+            "adv.livedoor.com": "INACTIVE"
+        },
+        "1572525663": {
+            "adv.wp.pl": "INACTIVE"
+        },
+        "1572525670": {
+            "ad.wavu.hu": "INACTIVE"
+        },
+        "1572525676": {
+            "ad.way.cz": "INACTIVE",
+            "ad.webshark.pl": "INACTIVE"
+        },
+        "1572525686": {
+            "adx.atnext.com": "INACTIVE"
+        },
+        "1572525692": {
+            "ad.xrea.com": "INACTIVE"
+        },
+        "1572525701": {
+            "ad.yadro.ru": "INACTIVE"
+        },
+        "1572525709": {
+            "ad.yourmedia.com": "INACTIVE"
+        },
+        "1572525718": {
+            "affiliate.gamestop.com": "INACTIVE",
+            "affiliate.mogs.com": "INACTIVE"
+        },
+        "1572525724": {
+            "affiliate.offgamers.com": "INACTIVE"
+        },
+        "1572525725": {
+            "affiliates.internationaljock.com": "INACTIVE"
+        },
+        "1572525732": {
+            "affiliates.thinkhost.net": "INACTIVE"
+        },
+        "1572525739": {
+            "affiliates.ultrahosting.com": "INACTIVE"
+        },
+        "1572525742": {
+            "afilv.adocean.pl": "INACTIVE"
+        },
+        "1572525766": {
+            "analytics.adpost.org": "INACTIVE"
+        },
+        "1572525772": {
+            "analytics.ccs.mcafee.com": "INACTIVE"
+        },
+        "1572525779": {
+            "analyticsdcs.ccs.mcafee.com": "INACTIVE"
+        },
+        "1572525785": {
+            "analytics.live.com": "INACTIVE"
+        },
+        "1572525786": {
+            "analytics.newsinc.com": "INACTIVE"
+        },
+        "1572525792": {
+            "anm.intelli-direct.com": "INACTIVE"
+        },
+        "1572525798": {
+            "annonser.dagbladet.no": "INACTIVE"
+        },
+        "1572525806": {
+            "api.intensifier.de": "INACTIVE"
+        },
+        "1572525809": {
+            "app.adblockhyper.us": "INACTIVE",
+            "app.adjust.com": "INACTIVE",
+            "aps.hearstnp.com": "INACTIVE"
+        },
+        "1572525812": {
+            "ard.xxxblackbook.com": "INACTIVE"
+        },
+        "1572525814": {
+            "as1.advfn.com": "INACTIVE"
+        },
+        "1572525829": {
+            "a.ucoz.ru": "INACTIVE"
+        },
+        "1572525836": {
+            "(^|\\.)audienceinsights\\.net$": "INVALID"
+        },
+        "1572525842": {
+            "audit.median.hu": "INACTIVE"
+        },
+        "1572525850": {
+            "avpa.javalobby.org": "INACTIVE"
+        },
+        "1572525861": {
+            "ba.afl.rakuten.co.jp": "INACTIVE"
+        },
+        "1572525873": {
+            "banner.ambercoastcasino.com": "INACTIVE"
+        },
+        "1572525882": {
+            "banner.cotedazurpalace.com": "INACTIVE"
+        },
+        "1572525883": {
+            "banner.coza.com": "INACTIVE"
+        },
+        "1572525886": {
+            "banner.elisa.net": "INACTIVE"
+        },
+        "1572525887": {
+            "bannerexchange.cjb.net": "INACTIVE"
+        },
+        "1572525888": {
+            "banner.getgo.de": "INACTIVE"
+        },
+        "1572525889": {
+            "bannergrabber.internet.gr": "INACTIVE"
+        },
+        "1572525890": {
+            "banner.inyourpocket.com": "INACTIVE"
+        },
+        "1572525905": {
+            "banner.media-system.de": "INACTIVE"
+        },
+        "1572525911": {
+            "banner.mindshare.de": "INACTIVE"
+        },
+        "1572525918": {
+            "banner.noblepoker.com": "INACTIVE"
+        },
+        "1572525926": {
+            "banner.rbc.ru": "INACTIVE"
+        },
+        "1572525933": {
+            "banner.relcom.ru": "INACTIVE"
+        },
+        "1572525950": {
+            "banners.babylon-x.com": "INACTIVE"
+        },
+        "1572525956": {
+            "banners.bol.com.br": "INACTIVE"
+        },
+        "1572525958": {
+            "banners.czi.cz": "INACTIVE"
+        },
+        "1572525959": {
+            "banners.easydns.com": "INACTIVE"
+        },
+        "1572525965": {
+            "banners.freett.com": "INACTIVE"
+        },
+        "1572525970": {
+            "banners.linkbuddies.com": "INACTIVE"
+        },
+        "1572525976": {
+            "bannersng.yell.com": "INACTIVE"
+        },
+        "1572525983": {
+            "banners.resultonline.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE"
+        },
+        "1572525989": {
+            "banners.thomsonlocal.com": "INACTIVE"
+        },
+        "1572525997": {
+            "banner.titan-dsl.de": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE"
+        },
+        "1572526004": {
+            "bans.adserver.co.il": "INACTIVE"
+        },
+        "1572526005": {
+            "b.aol.com": "INACTIVE"
+        },
+        "1572526011": {
+            "barnesandnoble.bfast.com": "INACTIVE"
+        },
+        "1572526015": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1572526017": {
+            "beacon.gu-web.net": "INACTIVE"
+        },
+        "1572526018": {
+            "(^|\\.)behavioralengine\\.com$": "INVALID"
+        },
+        "1572526024": {
+            "bi.adview.pl": "INACTIVE"
+        },
+        "1572526061": {
+            "block734.oplatyi.pl": "INACTIVE"
+        },
+        "1572526091": {
+            "bn.bfast.com": "INACTIVE"
+        },
+        "1572526092": {
+            "boksy.dir.onet.pl": "INACTIVE"
+        },
+        "1572526101": {
+            "box.anchorfree.net": "INACTIVE"
+        },
+        "1572526109": {
+            "bs.yandex.ru": "INACTIVE"
+        },
+        "1572526116": {
+            "bullseye.backbeatmedia.com": "INACTIVE"
+        },
+        "1572526141": {
+            "cgicounter.puretec.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
