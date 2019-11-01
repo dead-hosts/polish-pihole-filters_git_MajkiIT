@@ -3700,8 +3700,8 @@
         "state": "future"
     },
     "greystripe.com": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "gtop100.com": {
@@ -4385,8 +4385,8 @@
         "state": "future"
     },
     "leadboltads.net": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1667260800,
+        "expiration_date": "01-nov-2022",
         "state": "future"
     },
     "leadclick.com": {
