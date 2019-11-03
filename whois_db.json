@@ -6695,8 +6695,8 @@
         "state": "future"
     },
     "snrcdn.net": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1635897600,
+        "expiration_date": "03-nov-2021",
         "state": "future"
     },
     "socialspark.com": {
@@ -7855,8 +7855,8 @@
         "state": "future"
     },
     "webtracky.com": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "webtraffic.se": {
@@ -7925,8 +7925,8 @@
         "state": "future"
     },
     "wisepops.com": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1856822400,
+        "expiration_date": "03-nov-2028",
         "state": "future"
     },
     "wlmarketing.com": {
@@ -7960,8 +7960,8 @@
         "state": "future"
     },
     "wt-eu02.net": {
-        "epoch": "1572652800",
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "wtg-ads.com": {
