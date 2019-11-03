@@ -10,3 +10,9 @@ Adsatt.go.starwave.com
 (^|\.)adserver\.snapads\.com$
 (^|\.)audienceinsights\.net$
 (^|\.)behavioralengine\.com$
+(^|\.)clickmatic\.pl$
+(^|\.)doubleclick\.(com)$
+(^|\.)gemius\.(com|pl)$
+(^|\.)hit\.gemius\.pl$
+(^|\.)hit\.interia\.pl$
+[imported]
