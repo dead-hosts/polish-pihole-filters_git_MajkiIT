@@ -6,161 +6,6 @@
         "1571349324": {
             "www.forfollow.net": "INVALID"
         },
-        "1572780204": {
-            "log.btopenworld.com": "INACTIVE"
-        },
-        "1572780206": {
-            "lrytaslt.adocean.pl": "INACTIVE"
-        },
-        "1572780225": {
-            "madclient.uimserv.net": "INACTIVE"
-        },
-        "1572780231": {
-            "mads.cnet.com": "INACTIVE"
-        },
-        "1572780240": {
-            "marketing.hearstmagazines.nl": "INACTIVE"
-        },
-        "1572780246": {
-            "marketing.nyi.net": "INACTIVE"
-        },
-        "1572780247": {
-            "mas.sector.sk": "INACTIVE",
-            "max.i12.de": "INACTIVE"
-        },
-        "1572780249": {
-            "mbs.megaroticlive.com": "INACTIVE"
-        },
-        "1572780271": {
-            "media.nk-net.pl": "INACTIVE"
-        },
-        "1572780280": {
-            "(^|\\.)meetrics\\.net$": "INVALID"
-        },
-        "1572780287": {
-            "megapanel.gem.pl": "INACTIVE"
-        },
-        "1572780300": {
-            "mir.ec.adkontekst.pl": "INACTIVE",
-            "mis.em.nscontext.eu": "INACTIVE"
-        },
-        "1572780324": {
-            "(^|\\.)mylead\\.global$": "INVALID"
-        },
-        "1572780359": {
-            "nedstat.nl": "INACTIVE"
-        },
-        "1572780388": {
-            "new.smartcontext.pl": "INACTIVE"
-        },
-        "1572780400": {
-            "numax.nu-1.com": "INACTIVE"
-        },
-        "1572780408": {
-            "oas.foxnews.com": "INACTIVE"
-        },
-        "1572780409": {
-            "oas.salon.com": "INACTIVE"
-        },
-        "1572780415": {
-            "oas.toronto.com": "INACTIVE"
-        },
-        "1572780421": {
-            "oas.uniontrib.com": "INACTIVE"
-        },
-        "1572780427": {
-            "oas.villagevoice.com": "INACTIVE",
-            "obozua.adocean.pl": "INACTIVE"
-        },
-        "1572780430": {
-            "ohtulehtee.adocean.pl": "INACTIVE"
-        },
-        "1572780453": {
-            "openad.travelnow.com": "INACTIVE"
-        },
-        "1572780454": {
-            "openx.blindferret.com": "INACTIVE",
-            "openx.cda.pl": "INACTIVE"
-        },
-        "1572780457": {
-            "ota.cartrawler.com": "INACTIVE",
-            "otto-images.developershed.com": "INACTIVE"
-        },
-        "1572780466": {
-            "pagead.l.google.com": "INACTIVE"
-        },
-        "1572780482": {
-            "partnerad.l.google.com": "INACTIVE"
-        },
-        "1572780505": {
-            "phpadsnew.new.natuurpark.nl": "INACTIVE"
-        },
-        "1572780506": {
-            "ping.ublock.org": "INACTIVE",
-            "pixel.digitru.st": "INACTIVE"
-        },
-        "1572780507": {
-            "pixel.redditmedia.com": "INACTIVE",
-            "pixel.solvemedia.com": "INACTIVE"
-        },
-        "1572780508": {
-            "pixel.wp.pl": "INACTIVE"
-        },
-        "1572780524": {
-            "popup.msn.com": "INACTIVE"
-        },
-        "1572780580": {
-            "pub.club-internet.fr": "INACTIVE"
-        },
-        "1572780587": {
-            "pub.hardware.fr": "INACTIVE"
-        },
-        "1572780593": {
-            "pub.realmedia.fr": "INACTIVE"
-        },
-        "1572780599": {
-            "pubs.lemonde.fr": "INACTIVE"
-        },
-        "1572780628": {
-            "ratings.lycos.com": "INACTIVE"
-        },
-        "1572780634": {
-            "realitatero.adocean.pl": "INACTIVE",
-            "realmedia-a800.d4p.net": "INACTIVE"
-        },
-        "1572780643": {
-            "rek.adtotal.pl": "INACTIVE"
-        },
-        "1572780648": {
-            "reklam.rfsl.se": "INACTIVE"
-        },
-        "1572780654": {
-            "reklamy.sfd.pl": "INACTIVE"
-        },
-        "1572780655": {
-            "rek.www.wp.pl": "INACTIVE"
-        },
-        "1572780666": {
-            "ringieradro.hit.gemius.pl": "INACTIVE"
-        },
-        "1572780667": {
-            "ringierro.adocean.pl": "INACTIVE"
-        },
-        "1572780668": {
-            "rmads.msn.com": "INACTIVE"
-        },
-        "1572780686": {
-            "s1.gojobsru.adocean.pl": "INACTIVE"
-        },
-        "1572780687": {
-            "s1.gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1572780715": {
-            "s.di.com.pl": "INACTIVE"
-        },
-        "1572780727": {
-            "secure.webconnect.net": "INACTIVE"
-        },
         "1572781068": {
             "show.smartcontext.pl": "INACTIVE"
         },
@@ -1377,6 +1222,157 @@
         },
         "1572875028": {
             "(^|\\.)lcx\\.pl$": "INVALID"
+        },
+        "1572877321": {
+            "log.btopenworld.com": "INACTIVE"
+        },
+        "1572877323": {
+            "lrytaslt.adocean.pl": "INACTIVE"
+        },
+        "1572877343": {
+            "madclient.uimserv.net": "INACTIVE"
+        },
+        "1572877349": {
+            "mads.cnet.com": "INACTIVE"
+        },
+        "1572877358": {
+            "marketing.hearstmagazines.nl": "INACTIVE"
+        },
+        "1572877364": {
+            "marketing.nyi.net": "INACTIVE"
+        },
+        "1572877365": {
+            "mas.sector.sk": "INACTIVE",
+            "max.i12.de": "INACTIVE"
+        },
+        "1572877367": {
+            "mbs.megaroticlive.com": "INACTIVE"
+        },
+        "1572877389": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1572877404": {
+            "(^|\\.)meetrics\\.net$": "INVALID"
+        },
+        "1572877411": {
+            "megapanel.gem.pl": "INACTIVE"
+        },
+        "1572877424": {
+            "mir.ec.adkontekst.pl": "INACTIVE",
+            "mis.em.nscontext.eu": "INACTIVE"
+        },
+        "1572877446": {
+            "(^|\\.)mylead\\.global$": "INVALID"
+        },
+        "1572877487": {
+            "nedstat.nl": "INACTIVE"
+        },
+        "1572877520": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1572877534": {
+            "numax.nu-1.com": "INACTIVE"
+        },
+        "1572877543": {
+            "oas.foxnews.com": "INACTIVE",
+            "oas.salon.com": "INACTIVE"
+        },
+        "1572877549": {
+            "oas.toronto.com": "INACTIVE"
+        },
+        "1572877555": {
+            "oas.uniontrib.com": "INACTIVE"
+        },
+        "1572877561": {
+            "oas.villagevoice.com": "INACTIVE"
+        },
+        "1572877562": {
+            "obozua.adocean.pl": "INACTIVE"
+        },
+        "1572877564": {
+            "ohtulehtee.adocean.pl": "INACTIVE"
+        },
+        "1572877588": {
+            "openad.travelnow.com": "INACTIVE"
+        },
+        "1572877589": {
+            "openx.blindferret.com": "INACTIVE",
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1572877592": {
+            "ota.cartrawler.com": "INACTIVE",
+            "otto-images.developershed.com": "INACTIVE"
+        },
+        "1572877608": {
+            "pagead.l.google.com": "INACTIVE"
+        },
+        "1572877623": {
+            "partnerad.l.google.com": "INACTIVE"
+        },
+        "1572877648": {
+            "phpadsnew.new.natuurpark.nl": "INACTIVE"
+        },
+        "1572877649": {
+            "ping.ublock.org": "INACTIVE",
+            "pixel.digitru.st": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "pixel.solvemedia.com": "INACTIVE"
+        },
+        "1572877650": {
+            "pixel.wp.pl": "INACTIVE"
+        },
+        "1572877667": {
+            "popup.msn.com": "INACTIVE"
+        },
+        "1572877724": {
+            "pub.club-internet.fr": "INACTIVE"
+        },
+        "1572877731": {
+            "pub.hardware.fr": "INACTIVE"
+        },
+        "1572877738": {
+            "pub.realmedia.fr": "INACTIVE"
+        },
+        "1572877744": {
+            "pubs.lemonde.fr": "INACTIVE"
+        },
+        "1572877774": {
+            "ratings.lycos.com": "INACTIVE"
+        },
+        "1572877782": {
+            "realitatero.adocean.pl": "INACTIVE",
+            "realmedia-a800.d4p.net": "INACTIVE"
+        },
+        "1572877791": {
+            "rek.adtotal.pl": "INACTIVE"
+        },
+        "1572877797": {
+            "reklam.rfsl.se": "INACTIVE"
+        },
+        "1572877804": {
+            "rek.www.wp.pl": "INACTIVE",
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1572877816": {
+            "ringieradro.hit.gemius.pl": "INACTIVE"
+        },
+        "1572877817": {
+            "ringierro.adocean.pl": "INACTIVE"
+        },
+        "1572877819": {
+            "rmads.msn.com": "INACTIVE"
+        },
+        "1572877837": {
+            "s1.gojobsru.adocean.pl": "INACTIVE"
+        },
+        "1572877838": {
+            "s1.gratkapl.adocean.pl": "INACTIVE"
+        },
+        "1572877867": {
+            "s.di.com.pl": "INACTIVE"
+        },
+        "1572877877": {
+            "secure.webconnect.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
