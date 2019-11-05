@@ -6,133 +6,6 @@
         "1571349324": {
             "www.forfollow.net": "INVALID"
         },
-        "1572879591": {
-            "spinbox.techtracker.com": "INACTIVE"
-        },
-        "1572879597": {
-            "spinbox.versiontracker.com": "INACTIVE"
-        },
-        "1572879629": {
-            "staticads.btopenworld.com": "INACTIVE"
-        },
-        "1572879645": {
-            "stats.blogger.com": "INACTIVE"
-        },
-        "1572879652": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1572879654": {
-            "stats.media.onet.pl": "INACTIVE"
-        },
-        "1572879660": {
-            "stats.mirrorfootball.co.uk": "INACTIVE",
-            "stats.olark.com": "INACTIVE"
-        },
-        "1572879666": {
-            "stats.self.com": "INACTIVE"
-        },
-        "1572879667": {
-            "stats-srv.rp.pl": "INACTIVE"
-        },
-        "1572879675": {
-            "stg.wp.pl": "INACTIVE"
-        },
-        "1572879747": {
-            "t.insigit.com": "INACTIVE"
-        },
-        "1572879797": {
-            "track.contently.com": "INACTIVE"
-        },
-        "1572879798": {
-            "tracker-pm2.spilleren.com": "INACTIVE"
-        },
-        "1572879799": {
-            "tracker.twenga.pl": "INACTIVE"
-        },
-        "1572879812": {
-            "tracking.gajmp.com": "INACTIVE"
-        },
-        "1572879818": {
-            "tracking.internetstores.de": "INACTIVE",
-            "tracking.novem.pl": "INACTIVE"
-        },
-        "1572879824": {
-            "tracking.quisma.com": "INACTIVE"
-        },
-        "1572879831": {
-            "track.reinvigorate.net": "INACTIVE"
-        },
-        "1572879832": {
-            "traffic.focuusing.com": "INACTIVE"
-        },
-        "1572879858": {
-            "truehits1.gits.net.th": "INACTIVE"
-        },
-        "1572879860": {
-            "truehits2.gits.net.th": "INACTIVE"
-        },
-        "1572879871": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1572879881": {
-            "us.a1.yimg.com": "INACTIVE"
-        },
-        "1572879894": {
-            "ut.o2.pl": "INACTIVE",
-            "utils.mediageneral.net": "INACTIVE"
-        },
-        "1572879943": {
-            "video-stats.video.google.com": "INACTIVE",
-            "video.vid4u.org": "INACTIVE",
-            "vidoza.github.io": "INACTIVE",
-            "vidoza2.github.io": "INACTIVE"
-        },
-        "1572879961": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1572879962": {
-            "v.wpimg.pl": "INACTIVE",
-            "wantmobi.bid": "INACTIVE"
-        },
-        "1572879969": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1572880028": {
-            "wpkoszyk.wp.pl": "INACTIVE"
-        },
-        "1572880036": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1572880039": {
-            "www.banner-link.com.br": "INACTIVE"
-        },
-        "1572880040": {
-            "www.comwgi.com": "INACTIVE"
-        },
-        "1572880046": {
-            "www-google-analytics.l.google.com": "INACTIVE",
-            "www.dnps.com": "INACTIVE"
-        },
-        "1572880059": {
-            "www.money4exit.de": "INACTIVE",
-            "www.msftncsi.com": "INACTIVE"
-        },
-        "1572880065": {
-            "www.mystat.pl": "INACTIVE"
-        },
-        "1572880068": {
-            "x.interia.pl": "INACTIVE"
-        },
-        "1572880077": {
-            "xr77.adj.st": "INACTIVE"
-        },
-        "1572880078": {
-            "xstatic.nk-net.pl": "INACTIVE"
-        },
-        "1572880115": {
-            "zeus.developershed.com": "INACTIVE"
-        },
         "1572971482": {
             "!": "INVALID",
             "0daib.pl": "INACTIVE"
@@ -1365,6 +1238,135 @@
         },
         "1572980595": {
             "somniture.stuff.co.nz": "INACTIVE"
+        },
+        "1572980720": {
+            "spinbox.techtracker.com": "INACTIVE"
+        },
+        "1572980727": {
+            "spinbox.versiontracker.com": "INACTIVE"
+        },
+        "1572980757": {
+            "staticads.btopenworld.com": "INACTIVE"
+        },
+        "1572980773": {
+            "stats.blogger.com": "INACTIVE"
+        },
+        "1572980779": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1572980781": {
+            "stats.media.onet.pl": "INACTIVE"
+        },
+        "1572980787": {
+            "stats.mirrorfootball.co.uk": "INACTIVE",
+            "stats.olark.com": "INACTIVE"
+        },
+        "1572980793": {
+            "stats.self.com": "INACTIVE"
+        },
+        "1572980795": {
+            "stats-srv.rp.pl": "INACTIVE"
+        },
+        "1572980799": {
+            "stg.wp.pl": "INACTIVE"
+        },
+        "1572980869": {
+            "t.insigit.com": "INACTIVE"
+        },
+        "1572980904": {
+            "track.contently.com": "INACTIVE"
+        },
+        "1572980905": {
+            "tracker-pm2.spilleren.com": "INACTIVE",
+            "tracker.twenga.pl": "INACTIVE"
+        },
+        "1572980919": {
+            "tracking.gajmp.com": "INACTIVE"
+        },
+        "1572980925": {
+            "tracking.internetstores.de": "INACTIVE",
+            "tracking.novem.pl": "INACTIVE"
+        },
+        "1572980931": {
+            "tracking.quisma.com": "INACTIVE"
+        },
+        "1572980938": {
+            "track.reinvigorate.net": "INACTIVE"
+        },
+        "1572980939": {
+            "traffic.focuusing.com": "INACTIVE"
+        },
+        "1572980963": {
+            "truehits1.gits.net.th": "INACTIVE"
+        },
+        "1572980970": {
+            "truehits2.gits.net.th": "INACTIVE"
+        },
+        "1572980982": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1572980992": {
+            "us.a1.yimg.com": "INACTIVE"
+        },
+        "1572981005": {
+            "utils.mediageneral.net": "INACTIVE"
+        },
+        "1572981006": {
+            "ut.o2.pl": "INACTIVE"
+        },
+        "1572981053": {
+            "video-stats.video.google.com": "INACTIVE",
+            "video.vid4u.org": "INACTIVE"
+        },
+        "1572981054": {
+            "vidoza.github.io": "INACTIVE",
+            "vidoza2.github.io": "INACTIVE"
+        },
+        "1572981070": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1572981072": {
+            "v.wpimg.pl": "INACTIVE",
+            "wantmobi.bid": "INACTIVE"
+        },
+        "1572981078": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1572981138": {
+            "wpkoszyk.wp.pl": "INACTIVE"
+        },
+        "1572981146": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1572981148": {
+            "www.banner-link.com.br": "INACTIVE"
+        },
+        "1572981149": {
+            "www.comwgi.com": "INACTIVE"
+        },
+        "1572981155": {
+            "www-google-analytics.l.google.com": "INACTIVE",
+            "www.dnps.com": "INACTIVE"
+        },
+        "1572981163": {
+            "www.money4exit.de": "INACTIVE",
+            "www.msftncsi.com": "INACTIVE"
+        },
+        "1572981169": {
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1572981171": {
+            "x.interia.pl": "INACTIVE"
+        },
+        "1572981179": {
+            "xr77.adj.st": "INACTIVE"
+        },
+        "1572981180": {
+            "xstatic.nk-net.pl": "INACTIVE"
+        },
+        "1572981213": {
+            "zeus.developershed.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
