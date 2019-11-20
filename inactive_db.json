@@ -878,273 +878,6 @@
         "1574028771": {
             "ads.nordichardware.com": "INACTIVE"
         },
-        "1574159410": {
-            "adidm.idmnet.pl": "INACTIVE"
-        },
-        "1574159418": {
-            "adidm07.idmnet.pl": "INACTIVE"
-        },
-        "1574159421": {
-            "ads.businessclick.pl": "INACTIVE"
-        },
-        "1574159425": {
-            "ads.clickad.com.pl": "INACTIVE"
-        },
-        "1574159430": {
-            "ads2.rp.pl": "INACTIVE"
-        },
-        "1574159438": {
-            "adserver.portal.pl": "INACTIVE"
-        },
-        "1574159440": {
-            "adseu.novem.pl": "INACTIVE"
-        },
-        "1574159443": {
-            "ad.blueice.pl": "INACTIVE"
-        },
-        "1574159448": {
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1574159474": {
-            "block734.oplatyi.pl": "INACTIVE"
-        },
-        "1574159484": {
-            "crv.clickad.pl": "INACTIVE"
-        },
-        "1574159485": {
-            "g.cda.pl": "INACTIVE"
-        },
-        "1574159487": {
-            "gde.adocean.pl": "INACTIVE",
-            "gg.adocean.pl": "INACTIVE"
-        },
-        "1574159489": {
-            "gg.mob.vendimob.pl": "INACTIVE",
-            "gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1574159502": {
-            "media.nk-net.pl": "INACTIVE"
-        },
-        "1574159509": {
-            "megapanel.gem.pl": "INACTIVE"
-        },
-        "1574159512": {
-            "new.smartcontext.pl": "INACTIVE",
-            "obozua.adocean.pl": "INACTIVE"
-        },
-        "1574159519": {
-            "openx.cda.pl": "INACTIVE"
-        },
-        "1574159520": {
-            "panel.adtify.pl": "INACTIVE"
-        },
-        "1574159529": {
-            "rek.adtotal.pl": "INACTIVE"
-        },
-        "1574159535": {
-            "reklamy.sfd.pl": "INACTIVE"
-        },
-        "1574159537": {
-            "s1.gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1574159540": {
-            "show.smartcontext.pl": "INACTIVE"
-        },
-        "1574159550": {
-            "tracking.novem.pl": "INACTIVE"
-        },
-        "1574159555": {
-            "filmik.pisz.pl": "INACTIVE"
-        },
-        "1574159557": {
-            "(^|\\.)adform\\.net$": "INVALID",
-            "(^|\\.)adocean\\.(pl)$": "INVALID",
-            "(^|\\.)adsbtrack\\.com$": "INVALID",
-            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
-            "(^|\\.)audienceinsights\\.net$": "INVALID",
-            "(^|\\.)behavioralengine\\.com$": "INVALID",
-            "(^|\\.)clickmatic\\.pl$": "INVALID",
-            "(^|\\.)doubleclick\\.(com)$": "INVALID",
-            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
-            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
-            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
-            "(^|\\.)lcx\\.pl$": "INVALID",
-            "(^|\\.)meetrics\\.net$": "INVALID",
-            "(^|\\.)mylead\\.global$": "INVALID",
-            "(^|\\.)smartadserver\\.com$": "INVALID"
-        },
-        "1574159558": {
-            "www.comwgi.com": "INACTIVE"
-        },
-        "1574159570": {
-            "adsearch.wp.pl": "INACTIVE"
-        },
-        "1574159574": {
-            "stats.media.onet.pl": "INACTIVE"
-        },
-        "1574159588": {
-            "15minlt.adocean.pl": "INACTIVE"
-        },
-        "1574159589": {
-            "afilv.adocean.pl": "INACTIVE"
-        },
-        "1574159595": {
-            "delfiee.adocean.pl": "INACTIVE"
-        },
-        "1574159596": {
-            "delfilt.adocean.pl": "INACTIVE",
-            "delfilv.adocean.pl": "INACTIVE"
-        },
-        "1574159597": {
-            "diginet.adocean.pl": "INACTIVE"
-        },
-        "1574159601": {
-            "gspro.adocean.pl": "INACTIVE"
-        },
-        "1574159605": {
-            "intactro.adocean.pl": "INACTIVE"
-        },
-        "1574159606": {
-            "investorbg.adocean.pl": "INACTIVE"
-        },
-        "1574159607": {
-            "lrytaslt.adocean.pl": "INACTIVE"
-        },
-        "1574159611": {
-            "ohtulehtee.adocean.pl": "INACTIVE"
-        },
-        "1574159612": {
-            "realitatero.adocean.pl": "INACTIVE",
-            "ringierro.adocean.pl": "INACTIVE"
-        },
-        "1574159622": {
-            "s1.gojobsru.adocean.pl": "INACTIVE"
-        },
-        "1574159666": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1574159668": {
-            "counter.gemius.pl": "INACTIVE"
-        },
-        "1574159712": {
-            "investoradbg.hit.gemius.pl": "INACTIVE"
-        },
-        "1574159731": {
-            "ringieradro.hit.gemius.pl": "INACTIVE"
-        },
-        "1574159752": {
-            "!": "INVALID",
-            "[imported]": "INVALID"
-        },
-        "1574159754": {
-            "a.0day.kiev.ua": "INACTIVE"
-        },
-        "1574159758": {
-            "a32.g.a.yimg.com": "INACTIVE"
-        },
-        "1574159764": {
-            "ac.rnm.ca": "INACTIVE"
-        },
-        "1574159772": {
-            "ad-server.gulasidorna.se": "INACTIVE"
-        },
-        "1574159777": {
-            "ad.afy11.net": "INACTIVE"
-        },
-        "1574159784": {
-            "ad.anuntis.com": "INACTIVE"
-        },
-        "1574159785": {
-            "ad.bnmla.com": "INACTIVE"
-        },
-        "1574159796": {
-            "ad.freecity.de": "INACTIVE"
-        },
-        "1574159802": {
-            "ad.globe7.com": "INACTIVE"
-        },
-        "1574159809": {
-            "ad.grafika.cz": "INACTIVE"
-        },
-        "1574159815": {
-            "ad.hbv.de": "INACTIVE"
-        },
-        "1574159821": {
-            "ad.hodomobile.com": "INACTIVE"
-        },
-        "1574159832": {
-            "ad.liveinternet.ru": "INACTIVE"
-        },
-        "1574159840": {
-            "ad.mgd.de": "INACTIVE"
-        },
-        "1574159848": {
-            "ad.nttnavi.co.jp": "INACTIVE"
-        },
-        "1574159849": {
-            "ad.onad.eu": "INACTIVE"
-        },
-        "1574159857": {
-            "ad.reunion.com": "INACTIVE"
-        },
-        "1574159859": {
-            "ad.slutload.com": "INACTIVE"
-        },
-        "1574159862": {
-            "ad.virtual-nights.com": "INACTIVE"
-        },
-        "1574159868": {
-            "ad.wavu.hu": "INACTIVE"
-        },
-        "1574159875": {
-            "ad.way.cz": "INACTIVE"
-        },
-        "1574159883": {
-            "ad.xrea.com": "INACTIVE"
-        },
-        "1574159889": {
-            "ad.yadro.ru": "INACTIVE"
-        },
-        "1574159895": {
-            "ad.yourmedia.com": "INACTIVE"
-        },
-        "1574159903": {
-            "ad01.mediacorpsingapore.com": "INACTIVE"
-        },
-        "1574159910": {
-            "ad1.pamedia.com.au": "INACTIVE"
-        },
-        "1574159912": {
-            "ad2.linxcz.cz": "INACTIVE",
-            "ad2.lupa.cz": "INACTIVE"
-        },
-        "1574159919": {
-            "ad3.pamedia.com.au": "INACTIVE"
-        },
-        "1574159921": {
-            "adboost.de.vu": "INACTIVE"
-        },
-        "1574159941": {
-            "adman.otenet.gr": "INACTIVE"
-        },
-        "1574159948": {
-            "admanager.btopenworld.com": "INACTIVE"
-        },
-        "1574159955": {
-            "adnet.asahi.com": "INACTIVE"
-        },
-        "1574159964": {
-            "adnet.worldreviewer.com": "INACTIVE"
-        },
-        "1574159967": {
-            "adq.nextag.com": "INACTIVE"
-        },
-        "1574159973": {
-            "ads.4tube.com": "INACTIVE"
-        },
-        "1574159980": {
-            "ads.aceweb.net": "INACTIVE"
-        },
         "1574159983": {
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE"
         },
@@ -1153,6 +886,284 @@
         },
         "1574159991": {
             "ads.amdmb.com": "INACTIVE"
+        },
+        "1574267893": {
+            "adidm.idmnet.pl": "INACTIVE"
+        },
+        "1574267900": {
+            "adidm07.idmnet.pl": "INACTIVE"
+        },
+        "1574267902": {
+            "ads.businessclick.pl": "INACTIVE"
+        },
+        "1574267907": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1574267912": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1574267920": {
+            "adserver.portal.pl": "INACTIVE"
+        },
+        "1574267922": {
+            "adseu.novem.pl": "INACTIVE"
+        },
+        "1574267925": {
+            "ad.blueice.pl": "INACTIVE"
+        },
+        "1574267932": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1574267958": {
+            "block734.oplatyi.pl": "INACTIVE"
+        },
+        "1574267968": {
+            "crv.clickad.pl": "INACTIVE"
+        },
+        "1574267970": {
+            "g.cda.pl": "INACTIVE"
+        },
+        "1574267971": {
+            "gde.adocean.pl": "INACTIVE"
+        },
+        "1574267972": {
+            "gg.adocean.pl": "INACTIVE"
+        },
+        "1574267974": {
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "gratkapl.adocean.pl": "INACTIVE"
+        },
+        "1574267988": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1574267994": {
+            "megapanel.gem.pl": "INACTIVE"
+        },
+        "1574267997": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1574267998": {
+            "obozua.adocean.pl": "INACTIVE"
+        },
+        "1574268005": {
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1574268007": {
+            "panel.adtify.pl": "INACTIVE"
+        },
+        "1574268015": {
+            "rek.adtotal.pl": "INACTIVE"
+        },
+        "1574268022": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1574268026": {
+            "s1.gratkapl.adocean.pl": "INACTIVE"
+        },
+        "1574268027": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1574268034": {
+            "tracking.novem.pl": "INACTIVE"
+        },
+        "1574268043": {
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1574268045": {
+            "filmik.pisz.pl": "INACTIVE"
+        },
+        "1574268046": {
+            "(^|\\.)adform\\.net$": "INVALID",
+            "(^|\\.)adocean\\.(pl)$": "INVALID",
+            "(^|\\.)adsbtrack\\.com$": "INVALID",
+            "(^|\\.)doubleclick\\.(com)$": "INVALID",
+            "(^|\\.)gemius\\.(com|pl)$": "INVALID"
+        },
+        "1574268047": {
+            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
+            "(^|\\.)audienceinsights\\.net$": "INVALID",
+            "(^|\\.)behavioralengine\\.com$": "INVALID",
+            "(^|\\.)clickmatic\\.pl$": "INVALID",
+            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
+            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
+            "(^|\\.)lcx\\.pl$": "INVALID",
+            "(^|\\.)meetrics\\.net$": "INVALID",
+            "(^|\\.)mylead\\.global$": "INVALID",
+            "(^|\\.)smartadserver\\.com$": "INVALID"
+        },
+        "1574268048": {
+            "www.comwgi.com": "INACTIVE"
+        },
+        "1574268064": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1574268068": {
+            "stats.media.onet.pl": "INACTIVE"
+        },
+        "1574268082": {
+            "15minlt.adocean.pl": "INACTIVE"
+        },
+        "1574268084": {
+            "afilv.adocean.pl": "INACTIVE"
+        },
+        "1574268090": {
+            "delfiee.adocean.pl": "INACTIVE",
+            "delfilt.adocean.pl": "INACTIVE"
+        },
+        "1574268091": {
+            "delfilv.adocean.pl": "INACTIVE"
+        },
+        "1574268092": {
+            "diginet.adocean.pl": "INACTIVE"
+        },
+        "1574268096": {
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1574268100": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1574268101": {
+            "investorbg.adocean.pl": "INACTIVE"
+        },
+        "1574268102": {
+            "lrytaslt.adocean.pl": "INACTIVE"
+        },
+        "1574268106": {
+            "ohtulehtee.adocean.pl": "INACTIVE"
+        },
+        "1574268107": {
+            "realitatero.adocean.pl": "INACTIVE"
+        },
+        "1574268108": {
+            "ringierro.adocean.pl": "INACTIVE"
+        },
+        "1574268118": {
+            "s1.gojobsru.adocean.pl": "INACTIVE"
+        },
+        "1574268163": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1574268164": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1574268210": {
+            "investoradbg.hit.gemius.pl": "INACTIVE"
+        },
+        "1574268229": {
+            "ringieradro.hit.gemius.pl": "INACTIVE"
+        },
+        "1574268252": {
+            "!": "INVALID",
+            "[imported]": "INVALID"
+        },
+        "1574268254": {
+            "a.0day.kiev.ua": "INACTIVE"
+        },
+        "1574268261": {
+            "a32.g.a.yimg.com": "INACTIVE"
+        },
+        "1574268267": {
+            "ac.rnm.ca": "INACTIVE"
+        },
+        "1574268274": {
+            "ad-server.gulasidorna.se": "INACTIVE"
+        },
+        "1574268283": {
+            "ad.afy11.net": "INACTIVE"
+        },
+        "1574268290": {
+            "ad.anuntis.com": "INACTIVE"
+        },
+        "1574268291": {
+            "ad.bnmla.com": "INACTIVE"
+        },
+        "1574268301": {
+            "ad.freecity.de": "INACTIVE"
+        },
+        "1574268303": {
+            "ad.globe7.com": "INACTIVE"
+        },
+        "1574268310": {
+            "ad.grafika.cz": "INACTIVE"
+        },
+        "1574268316": {
+            "ad.hbv.de": "INACTIVE"
+        },
+        "1574268322": {
+            "ad.hodomobile.com": "INACTIVE"
+        },
+        "1574268332": {
+            "ad.liveinternet.ru": "INACTIVE"
+        },
+        "1574268343": {
+            "ad.mgd.de": "INACTIVE"
+        },
+        "1574268351": {
+            "ad.nttnavi.co.jp": "INACTIVE"
+        },
+        "1574268352": {
+            "ad.onad.eu": "INACTIVE"
+        },
+        "1574268360": {
+            "ad.reunion.com": "INACTIVE"
+        },
+        "1574268362": {
+            "ad.slutload.com": "INACTIVE"
+        },
+        "1574268367": {
+            "ad.virtual-nights.com": "INACTIVE"
+        },
+        "1574268374": {
+            "ad.wavu.hu": "INACTIVE"
+        },
+        "1574268380": {
+            "ad.way.cz": "INACTIVE"
+        },
+        "1574268388": {
+            "ad.xrea.com": "INACTIVE"
+        },
+        "1574268395": {
+            "ad.yadro.ru": "INACTIVE"
+        },
+        "1574268401": {
+            "ad.yourmedia.com": "INACTIVE"
+        },
+        "1574268408": {
+            "ad01.mediacorpsingapore.com": "INACTIVE"
+        },
+        "1574268416": {
+            "ad1.pamedia.com.au": "INACTIVE"
+        },
+        "1574268418": {
+            "ad2.linxcz.cz": "INACTIVE",
+            "ad2.lupa.cz": "INACTIVE"
+        },
+        "1574268425": {
+            "ad3.pamedia.com.au": "INACTIVE"
+        },
+        "1574268427": {
+            "adboost.de.vu": "INACTIVE"
+        },
+        "1574268445": {
+            "adman.otenet.gr": "INACTIVE"
+        },
+        "1574268452": {
+            "admanager.btopenworld.com": "INACTIVE"
+        },
+        "1574268460": {
+            "adnet.asahi.com": "INACTIVE"
+        },
+        "1574268467": {
+            "adnet.worldreviewer.com": "INACTIVE"
+        },
+        "1574268470": {
+            "adq.nextag.com": "INACTIVE"
+        },
+        "1574268475": {
+            "ads.4tube.com": "INACTIVE"
+        },
+        "1574268482": {
+            "ads.aceweb.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
