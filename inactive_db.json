@@ -1,217 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1568375081": {
-            "gift.gifts-for-free.online": "INACTIVE"
-        },
-        "1571349324": {
-            "www.forfollow.net": "INVALID"
-        },
-        "1573122435": {
-            "0daib.pl": "INACTIVE"
-        },
-        "1573122599": {
-            "ad.docer.pl": "INACTIVE"
-        },
-        "1573122717": {
-            "adk.docer.pl": "INACTIVE"
-        },
-        "1573129919": {
-            "ad.vider.pl": "INACTIVE"
-        },
-        "1573129930": {
-            "adv.wp.pl": "INACTIVE"
-        },
-        "1573129943": {
-            "ad.webshark.pl": "INACTIVE"
-        },
-        "1573130033": {
-            "analytics.ccs.mcafee.com": "INACTIVE"
-        },
-        "1573130039": {
-            "analyticsdcs.ccs.mcafee.com": "INACTIVE"
-        },
-        "1573133352": {
-            "embed.powercontent.pl": "INACTIVE"
-        },
-        "1573133413": {
-            "facemap.foldlife.net": "INACTIVE"
-        },
-        "1573133534": {
-            "hitslink.interia.com.pl": "INACTIVE"
-        },
-        "1573133598": {
-            "int.sitestat.com": "INACTIVE"
-        },
-        "1573133617": {
-            "iwa3.hit.interia.pl": "INACTIVE"
-        },
-        "1573133626": {
-            "kapitanbomba.hopto.org": "INACTIVE"
-        },
-        "1573135992": {
-            "partnerad.l.google.com": "INACTIVE"
-        },
-        "1573136010": {
-            "phpadsnew.new.natuurpark.nl": "INACTIVE"
-        },
-        "1573136011": {
-            "ping.ublock.org": "INACTIVE"
-        },
-        "1573136012": {
-            "pixel.digitru.st": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
-            "pixel.solvemedia.com": "INACTIVE"
-        },
-        "1573136028": {
-            "popup.msn.com": "INACTIVE"
-        },
-        "1573136083": {
-            "pub.club-internet.fr": "INACTIVE"
-        },
-        "1573136090": {
-            "pub.hardware.fr": "INACTIVE"
-        },
-        "1573136096": {
-            "pub.realmedia.fr": "INACTIVE"
-        },
-        "1573136103": {
-            "pubs.lemonde.fr": "INACTIVE"
-        },
-        "1573136136": {
-            "ranking-id.de": "INACTIVE"
-        },
-        "1573136139": {
-            "ratings.lycos.com": "INACTIVE"
-        },
-        "1573136146": {
-            "realmedia-a800.d4p.net": "INACTIVE"
-        },
-        "1573136158": {
-            "reklam.rfsl.se": "INACTIVE"
-        },
-        "1573136165": {
-            "rek.www.wp.pl": "INACTIVE"
-        },
-        "1573136177": {
-            "rmads.msn.com": "INACTIVE"
-        },
-        "1573136235": {
-            "secure.webconnect.net": "INACTIVE"
-        },
-        "1573136281": {
-            "smetrics.ctv.ca": "INACTIVE"
-        },
-        "1573136285": {
-            "somniture.stuff.co.nz": "INACTIVE"
-        },
-        "1573136305": {
-            "spinbox.techtracker.com": "INACTIVE"
-        },
-        "1573136311": {
-            "spinbox.versiontracker.com": "INACTIVE"
-        },
-        "1573136334": {
-            "stat.dealtime.com": "INACTIVE"
-        },
-        "1573136341": {
-            "staticads.btopenworld.com": "INACTIVE"
-        },
-        "1573136357": {
-            "stats.blogger.com": "INACTIVE"
-        },
-        "1573136363": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1573136371": {
-            "stats.mirrorfootball.co.uk": "INACTIVE",
-            "stats.olark.com": "INACTIVE"
-        },
-        "1573136377": {
-            "stats.self.com": "INACTIVE"
-        },
-        "1573136378": {
-            "stats-srv.rp.pl": "INACTIVE"
-        },
-        "1573136384": {
-            "stg.wp.pl": "INACTIVE"
-        },
-        "1573138385": {
-            "t.insigit.com": "INACTIVE"
-        },
-        "1573138425": {
-            "track.contently.com": "INACTIVE"
-        },
-        "1573138426": {
-            "tracker-pm2.spilleren.com": "INACTIVE"
-        },
-        "1573138427": {
-            "tracker.twenga.pl": "INACTIVE"
-        },
-        "1573138440": {
-            "tracking.gajmp.com": "INACTIVE"
-        },
-        "1573138446": {
-            "tracking.internetstores.de": "INACTIVE"
-        },
-        "1573138452": {
-            "tracking.quisma.com": "INACTIVE"
-        },
-        "1573138459": {
-            "track.reinvigorate.net": "INACTIVE",
-            "traffic.focuusing.com": "INACTIVE"
-        },
-        "1573138484": {
-            "truehits1.gits.net.th": "INACTIVE"
-        },
-        "1573138490": {
-            "truehits2.gits.net.th": "INACTIVE"
-        },
-        "1573138510": {
-            "unknow.now.sh": "INACTIVE"
-        },
-        "1573138511": {
-            "us.a1.yimg.com": "INACTIVE"
-        },
-        "1573138523": {
-            "utils.mediageneral.net": "INACTIVE"
-        },
-        "1573138524": {
-            "ut.o2.pl": "INACTIVE"
-        },
-        "1573138574": {
-            "video-stats.video.google.com": "INACTIVE",
-            "video.vid4u.org": "INACTIVE"
-        },
-        "1573138590": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1573138591": {
-            "v.wpimg.pl": "INACTIVE"
-        },
-        "1573138592": {
-            "wantmobi.bid": "INACTIVE"
-        },
-        "1573138598": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1573138661": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1573138663": {
-            "www.banner-link.com.br": "INACTIVE"
-        },
-        "1573138671": {
-            "www-google-analytics.l.google.com": "INACTIVE",
-            "www.dnps.com": "INACTIVE"
-        },
-        "1573138678": {
-            "www.money4exit.de": "INACTIVE",
-            "www.msftncsi.com": "INACTIVE"
-        },
-        "1573138730": {
-            "zeus.developershed.com": "INACTIVE"
-        },
         "1574528174": {
             "ads.clickad.com.pl": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
@@ -335,6 +123,28 @@
         "1574529259": {
             "openx.blindferret.com": "INACTIVE",
             "pagerank-submitter.de": "INACTIVE"
+        },
+        "1574530352": {
+            "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1574530353": {
+            "ranking-id.de": "INACTIVE"
+        },
+        "1574530360": {
+            "wantmobi.bid": "INACTIVE",
+            "www.banner-link.com.br": "INACTIVE",
+            "www.money4exit.de": "INACTIVE"
+        },
+        "1574530361": {
+            "0daib.pl": "INACTIVE"
+        },
+        "1574530362": {
+            "hitslink.interia.com.pl": "INACTIVE",
+            "int.sitestat.com": "INACTIVE",
+            "tracker.twenga.pl": "INACTIVE"
+        },
+        "1574530365": {
+            "gift.gifts-for-free.online": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
