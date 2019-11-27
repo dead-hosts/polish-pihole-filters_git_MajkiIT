@@ -3872,7 +3872,7 @@
     "hotcpm.pl": {
         "epoch": 1574812800.0,
         "expiration_date": "27-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "hotjar.com": {
         "epoch": 1579737600.0,
@@ -6240,8 +6240,8 @@
         "state": "future"
     },
     "rlcdn.com": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "rle.ru": {
@@ -7100,8 +7100,8 @@
         "state": "future"
     },
     "temelio.com": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "terribleturkey.com": {
@@ -7170,8 +7170,8 @@
         "state": "future"
     },
     "thrnt.com": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "throattrees.com": {
@@ -7470,8 +7470,8 @@
         "state": "future"
     },
     "trhunt.com": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "tribalfusion.com": {
