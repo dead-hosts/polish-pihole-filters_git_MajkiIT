@@ -1,64 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1574851559": {
-            "adserv.iafrica.com": "INACTIVE"
-        },
-        "1574851560": {
-            "adserver.43plc.com": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.portalofevil.com": "INACTIVE",
-            "adsk2.co": "INACTIVE"
-        },
-        "1574851561": {
-            "adverts.carltononline.com": "INACTIVE",
-            "affiliates.internationaljock.com": "INACTIVE"
-        },
-        "1574851562": {
-            "analytics.newsinc.com": "INACTIVE",
-            "app.adblockhyper.us": "INACTIVE",
-            "b.aol.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1574851563": {
-            "banners.sexsearch.com": "INACTIVE"
-        },
-        "1574851565": {
-            "clients.tbo.com": "INACTIVE"
-        },
-        "1574851566": {
-            "count.rbc.ru": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "ctnet2.in": "INACTIVE"
-        },
-        "1574851567": {
-            "di1.shopping.com": "INACTIVE"
-        },
-        "1574851568": {
-            "eur.a1.yimg.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE"
-        },
-        "1574851569": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1574851575": {
-            "nedstat.nl": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "oas.salon.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE"
-        },
-        "1574851576": {
-            "pagerank-submitter.de": "INACTIVE"
-        },
-        "1574852437": {
-            "pixel.redditmedia.com": "INACTIVE"
-        },
-        "1574852438": {
-            "ranking-id.de": "INACTIVE"
-        },
         "1574852445": {
             "wantmobi.bid": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
@@ -147,6 +88,64 @@
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE"
+        },
+        "1574960610": {
+            "adserv.iafrica.com": "INACTIVE",
+            "adserver.43plc.com": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE",
+            "adserver.portalofevil.com": "INACTIVE",
+            "adsk2.co": "INACTIVE"
+        },
+        "1574960611": {
+            "adverts.carltononline.com": "INACTIVE"
+        },
+        "1574960612": {
+            "affiliates.internationaljock.com": "INACTIVE",
+            "analytics.newsinc.com": "INACTIVE",
+            "app.adblockhyper.us": "INACTIVE"
+        },
+        "1574960613": {
+            "b.aol.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE"
+        },
+        "1574960615": {
+            "clients.tbo.com": "INACTIVE"
+        },
+        "1574960616": {
+            "count.rbc.ru": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE"
+        },
+        "1574960617": {
+            "ctnet2.in": "INACTIVE",
+            "di1.shopping.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1574960618": {
+            "eur.a1.yimg.com": "INACTIVE",
+            "eventbeacon.ca": "INACTIVE"
+        },
+        "1574960620": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1574960625": {
+            "nedstat.nl": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "oas.salon.com": "INACTIVE"
+        },
+        "1574960626": {
+            "openx.blindferret.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE"
+        },
+        "1574960627": {
+            "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1574960628": {
+            "ranking-id.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
