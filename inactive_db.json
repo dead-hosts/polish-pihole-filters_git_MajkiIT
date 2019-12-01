@@ -158,6 +158,9 @@
             "show.smartcontext.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE",
             "www.comwgi.com": "INACTIVE"
+        },
+        "1575167417": {
+            "log.btopenworld.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
