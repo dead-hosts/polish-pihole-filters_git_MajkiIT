@@ -2400,9 +2400,9 @@
         "state": "future"
     },
     "coinhive.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "cointraffic.io": {
         "epoch": 1700265600.0,
@@ -7180,9 +7180,9 @@
         "state": "future"
     },
     "thruport.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "tibacta.com": {
         "epoch": 1594252800.0,
@@ -8135,9 +8135,9 @@
         "state": "future"
     },
     "yldbt.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "ymetrica.com": {
         "epoch": 1590192000.0,
