@@ -118,10 +118,18 @@
         "1575134313": {
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1575153279": {
-            "zobaczto.pisz.pl": "INACTIVE"
-        },
         "1575157199": {
+            "ad.onad.eu": "INACTIVE",
+            "ad.slutload.com": "INACTIVE"
+        },
+        "1575167417": {
+            "log.btopenworld.com": "INACTIVE"
+        },
+        "1575305880": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1575305881": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -139,14 +147,6 @@
             "(^|\\.)mylead\\.global$": "INVALID",
             "(^|\\.)smartadserver\\.com$": "INVALID",
             "[imported]": "INVALID",
-            "a.0day.kiev.ua": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
-            "ad.globe7.com": "INACTIVE",
-            "ad.onad.eu": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ads.clickad.com.pl": "INACTIVE",
-            "ads2.rp.pl": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
             "counter.gemius.pl": "INACTIVE",
@@ -157,10 +157,13 @@
             "new.smartcontext.pl": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE",
-            "www.comwgi.com": "INACTIVE"
+            "zobaczto.pisz.pl": "INACTIVE"
         },
-        "1575167417": {
-            "log.btopenworld.com": "INACTIVE"
+        "1575305882": {
+            "a.0day.kiev.ua": "INACTIVE",
+            "a32.g.a.yimg.com": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.globe7.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
