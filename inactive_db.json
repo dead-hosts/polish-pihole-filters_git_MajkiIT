@@ -1,24 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1575115355": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad2.linxcz.cz": "INACTIVE",
-            "adboost.de.vu": "INACTIVE"
-        },
         "1575115357": {
-            "adq.nextag.com": "INACTIVE",
-            "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
-            "ads.allvatar.com": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
-            "ads.betfair.com.au": "INACTIVE",
-            "ads.cgnetworks.com": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.foxnews.com": "INACTIVE",
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
             "ads.nationalgeographic.com": "INACTIVE"
         },
         "1575115358": {
@@ -118,10 +100,6 @@
         "1575134313": {
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1575157199": {
-            "ad.onad.eu": "INACTIVE",
-            "ad.slutload.com": "INACTIVE"
-        },
         "1575167417": {
             "log.btopenworld.com": "INACTIVE"
         },
@@ -164,6 +142,30 @@
             "a32.g.a.yimg.com": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ad.globe7.com": "INACTIVE"
+        },
+        "1575306573": {
+            "ad.onad.eu": "INACTIVE",
+            "ad.slutload.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ad2.linxcz.cz": "INACTIVE",
+            "adboost.de.vu": "INACTIVE"
+        },
+        "1575306574": {
+            "adq.nextag.com": "INACTIVE"
+        },
+        "1575306575": {
+            "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
+            "ads.allvatar.com": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.betfair.com.au": "INACTIVE",
+            "ads.cgnetworks.com": "INACTIVE",
+            "ads.creativematch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.foxnews.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
