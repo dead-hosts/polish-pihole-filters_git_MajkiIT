@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1575640580": {
-            "dnads.directnic.com": "INACTIVE"
-        },
-        "1575643617": {
-            "eur.a1.yimg.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE"
-        },
-        "1575643618": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1575643622": {
-            "nedstat.nl": "INACTIVE"
-        },
         "1575643623": {
             "oas.foxnews.com": "INACTIVE",
             "oas.salon.com": "INACTIVE",
@@ -156,6 +143,19 @@
         "1575738286": {
             "ctnet2.in": "INACTIVE",
             "di1.shopping.com": "INACTIVE"
+        },
+        "1575740701": {
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1575740702": {
+            "eur.a1.yimg.com": "INACTIVE",
+            "eventbeacon.ca": "INACTIVE"
+        },
+        "1575740703": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1575740708": {
+            "nedstat.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
