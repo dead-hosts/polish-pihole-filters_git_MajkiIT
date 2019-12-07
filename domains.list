@@ -16,14 +16,12 @@ adkontekst.pl
 adp.adview.pl
 adp.gazeta.pl
 ads.businessclick.pl
-ads.clickad.com.pl
 ads.comperia.pl
 ads.edipresse.pl
 ads.idg.com.pl
 ads.novem.pl
 ads.open.pl
 ads2.ekologia.pl
-ads2.rp.pl
 adsearch.adkontekst.pl
 adsearch.pl
 adserver.gadu-gadu.pl
@@ -58,7 +56,6 @@ arbomedia.pl
 banery.acr.pl
 banery.netart.pl
 banners.iq.pl
-bbcdn.code.new.smartcontext.pl
 bbcdn.go.pl.bbelements.com
 bi.adview.pl
 block734.oplatyi.pl
@@ -155,6 +152,8 @@ rt.inistrack.net
 www.lijjt.com
 cdn.sendpulse.com
 peefeehu.com
+pixel6.wp.pl
+cassini.efigence.com
 (^|\.)gemius\.(com|pl)$
 (^|\.)doubleclick\.(com)$
 (^|\.)adocean\.(pl)$
@@ -481,7 +480,6 @@ sec.hit.gemius.pl
 99count.com
 a-ads.com
 a-counter.kiev.ua
-a.0day.kiev.ua
 a.aproductmsg.com
 a.consumer.net
 a.mktw.net
@@ -490,7 +488,6 @@ a.ucoz.net
 a.ucoz.ru
 a.xanga.com
 a135.wftv.com
-a32.g.a.yimg.com
 aaddzz.com
 abacho.net
 abandonedclover.com
@@ -522,7 +519,6 @@ ad.abctv.com
 ad.aboutwebservices.com
 ad.abum.com
 ad.admitad.com
-ad.afy11.net
 ad.allstar.cz
 ad.altervista.org
 ad.amgdgt.com
@@ -544,7 +540,6 @@ ad.flurry.com
 ad.foxnetworks.com
 ad.freecity.de
 ad.gate24.ch
-ad.globe7.com
 ad.grafika.cz
 ad.hbv.de
 ad.hodomobile.com
@@ -568,7 +563,6 @@ ad.nachtagenten.de
 ad.nozonedata.com
 ad.nttnavi.co.jp
 ad.nwt.cz
-ad.onad.eu
 ad.preferances.com
 ad.profiwin.de
 ad.prv.pl
@@ -577,7 +571,6 @@ ad.reunion.com
 ad.sensismediasmart.com.au
 ad.seznam.cz
 ad.simgames.net
-ad.slutload.com
 ad.smartclip.net
 ad.tbn.ru
 ad.technoratimedia.com
@@ -598,12 +591,10 @@ ad.yourmedia.com
 ad.zanox.com
 ad0.bigmir.net
 ad01.mediacorpsingapore.com
-ad1.emediate.dk
 ad1.emule-project.org
 ad1.kde.cz
 ad1.pamedia.com.au
 ad2.iinfo.cz
-ad2.linxcz.cz
 ad2.lupa.cz
 ad2.xrea.com
 ad2flash.com
@@ -621,7 +612,6 @@ adapt.tv
 adbard.net
 adblade.com
 adblockanalytics.com
-adboost.de.vu
 adboost.net
 adbooth.net
 adbot.com
@@ -750,7 +740,6 @@ adpia.vn
 adplus.co.id
 adplxmd.com
 adprofile.net
-adq.nextag.com
 adrazzi.com
 adreactor.com
 adreclaim.com
@@ -780,8 +769,6 @@ ads.advance.net
 ads.adverline.com
 ads.affiliates-spinit.com
 ads.affiliates.match.com
-ads.ak.facebook.com.edgesuite.net
-ads.allvatar.com
 ads.alt.com
 ads.amdmb.com
 ads.amigos.com
@@ -796,8 +783,6 @@ ads.aspalliance.com
 ads.avazu.net
 ads.belointeractive.com
 ads.berlinonline.de
-ads.betanews.com
-ads.betfair.com.au
 ads.bigchurch.com
 ads.bigfoot.com
 ads.bing.com
@@ -818,7 +803,6 @@ ads.casinocity.com
 ads.cbc.ca
 ads.cc-dt.com
 ads.centraliprom.com
-ads.cgnetworks.com
 ads.channel4.com
 ads.clearchannel.com
 ads.co.com
@@ -828,11 +812,9 @@ ads.contentabc.com
 ads.contextweb.com
 ads.crakmedia.com
 ads.creative-serving.com
-ads.creativematch.com
 ads.cricbuzz.com
 ads.cybersales.cz
 ads.dada.it
-ads.datinggold.com
 ads.datingyes.com
 ads.dazoot.ro
 ads.deltha.hu
@@ -868,13 +850,11 @@ ads.financialcontent.com
 ads.flooble.com
 ads.fool.com
 ads.footymad.net
-ads.forbes.com
 ads.forbes.net
 ads.forium.de
 ads.fortunecity.com
 ads.fotosidan.se
 ads.foxnetworks.com
-ads.foxnews.com
 ads.freecity.de
 ads.friendfinder.com
 ads.ft.com
@@ -901,11 +881,9 @@ ads.harpers.org
 ads.hbv.de
 ads.hearstmags.com
 ads.heartlight.org
-ads.hideyourarms.com
 ads.hollywood.com
 ads.horsehero.com
 ads.horyzon-media.com
-ads.iafrica.com
 ads.ibest.com.br
 ads.ibryte.com
 ads.icq.com
@@ -937,7 +915,6 @@ ads.leovegas.com
 ads.lesbianpersonals.com
 ads.linkedin.com
 ads.linuxfoundation.org
-ads.linuxsecurity.com
 ads.livenation.com
 ads.mariuana.it
 ads.massinfra.nl
@@ -951,11 +928,9 @@ ads.motor-forum.nl
 ads.motormedia.nl
 ads.msn.com
 ads.multimania.lycos.fr
-ads.nationalgeographic.com
 ads.ncm.com
 ads.ndtv1.com
 ads.networksolutions.com
-ads.newdream.net
 ads.newgrounds.com
 ads.newmedia.cz
 ads.newsint.co.uk
@@ -978,7 +953,6 @@ ads.optusnet.com.au
 ads.outpersonals.com
 ads.passion.com
 ads.pennet.com
-ads.penny-arcade.com
 ads.phpclasses.org
 ads.planet.nl
 ads.pni.com
@@ -993,13 +967,9 @@ ads.psd2html.com
 ads.pushplay.com
 ads.quoka.de
 ads.rcs.it
-ads.recoletos.es
 ads.rediff.com
 ads.redlightcenter.com
-ads.redtube.com
 ads.resoom.de
-ads.returnpath.net
-ads.s3.sitepoint.com
 ads.satyamonline.com
 ads.scifi.com
 ads.seniorfriendfinder.com
@@ -1011,7 +981,6 @@ ads.silverdisc.co.uk
 ads.smartclick.com
 ads.soft32.com
 ads.space.com
-ads.sptimes.com
 ads.stackoverflow.com
 ads.sun.com
 ads.suomiautomaatti.com
@@ -1046,8 +1015,6 @@ ads.vnumedia.com
 ads.waps.cn
 ads.wapx.cn
 ads.weather.ca
-ads.web.aol.com
-ads.web.cs.com
 ads.web.de
 ads.webmasterpoint.org
 ads.websiteservices.com
@@ -1067,7 +1034,6 @@ ads.yourfreedvds.com
 ads.youtube.com
 ads.zdnet.com
 ads.ztod.com
-ads03.redtube.com
 ads1.canoe.ca
 ads1.mediacapital.pt
 ads1.msn.com
@@ -1114,9 +1080,7 @@ adsdk.com
 adsend.de
 adsensecustomsearchads.com
 adserv.gamezone.de
-adserv.iafrica.com
 adserve.ams.rhythmxchange.com
-adserver.43plc.com
 adserver.71i.de
 adserver.adultfriendfinder.com
 adserver.aidameter.com
@@ -1135,14 +1099,12 @@ adserver.hardsextube.com
 adserver.hardwareanalysis.com
 adserver.html.it
 adserver.hwupgrade.it
-adserver.irishwebmasterforum.com
 adserver.janes.com
 adserver.libero.it
 adserver.news.com.au
 adserver.nydailynews.com
 adserver.o2.pl
 adserver.oddschecker.com
-adserver.portalofevil.com
 adserver.portugalmail.net
 adserver.portugalmail.pt
 adserver.pressboard.ca
@@ -1240,7 +1202,6 @@ advertmarket.com
 advertmedia.de
 advertpro.sitepoint.com
 advertpro.ya.com
-adverts.carltononline.com
 advertserve.com
 advertstream.com
 advertwizard.com
@@ -2985,7 +2946,6 @@ kapitanbomba.hopto.org
 kqlokjfrnz.com
 iaatzkkqyv.com
 hoqqzlvwukpo.com
-0daib.pl
 adkontekst.pl
 adkontekst.pl
 adnxs.com
