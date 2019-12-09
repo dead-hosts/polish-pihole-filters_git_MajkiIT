@@ -52,16 +52,6 @@
         "1575735783": {
             "adverts.carltononline.com": "INACTIVE"
         },
-        "1575740702": {
-            "eur.a1.yimg.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE"
-        },
-        "1575740703": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1575740708": {
-            "nedstat.nl": "INACTIVE"
-        },
         "1575742317": {
             "oas.foxnews.com": "INACTIVE",
             "oas.salon.com": "INACTIVE",
@@ -157,6 +147,18 @@
             "ctnet2.in": "INACTIVE",
             "di1.shopping.com": "INACTIVE",
             "dnads.directnic.com": "INACTIVE"
+        },
+        "1575913669": {
+            "eur.a1.yimg.com": "INACTIVE"
+        },
+        "1575913670": {
+            "eventbeacon.ca": "INACTIVE"
+        },
+        "1575913671": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1575913676": {
+            "nedstat.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
