@@ -47,17 +47,12 @@
             "ads03.redtube.com": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.43plc.com": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.portalofevil.com": "INACTIVE"
         },
         "1575735783": {
             "adverts.carltononline.com": "INACTIVE"
         },
-        "1575735784": {
-            "affiliates.internationaljock.com": "INACTIVE"
-        },
         "1575738282": {
-            "analytics.newsinc.com": "INACTIVE",
             "app.adblockhyper.us": "INACTIVE",
             "b.aol.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
@@ -152,6 +147,15 @@
             "show.smartcontext.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE",
             "zobaczto.pisz.pl": "INACTIVE"
+        },
+        "1575912231": {
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1575912232": {
+            "affiliates.internationaljock.com": "INACTIVE"
+        },
+        "1575912233": {
+            "analytics.newsinc.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
