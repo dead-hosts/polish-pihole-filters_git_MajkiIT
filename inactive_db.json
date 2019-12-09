@@ -52,30 +52,6 @@
         "1575735783": {
             "adverts.carltononline.com": "INACTIVE"
         },
-        "1575738282": {
-            "app.adblockhyper.us": "INACTIVE",
-            "b.aol.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE"
-        },
-        "1575738283": {
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE"
-        },
-        "1575738285": {
-            "clients.tbo.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1575738286": {
-            "ctnet2.in": "INACTIVE",
-            "di1.shopping.com": "INACTIVE"
-        },
-        "1575740701": {
-            "dnads.directnic.com": "INACTIVE"
-        },
         "1575740702": {
             "eur.a1.yimg.com": "INACTIVE",
             "eventbeacon.ca": "INACTIVE"
@@ -156,6 +132,31 @@
         },
         "1575912233": {
             "analytics.newsinc.com": "INACTIVE"
+        },
+        "1575912926": {
+            "app.adblockhyper.us": "INACTIVE"
+        },
+        "1575912927": {
+            "b.aol.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.babylon-x.com": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE"
+        },
+        "1575912929": {
+            "clients.tbo.com": "INACTIVE"
+        },
+        "1575912930": {
+            "count.rbc.ru": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE"
+        },
+        "1575912931": {
+            "ctnet2.in": "INACTIVE",
+            "di1.shopping.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
