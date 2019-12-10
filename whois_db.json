@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "casinotraffic.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "casinotreasure.com": {
@@ -2785,8 +2785,8 @@
         "state": "future"
     },
     "dianomi.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "didtheyreadit.com": {
@@ -3770,9 +3770,9 @@
         "state": "future"
     },
     "hentaicounter.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
-        "state": "past"
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
     },
     "herbalaffiliateprogram.com": {
         "epoch": 1582761600.0,
