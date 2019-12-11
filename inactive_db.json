@@ -1,27 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1575912927": {
-            "b.aol.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.babylon-x.com": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE"
-        },
-        "1575912929": {
-            "clients.tbo.com": "INACTIVE"
-        },
-        "1575912930": {
-            "count.rbc.ru": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1575912931": {
-            "ctnet2.in": "INACTIVE",
-            "di1.shopping.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE"
-        },
         "1575913669": {
             "eur.a1.yimg.com": "INACTIVE"
         },
@@ -144,6 +122,28 @@
             "affiliates.internationaljock.com": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
             "app.adblockhyper.us": "INACTIVE"
+        },
+        "1576065868": {
+            "b.aol.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.babylon-x.com": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE"
+        },
+        "1576065870": {
+            "clients.tbo.com": "INACTIVE"
+        },
+        "1576065871": {
+            "count.rbc.ru": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "ctnet2.in": "INACTIVE"
+        },
+        "1576065872": {
+            "di1.shopping.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
