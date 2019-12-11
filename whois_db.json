@@ -6764,6 +6764,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "spacead.pl": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "spaceforyou.cc": {
         "epoch": "1556236800",
         "expiration_date": "26-apr-2019",
