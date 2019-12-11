@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1575912231": {
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
-        "1575912232": {
-            "affiliates.internationaljock.com": "INACTIVE"
-        },
-        "1575912233": {
-            "analytics.newsinc.com": "INACTIVE"
-        },
-        "1575912926": {
-            "app.adblockhyper.us": "INACTIVE"
-        },
         "1575912927": {
             "b.aol.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
@@ -119,9 +107,6 @@
             "ads.recoletos.es": "INACTIVE",
             "ads.web.aol.com": "INACTIVE"
         },
-        "1575977169": {
-            "ads.cricbuzz.com": "INACTIVE"
-        },
         "1576059824": {
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -150,6 +135,15 @@
             "gspro.adocean.pl": "INACTIVE",
             "intactro.adocean.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1576064369": {
+            "ads.cricbuzz.com": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1576064371": {
+            "affiliates.internationaljock.com": "INACTIVE",
+            "analytics.newsinc.com": "INACTIVE",
+            "app.adblockhyper.us": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
