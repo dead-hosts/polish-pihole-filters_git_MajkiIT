@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
         "1576064369": {
-            "ads.cricbuzz.com": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE"
         },
         "1576064371": {
@@ -142,6 +141,9 @@
             "[imported]": "INVALID",
             "counter.gemius.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1576151780": {
+            "ads.cricbuzz.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
