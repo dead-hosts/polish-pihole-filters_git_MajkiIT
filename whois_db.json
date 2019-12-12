@@ -3745,9 +3745,9 @@
         "state": "future"
     },
     "harrenmedianetwork.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "havamedia.net": {
         "epoch": 1591228800.0,
@@ -5190,8 +5190,8 @@
         "state": "future"
     },
     "newstarads.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "newtechagd.net": {
