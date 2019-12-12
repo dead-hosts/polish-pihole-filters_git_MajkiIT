@@ -1,61 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1576070524": {
-            "wantmobi.bid": "INACTIVE"
-        },
-        "1576070525": {
-            "www.banner-link.com.br": "INACTIVE",
-            "www.money4exit.de": "INACTIVE"
-        },
-        "1576070526": {
-            "hitslink.interia.com.pl": "INACTIVE",
-            "int.sitestat.com": "INACTIVE",
-            "tracker.twenga.pl": "INACTIVE"
-        },
-        "1576070617": {
-            "0daib.pl": "INACTIVE",
-            "a.0day.kiev.ua": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
-            "ad.globe7.com": "INACTIVE",
-            "ad.onad.eu": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "ad2.linxcz.cz": "INACTIVE",
-            "adboost.de.vu": "INACTIVE",
-            "adq.nextag.com": "INACTIVE",
-            "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
-            "ads.allvatar.com": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
-            "ads.betfair.com.au": "INACTIVE",
-            "ads.cgnetworks.com": "INACTIVE",
-            "ads.clickad.com.pl": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.foxnews.com": "INACTIVE",
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "ads.returnpath.net": "INACTIVE",
-            "ads.s3.sitepoint.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE",
-            "ads2.rp.pl": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
-            "adserver.43plc.com": "INACTIVE",
-            "adserver.portalofevil.com": "INACTIVE",
-            "adverts.carltononline.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "gift.gifts-for-free.online": "INACTIVE"
-        },
         "1576147498": {
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -148,6 +92,64 @@
         },
         "1576164889": {
             "stats.directnic.com": "INACTIVE"
+        },
+        "1576167238": {
+            "wantmobi.bid": "INACTIVE"
+        },
+        "1576167239": {
+            "www.banner-link.com.br": "INACTIVE",
+            "www.money4exit.de": "INACTIVE"
+        },
+        "1576167240": {
+            "hitslink.interia.com.pl": "INACTIVE",
+            "int.sitestat.com": "INACTIVE",
+            "tracker.twenga.pl": "INACTIVE"
+        },
+        "1576167325": {
+            "0daib.pl": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ad2.linxcz.cz": "INACTIVE",
+            "adboost.de.vu": "INACTIVE",
+            "adq.nextag.com": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.betfair.com.au": "INACTIVE",
+            "ads.creativematch.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.foxnews.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.penny-arcade.com": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads03.redtube.com": "INACTIVE",
+            "adserver.43plc.com": "INACTIVE"
+        },
+        "1576167326": {
+            "a.0day.kiev.ua": "INACTIVE",
+            "a32.g.a.yimg.com": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.globe7.com": "INACTIVE",
+            "ad.onad.eu": "INACTIVE",
+            "ad.slutload.com": "INACTIVE",
+            "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
+            "ads.allvatar.com": "INACTIVE",
+            "ads.cgnetworks.com": "INACTIVE",
+            "ads.clickad.com.pl": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE",
+            "ads.returnpath.net": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.web.aol.com": "INACTIVE",
+            "ads2.rp.pl": "INACTIVE",
+            "adserv.iafrica.com": "INACTIVE",
+            "adserver.portalofevil.com": "INACTIVE",
+            "adverts.carltononline.com": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "gift.gifts-for-free.online": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
