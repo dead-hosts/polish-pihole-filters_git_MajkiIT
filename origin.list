@@ -1,4 +1,4 @@
-#201912110303
+#201912150303
 # Polish filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -186,6 +186,7 @@
 # [Privacy]
 0.0.0.0 ew1.dms-gld.bigdata.ssp.samsung.com
 0.0.0.0 promo.webpayments.closeby.internet.apps.samsung.com
+0.0.0.0 s-pt.ppstatic.pl
 #
 # [Random ADS]
 0.0.0.0 tibacta.com
@@ -3074,6 +3075,9 @@
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cp.dbbp1.net
 0.0.0.0 ps.polt.pl
+0.0.0.0 cp.ebbp1.pro
+0.0.0.0 pixelmarkway.com
+0.0.0.0 s.batuu.pl
 #
 #
 #
@@ -3191,6 +3195,7 @@
 0.0.0.0 vdztrack.com
 0.0.0.0 video.vid4u.org
 0.0.0.0 visualrevenue.com
+0.0.0.0 webep1.com
 0.0.0.0 whegadry.com
 0.0.0.0 widget.aftermarket.pl
 0.0.0.0 wp.pl
