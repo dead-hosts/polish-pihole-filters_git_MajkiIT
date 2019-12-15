@@ -5654,6 +5654,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "pixelmarkway.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
     "pk999.pl": {
         "epoch": "1570924800",
         "expiration_date": "13-oct-2019",
@@ -7837,6 +7842,11 @@
     "webcounter.cz": {
         "epoch": 1774310400.0,
         "expiration_date": "24-mar-2026",
+        "state": "future"
+    },
+    "webep1.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "webgains.com": {
