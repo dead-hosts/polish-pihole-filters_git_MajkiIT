@@ -146,6 +146,9 @@
         },
         "1576584675": {
             "banners.babylon-x.com": "INACTIVE"
+        },
+        "1576586764": {
+            "bans.adserver.co.il": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
