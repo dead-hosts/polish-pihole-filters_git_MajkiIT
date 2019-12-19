@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1576669558": {
-            "banner.getgo.de": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE"
-        },
-        "1576671433": {
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE"
-        },
-        "1576671436": {
-            "clients.tbo.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE"
-        },
-        "1576671437": {
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "ctnet2.in": "INACTIVE",
-            "di1.shopping.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE"
-        },
-        "1576671438": {
-            "eur.a1.yimg.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE"
-        },
         "1576671440": {
             "gbanners.hornymatches.com": "INACTIVE"
         },
@@ -145,6 +121,28 @@
             "analytics.newsinc.com": "INACTIVE",
             "app.adblockhyper.us": "INACTIVE",
             "b.aol.com": "INACTIVE"
+        },
+        "1576777076": {
+            "banner.getgo.de": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE"
+        },
+        "1576777078": {
+            "clients.tbo.com": "INACTIVE"
+        },
+        "1576777079": {
+            "count.rbc.ru": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "ctnet2.in": "INACTIVE",
+            "di1.shopping.com": "INACTIVE"
+        },
+        "1576777080": {
+            "dnads.directnic.com": "INACTIVE",
+            "eur.a1.yimg.com": "INACTIVE",
+            "eventbeacon.ca": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
