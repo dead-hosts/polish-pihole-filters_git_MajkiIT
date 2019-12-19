@@ -1,32 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1576665765": {
-            "!": "INVALID",
-            "(^|\\.)adform\\.net$": "INVALID",
-            "(^|\\.)adocean\\.(pl)$": "INVALID",
-            "(^|\\.)adsbtrack\\.com$": "INVALID",
-            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
-            "(^|\\.)audienceinsights\\.net$": "INVALID",
-            "(^|\\.)behavioralengine\\.com$": "INVALID",
-            "(^|\\.)clickmatic\\.pl$": "INVALID",
-            "(^|\\.)doubleclick\\.(com)$": "INVALID",
-            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
-            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
-            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
-            "(^|\\.)lcx\\.pl$": "INVALID",
-            "(^|\\.)meetrics\\.net$": "INVALID",
-            "(^|\\.)mylead\\.global$": "INVALID",
-            "(^|\\.)smartadserver\\.com$": "INVALID",
-            "[imported]": "INVALID",
-            "block734.oplatyi.pl": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "gg.mob.vendimob.pl": "INACTIVE",
-            "gspro.adocean.pl": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1576667740": {
             "ads.cricbuzz.com": "INACTIVE",
             "ads.forium.de": "INACTIVE"
@@ -141,6 +114,35 @@
             "adverts.carltononline.com": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
+        },
+        "1576774968": {
+            "(^|\\.)adform\\.net$": "INVALID",
+            "(^|\\.)adocean\\.(pl)$": "INVALID",
+            "(^|\\.)adsbtrack\\.com$": "INVALID",
+            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
+            "(^|\\.)audienceinsights\\.net$": "INVALID",
+            "(^|\\.)behavioralengine\\.com$": "INVALID",
+            "(^|\\.)clickmatic\\.pl$": "INVALID",
+            "(^|\\.)doubleclick\\.(com)$": "INVALID",
+            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
+            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
+            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
+            "(^|\\.)lcx\\.pl$": "INVALID",
+            "(^|\\.)meetrics\\.net$": "INVALID",
+            "(^|\\.)mylead\\.global$": "INVALID",
+            "(^|\\.)smartadserver\\.com$": "INVALID",
+            "block734.oplatyi.pl": "INACTIVE",
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1576774969": {
+            "!": "INVALID",
+            "[imported]": "INVALID",
+            "counter.gemius.pl": "INACTIVE",
+            "gspro.adocean.pl": "INACTIVE",
+            "intactro.adocean.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
