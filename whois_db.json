@@ -367,7 +367,7 @@
     "adcentriconline.com": {
         "epoch": 1576800000.0,
         "expiration_date": "20-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adcept.net": {
         "epoch": 1577664000.0,
