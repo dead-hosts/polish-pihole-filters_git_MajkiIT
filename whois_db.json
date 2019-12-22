@@ -267,7 +267,7 @@
     "ad2flash.com": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ad4game.com": {
         "epoch": 1589241600.0,
@@ -1870,8 +1870,8 @@
         "state": "future"
     },
     "blogvertising.pl": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1579478400.0,
+        "expiration_date": "20-jan-2020",
         "state": "future"
     },
     "blueadvertise.com": {
