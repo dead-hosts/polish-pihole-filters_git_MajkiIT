@@ -2200,9 +2200,9 @@
         "state": "future"
     },
     "click2paid.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "clickability.com": {
         "epoch": 1603670400.0,
