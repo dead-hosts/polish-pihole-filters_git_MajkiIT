@@ -3347,7 +3347,7 @@
     "filmik.pisz.pl": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "filmoteka.tv": {
         "epoch": "1579046400",
@@ -8227,7 +8227,7 @@
     "zobaczto.pisz.pl": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "zoomica.pl": {
         "epoch": "1559001600",
