@@ -3870,8 +3870,8 @@
         "state": "future"
     },
     "hotcpm.pl": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1578614400.0,
+        "expiration_date": "10-jan-2020",
         "state": "future"
     },
     "hotjar.com": {
@@ -7175,9 +7175,9 @@
         "state": "future"
     },
     "thiksikr.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "thirdrespect.com": {
         "epoch": 1585872000.0,
