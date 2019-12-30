@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1577555531": {
-            "nedstat.nl": "INACTIVE"
-        },
-        "1577555532": {
-            "oas.foxnews.com": "INACTIVE",
-            "oas.salon.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE"
-        },
-        "1577555533": {
-            "pixel.redditmedia.com": "INACTIVE"
-        },
-        "1577556214": {
-            "ranking-id.de": "INACTIVE"
-        },
         "1577556216": {
             "stats.directnic.com": "INACTIVE"
         },
@@ -150,6 +135,19 @@
         },
         "1577703876": {
             "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1577704987": {
+            "nedstat.nl": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "oas.salon.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE"
+        },
+        "1577704988": {
+            "pagerank-submitter.de": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1577704989": {
+            "ranking-id.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
