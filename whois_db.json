@@ -370,9 +370,9 @@
         "state": "future"
     },
     "adcept.net": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
-        "state": "past"
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
     },
     "adclick.com": {
         "epoch": 1600732800.0,
