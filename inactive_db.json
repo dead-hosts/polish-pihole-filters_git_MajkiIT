@@ -1,21 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1577703179": {
-            "adserv.gamezone.de": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
-        "1577703180": {
-            "affiliates.internationaljock.com": "INACTIVE"
-        },
         "1577703181": {
-            "analytics.newsinc.com": "INACTIVE",
-            "app.adblockhyper.us": "INACTIVE",
-            "b.aol.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
             "bans.adserver.co.il": "INACTIVE"
         },
@@ -148,6 +133,23 @@
         "1577812779": {
             "ads.cricbuzz.com": "INACTIVE",
             "ads.forium.de": "INACTIVE"
+        },
+        "1577813460": {
+            "adserv.gamezone.de": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1577813461": {
+            "affiliates.internationaljock.com": "INACTIVE"
+        },
+        "1577813462": {
+            "analytics.newsinc.com": "INACTIVE",
+            "app.adblockhyper.us": "INACTIVE",
+            "b.aol.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
