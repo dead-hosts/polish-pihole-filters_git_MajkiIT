@@ -4797,7 +4797,7 @@
     "methodcash.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "metrilo.com": {
         "epoch": 1617667200.0,
