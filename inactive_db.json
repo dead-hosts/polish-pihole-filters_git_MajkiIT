@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1577968362": {
-            "clients.tbo.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "ctnet2.in": "INACTIVE"
-        },
-        "1577968363": {
-            "di1.shopping.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE"
-        },
-        "1577968364": {
-            "eur.a1.yimg.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE",
-            "exchange.bg": "INACTIVE"
-        },
-        "1577968365": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
         "1577970014": {
             "nedstat.nl": "INACTIVE"
         },
@@ -151,6 +133,24 @@
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
             "bans.adserver.co.il": "INACTIVE"
+        },
+        "1578073484": {
+            "clients.tbo.com": "INACTIVE"
+        },
+        "1578073485": {
+            "count.rbc.ru": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "ctnet2.in": "INACTIVE",
+            "di1.shopping.com": "INACTIVE"
+        },
+        "1578073486": {
+            "dnads.directnic.com": "INACTIVE",
+            "eur.a1.yimg.com": "INACTIVE",
+            "eventbeacon.ca": "INACTIVE",
+            "exchange.bg": "INACTIVE"
+        },
+        "1578073488": {
+            "gbanners.hornymatches.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
