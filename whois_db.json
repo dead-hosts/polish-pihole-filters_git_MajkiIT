@@ -4640,8 +4640,8 @@
         "state": "future"
     },
     "marchex.com": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1641340800.0,
+        "expiration_date": "05-jan-2022",
         "state": "future"
     },
     "market-buster.com": {
@@ -4795,9 +4795,9 @@
         "state": "future"
     },
     "methodcash.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
     },
     "metrilo.com": {
         "epoch": 1617667200.0,
