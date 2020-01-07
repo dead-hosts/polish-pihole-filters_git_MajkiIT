@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1578247464": {
-            "ranking-id.de": "INACTIVE"
-        },
-        "1578248151": {
-            "reklama.reflektor.cz": "INACTIVE"
-        },
-        "1578248153": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1578248154": {
-            "topbarh.box.sk": "INACTIVE"
-        },
-        "1578248156": {
-            "wantmobi.bid": "INACTIVE",
-            "www.banner-link.com.br": "INACTIVE"
-        },
         "1578248374": {
             "auth.alleqro-pl.clownstage.ml": "INACTIVE",
             "cdn.mediaessence.net": "INACTIVE",
@@ -154,6 +138,21 @@
         },
         "1578397227": {
             "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1578398044": {
+            "ranking-id.de": "INACTIVE"
+        },
+        "1578398046": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1578398047": {
+            "topbarh.box.sk": "INACTIVE"
+        },
+        "1578398049": {
+            "wantmobi.bid": "INACTIVE"
+        },
+        "1578398050": {
+            "www.banner-link.com.br": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
