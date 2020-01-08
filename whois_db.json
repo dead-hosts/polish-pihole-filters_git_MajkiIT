@@ -1942,7 +1942,7 @@
     "brassrule.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bridgetrack.com": {
         "epoch": 1604966400.0,
@@ -2112,7 +2112,7 @@
     "cetrk.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "channel1vids.com": {
         "epoch": 1592524800.0,
@@ -2442,7 +2442,7 @@
     "concernrain.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "confirmed-profits.com": {
         "epoch": 1590796800.0,
@@ -3390,14 +3390,14 @@
         "state": "future"
     },
     "flashtalking.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "flavordecision.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fleshlightcash.com": {
         "epoch": 1588464000.0,
