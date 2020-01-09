@@ -392,7 +392,7 @@
     "adconion.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adcycle.com": {
         "epoch": 1603756800.0,
