@@ -390,9 +390,9 @@
         "state": "future"
     },
     "adconion.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
-        "state": "past"
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
     },
     "adcycle.com": {
         "epoch": 1603756800.0,
@@ -5807,7 +5807,7 @@
     "potwierdzoneinfo.pl": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "practicetoothpaste.com": {
         "epoch": 1582675200.0,
