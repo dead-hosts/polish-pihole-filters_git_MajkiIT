@@ -1,10 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1578590680": {
-            "ads.brabys.com": "INACTIVE",
-            "ads.cricbuzz.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE"
-        },
         "1578591371": {
             "adserv.gamezone.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE"
@@ -154,6 +149,11 @@
         },
         "1578738749": {
             "a.aproductmsg.com": "INACTIVE"
+        },
+        "1578741637": {
+            "ads.cricbuzz.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
