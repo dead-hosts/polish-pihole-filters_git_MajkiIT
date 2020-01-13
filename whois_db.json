@@ -302,7 +302,7 @@
     "adbard.net": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adblade.com": {
         "epoch": 1604016000.0,

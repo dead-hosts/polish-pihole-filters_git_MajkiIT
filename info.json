@@ -1,21 +1,21 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2020-01-12T18:17:27.752121",
-    "finish_timestamp": 1578853047.752121,
-    "last_download_datetime": "2020-01-12T17:04:19.684081",
-    "last_download_timestamp": 1578848659.684081,
-    "latest_part_finish_datetime": "2020-01-12T18:17:27.752121",
-    "latest_part_finish_timestamp": 1578853047.752121,
-    "latest_part_start_datetime": "2020-01-12T18:13:55.920346",
-    "latest_part_start_timestamp": 1578852835.920346,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2020-01-13T10:32:25.893374",
+    "last_download_timestamp": 1578911545.893374,
+    "latest_part_finish_datetime": "2020-01-13T10:42:30.325435",
+    "latest_part_finish_timestamp": 1578912150.325435,
+    "latest_part_start_datetime": "2020-01-13T10:32:26.417651",
+    "latest_part_start_timestamp": 1578911546.417651,
     "name": "polish-pihole-filters_git_MajkiIT",
     "own_management": false,
     "ping": [
         "@MajkiIT"
     ],
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
-    "start_datetime": "2020-01-12T17:04:20.185659",
-    "start_timestamp": 1578848660.185659
+    "start_datetime": "2020-01-13T10:32:26.415157",
+    "start_timestamp": 1578911546.415157
 }
