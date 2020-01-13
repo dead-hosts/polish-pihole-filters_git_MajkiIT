@@ -1979,6 +1979,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "businesspuls.online": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "buyhitscheap.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
@@ -3432,6 +3437,11 @@
     "forex-affiliate.net": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "forguides.pl": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "forter.com": {
@@ -5669,6 +5679,11 @@
         "expiration_date": "06-may-2019",
         "state": "future"
     },
+    "pl-pulsbiz.net": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "pl-ticket.today": {
         "epoch": "1559952000",
         "expiration_date": "08-jun-2019",
@@ -5707,6 +5722,11 @@
     "plista.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "ploskonax.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "plugin.management": {
@@ -5977,6 +5997,11 @@
     "pubmatic.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "puls-biznesu.info": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "pushengage.com": {
@@ -7355,8 +7380,8 @@
         "state": "future"
     },
     "trackmysales.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "trackverters.pl": {
@@ -7465,8 +7490,8 @@
         "state": "future"
     },
     "trekblue.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "trekdata.com": {
@@ -7710,8 +7735,8 @@
         "state": "future"
     },
     "vericlick.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "vertadnet.com": {
@@ -7880,8 +7905,8 @@
         "state": "future"
     },
     "websponsors.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "webstat.com": {
