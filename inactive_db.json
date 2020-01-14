@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1578852747": {
-            "ranking-id.de": "INACTIVE",
-            "record.mrwin.com": "INACTIVE"
-        },
-        "1578852749": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1578852750": {
-            "topbarh.box.sk": "INACTIVE"
-        },
         "1578852752": {
             "wantmobi.bid": "INACTIVE"
         },
@@ -159,6 +149,16 @@
         },
         "1579012115": {
             "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1579013679": {
+            "ranking-id.de": "INACTIVE",
+            "record.mrwin.com": "INACTIVE"
+        },
+        "1579013681": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1579013682": {
+            "topbarh.box.sk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
