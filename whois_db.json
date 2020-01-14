@@ -972,7 +972,7 @@
     "adsoftware.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsoldier.com": {
         "epoch": 1581811200.0,
@@ -1240,8 +1240,8 @@
         "state": "future"
     },
     "adworldnetwork.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "adxpansion.com": {
@@ -1410,8 +1410,8 @@
         "state": "future"
     },
     "allosponsor.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "alphonso.tv": {
@@ -1452,7 +1452,7 @@
     "anahtars.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "anetakurier.info": {
         "epoch": 1599782400,
