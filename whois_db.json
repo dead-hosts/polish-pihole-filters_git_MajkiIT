@@ -3915,8 +3915,8 @@
         "state": "future"
     },
     "htmlhubing.xyz": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "httpool.com": {
@@ -4115,9 +4115,9 @@
         "state": "future"
     },
     "infinite-ads.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "infinityads.com": {
         "epoch": 1599264000.0,
@@ -4605,8 +4605,8 @@
         "state": "future"
     },
     "lucidmedia.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1705363200.0,
+        "expiration_date": "16-jan-2024",
         "state": "future"
     },
     "lucklayed.info": {
