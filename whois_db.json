@@ -857,7 +857,7 @@
     "adscholar.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adscpm.com": {
         "epoch": 1602115200.0,
@@ -970,9 +970,9 @@
         "state": "future"
     },
     "adsoftware.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "adsoldier.com": {
         "epoch": 1581811200.0,
@@ -1450,9 +1450,9 @@
         "state": "future"
     },
     "anahtars.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "anetakurier.info": {
         "epoch": 1599782400,
