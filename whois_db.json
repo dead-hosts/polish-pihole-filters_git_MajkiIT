@@ -2910,8 +2910,8 @@
         "state": "future"
     },
     "doubleclick.net": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "doublepimp.com": {
@@ -3607,6 +3607,11 @@
     "getclicky.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "getresponsepl.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "getwisdom.io": {
