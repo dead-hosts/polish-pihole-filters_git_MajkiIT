@@ -161,6 +161,11 @@
             "adverts.carltononline.com": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
+        },
+        "1579387567": {
+            "gaae.hit.gemius.pl": "INACTIVE",
+            "gaat.hit.gemius.pl": "INACTIVE",
+            "sportaladbg.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
