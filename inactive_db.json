@@ -10,9 +10,7 @@
         "1579308253": {
             "affiliates.internationaljock.com": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
-            "app.adblockhyper.us": "INACTIVE",
-            "b.aol.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE"
+            "app.adblockhyper.us": "INACTIVE"
         },
         "1579311606": {
             "banner.wirenode.com": "INACTIVE",
@@ -164,6 +162,10 @@
             "ads.cricbuzz.com": "INACTIVE",
             "ads.forium.de": "INACTIVE",
             "ads.nwsource.com": "INACTIVE"
+        },
+        "1579394777": {
+            "b.aol.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
