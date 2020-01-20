@@ -53,15 +53,7 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1579402230": {
-            "provalist.info": "INACTIVE"
-        },
         "1579403762": {
-            "ranking-id.de": "INACTIVE",
-            "record.mrwin.com": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "topbarh.box.sk": "INACTIVE",
-            "wantmobi.bid": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
         },
         "1579541487": {
@@ -160,6 +152,22 @@
         },
         "1579547536": {
             "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1579548771": {
+            "provalist.info": "INACTIVE",
+            "ranking-id.de": "INACTIVE"
+        },
+        "1579548772": {
+            "record.mrwin.com": "INACTIVE"
+        },
+        "1579548774": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1579548775": {
+            "topbarh.box.sk": "INACTIVE"
+        },
+        "1579548776": {
+            "wantmobi.bid": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
