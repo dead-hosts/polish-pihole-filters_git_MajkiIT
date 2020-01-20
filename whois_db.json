@@ -112,7 +112,7 @@
     "777partner.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "77tracking.com": {
         "epoch": 1586217600.0,
