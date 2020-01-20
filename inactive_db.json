@@ -53,25 +53,6 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1579400137": {
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE",
-            "banners.sys-con.com": "INACTIVE",
-            "bans.adserver.co.il": "INACTIVE",
-            "clients.tbo.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "ctnet2.in": "INACTIVE",
-            "di1.shopping.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
-            "eur.a1.yimg.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE",
-            "exchange.bg": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
         "1579402230": {
             "nedstat.nl": "INACTIVE",
             "oas.foxnews.com": "INACTIVE",
@@ -144,6 +125,35 @@
             "app.adblockhyper.us": "INACTIVE",
             "b.aol.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE"
+        },
+        "1579546094": {
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE",
+            "banners.sys-con.com": "INACTIVE",
+            "bans.adserver.co.il": "INACTIVE"
+        },
+        "1579546096": {
+            "clients.tbo.com": "INACTIVE"
+        },
+        "1579546097": {
+            "count.rbc.ru": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "ctnet2.in": "INACTIVE"
+        },
+        "1579546098": {
+            "di1.shopping.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "eur.a1.yimg.com": "INACTIVE",
+            "eventbeacon.ca": "INACTIVE"
+        },
+        "1579546099": {
+            "exchange.bg": "INACTIVE"
+        },
+        "1579546100": {
+            "gbanners.hornymatches.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
