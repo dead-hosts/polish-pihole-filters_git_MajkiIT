@@ -1,40 +1,5 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
-        "1579541487": {
-            "afi.adocean.pl": "INACTIVE",
-            "block734.oplatyi.pl": "INACTIVE",
-            "blogvertising.pl": "INACTIVE",
-            "gg.mob.vendimob.pl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE"
-        },
-        "1579541488": {
-            "!": "INVALID",
-            "(^|\\.)adform\\.net$": "INVALID",
-            "(^|\\.)adocean\\.(pl)$": "INVALID",
-            "(^|\\.)adsbtrack\\.com$": "INVALID",
-            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
-            "(^|\\.)audienceinsights\\.net$": "INVALID",
-            "(^|\\.)behavioralengine\\.com$": "INVALID",
-            "(^|\\.)clickmatic\\.pl$": "INVALID",
-            "(^|\\.)doubleclick\\.(com)$": "INVALID",
-            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
-            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
-            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
-            "(^|\\.)lcx\\.pl$": "INVALID",
-            "(^|\\.)meetrics\\.net$": "INVALID",
-            "(^|\\.)mylead\\.global$": "INVALID",
-            "(^|\\.)smartadserver\\.com$": "INVALID",
-            "[imported]": "INVALID",
-            "a.aproductmsg.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "gspro.adocean.pl": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE",
-            "potwierdzoneinfo.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE",
-            "vidoza.github.io": "INACTIVE",
-            "vidoza2.github.io": "INACTIVE"
-        },
         "1579542985": {
             "ads.berlinonline.de": "INACTIVE",
             "ads.cricbuzz.com": "INACTIVE",
@@ -168,6 +133,40 @@
             "adverts.carltononline.com": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
+        },
+        "1579631048": {
+            "(^|\\.)adform\\.net$": "INVALID",
+            "(^|\\.)adocean\\.(pl)$": "INVALID",
+            "(^|\\.)adsbtrack\\.com$": "INVALID",
+            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
+            "(^|\\.)audienceinsights\\.net$": "INVALID",
+            "(^|\\.)behavioralengine\\.com$": "INVALID",
+            "(^|\\.)clickmatic\\.pl$": "INVALID",
+            "(^|\\.)doubleclick\\.(com)$": "INVALID",
+            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
+            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
+            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
+            "(^|\\.)lcx\\.pl$": "INVALID",
+            "(^|\\.)meetrics\\.net$": "INVALID",
+            "(^|\\.)mylead\\.global$": "INVALID",
+            "(^|\\.)smartadserver\\.com$": "INVALID",
+            "afi.adocean.pl": "INACTIVE",
+            "block734.oplatyi.pl": "INACTIVE",
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "gspro.adocean.pl": "INACTIVE",
+            "intactro.adocean.pl": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE",
+            "potwierdzoneinfo.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
+            "vidoza.github.io": "INACTIVE",
+            "vidoza2.github.io": "INACTIVE"
+        },
+        "1579631049": {
+            "!": "INVALID",
+            "[imported]": "INVALID",
+            "a.aproductmsg.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
