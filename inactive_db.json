@@ -174,6 +174,9 @@
         },
         "1579672460": {
             "s1.skgde.adocean.pl": "INACTIVE"
+        },
+        "1579675510": {
+            "std1.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
