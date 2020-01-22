@@ -180,6 +180,10 @@
         },
         "1579678939": {
             "o2adpl.hit.gemius.pl": "INACTIVE"
+        },
+        "1579682457": {
+            "gspro.hit.gemius.pl": "INACTIVE",
+            "gtlt.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
