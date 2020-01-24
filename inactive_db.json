@@ -134,9 +134,6 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1579804244": {
-            "filmik.pisz.pl": "INACTIVE"
-        },
         "1579808586": {
             "afi.adocean.pl": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE"
@@ -175,6 +172,9 @@
         },
         "1579812795": {
             "zobaczto.pisz.pl": "INACTIVE"
+        },
+        "1579894377": {
+            "filmik.pisz.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
