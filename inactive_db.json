@@ -200,6 +200,10 @@
         "1579952021": {
             "ringieradro.hit.gemius.pl": "INACTIVE",
             "ringieradrs.hit.gemius.pl": "INACTIVE"
+        },
+        "1579972155": {
+            "goldbach.hit.gemius.pl": "INACTIVE",
+            "s1.pracuj.adocean.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
