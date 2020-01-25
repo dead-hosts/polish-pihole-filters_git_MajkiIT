@@ -192,6 +192,10 @@
         "1579928238": {
             "sk.hit.gemius.pl": "INACTIVE",
             "slovakia.hit.gemius.pl": "INACTIVE"
+        },
+        "1579932197": {
+            "metagaua.hit.gemius.pl": "INACTIVE",
+            "mreg.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
