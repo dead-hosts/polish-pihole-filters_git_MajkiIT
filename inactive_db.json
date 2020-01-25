@@ -181,6 +181,10 @@
         },
         "1579919868": {
             "adocean-pl.hit.gemius.pl": "INACTIVE"
+        },
+        "1579924078": {
+            "adocean-ro.hit.gemius.pl": "INACTIVE",
+            "rbcgaru.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
