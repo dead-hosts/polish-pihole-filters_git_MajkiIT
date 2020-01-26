@@ -200,6 +200,9 @@
             "adocean-ro.hit.gemius.pl": "INACTIVE",
             "ua.hit.gemius.pl": "INACTIVE",
             "vbadbg.hit.gemius.pl": "INACTIVE"
+        },
+        "1580036011": {
+            "spir.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
