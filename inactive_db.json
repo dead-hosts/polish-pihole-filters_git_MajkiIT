@@ -184,6 +184,10 @@
         },
         "1580082876": {
             "zobaczto.pisz.pl": "INACTIVE"
+        },
+        "1580102187": {
+            "s1.gojobsru.adocean.pl": "INACTIVE",
+            "si.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
