@@ -134,12 +134,6 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
         },
-        "1580023548": {
-            "adocean-pl.hit.gemius.pl": "INACTIVE",
-            "adocean-ro.hit.gemius.pl": "INACTIVE",
-            "ua.hit.gemius.pl": "INACTIVE",
-            "vbadbg.hit.gemius.pl": "INACTIVE"
-        },
         "1580036011": {
             "spir.hit.gemius.pl": "INACTIVE"
         },
@@ -191,6 +185,10 @@
         },
         "1580106010": {
             "tr.hit.gemius.pl": "INACTIVE"
+        },
+        "1580113774": {
+            "ua.adocean.pl": "INACTIVE",
+            "vbbg.adocean.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
