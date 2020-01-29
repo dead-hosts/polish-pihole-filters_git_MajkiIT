@@ -192,6 +192,13 @@
         "1580267085": {
             "sportaladbg.hit.gemius.pl": "INACTIVE",
             "st.hit.gemius.pl": "INACTIVE"
+        },
+        "1580274302": {
+            "adro.hit.gemius.pl": "INACTIVE",
+            "adrs.hit.gemius.pl": "INACTIVE"
+        },
+        "1580274303": {
+            "thinkdigitaladro.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
