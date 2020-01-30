@@ -195,6 +195,9 @@
             "adocean-hr.hit.gemius.pl": "INACTIVE",
             "adocean-lt.hit.gemius.pl": "INACTIVE",
             "sk.hit.gemius.pl": "INACTIVE"
+        },
+        "1580368518": {
+            "slovakia.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
