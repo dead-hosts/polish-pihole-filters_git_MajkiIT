@@ -202,6 +202,12 @@
         "1580442680": {
             "ad.hit.gemius.pl": "INACTIVE",
             "zobaczto.pisz.pl": "INACTIVE"
+        },
+        "1580450462": {
+            "adocean-ro.hit.gemius.pl": "INACTIVE",
+            "adocean-si.hit.gemius.pl": "INACTIVE",
+            "adocean-ua.hit.gemius.pl": "INACTIVE",
+            "opt.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
