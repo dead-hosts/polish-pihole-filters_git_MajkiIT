@@ -137,9 +137,6 @@
         "1580326824": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1580511983": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
         "1580515986": {
             "filmik.pisz.pl": "INACTIVE",
             "gabg.hit.gemius.pl": "INACTIVE"
@@ -216,6 +213,9 @@
         "1580597075": {
             "vbbg.adocean.pl": "INACTIVE",
             "webgroundbg.adocean.pl": "INACTIVE"
+        },
+        "1580601549": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
