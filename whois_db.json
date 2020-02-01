@@ -742,7 +742,7 @@
     "adpenguin.biz": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adpepper.dk": {
         "epoch": 1585612800.0,
