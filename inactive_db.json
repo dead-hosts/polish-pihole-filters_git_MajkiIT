@@ -209,6 +209,9 @@
         "1580585320": {
             "s1.myao.adocean.pl": "INACTIVE",
             "s1.skgde.adocean.pl": "INACTIVE"
+        },
+        "1580589138": {
+            "ad.doctissimo.fr": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
