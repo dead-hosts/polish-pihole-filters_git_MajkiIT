@@ -137,10 +137,6 @@
         "1580326824": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1580442680": {
-            "ad.hit.gemius.pl": "INACTIVE",
-            "zobaczto.pisz.pl": "INACTIVE"
-        },
         "1580450462": {
             "adocean-ro.hit.gemius.pl": "INACTIVE",
             "adocean-si.hit.gemius.pl": "INACTIVE",
@@ -203,6 +199,9 @@
             "ua.cnt.gemius.pl": "INACTIVE",
             "vidoza.github.io": "INACTIVE",
             "vidoza2.github.io": "INACTIVE"
+        },
+        "1580531583": {
+            "zobaczto.pisz.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
