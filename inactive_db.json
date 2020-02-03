@@ -194,6 +194,14 @@
         },
         "1580677486": {
             "ad.doctissimo.fr": "INACTIVE"
+        },
+        "1580700332": {
+            "apolloadlv.hit.gemius.pl": "INACTIVE",
+            "arbo.hit.gemius.pl": "INACTIVE"
+        },
+        "1580700333": {
+            "olx.hit.gemius.pl": "INACTIVE",
+            "onet.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
