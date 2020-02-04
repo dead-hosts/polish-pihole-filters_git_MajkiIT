@@ -185,6 +185,9 @@
             "ua.cnt.gemius.pl": "INACTIVE",
             "vidoza.github.io": "INACTIVE",
             "vidoza2.github.io": "INACTIVE"
+        },
+        "1580828965": {
+            "ad.twitchguru.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
