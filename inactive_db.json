@@ -140,10 +140,26 @@
         "1580601549": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580906366": {
+        "1580914022": {
+            "ad.bnmla.com": "INACTIVE"
+        },
+        "1580917740": {
+            "ad.twitchguru.com": "INACTIVE"
+        },
+        "1580957211": {
+            "gders.hit.gemius.pl": "INACTIVE",
+            "gdetr.hit.gemius.pl": "INACTIVE",
+            "gemadhu.hit.gemius.pl": "INACTIVE",
+            "generalmediaadhu.hit.gemius.pl": "INACTIVE"
+        },
+        "1580982025": {
+            "afilv.adocean.pl": "INACTIVE",
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1580994919": {
             "afi.adocean.pl": "INACTIVE"
         },
-        "1580906367": {
+        "1580994920": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -174,25 +190,6 @@
             "vidoza.github.io": "INACTIVE",
             "vidoza2.github.io": "INACTIVE",
             "zobaczto.pisz.pl": "INACTIVE"
-        },
-        "1580906368": {
-            "a.aproductmsg.com": "INACTIVE"
-        },
-        "1580914022": {
-            "ad.bnmla.com": "INACTIVE"
-        },
-        "1580917740": {
-            "ad.twitchguru.com": "INACTIVE"
-        },
-        "1580957211": {
-            "gders.hit.gemius.pl": "INACTIVE",
-            "gdetr.hit.gemius.pl": "INACTIVE",
-            "gemadhu.hit.gemius.pl": "INACTIVE",
-            "generalmediaadhu.hit.gemius.pl": "INACTIVE"
-        },
-        "1580982025": {
-            "afilv.adocean.pl": "INACTIVE",
-            "www.mystat.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
