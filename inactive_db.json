@@ -193,6 +193,10 @@
             "gdetr.hit.gemius.pl": "INACTIVE",
             "gemadhu.hit.gemius.pl": "INACTIVE",
             "generalmediaadhu.hit.gemius.pl": "INACTIVE"
+        },
+        "1580982025": {
+            "afilv.adocean.pl": "INACTIVE",
+            "www.mystat.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
