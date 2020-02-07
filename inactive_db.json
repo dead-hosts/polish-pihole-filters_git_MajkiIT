@@ -193,6 +193,12 @@
         },
         "1581035181": {
             "ads.berlinonline.de": "INACTIVE"
+        },
+        "1581041868": {
+            "adrs.hit.gemius.pl": "INACTIVE",
+            "advicead.hit.gemius.pl": "INACTIVE",
+            "aolt.hit.gemius.pl": "INACTIVE",
+            "olx.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
