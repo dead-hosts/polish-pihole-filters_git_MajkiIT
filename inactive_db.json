@@ -193,6 +193,12 @@
             "advicead.hit.gemius.pl": "INACTIVE",
             "aolt.hit.gemius.pl": "INACTIVE",
             "olx.hit.gemius.pl": "INACTIVE"
+        },
+        "1581062890": {
+            "gatr.hit.gemius.pl": "INACTIVE",
+            "gaua.hit.gemius.pl": "INACTIVE",
+            "s1.cz.adocean.pl": "INACTIVE",
+            "s1.sk.adocean.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
