@@ -137,9 +137,6 @@
         "1580326824": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1580601549": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
         "1580957211": {
             "gders.hit.gemius.pl": "INACTIVE",
             "gdetr.hit.gemius.pl": "INACTIVE",
@@ -190,6 +187,12 @@
         },
         "1581019224": {
             "adition.de": "INACTIVE"
+        },
+        "1581035179": {
+            "ad.doctissimo.fr": "INACTIVE"
+        },
+        "1581035181": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
