@@ -137,15 +137,6 @@
         "1580326824": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1581035181": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
-        "1581041868": {
-            "adrs.hit.gemius.pl": "INACTIVE",
-            "advicead.hit.gemius.pl": "INACTIVE",
-            "aolt.hit.gemius.pl": "INACTIVE",
-            "olx.hit.gemius.pl": "INACTIVE"
-        },
         "1581062890": {
             "gatr.hit.gemius.pl": "INACTIVE",
             "gaua.hit.gemius.pl": "INACTIVE",
@@ -206,6 +197,10 @@
             "adocean-by.hit.gemius.pl": "INACTIVE",
             "adocean-cz.hit.gemius.pl": "INACTIVE",
             "seznam.hit.gemius.pl": "INACTIVE"
+        },
+        "1581129542": {
+            "ads.berlinonline.de": "INACTIVE",
+            "ads.bloomberg.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
