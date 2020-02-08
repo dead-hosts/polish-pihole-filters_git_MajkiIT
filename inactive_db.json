@@ -199,6 +199,12 @@
         "1581154650": {
             "gaba.hit.gemius.pl": "INACTIVE",
             "gabe.hit.gemius.pl": "INACTIVE"
+        },
+        "1581161873": {
+            "gaae.hit.gemius.pl": "INACTIVE"
+        },
+        "1581161874": {
+            "ad.doctissimo.fr": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
