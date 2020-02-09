@@ -218,6 +218,14 @@
         },
         "1581223356": {
             "ad.hbv.de": "INACTIVE"
+        },
+        "1581227313": {
+            "ua.adocean.pl": "INACTIVE",
+            "vbbg.adocean.pl": "INACTIVE"
+        },
+        "1581227314": {
+            "tvn.hit.gemius.pl": "INACTIVE",
+            "ua.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
