@@ -221,6 +221,12 @@
             "ua.cnt.gemius.pl": "INACTIVE",
             "vidoza.github.io": "INACTIVE",
             "vidoza2.github.io": "INACTIVE"
+        },
+        "1581269879": {
+            "adocean-lv.hit.gemius.pl": "INACTIVE",
+            "st.hit.gemius.pl": "INACTIVE",
+            "st1.hit.gemius.pl": "INACTIVE",
+            "std1.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
