@@ -227,6 +227,11 @@
             "st.hit.gemius.pl": "INACTIVE",
             "st1.hit.gemius.pl": "INACTIVE",
             "std1.hit.gemius.pl": "INACTIVE"
+        },
+        "1581277695": {
+            "180hits.de": "INACTIVE",
+            "delfilv.hit.gemius.pl": "INACTIVE",
+            "diginetlt.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
