@@ -219,6 +219,12 @@
         },
         "1581246782": {
             "delfiadlt.hit.gemius.pl": "INACTIVE"
+        },
+        "1581258324": {
+            "adocean-ua.hit.gemius.pl": "INACTIVE",
+            "adro.hit.gemius.pl": "INACTIVE",
+            "seznam.hit.gemius.pl": "INACTIVE",
+            "si.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
