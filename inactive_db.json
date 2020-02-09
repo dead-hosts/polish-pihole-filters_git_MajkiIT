@@ -137,13 +137,6 @@
         "1581188540": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1581192251": {
-            "wp.hit.gemius.pl": "INACTIVE",
-            "wykop.hit.gemius.pl": "INACTIVE"
-        },
-        "1581192252": {
-            "ad.twitchguru.com": "INACTIVE"
-        },
         "1581199978": {
             "allegro.hit.gemius.pl": "INACTIVE",
             "aripaadee.hit.gemius.pl": "INACTIVE",
@@ -232,6 +225,13 @@
             "180hits.de": "INACTIVE",
             "delfilv.hit.gemius.pl": "INACTIVE",
             "diginetlt.hit.gemius.pl": "INACTIVE"
+        },
+        "1581281828": {
+            "hr.hit.gemius.pl": "INACTIVE",
+            "hu.hit.gemius.pl": "INACTIVE"
+        },
+        "1581281829": {
+            "ad.twitchguru.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
