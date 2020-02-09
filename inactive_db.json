@@ -135,7 +135,6 @@
             "ads.forium.de": "INACTIVE"
         },
         "1581129542": {
-            "ads.berlinonline.de": "INACTIVE",
             "ads.bloomberg.com": "INACTIVE"
         },
         "1581154650": {
@@ -212,6 +211,13 @@
         "1581215619": {
             "corm.hit.gemius.pl": "INACTIVE",
             "cz.hit.gemius.pl": "INACTIVE"
+        },
+        "1581219638": {
+            "arbo.hit.gemius.pl": "INACTIVE",
+            "avt.hit.gemius.pl": "INACTIVE"
+        },
+        "1581219641": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
