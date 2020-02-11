@@ -137,9 +137,6 @@
         "1581293926": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1581316712": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
         "1581331882": {
             "ad.polskiprzemysl.com.pl": "INACTIVE",
             "banery.netart.pl": "INACTIVE",
@@ -186,6 +183,9 @@
         "1581395119": {
             "adocean-si.hit.gemius.pl": "INACTIVE",
             "onet.hit.gemius.pl": "INACTIVE"
+        },
+        "1581414154": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
