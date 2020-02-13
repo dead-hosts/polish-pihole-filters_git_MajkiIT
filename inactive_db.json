@@ -192,6 +192,9 @@
             "ghmtr.hit.gemius.pl": "INACTIVE",
             "go2.hit.gemius.pl": "INACTIVE",
             "huiwiw.hit.gemius.pl": "INACTIVE"
+        },
+        "1581593165": {
+            "openx.cda.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
