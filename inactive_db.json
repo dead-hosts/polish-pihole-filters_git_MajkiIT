@@ -178,6 +178,13 @@
         },
         "1581548438": {
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1581552151": {
+            "ghmpl.hit.gemius.pl": "INACTIVE",
+            "ghmrs.hit.gemius.pl": "INACTIVE",
+            "goldbach.hit.gemius.pl": "INACTIVE",
+            "s1.skgde.adocean.pl": "INACTIVE",
+            "sportalbg.adocean.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
