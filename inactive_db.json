@@ -185,6 +185,13 @@
             "goldbach.hit.gemius.pl": "INACTIVE",
             "s1.skgde.adocean.pl": "INACTIVE",
             "sportalbg.adocean.pl": "INACTIVE"
+        },
+        "1581585942": {
+            "gakz.hit.gemius.pl": "INACTIVE",
+            "galb.hit.gemius.pl": "INACTIVE",
+            "ghmtr.hit.gemius.pl": "INACTIVE",
+            "go2.hit.gemius.pl": "INACTIVE",
+            "huiwiw.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
