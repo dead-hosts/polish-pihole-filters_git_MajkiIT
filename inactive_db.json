@@ -199,6 +199,16 @@
             "mreg.hit.gemius.pl": "INACTIVE",
             "negadbg.hit.gemius.pl": "INACTIVE",
             "netsprint.hit.gemius.pl": "INACTIVE"
+        },
+        "1581651262": {
+            "clickad.eo.pl": "INACTIVE"
+        },
+        "1581651263": {
+            "adocean-si.hit.gemius.pl": "INACTIVE",
+            "adocean-ua.hit.gemius.pl": "INACTIVE",
+            "tvn.hit.gemius.pl": "INACTIVE",
+            "ua.hit.gemius.pl": "INACTIVE",
+            "vbadbg.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
