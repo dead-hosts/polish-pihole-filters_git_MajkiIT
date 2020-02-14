@@ -221,6 +221,10 @@
         "1581658885": {
             "see.hit.gemius.pl": "INACTIVE",
             "seznam.hit.gemius.pl": "INACTIVE"
+        },
+        "1581662822": {
+            "allegro.hit.gemius.pl": "INACTIVE",
+            "axel.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
