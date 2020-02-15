@@ -224,6 +224,12 @@
             "ua.cnt.gemius.pl": "INACTIVE",
             "vidoza.github.io": "INACTIVE",
             "vidoza2.github.io": "INACTIVE"
+        },
+        "1581803250": {
+            "24ratownik.hit.gemius.pl": "INACTIVE",
+            "adrs.hit.gemius.pl": "INACTIVE",
+            "advice.hit.gemius.pl": "INACTIVE",
+            "wykop.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
