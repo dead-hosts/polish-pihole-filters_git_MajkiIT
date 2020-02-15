@@ -230,6 +230,10 @@
             "adrs.hit.gemius.pl": "INACTIVE",
             "advice.hit.gemius.pl": "INACTIVE",
             "wykop.hit.gemius.pl": "INACTIVE"
+        },
+        "1581807277": {
+            "ad.hit.gemius.pl": "INACTIVE",
+            "hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
