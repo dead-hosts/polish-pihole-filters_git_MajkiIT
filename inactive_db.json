@@ -209,6 +209,14 @@
             "openx.cda.pl": "INACTIVE",
             "thinkdigitaladro.hit.gemius.pl": "INACTIVE",
             "tr.hit.gemius.pl": "INACTIVE"
+        },
+        "1581775301": {
+            "adocean-si.hit.gemius.pl": "INACTIVE",
+            "adocean-ua.hit.gemius.pl": "INACTIVE"
+        },
+        "1581775302": {
+            "ghmtr.hit.gemius.pl": "INACTIVE",
+            "go2.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
