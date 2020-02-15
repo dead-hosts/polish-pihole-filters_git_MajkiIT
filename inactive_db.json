@@ -200,6 +200,11 @@
         "1581752146": {
             "lt.hit.gemius.pl": "INACTIVE",
             "lv.hit.gemius.pl": "INACTIVE"
+        },
+        "1581767561": {
+            "mediaregad.hit.gemius.pl": "INACTIVE",
+            "s1.pracuj.adocean.pl": "INACTIVE",
+            "s1.skgde.adocean.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
