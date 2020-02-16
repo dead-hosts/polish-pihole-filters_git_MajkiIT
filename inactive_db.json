@@ -232,6 +232,10 @@
         "1581834515": {
             "delfiadlt.hit.gemius.pl": "INACTIVE",
             "delfiadlv.hit.gemius.pl": "INACTIVE"
+        },
+        "1581838508": {
+            "dirbg.hit.gemius.pl": "INACTIVE",
+            "edipresse.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
