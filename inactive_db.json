@@ -226,6 +226,10 @@
         "1581865313": {
             "corm.hit.gemius.pl": "INACTIVE",
             "cz.hit.gemius.pl": "INACTIVE"
+        },
+        "1581869388": {
+            "adbg.hit.gemius.pl": "INACTIVE",
+            "adcz.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
