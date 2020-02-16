@@ -230,6 +230,10 @@
         },
         "1581815267": {
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1581830776": {
+            "adlt.hit.gemius.pl": "INACTIVE",
+            "adlv.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
