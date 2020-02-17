@@ -193,6 +193,11 @@
         "1581978337": {
             "onet.hit.gemius.pl": "INACTIVE",
             "opt.hit.gemius.pl": "INACTIVE"
+        },
+        "1581982596": {
+            "adocean-ua.hit.gemius.pl": "INACTIVE",
+            "adrs.hit.gemius.pl": "INACTIVE",
+            "scz.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
