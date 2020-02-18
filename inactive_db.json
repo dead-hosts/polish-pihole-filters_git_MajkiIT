@@ -137,9 +137,6 @@
         "1581896708": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1581904473": {
-            "ad.twitchguru.com": "INACTIVE"
-        },
         "1581911948": {
             "hu.hit.gemius.pl": "INACTIVE",
             "huadn.hit.gemius.pl": "INACTIVE"
@@ -198,6 +195,13 @@
             "adocean-ua.hit.gemius.pl": "INACTIVE",
             "adrs.hit.gemius.pl": "INACTIVE",
             "scz.hit.gemius.pl": "INACTIVE"
+        },
+        "1581994063": {
+            "delfiadlt.hit.gemius.pl": "INACTIVE",
+            "delfiadlv.hit.gemius.pl": "INACTIVE"
+        },
+        "1581994064": {
+            "ad.twitchguru.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
