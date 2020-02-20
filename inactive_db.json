@@ -134,27 +134,13 @@
         "1580209662": {
             "ads.forium.de": "INACTIVE"
         },
-        "1582040245": {
-            "openx.cda.pl": "INACTIVE"
-        },
-        "1582063759": {
-            "!": "INVALID",
-            "[imported]": "INVALID"
-        },
         "1582063762": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1582067875": {
-            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
-            "afi.adocean.pl": "INACTIVE",
-            "block734.oplatyi.pl": "INACTIVE",
-            "filmik.pisz.pl": "INACTIVE",
-            "gg.mob.vendimob.pl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "zobaczto.pisz.pl": "INACTIVE"
+        "1582122368": {
+            "ads.cricbuzz.com": "INACTIVE"
         },
-        "1582067876": {
+        "1582223073": {
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
             "(^|\\.)adsbtrack\\.com$": "INVALID",
@@ -163,12 +149,25 @@
             "(^|\\.)behavioralengine\\.com$": "INVALID",
             "(^|\\.)clickmatic\\.pl$": "INVALID",
             "(^|\\.)doubleclick\\.(com)$": "INVALID",
+            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
             "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
             "(^|\\.)hit\\.interia\\.pl$": "INVALID",
             "(^|\\.)lcx\\.pl$": "INVALID",
+            "afi.adocean.pl": "INACTIVE",
+            "block734.oplatyi.pl": "INACTIVE",
+            "filmik.pisz.pl": "INACTIVE",
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE",
+            "openx.cda.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
+            "zobaczto.pisz.pl": "INACTIVE"
+        },
+        "1582223074": {
+            "!": "INVALID",
             "(^|\\.)meetrics\\.net$": "INVALID",
             "(^|\\.)mylead\\.global$": "INVALID",
             "(^|\\.)smartadserver\\.com$": "INVALID",
+            "[imported]": "INVALID",
             "counter.gemius.pl": "INACTIVE",
             "gspro.adocean.pl": "INACTIVE",
             "intactro.adocean.pl": "INACTIVE",
@@ -177,34 +176,8 @@
             "vidoza.github.io": "INACTIVE",
             "vidoza2.github.io": "INACTIVE"
         },
-        "1582083424": {
+        "1582223075": {
             "ad.twitchguru.com": "INACTIVE"
-        },
-        "1582086967": {
-            "adafi.hit.gemius.pl": "INACTIVE",
-            "adbg.hit.gemius.pl": "INACTIVE"
-        },
-        "1582086968": {
-            "seznam.hit.gemius.pl": "INACTIVE",
-            "si.hit.gemius.pl": "INACTIVE"
-        },
-        "1582090810": {
-            "adactiongapl.hit.gemius.pl": "INACTIVE",
-            "adclick.hit.gemius.pl": "INACTIVE",
-            "adcz.hit.gemius.pl": "INACTIVE"
-        },
-        "1582090811": {
-            "ls.hit.gemius.pl": "INACTIVE",
-            "lv.hit.gemius.pl": "INACTIVE"
-        },
-        "1582094766": {
-            "adhr.hit.gemius.pl": "INACTIVE",
-            "adlv.hit.gemius.pl": "INACTIVE",
-            "adnet.hit.gemius.pl": "INACTIVE",
-            "opt.hit.gemius.pl": "INACTIVE"
-        },
-        "1582122368": {
-            "ads.cricbuzz.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
