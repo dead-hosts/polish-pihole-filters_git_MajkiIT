@@ -179,6 +179,12 @@
         },
         "1582247064": {
             "adocean-ua.hit.gemius.pl": "INACTIVE"
+        },
+        "1582253407": {
+            "diginetlt.hit.gemius.pl": "INACTIVE",
+            "digital4adro.hit.gemius.pl": "INACTIVE",
+            "webgroundadbg.hit.gemius.pl": "INACTIVE",
+            "wp.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
