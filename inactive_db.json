@@ -193,6 +193,10 @@
         },
         "1582266508": {
             "gask.hit.gemius.pl": "INACTIVE"
+        },
+        "1582272940": {
+            "bestjobs.hit.gemius.pl": "INACTIVE",
+            "bg.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
