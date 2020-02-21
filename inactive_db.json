@@ -134,9 +134,6 @@
         "1580209662": {
             "ads.forium.de": "INACTIVE"
         },
-        "1582226915": {
-            "ads.cricbuzz.com": "INACTIVE"
-        },
         "1582247064": {
             "adocean-ua.hit.gemius.pl": "INACTIVE"
         },
@@ -205,6 +202,12 @@
         },
         "1582313880": {
             "ads.berlinonline.de": "INACTIVE"
+        },
+        "1582317205": {
+            "ad.bnmla.com": "INACTIVE"
+        },
+        "1582317207": {
+            "ads.cricbuzz.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
