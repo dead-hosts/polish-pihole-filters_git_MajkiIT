@@ -210,6 +210,12 @@
         },
         "1582356478": {
             "ghmtr.hit.gemius.pl": "INACTIVE"
+        },
+        "1582391755": {
+            "adactiongapl.hit.gemius.pl": "INACTIVE",
+            "adafi.hit.gemius.pl": "INACTIVE",
+            "str.hit.gemius.pl": "INACTIVE",
+            "stua.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
