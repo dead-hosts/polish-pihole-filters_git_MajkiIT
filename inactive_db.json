@@ -205,6 +205,14 @@
         },
         "1582317207": {
             "ads.cricbuzz.com": "INACTIVE"
+        },
+        "1582338281": {
+            "thinkdigitalro.adocean.pl": "INACTIVE",
+            "trgde.adocean.pl": "INACTIVE"
+        },
+        "1582338282": {
+            "scz.hit.gemius.pl": "INACTIVE",
+            "see.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
