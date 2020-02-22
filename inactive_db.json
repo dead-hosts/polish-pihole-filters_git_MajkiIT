@@ -137,9 +137,6 @@
         "1582313880": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1582317205": {
-            "ad.bnmla.com": "INACTIVE"
-        },
         "1582317207": {
             "ads.cricbuzz.com": "INACTIVE"
         },
@@ -221,6 +218,12 @@
             "180hits.de": "INACTIVE",
             "gabe.hit.gemius.pl": "INACTIVE",
             "gabg.hit.gemius.pl": "INACTIVE"
+        },
+        "1582407933": {
+            "s1.my.adocean.pl": "INACTIVE",
+            "si.adocean.pl": "INACTIVE",
+            "spir.hit.gemius.pl": "INACTIVE",
+            "spl.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
