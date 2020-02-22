@@ -195,9 +195,9 @@
         "state": "future"
     },
     "abz.com": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
-        "state": "past"
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
     },
     "actionsplash.com": {
         "epoch": 1592006400.0,
