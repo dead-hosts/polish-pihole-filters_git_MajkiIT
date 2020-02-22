@@ -216,6 +216,11 @@
         },
         "1582399771": {
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1582403730": {
+            "180hits.de": "INACTIVE",
+            "gabe.hit.gemius.pl": "INACTIVE",
+            "gabg.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
