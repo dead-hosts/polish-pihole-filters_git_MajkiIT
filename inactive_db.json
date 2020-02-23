@@ -222,6 +222,10 @@
         "1582473980": {
             "adhr.hit.gemius.pl": "INACTIVE",
             "adlt.hit.gemius.pl": "INACTIVE"
+        },
+        "1582485997": {
+            "ro1ro.adocean.pl": "INACTIVE",
+            "rogde.adocean.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
