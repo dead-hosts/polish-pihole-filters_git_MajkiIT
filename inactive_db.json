@@ -192,6 +192,13 @@
         "1582601234": {
             "gadnet.hit.gemius.pl": "INACTIVE",
             "gahu.hit.gemius.pl": "INACTIVE"
+        },
+        "1582609277": {
+            "adlt.hit.gemius.pl": "INACTIVE",
+            "adlv.hit.gemius.pl": "INACTIVE"
+        },
+        "1582609278": {
+            "webgroundadbg.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
