@@ -193,6 +193,10 @@
         },
         "1582593024": {
             "ads.berlinonline.de": "INACTIVE"
+        },
+        "1582601234": {
+            "gadnet.hit.gemius.pl": "INACTIVE",
+            "gahu.hit.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
