@@ -582,7 +582,7 @@
     "adloox.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adlooxtracking.com": {
         "epoch": 1629244800.0,
