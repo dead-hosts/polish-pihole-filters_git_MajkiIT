@@ -189,6 +189,13 @@
         },
         "1582796903": {
             "panel.adtify.pl": "INACTIVE"
+        },
+        "1582807633": {
+            "blitzadbg.hit.gemius.pl": "INACTIVE",
+            "ghm_bulgaria.hit.gemius.pl": "INACTIVE"
+        },
+        "1582807634": {
+            "180hits.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
