@@ -165,9 +165,9 @@
         "state": "future"
     },
     "aaddzz.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
-        "state": "past"
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
     },
     "abacho.net": {
         "epoch": 1600214400.0,
@@ -1460,8 +1460,8 @@
         "state": "future"
     },
     "ankieta-online.pl": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "antyspam.net": {
