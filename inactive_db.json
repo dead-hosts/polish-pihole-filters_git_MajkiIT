@@ -137,9 +137,6 @@
         "1583031062": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1583096409": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
         "1583141200": {
             "ad.mgd.de": "INACTIVE"
         },
@@ -180,6 +177,9 @@
             "ad.twitchguru.com": "INACTIVE",
             "counter.gemius.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1583184596": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
