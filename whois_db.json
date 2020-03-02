@@ -280,9 +280,9 @@
         "state": "future"
     },
     "ad4mat.net": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
-        "state": "past"
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
     },
     "adadvisor.net": {
         "epoch": 1649376000.0,
@@ -445,9 +445,9 @@
         "state": "future"
     },
     "adflight.com": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
-        "state": "past"
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
     },
     "adforce.com": {
         "epoch": 1596326400.0,
