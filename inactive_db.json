@@ -134,7 +134,16 @@
         "1580209662": {
             "ads.forium.de": "INACTIVE"
         },
-        "1583180273": {
+        "1583184596": {
+            "ads.berlinonline.de": "INACTIVE"
+        },
+        "1583188834": {
+            "ads.cricbuzz.com": "INACTIVE"
+        },
+        "1583209459": {
+            "ads.brabys.com": "INACTIVE"
+        },
+        "1583270329": {
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
             "(^|\\.)adsbtrack\\.com$": "INVALID",
@@ -164,22 +173,15 @@
             "vidoza2.github.io": "INACTIVE",
             "zobaczto.pisz.pl": "INACTIVE"
         },
-        "1583180274": {
+        "1583270330": {
             "!": "INVALID",
             "[imported]": "INVALID",
             "abandonedclover.com": "INACTIVE",
-            "ad.twitchguru.com": "INACTIVE",
             "counter.gemius.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
         },
-        "1583184596": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
-        "1583188834": {
-            "ads.cricbuzz.com": "INACTIVE"
-        },
-        "1583209459": {
-            "ads.brabys.com": "INACTIVE"
+        "1583270331": {
+            "ad.twitchguru.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
