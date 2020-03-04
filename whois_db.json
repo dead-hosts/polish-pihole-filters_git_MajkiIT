@@ -275,9 +275,9 @@
         "state": "future"
     },
     "ad4mat.com": {
-        "epoch": 1583193600.0,
-        "expiration_date": "03-mar-2020",
-        "state": "past"
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
     },
     "ad4mat.net": {
         "epoch": 1614556800.0,
