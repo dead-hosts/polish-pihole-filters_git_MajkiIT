@@ -134,7 +134,20 @@
         "1580209662": {
             "ads.forium.de": "INACTIVE"
         },
-        "1583446202": {
+        "1583454441": {
+            "ads.berlinonline.de": "INACTIVE"
+        },
+        "1583499276": {
+            "ads.cricbuzz.com": "INACTIVE"
+        },
+        "1583503585": {
+            "ad.bnmla.com": "INACTIVE"
+        },
+        "1583537781": {
+            "afi.adocean.pl": "INACTIVE"
+        },
+        "1583537782": {
+            "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
             "(^|\\.)adsbtrack\\.com$": "INVALID",
@@ -150,38 +163,25 @@
             "(^|\\.)meetrics\\.net$": "INVALID",
             "(^|\\.)mylead\\.global$": "INVALID",
             "(^|\\.)smartadserver\\.com$": "INVALID",
-            "afi.adocean.pl": "INACTIVE",
+            "[imported]": "INVALID",
             "block734.oplatyi.pl": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
             "filmik.pisz.pl": "INACTIVE",
             "gg.mob.vendimob.pl": "INACTIVE",
             "gspro.adocean.pl": "INACTIVE",
+            "intactro.adocean.pl": "INACTIVE",
             "new.smartcontext.pl": "INACTIVE",
             "openx.cda.pl": "INACTIVE",
             "potwierdzoneinfo.pl": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE",
             "vidoza.github.io": "INACTIVE",
             "vidoza2.github.io": "INACTIVE",
             "zobaczto.pisz.pl": "INACTIVE"
         },
-        "1583446203": {
-            "!": "INVALID",
-            "[imported]": "INVALID",
+        "1583537783": {
             "abandonedclover.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1583446204": {
             "ad.twitchguru.com": "INACTIVE"
-        },
-        "1583454441": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
-        "1583499276": {
-            "ads.cricbuzz.com": "INACTIVE"
-        },
-        "1583503585": {
-            "ad.bnmla.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
