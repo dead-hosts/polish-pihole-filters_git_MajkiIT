@@ -137,9 +137,6 @@
         "1583903173": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1584020898": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
         "1584070212": {
             "afi.adocean.pl": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE"
@@ -181,6 +178,9 @@
         },
         "1584081979": {
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1584109979": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
