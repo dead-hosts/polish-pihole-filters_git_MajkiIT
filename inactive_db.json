@@ -182,6 +182,9 @@
             "!": "INVALID",
             "[imported]": "INVALID",
             "abandonedclover.com": "INACTIVE"
+        },
+        "1584518518": {
+            "ad.hodomobile.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
