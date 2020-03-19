@@ -137,9 +137,6 @@
         "1584507608": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1584526018": {
-            "ad.twitchguru.com": "INACTIVE"
-        },
         "1584565756": {
             "ads.berlinonline.de": "INACTIVE"
         },
@@ -182,6 +179,9 @@
             "!": "INVALID",
             "[imported]": "INVALID",
             "abandonedclover.com": "INACTIVE"
+        },
+        "1584616042": {
+            "ad.twitchguru.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
