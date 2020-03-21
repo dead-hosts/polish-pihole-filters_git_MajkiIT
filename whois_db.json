@@ -5830,9 +5830,9 @@
         "state": "future"
     },
     "potwierdzoneinfo.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
     },
     "practicetoothpaste.com": {
         "epoch": 1582675200.0,
