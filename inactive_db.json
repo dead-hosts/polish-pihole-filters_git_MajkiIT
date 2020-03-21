@@ -137,15 +137,6 @@
         "1584658937": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1584671117": {
-            "ads.com.com": "INACTIVE"
-        },
-        "1584675110": {
-            "ad-serverparc.nl": "INACTIVE"
-        },
-        "1584675112": {
-            "ads.brabys.com": "INACTIVE"
-        },
         "1584690111": {
             "afi.adocean.pl": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
@@ -190,6 +181,9 @@
         },
         "1584749147": {
             "ads.berlinonline.de": "INACTIVE"
+        },
+        "1584764463": {
+            "ad-serverparc.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
