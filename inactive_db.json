@@ -137,9 +137,6 @@
         "1584901569": {
             "ads.cricbuzz.com": "INACTIVE"
         },
-        "1584926542": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
         "1584942342": {
             "ad-serverparc.nl": "INACTIVE"
         },
@@ -187,6 +184,9 @@
         },
         "1585012103": {
             "ad.profiwin.de": "INACTIVE"
+        },
+        "1585016259": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
