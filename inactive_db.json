@@ -139,11 +139,7 @@
         },
         "1585150319": {
             "!": "INVALID",
-            "[imported]": "INVALID",
-            "abandonedclover.com": "INACTIVE"
-        },
-        "1585150320": {
-            "ad.twitchguru.com": "INACTIVE"
+            "[imported]": "INVALID"
         },
         "1585153288": {
             "afi.adocean.pl": "INACTIVE",
@@ -184,6 +180,10 @@
         },
         "1585208929": {
             "ad-serverparc.nl": "INACTIVE"
+        },
+        "1585237023": {
+            "abandonedclover.com": "INACTIVE",
+            "ad.twitchguru.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
