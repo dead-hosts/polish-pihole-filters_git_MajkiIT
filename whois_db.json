@@ -530,8 +530,8 @@
         "state": "future"
     },
     "adizio.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "adjix.com": {
@@ -682,7 +682,7 @@
     "adnet.biz": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adnet.ru": {
         "epoch": 1589673600.0,
