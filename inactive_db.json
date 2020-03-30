@@ -137,10 +137,6 @@
         "1585392703": {
             "ads.dazoot.ro": "INACTIVE"
         },
-        "1585500202": {
-            "abandonedclover.com": "INACTIVE",
-            "ad.twitchguru.com": "INACTIVE"
-        },
         "1585504412": {
             "!": "INVALID",
             "(^|\\.)adform\\.net$": "INVALID",
@@ -187,6 +183,10 @@
         },
         "1585560712": {
             "ad-serverparc.nl": "INACTIVE"
+        },
+        "1585588148": {
+            "abandonedclover.com": "INACTIVE",
+            "ad.twitchguru.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
