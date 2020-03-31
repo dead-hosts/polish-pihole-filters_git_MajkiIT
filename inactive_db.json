@@ -134,40 +134,6 @@
         "1580209662": {
             "ads.forium.de": "INACTIVE"
         },
-        "1585592233": {
-            "(^|\\.)adform\\.net$": "INVALID",
-            "(^|\\.)adocean\\.(pl)$": "INVALID",
-            "(^|\\.)adsbtrack\\.com$": "INVALID",
-            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
-            "(^|\\.)audienceinsights\\.net$": "INVALID",
-            "(^|\\.)behavioralengine\\.com$": "INVALID",
-            "(^|\\.)clickmatic\\.pl$": "INVALID",
-            "(^|\\.)doubleclick\\.(com)$": "INVALID",
-            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
-            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
-            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
-            "(^|\\.)lcx\\.pl$": "INVALID",
-            "(^|\\.)meetrics\\.net$": "INVALID",
-            "(^|\\.)mylead\\.global$": "INVALID",
-            "(^|\\.)smartadserver\\.com$": "INVALID",
-            "block734.oplatyi.pl": "INACTIVE",
-            "filmik.pisz.pl": "INACTIVE",
-            "gg.mob.vendimob.pl": "INACTIVE",
-            "gspro.adocean.pl": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "openx.cda.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "vidoza.github.io": "INACTIVE",
-            "vidoza2.github.io": "INACTIVE",
-            "zobaczto.pisz.pl": "INACTIVE"
-        },
-        "1585592234": {
-            "!": "INVALID",
-            "[imported]": "INVALID",
-            "counter.gemius.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1585596392": {
             "afi.adocean.pl": "INACTIVE"
         },
@@ -187,6 +153,40 @@
         },
         "1585678548": {
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1585682172": {
+            "block734.oplatyi.pl": "INACTIVE",
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE",
+            "openx.cda.pl": "INACTIVE"
+        },
+        "1585682173": {
+            "!": "INVALID",
+            "(^|\\.)adform\\.net$": "INVALID",
+            "(^|\\.)adocean\\.(pl)$": "INVALID",
+            "(^|\\.)adsbtrack\\.com$": "INVALID",
+            "(^|\\.)adserver\\.snapads\\.com$": "INVALID",
+            "(^|\\.)audienceinsights\\.net$": "INVALID",
+            "(^|\\.)behavioralengine\\.com$": "INVALID",
+            "(^|\\.)clickmatic\\.pl$": "INVALID",
+            "(^|\\.)doubleclick\\.(com)$": "INVALID",
+            "(^|\\.)gemius\\.(com|pl)$": "INVALID",
+            "(^|\\.)hit\\.gemius\\.pl$": "INVALID",
+            "(^|\\.)hit\\.interia\\.pl$": "INVALID",
+            "(^|\\.)lcx\\.pl$": "INVALID",
+            "(^|\\.)meetrics\\.net$": "INVALID",
+            "(^|\\.)mylead\\.global$": "INVALID",
+            "(^|\\.)smartadserver\\.com$": "INVALID",
+            "[imported]": "INVALID",
+            "counter.gemius.pl": "INACTIVE",
+            "filmik.pisz.pl": "INACTIVE",
+            "gspro.adocean.pl": "INACTIVE",
+            "intactro.adocean.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE",
+            "vidoza.github.io": "INACTIVE",
+            "vidoza2.github.io": "INACTIVE",
+            "zobaczto.pisz.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
