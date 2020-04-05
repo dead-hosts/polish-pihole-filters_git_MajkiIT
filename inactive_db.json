@@ -177,6 +177,9 @@
             "ads.bluelithium.com": "INACTIVE",
             "ads.cricbuzz.com": "INACTIVE",
             "ads.dazoot.ro": "INACTIVE"
+        },
+        "1586066486": {
+            "ad.thewheelof.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
