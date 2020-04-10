@@ -137,12 +137,6 @@
         "1586226401": {
             "ads.dazoot.ro": "INACTIVE"
         },
-        "1586386950": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
-        "1586393513": {
-            "ads.bluelithium.com": "INACTIVE"
-        },
         "1586403429": {
             "adition.de": "INACTIVE"
         },
@@ -190,6 +184,10 @@
             "ad-serverparc.nl": "INACTIVE",
             "ad.thewheelof.com": "INACTIVE",
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1586484289": {
+            "ads.berlinonline.de": "INACTIVE",
+            "ads.bluelithium.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
