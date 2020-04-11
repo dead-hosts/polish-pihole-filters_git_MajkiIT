@@ -186,6 +186,9 @@
         "1586579439": {
             "ads.cricbuzz.com": "INACTIVE",
             "ads.dazoot.ro": "INACTIVE"
+        },
+        "1586632000": {
+            "ad.doctissimo.fr": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
