@@ -3592,7 +3592,7 @@
     "gem.pl": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "gemius.pl": {
         "epoch": 1621036800.0,
@@ -4442,7 +4442,7 @@
     "leadmy.pl": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "leadplace.fr": {
         "epoch": 1599264000.0,
