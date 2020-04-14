@@ -138,9 +138,6 @@
             "ads.cricbuzz.com": "INACTIVE",
             "ads.dazoot.ro": "INACTIVE"
         },
-        "1586725132": {
-            "ads.berlinonline.de": "INACTIVE"
-        },
         "1586792615": {
             "ads.bluelithium.com": "INACTIVE",
             "ads.bluesq.com": "INACTIVE"
@@ -188,6 +185,9 @@
             "ad-serverparc.nl": "INACTIVE",
             "ad.thewheelof.com": "INACTIVE",
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1586846164": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
