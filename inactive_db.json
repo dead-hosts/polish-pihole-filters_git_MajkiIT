@@ -138,9 +138,6 @@
             "ads.cricbuzz.com": "INACTIVE",
             "ads.dazoot.ro": "INACTIVE"
         },
-        "1586823973": {
-            "ad.doctissimo.fr": "INACTIVE"
-        },
         "1586832938": {
             "(^|\\.)adform\\.net$": "INVALID",
             "(^|\\.)adocean\\.(pl)$": "INVALID",
@@ -191,6 +188,12 @@
         "1586882977": {
             "ads.bluelithium.com": "INACTIVE",
             "ads.bluesq.com": "INACTIVE"
+        },
+        "1586914174": {
+            "ad.doctissimo.fr": "INACTIVE"
+        },
+        "1586914176": {
+            "ads.brabys.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
