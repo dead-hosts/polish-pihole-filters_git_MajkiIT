@@ -139,8 +139,6 @@
             "ads.cricbuzz.com": "INACTIVE"
         },
         "1586976206": {
-            "ads.bluelithium.com": "INACTIVE",
-            "ads.bluesq.com": "INACTIVE",
             "ads.dazoot.ro": "INACTIVE"
         },
         "1587004184": {
@@ -196,6 +194,10 @@
         },
         "1587066409": {
             "adnet.worldreviewer.com": "INACTIVE"
+        },
+        "1587084916": {
+            "ads.bluelithium.com": "INACTIVE",
+            "ads.bluesq.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
