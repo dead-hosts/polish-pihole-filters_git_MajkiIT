@@ -134,10 +134,6 @@
         "1580209662": {
             "ads.forium.de": "INACTIVE"
         },
-        "1587040283": {
-            "ads.berlinonline.de": "INACTIVE",
-            "ads.bloomberg.com": "INACTIVE"
-        },
         "1587066409": {
             "adnet.worldreviewer.com": "INACTIVE"
         },
@@ -193,6 +189,9 @@
             "ads.brabys.com": "INACTIVE",
             "ads.cricbuzz.com": "INACTIVE",
             "ads.dazoot.ro": "INACTIVE"
+        },
+        "1587138204": {
+            "ads.berlinonline.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
