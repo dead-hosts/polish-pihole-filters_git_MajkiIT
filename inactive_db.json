@@ -135,7 +135,6 @@
             "ads.forium.de": "INACTIVE"
         },
         "1587102456": {
-            "ads.cricbuzz.com": "INACTIVE",
             "ads.dazoot.ro": "INACTIVE"
         },
         "1587138204": {
@@ -194,6 +193,9 @@
         },
         "1587192216": {
             "ads.brabys.com": "INACTIVE"
+        },
+        "1587201093": {
+            "ads.cricbuzz.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/polish-pihole-filters.list": {
