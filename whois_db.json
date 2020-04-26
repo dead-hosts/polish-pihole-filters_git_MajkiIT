@@ -140,9 +140,9 @@
         "state": "future"
     },
     "99count.com": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
-        "state": "past"
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
     },
     "9utwbj08.top": {
         "epoch": 1579651200.0,
@@ -315,8 +315,8 @@
         "state": "future"
     },
     "adboost.net": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "adbooth.net": {
@@ -560,8 +560,8 @@
         "state": "future"
     },
     "adkontekst.pl": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "adland.ru": {
@@ -705,8 +705,8 @@
         "state": "future"
     },
     "adnotch.com": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "adnxs.com": {
@@ -720,8 +720,8 @@
         "state": "future"
     },
     "adonspot.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "adoperator.com": {
