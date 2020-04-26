@@ -182,6 +182,13 @@
             "last_retested_at_iso": "2020-04-26T18:33:12.622058",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1587933099.816991,
+            "included_at_iso": "2020-04-26T20:31:39.816991",
+            "last_retested_at_epoch": 1587933099.816991,
+            "last_retested_at_iso": "2020-04-26T20:31:39.816991",
+            "status": "INACTIVE"
+        },
         "ads.forium.de": {
             "included_at_epoch": 1587925992.671388,
             "included_at_iso": "2020-04-26T18:33:12.671388",
@@ -208,6 +215,13 @@
             "included_at_iso": "2020-04-18T06:43:34",
             "last_retested_at_epoch": 1587925989.959621,
             "last_retested_at_iso": "2020-04-26T18:33:09.959621",
+            "status": "INACTIVE"
+        },
+        "d1.abtshield.com": {
+            "included_at_epoch": 1587933096.760778,
+            "included_at_iso": "2020-04-26T20:31:36.760778",
+            "last_retested_at_epoch": 1587933096.760778,
+            "last_retested_at_iso": "2020-04-26T20:31:36.760778",
             "status": "INACTIVE"
         },
         "filmik.pisz.pl": {
