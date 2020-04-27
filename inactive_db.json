@@ -189,13 +189,6 @@
             "last_retested_at_iso": "2020-04-27T19:29:03.816587",
             "status": "INACTIVE"
         },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1587933099.816991,
-            "included_at_iso": "2020-04-26T20:31:39.816991",
-            "last_retested_at_epoch": 1587933099.816991,
-            "last_retested_at_iso": "2020-04-26T20:31:39.816991",
-            "status": "INACTIVE"
-        },
         "ads.forium.de": {
             "included_at_epoch": 1587925992.671388,
             "included_at_iso": "2020-04-26T18:33:12.671388",
