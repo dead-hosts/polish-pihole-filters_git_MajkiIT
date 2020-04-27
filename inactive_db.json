@@ -133,6 +133,13 @@
             "last_retested_at_iso": "2020-04-26T18:33:10.887842",
             "status": "INACTIVE"
         },
+        "adidm07.idmnet.pl": {
+            "included_at_epoch": 1587947998.148962,
+            "included_at_iso": "2020-04-27T00:39:58.148962",
+            "last_retested_at_epoch": 1587947998.148962,
+            "last_retested_at_iso": "2020-04-27T00:39:58.148962",
+            "status": "INACTIVE"
+        },
         "adk2ads.tictacti.com": {
             "included_at_epoch": 1587925991.772858,
             "included_at_iso": "2020-04-26T18:33:11.772858",

@@ -427,12 +427,12 @@
     "adexchangegate.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "adexchangeprediction.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "adexcite.com": {
         "epoch": 1602374400.0,
@@ -702,7 +702,7 @@
     "adnetworkperformance.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "adnotch.com": {
         "epoch": 1619136000.0,
