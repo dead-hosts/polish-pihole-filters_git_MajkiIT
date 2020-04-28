@@ -231,6 +231,13 @@
             "last_retested_at_iso": "2020-04-27T19:29:01.051774",
             "status": "INACTIVE"
         },
+        "d1.abtshield.com": {
+            "included_at_epoch": 1588077327.057685,
+            "included_at_iso": "2020-04-28T12:35:27.057685",
+            "last_retested_at_epoch": 1588077327.057685,
+            "last_retested_at_iso": "2020-04-28T12:35:27.057685",
+            "status": "INACTIVE"
+        },
         "delfilt.adocean.pl": {
             "included_at_epoch": 1588003363.702833,
             "included_at_iso": "2020-04-27T16:02:43.702833",
