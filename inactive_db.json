@@ -238,13 +238,6 @@
             "last_retested_at_iso": "2020-04-28T12:35:27.057685",
             "status": "INACTIVE"
         },
-        "delfilt.adocean.pl": {
-            "included_at_epoch": 1588003363.702833,
-            "included_at_iso": "2020-04-27T16:02:43.702833",
-            "last_retested_at_epoch": 1588003363.702833,
-            "last_retested_at_iso": "2020-04-27T16:02:43.702833",
-            "status": "INACTIVE"
-        },
         "filmik.pisz.pl": {
             "included_at_epoch": 1587192213.0,
             "included_at_iso": "2020-04-18T06:43:33",
