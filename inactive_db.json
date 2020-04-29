@@ -196,13 +196,6 @@
             "last_retested_at_iso": "2020-04-28T19:44:56.780845",
             "status": "INACTIVE"
         },
-        "adserver.swiatobrazu.pl": {
-            "included_at_epoch": 1588040359.504535,
-            "included_at_iso": "2020-04-28T02:19:19.504535",
-            "last_retested_at_epoch": 1588040359.504535,
-            "last_retested_at_iso": "2020-04-28T02:19:19.504535",
-            "status": "INACTIVE"
-        },
         "afi.adocean.pl": {
             "included_at_epoch": 1587192213.0,
             "included_at_iso": "2020-04-18T06:43:33",
