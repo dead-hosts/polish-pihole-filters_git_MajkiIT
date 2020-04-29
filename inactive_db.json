@@ -238,13 +238,6 @@
             "last_retested_at_iso": "2020-04-28T19:44:53.935696",
             "status": "INACTIVE"
         },
-        "d1.abtshield.com": {
-            "included_at_epoch": 1588077327.057685,
-            "included_at_iso": "2020-04-28T12:35:27.057685",
-            "last_retested_at_epoch": 1588077327.057685,
-            "last_retested_at_iso": "2020-04-28T12:35:27.057685",
-            "status": "INACTIVE"
-        },
         "filmik.pisz.pl": {
             "included_at_epoch": 1587192213.0,
             "included_at_iso": "2020-04-18T06:43:33",
