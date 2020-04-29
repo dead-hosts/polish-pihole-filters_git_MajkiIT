@@ -280,6 +280,13 @@
             "last_retested_at_iso": "2020-04-28T19:44:53.424719",
             "status": "INACTIVE"
         },
+        "s1.gratkapl.adocean.pl": {
+            "included_at_epoch": 1588143100.085333,
+            "included_at_iso": "2020-04-29T06:51:40.085333",
+            "last_retested_at_epoch": 1588143100.085333,
+            "last_retested_at_iso": "2020-04-29T06:51:40.085333",
+            "status": "INACTIVE"
+        },
         "show.smartcontext.pl": {
             "included_at_epoch": 1587192213.0,
             "included_at_iso": "2020-04-18T06:43:33",
