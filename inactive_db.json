@@ -140,13 +140,6 @@
             "last_retested_at_iso": "2020-04-28T18:26:36.722124",
             "status": "INACTIVE"
         },
-        "adidm.idmnet.pl": {
-            "included_at_epoch": 1588036185.64026,
-            "included_at_iso": "2020-04-28T01:09:45.640260",
-            "last_retested_at_epoch": 1588036185.64026,
-            "last_retested_at_iso": "2020-04-28T01:09:45.640260",
-            "status": "INACTIVE"
-        },
         "adk2ads.tictacti.com": {
             "included_at_epoch": 1587925991.772858,
             "included_at_iso": "2020-04-26T18:33:11.772858",
@@ -194,13 +187,6 @@
             "included_at_iso": "2020-04-18T10:22:21",
             "last_retested_at_epoch": 1588103096.730712,
             "last_retested_at_iso": "2020-04-28T19:44:56.730712",
-            "status": "INACTIVE"
-        },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1588036189.14174,
-            "included_at_iso": "2020-04-28T01:09:49.141740",
-            "last_retested_at_epoch": 1588036189.14174,
-            "last_retested_at_iso": "2020-04-28T01:09:49.141740",
             "status": "INACTIVE"
         },
         "ads.forium.de": {
