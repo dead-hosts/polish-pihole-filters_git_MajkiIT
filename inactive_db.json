@@ -192,15 +192,8 @@
         "ads.forium.de": {
             "included_at_epoch": 1587925992.671388,
             "included_at_iso": "2020-04-26T18:33:12.671388",
-            "last_retested_at_epoch": 1588103096.780845,
-            "last_retested_at_iso": "2020-04-28T19:44:56.780845",
-            "status": "INACTIVE"
-        },
-        "ads.harpers.org": {
-            "included_at_epoch": 1588139234.701105,
-            "included_at_iso": "2020-04-29T05:47:14.701105",
-            "last_retested_at_epoch": 1588139234.701105,
-            "last_retested_at_iso": "2020-04-29T05:47:14.701105",
+            "last_retested_at_epoch": 1588251580.376271,
+            "last_retested_at_iso": "2020-04-30T12:59:40.376271",
             "status": "INACTIVE"
         },
         "afi.adocean.pl": {
