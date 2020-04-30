@@ -133,6 +133,20 @@
             "last_retested_at_iso": "2020-04-30T11:58:34.496391",
             "status": "INACTIVE"
         },
+        "adfarm.mediaplex.com": {
+            "included_at_epoch": 1588284104.410501,
+            "included_at_iso": "2020-04-30T22:01:44.410501",
+            "last_retested_at_epoch": 1588284104.410501,
+            "last_retested_at_iso": "2020-04-30T22:01:44.410501",
+            "status": "INACTIVE"
+        },
+        "adidm07.idmnet.pl": {
+            "included_at_epoch": 1588284102.202219,
+            "included_at_iso": "2020-04-30T22:01:42.202219",
+            "last_retested_at_epoch": 1588284102.202219,
+            "last_retested_at_iso": "2020-04-30T22:01:42.202219",
+            "status": "INACTIVE"
+        },
         "adk2ads.tictacti.com": {
             "included_at_epoch": 1587925991.772858,
             "included_at_iso": "2020-04-26T18:33:11.772858",
