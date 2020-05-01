@@ -196,6 +196,13 @@
             "last_retested_at_iso": "2020-04-30T11:58:36.343763",
             "status": "INACTIVE"
         },
+        "ads.detelefoongids.nl": {
+            "included_at_epoch": 1588323274.483182,
+            "included_at_iso": "2020-05-01T08:54:34.483182",
+            "last_retested_at_epoch": 1588323274.483182,
+            "last_retested_at_iso": "2020-05-01T08:54:34.483182",
+            "status": "INACTIVE"
+        },
         "ads.edbindex.dk": {
             "included_at_epoch": 1588131422.702125,
             "included_at_iso": "2020-04-29T03:37:02.702125",
