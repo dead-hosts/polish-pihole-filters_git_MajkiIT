@@ -1,4 +1,4 @@
-#202005020101
+#202005031338
 # Polish filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -194,7 +194,6 @@
 # [Privacy]
 0.0.0.0 ew1.dms-gld.bigdata.ssp.samsung.com
 0.0.0.0 promo.webpayments.closeby.internet.apps.samsung.com
-0.0.0.0 s-pt.ppstatic.pl
 0.0.0.0 iwa.hit.interia.pl
 #
 # [Random ADS]
