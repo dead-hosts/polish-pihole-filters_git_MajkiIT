@@ -3445,8 +3445,8 @@
         "state": "future"
     },
     "fleshlightcash.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "flexbanner.com": {
@@ -3465,8 +3465,8 @@
         "state": "future"
     },
     "flurry.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "foresee.com": {
@@ -3870,8 +3870,8 @@
         "state": "future"
     },
     "hitbox.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "hitfarm.com": {
@@ -3880,8 +3880,8 @@
         "state": "future"
     },
     "hitiz.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "hitlist.ru": {
@@ -4052,7 +4052,7 @@
     "identads.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "idtargeting.com": {
         "epoch": 1604275200.0,
@@ -4805,8 +4805,8 @@
         "state": "future"
     },
     "mediatext.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "mediatrking.com": {
@@ -5115,8 +5115,8 @@
         "state": "future"
     },
     "namimedia.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "nastydollars.com": {
@@ -5820,8 +5820,8 @@
         "state": "future"
     },
     "pop-under.ru": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "popads.net": {
@@ -5845,8 +5845,8 @@
         "state": "future"
     },
     "popunder.ru": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "popupmoney.com": {
