@@ -2057,7 +2057,7 @@
     "casalmedia.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cash4members.com": {
         "epoch": 1596672000.0,
@@ -2172,7 +2172,7 @@
     "chiefcurrent.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "chitika.net": {
         "epoch": 1611878400.0,
@@ -2827,7 +2827,7 @@
     "digitalmerkat.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "direct-xxx-access.com": {
         "epoch": 1608249600.0,
@@ -3275,8 +3275,8 @@
         "state": "future"
     },
     "experteerads.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "exponea.com": {
@@ -4372,7 +4372,7 @@
     "karonty.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "kaunairu.net": {
         "epoch": 1605484800.0,
@@ -4415,8 +4415,8 @@
         "state": "future"
     },
     "kompasads.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "konkursikowo.pl": {
@@ -4765,8 +4765,8 @@
         "state": "future"
     },
     "mediabridge.cc": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "mediacharger.com": {
