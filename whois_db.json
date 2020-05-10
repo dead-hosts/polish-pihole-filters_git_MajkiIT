@@ -2055,9 +2055,9 @@
         "state": "future"
     },
     "casalmedia.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "cash4members.com": {
         "epoch": 1596672000.0,
@@ -2825,9 +2825,9 @@
         "state": "future"
     },
     "digitalmerkat.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "direct-xxx-access.com": {
         "epoch": 1608249600.0,
@@ -4370,9 +4370,9 @@
         "state": "future"
     },
     "karonty.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "kaunairu.net": {
         "epoch": 1605484800.0,
