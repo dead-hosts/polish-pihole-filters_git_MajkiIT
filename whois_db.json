@@ -1515,9 +1515,9 @@
         "state": "future"
     },
     "are-ter.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "assoc-amazon.com": {
         "epoch": 1721088000.0,
@@ -1610,8 +1610,8 @@
         "state": "future"
     },
     "b59812ee54afcabd.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "back.marketing": {
