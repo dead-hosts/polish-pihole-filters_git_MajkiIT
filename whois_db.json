@@ -2392,7 +2392,7 @@
     "clrstm.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clustrmaps.com": {
         "epoch": 1655424000.0,
@@ -3105,9 +3105,9 @@
         "state": "future"
     },
     "emediate.dk": {
-        "epoch": 1582934400.0,
-        "expiration_date": "29-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "emerse.com": {
         "epoch": 1714694400.0,
@@ -3500,8 +3500,8 @@
         "state": "future"
     },
     "fqtag.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "free-banners.com": {
@@ -4680,8 +4680,8 @@
         "state": "future"
     },
     "lzjl.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "m32.media": {
@@ -5055,8 +5055,8 @@
         "state": "future"
     },
     "mycounter.ua": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "mydas.mobi": {
@@ -5235,8 +5235,8 @@
         "state": "future"
     },
     "neudesicmediagroup.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "newbie.com": {
@@ -5665,8 +5665,8 @@
         "state": "future"
     },
     "pgmediaserve.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "pgpartner.com": {
