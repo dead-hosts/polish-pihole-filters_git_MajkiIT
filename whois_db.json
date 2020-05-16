@@ -6200,8 +6200,8 @@
         "state": "future"
     },
     "readserver.net": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1652572800.0,
+        "expiration_date": "15-may-2022",
         "state": "future"
     },
     "realcastmedia.com": {
@@ -6677,7 +6677,7 @@
     "sharepointads.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sharethrough.com": {
         "epoch": 1608508800.0,
@@ -6895,8 +6895,8 @@
         "state": "future"
     },
     "specificmedia.co.uk": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "specificpop.com": {
@@ -7555,8 +7555,8 @@
         "state": "future"
     },
     "traffiq.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "trafic.ro": {
@@ -7855,8 +7855,8 @@
         "state": "future"
     },
     "viewpoint.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "viliaff.com": {
