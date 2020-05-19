@@ -171,22 +171,22 @@
         "ads.cricbuzz.com": {
             "included_at_epoch": 1589625613.903245,
             "included_at_iso": "2020-05-16T10:40:13.903245",
-            "last_retested_at_epoch": 1589714412.158821,
-            "last_retested_at_iso": "2020-05-17T11:20:12.158821",
+            "last_retested_at_epoch": 1589885410.500462,
+            "last_retested_at_iso": "2020-05-19T10:50:10.500462",
             "status": "INACTIVE"
         },
         "ads.dazoot.ro": {
             "included_at_epoch": 1589625613.913549,
             "included_at_iso": "2020-05-16T10:40:13.913549",
-            "last_retested_at_epoch": 1589714412.164356,
-            "last_retested_at_iso": "2020-05-17T11:20:12.164356",
+            "last_retested_at_epoch": 1589885410.509501,
+            "last_retested_at_iso": "2020-05-19T10:50:10.509501",
             "status": "INACTIVE"
         },
         "ads.forium.de": {
             "included_at_epoch": 1587925992.671388,
             "included_at_iso": "2020-04-26T18:33:12.671388",
-            "last_retested_at_epoch": 1589714412.194821,
-            "last_retested_at_iso": "2020-05-17T11:20:12.194821",
+            "last_retested_at_epoch": 1589885410.562709,
+            "last_retested_at_iso": "2020-05-19T10:50:10.562709",
             "status": "INACTIVE"
         },
         "ads.nwsource.com": {
@@ -432,6 +432,13 @@
             "included_at_iso": "2020-05-01T16:30:58.197451",
             "last_retested_at_epoch": 1589716105.195513,
             "last_retested_at_iso": "2020-05-17T11:48:25.195513",
+            "status": "INACTIVE"
+        },
+        "d1.abtshield.com": {
+            "included_at_epoch": 1589885407.602487,
+            "included_at_iso": "2020-05-19T10:50:07.602487",
+            "last_retested_at_epoch": 1589885407.602487,
+            "last_retested_at_iso": "2020-05-19T10:50:07.602487",
             "status": "INACTIVE"
         },
         "delightdriving.com": {
