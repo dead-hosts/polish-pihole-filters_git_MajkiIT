@@ -222,7 +222,7 @@
     "ad-balancer.net": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ad-center.com": {
         "epoch": 1608249600.0,
@@ -250,8 +250,8 @@
         "state": "future"
     },
     "ad-tech.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "ad-up.com": {
