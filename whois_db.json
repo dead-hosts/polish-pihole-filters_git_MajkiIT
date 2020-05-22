@@ -1374,6 +1374,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "ahqpqpdjpj.com": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
     "aigneloa.com": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
@@ -6020,8 +6025,8 @@
         "state": "future"
     },
     "protraffic.com": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1684713600.0,
+        "expiration_date": "22-may-2023",
         "state": "future"
     },
     "provalist.info": {
@@ -7800,8 +7805,8 @@
         "state": "future"
     },
     "veille-referencement.com": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "vendimob.pl": {
