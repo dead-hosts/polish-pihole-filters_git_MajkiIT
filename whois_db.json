@@ -2847,7 +2847,7 @@
     "directivepub.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "directleads.com": {
         "epoch": 1606867200.0,
