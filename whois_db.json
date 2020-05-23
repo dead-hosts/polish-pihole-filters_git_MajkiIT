@@ -5872,7 +5872,7 @@
     "porngraph.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "porntrack.com": {
         "epoch": 1615766400.0,
@@ -6880,8 +6880,8 @@
         "state": "future"
     },
     "spacead.pl": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "spaceforyou.cc": {
@@ -8270,8 +8270,8 @@
         "state": "future"
     },
     "ymetrica.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "yoggrt.com": {
