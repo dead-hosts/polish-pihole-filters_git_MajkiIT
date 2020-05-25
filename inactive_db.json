@@ -448,6 +448,13 @@
             "last_retested_at_iso": "2020-05-24T23:52:03.172082",
             "status": "INACTIVE"
         },
+        "d1.abtshield.com": {
+            "included_at_epoch": 1590403579.157873,
+            "included_at_iso": "2020-05-25T10:46:19.157873",
+            "last_retested_at_epoch": 1590403579.157873,
+            "last_retested_at_iso": "2020-05-25T10:46:19.157873",
+            "status": "INACTIVE"
+        },
         "delightdriving.com": {
             "included_at_epoch": 1588350658.449933,
             "included_at_iso": "2020-05-01T16:30:58.449933",
