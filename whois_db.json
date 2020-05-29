@@ -1735,8 +1735,8 @@
         "state": "future"
     },
     "bbelements.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "beamincrease.com": {
@@ -2930,8 +2930,8 @@
         "state": "future"
     },
     "doubleclick.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "doubleclick.net": {
@@ -3095,8 +3095,8 @@
         "state": "future"
     },
     "elitetoplist.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "elthamely.com": {
@@ -3705,9 +3705,9 @@
         "state": "future"
     },
     "goldstats.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
-        "state": "past"
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
     },
     "google-analytics.com": {
         "epoch": 1595030400.0,
@@ -5145,8 +5145,8 @@
         "state": "future"
     },
     "nbhxgjz.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "nbjmp.com": {
@@ -5470,8 +5470,8 @@
         "state": "future"
     },
     "optmd.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1685232000.0,
+        "expiration_date": "28-may-2023",
         "state": "future"
     },
     "optmstr.com": {
