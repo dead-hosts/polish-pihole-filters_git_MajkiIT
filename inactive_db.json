@@ -210,6 +210,13 @@
             "last_retested_at_iso": "2020-05-29T18:40:17.107261",
             "status": "INACTIVE"
         },
+        "ads.satyamonline.com": {
+            "included_at_epoch": 1590795654.41563,
+            "included_at_iso": "2020-05-29T23:40:54.415630",
+            "last_retested_at_epoch": 1590795654.41563,
+            "last_retested_at_iso": "2020-05-29T23:40:54.415630",
+            "status": "INACTIVE"
+        },
         "adserv.gamezone.de": {
             "included_at_epoch": 1590777617.411067,
             "included_at_iso": "2020-05-29T18:40:17.411067",
