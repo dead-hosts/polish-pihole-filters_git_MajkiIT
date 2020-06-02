@@ -60,8 +60,8 @@
         "state": "future"
     },
     "360yield.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "3lift.com": {
@@ -80,8 +80,8 @@
         "state": "future"
     },
     "4d5.net": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "50websads.com": {
@@ -725,8 +725,8 @@
         "state": "future"
     },
     "adoperator.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1748736000.0,
+        "expiration_date": "01-jun-2025",
         "state": "future"
     },
     "adorigin.com": {
