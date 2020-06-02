@@ -1990,8 +1990,8 @@
         "state": "future"
     },
     "budsinc.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "businessclick.com": {
@@ -2095,8 +2095,8 @@
         "state": "future"
     },
     "casinogames.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "casinorewards.com": {
@@ -2210,8 +2210,8 @@
         "state": "future"
     },
     "claria.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "class-act-clicks.com": {
@@ -2870,9 +2870,9 @@
         "state": "future"
     },
     "displayadsmedia.com": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
-        "state": "past"
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
     },
     "disqusads.com": {
         "epoch": 1639612800.0,
@@ -4202,7 +4202,7 @@
     "inringtone.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "insightexpress.com": {
         "epoch": 1599091200.0,
