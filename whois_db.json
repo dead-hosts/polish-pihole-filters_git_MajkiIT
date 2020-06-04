@@ -2320,8 +2320,8 @@
         "state": "future"
     },
     "clickonometrics.pl": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1685836800.0,
+        "expiration_date": "04-jun-2023",
         "state": "future"
     },
     "clicksor.com": {
@@ -2840,8 +2840,8 @@
         "state": "future"
     },
     "directaclick.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "directivepub.com": {
@@ -2940,8 +2940,8 @@
         "state": "future"
     },
     "doublepimp.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "doubtfulrainstorm.com": {
@@ -3812,7 +3812,7 @@
     "havamedia.net": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "heap.com": {
         "epoch": 1745971200.0,
@@ -4200,9 +4200,9 @@
         "state": "future"
     },
     "inringtone.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
-        "state": "past"
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
     },
     "insightexpress.com": {
         "epoch": 1599091200.0,
