@@ -381,8 +381,8 @@
         "cdn.mediaessence.net": {
             "included_at_epoch": 1590780026.351509,
             "included_at_iso": "2020-05-29T19:20:26.351509",
-            "last_retested_at_epoch": 1591470382.277555,
-            "last_retested_at_iso": "2020-06-06T19:06:22.277555",
+            "last_retested_at_epoch": 1591643591.494092,
+            "last_retested_at_iso": "2020-06-08T19:13:11.494092",
             "status": "INACTIVE"
         },
         "ch.questionmarket.com": {
@@ -556,8 +556,8 @@
         "hotcpm.pl": {
             "included_at_epoch": 1590780026.706191,
             "included_at_iso": "2020-05-29T19:20:26.706191",
-            "last_retested_at_epoch": 1591470382.623949,
-            "last_retested_at_iso": "2020-06-06T19:06:22.623949",
+            "last_retested_at_epoch": 1591643591.836435,
+            "last_retested_at_iso": "2020-06-08T19:13:11.836435",
             "status": "INACTIVE"
         },
         "iaatzkkqyv.com": {
@@ -640,8 +640,8 @@
         "onenima.com": {
             "included_at_epoch": 1590780026.840534,
             "included_at_iso": "2020-05-29T19:20:26.840534",
-            "last_retested_at_epoch": 1591470382.759019,
-            "last_retested_at_iso": "2020-06-06T19:06:22.759019",
+            "last_retested_at_epoch": 1591643591.974823,
+            "last_retested_at_iso": "2020-06-08T19:13:11.974823",
             "status": "INACTIVE"
         },
         "openx.blindferret.com": {
@@ -696,8 +696,8 @@
         "ps.polt.pl": {
             "included_at_epoch": 1590780025.885697,
             "included_at_iso": "2020-05-29T19:20:25.885697",
-            "last_retested_at_epoch": 1591470381.81914,
-            "last_retested_at_iso": "2020-06-06T19:06:21.819140",
+            "last_retested_at_epoch": 1591643591.023111,
+            "last_retested_at_iso": "2020-06-08T19:13:11.023111",
             "status": "INACTIVE"
         },
         "pubs.lemonde.fr": {
@@ -759,8 +759,8 @@
         "sitebravefull.info": {
             "included_at_epoch": 1590780027.002989,
             "included_at_iso": "2020-05-29T19:20:27.002989",
-            "last_retested_at_epoch": 1591470382.924156,
-            "last_retested_at_iso": "2020-06-06T19:06:22.924156",
+            "last_retested_at_epoch": 1591643592.142572,
+            "last_retested_at_iso": "2020-06-08T19:13:12.142572",
             "status": "INACTIVE"
         },
         "snakesort.com": {
