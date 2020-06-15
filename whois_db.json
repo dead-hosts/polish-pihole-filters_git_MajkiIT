@@ -17,7 +17,7 @@
     "123freeavatars.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "180searchassistant.com": {
         "epoch": 1615420800.0,
@@ -245,8 +245,8 @@
         "state": "future"
     },
     "ad-space.net": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "ad-tech.com": {
