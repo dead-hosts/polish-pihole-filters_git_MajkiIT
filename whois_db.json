@@ -199,6 +199,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "achcdn.com": {
+        "epoch": 1651708800.0,
+        "expiration_date": "05-may-2022",
+        "state": "future"
+    },
     "actionsplash.com": {
         "epoch": 1623542400.0,
         "expiration_date": "13-jun-2021",
@@ -6115,8 +6120,8 @@
         "state": "future"
     },
     "questaffiliates.net": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "quicksandear.com": {
@@ -7515,8 +7520,8 @@
         "state": "future"
     },
     "trafficjunky.net": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "trafficleader.com": {
