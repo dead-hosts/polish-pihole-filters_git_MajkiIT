@@ -1117,7 +1117,7 @@
     "adv-adserver.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "advariant.com": {
         "epoch": 1596412800.0,
@@ -2630,8 +2630,8 @@
         "state": "future"
     },
     "criteo.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "critictruck.com": {
