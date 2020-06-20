@@ -1495,8 +1495,8 @@
         "state": "future"
     },
     "app-measurement.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "appsflyer.com": {
@@ -5785,8 +5785,8 @@
         "state": "future"
     },
     "playlink.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "playmobileads.com": {
