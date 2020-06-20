@@ -3170,9 +3170,9 @@
         "state": "future"
     },
     "erosyndc.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "estat.com": {
         "epoch": 1610582400.0,
@@ -5764,6 +5764,11 @@
         "expiration_date": "08-jun-2019",
         "state": "future"
     },
+    "placehold.it": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "platnosc.link": {
         "epoch": "1526601600",
         "expiration_date": "18-may-2018",
@@ -5980,8 +5985,8 @@
         "state": "future"
     },
     "profitrumour.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "projectwonderful.com": {
@@ -6110,8 +6115,8 @@
         "state": "future"
     },
     "quantserve.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1655683200.0,
+        "expiration_date": "20-jun-2022",
         "state": "future"
     },
     "quantummetric.com": {
@@ -7742,6 +7747,11 @@
     "uod2quk646.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "upgulpinon.com": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "urlcash.net": {
