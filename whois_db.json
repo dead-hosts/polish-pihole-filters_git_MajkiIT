@@ -42,7 +42,7 @@
     "24pm-affiliation.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "2mdn.net": {
         "epoch": 1619913600.0,
@@ -955,9 +955,9 @@
         "state": "future"
     },
     "adsmart.net": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
     },
     "adsmogo.com": {
         "epoch": 1648857600.0,
