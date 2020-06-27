@@ -2050,8 +2050,8 @@
         "state": "future"
     },
     "carbonads.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "carbonads.net": {
@@ -3350,9 +3350,9 @@
         "state": "future"
     },
     "f5biz.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
-        "state": "past"
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "faberville.com": {
         "epoch": 1575244800,
@@ -3485,8 +3485,8 @@
         "state": "future"
     },
     "forex-affiliate.net": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "forguides.pl": {
@@ -4020,8 +4020,8 @@
         "state": "future"
     },
     "i1img.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1656288000.0,
+        "expiration_date": "27-jun-2022",
         "state": "future"
     },
     "iaatzkkqyv.com": {
@@ -4602,7 +4602,7 @@
     "linktarget.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "liveadexchanger.com": {
         "epoch": 1614902400.0,
