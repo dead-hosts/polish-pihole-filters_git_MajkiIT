@@ -5920,9 +5920,9 @@
         "state": "future"
     },
     "precisioncounter.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
-        "state": "past"
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "predictad.com": {
         "epoch": 1600732800.0,
@@ -6565,9 +6565,9 @@
         "state": "future"
     },
     "searchmarketing.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
-        "state": "past"
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "searchramp.com": {
         "epoch": 1604880000.0,
@@ -7665,8 +7665,8 @@
         "state": "future"
     },
     "twittad.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "twyn.com": {
