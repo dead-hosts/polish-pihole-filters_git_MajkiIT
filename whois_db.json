@@ -1610,8 +1610,8 @@
         "state": "future"
     },
     "b-1st.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "b54m4qbmt0b9.com": {
@@ -2220,8 +2220,8 @@
         "state": "future"
     },
     "class-act-clicks.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "click2freemoney.com": {
@@ -2865,8 +2865,8 @@
         "state": "future"
     },
     "directtrack.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "discountclick.com": {
@@ -4600,9 +4600,9 @@
         "state": "future"
     },
     "linktarget.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "liveadexchanger.com": {
         "epoch": 1614902400.0,
@@ -5442,7 +5442,7 @@
     "onscroll.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "openads.org": {
         "epoch": 1613779200.0,
