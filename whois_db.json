@@ -6360,8 +6360,8 @@
         "state": "future"
     },
     "rinsouxy.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "rlcdn.com": {
@@ -6645,8 +6645,8 @@
         "state": "future"
     },
     "sexinyourcity.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "sexlist.com": {
@@ -7597,7 +7597,7 @@
     "trendcounter.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "trendmd.com": {
         "epoch": 1776470400.0,
