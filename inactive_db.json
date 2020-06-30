@@ -378,6 +378,13 @@
             "last_retested_at_iso": "2020-06-29T19:30:25.885262",
             "status": "INACTIVE"
         },
+        "bannersng.yell.com": {
+            "included_at_epoch": 1593517929.080999,
+            "included_at_iso": "2020-06-30T11:52:09.080999",
+            "last_retested_at_epoch": 1593517929.080999,
+            "last_retested_at_iso": "2020-06-30T11:52:09.080999",
+            "status": "INACTIVE"
+        },
         "bans.adserver.co.il": {
             "included_at_epoch": 1593285700.025026,
             "included_at_iso": "2020-06-27T19:21:40.025026",

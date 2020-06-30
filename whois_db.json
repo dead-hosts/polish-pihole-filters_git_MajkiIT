@@ -4125,8 +4125,8 @@
         "state": "future"
     },
     "inboxdollars.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1656547200.0,
+        "expiration_date": "30-jun-2022",
         "state": "future"
     },
     "incentaclick.com": {
@@ -5440,9 +5440,9 @@
         "state": "future"
     },
     "onscroll.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "openads.org": {
         "epoch": 1613779200.0,
