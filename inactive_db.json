@@ -140,6 +140,13 @@
             "last_retested_at_iso": "2020-07-01T18:49:55.091064",
             "status": "INACTIVE"
         },
+        "adbuyer3.lycos.com": {
+            "included_at_epoch": 1593685667.366333,
+            "included_at_iso": "2020-07-02T10:27:47.366333",
+            "last_retested_at_epoch": 1593685667.366333,
+            "last_retested_at_iso": "2020-07-02T10:27:47.366333",
+            "status": "INACTIVE"
+        },
         "adfarm.mediaplex.com": {
             "included_at_epoch": 1593283647.367587,
             "included_at_iso": "2020-06-27T18:47:27.367587",
@@ -217,6 +224,13 @@
             "last_retested_at_iso": "2020-07-01T18:49:57.085792",
             "status": "INACTIVE"
         },
+        "ads.multimania.lycos.fr": {
+            "included_at_epoch": 1593685669.072624,
+            "included_at_iso": "2020-07-02T10:27:49.072624",
+            "last_retested_at_epoch": 1593685669.072624,
+            "last_retested_at_iso": "2020-07-02T10:27:49.072624",
+            "status": "INACTIVE"
+        },
         "ads.nwsource.com": {
             "included_at_epoch": 1593283648.819061,
             "included_at_iso": "2020-06-27T18:47:28.819061",
@@ -229,6 +243,48 @@
             "included_at_iso": "2020-06-27T18:47:28.872688",
             "last_retested_at_epoch": 1593629397.218908,
             "last_retested_at_iso": "2020-07-01T18:49:57.218908",
+            "status": "INACTIVE"
+        },
+        "ads.tripod.com": {
+            "included_at_epoch": 1593685669.190897,
+            "included_at_iso": "2020-07-02T10:27:49.190897",
+            "last_retested_at_epoch": 1593685669.190897,
+            "last_retested_at_iso": "2020-07-02T10:27:49.190897",
+            "status": "INACTIVE"
+        },
+        "ads.tripod.lycos.co.uk": {
+            "included_at_epoch": 1593685669.196649,
+            "included_at_iso": "2020-07-02T10:27:49.196649",
+            "last_retested_at_epoch": 1593685669.196649,
+            "last_retested_at_iso": "2020-07-02T10:27:49.196649",
+            "status": "INACTIVE"
+        },
+        "ads.tripod.lycos.de": {
+            "included_at_epoch": 1593685669.20264,
+            "included_at_iso": "2020-07-02T10:27:49.202640",
+            "last_retested_at_epoch": 1593685669.20264,
+            "last_retested_at_iso": "2020-07-02T10:27:49.202640",
+            "status": "INACTIVE"
+        },
+        "ads.tripod.lycos.es": {
+            "included_at_epoch": 1593685669.208402,
+            "included_at_iso": "2020-07-02T10:27:49.208402",
+            "last_retested_at_epoch": 1593685669.208402,
+            "last_retested_at_iso": "2020-07-02T10:27:49.208402",
+            "status": "INACTIVE"
+        },
+        "ads.tripod.lycos.it": {
+            "included_at_epoch": 1593685669.214269,
+            "included_at_iso": "2020-07-02T10:27:49.214269",
+            "last_retested_at_epoch": 1593685669.214269,
+            "last_retested_at_iso": "2020-07-02T10:27:49.214269",
+            "status": "INACTIVE"
+        },
+        "ads.tripod.lycos.nl": {
+            "included_at_epoch": 1593685669.222201,
+            "included_at_iso": "2020-07-02T10:27:49.222201",
+            "last_retested_at_epoch": 1593685669.222201,
+            "last_retested_at_iso": "2020-07-02T10:27:49.222201",
             "status": "INACTIVE"
         },
         "adserv.gamezone.de": {
