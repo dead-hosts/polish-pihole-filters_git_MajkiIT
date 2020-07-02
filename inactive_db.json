@@ -784,6 +784,13 @@
             "last_retested_at_iso": "2020-07-01T19:32:37.024956",
             "status": "INACTIVE"
         },
+        "ratings.lycos.com": {
+            "included_at_epoch": 1593690232.300876,
+            "included_at_iso": "2020-07-02T11:43:52.300876",
+            "last_retested_at_epoch": 1593690232.300876,
+            "last_retested_at_iso": "2020-07-02T11:43:52.300876",
+            "status": "INACTIVE"
+        },
         "rulerabbit.com": {
             "included_at_epoch": 1593286380.389756,
             "included_at_iso": "2020-06-27T19:33:00.389756",
@@ -817,6 +824,13 @@
             "included_at_iso": "2020-06-13T18:41:00.827252",
             "last_retested_at_epoch": 1593629393.661781,
             "last_retested_at_iso": "2020-07-01T18:49:53.661781",
+            "status": "INACTIVE"
+        },
+        "sidebar.angelfire.com": {
+            "included_at_epoch": 1593690233.693112,
+            "included_at_iso": "2020-07-02T11:43:53.693112",
+            "last_retested_at_epoch": 1593690233.693112,
+            "last_retested_at_iso": "2020-07-02T11:43:53.693112",
             "status": "INACTIVE"
         },
         "simplisticnose.com": {
