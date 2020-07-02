@@ -609,6 +609,13 @@
             "last_retested_at_iso": "2020-07-01T19:20:51.768622",
             "status": "INACTIVE"
         },
+        "hit.webcentre.lycos.co.uk": {
+            "included_at_epoch": 1593687832.733289,
+            "included_at_iso": "2020-07-02T11:03:52.733289",
+            "last_retested_at_epoch": 1593687832.733289,
+            "last_retested_at_iso": "2020-07-02T11:03:52.733289",
+            "status": "INACTIVE"
+        },
         "hitslink.interia.com.pl": {
             "included_at_epoch": 1593286386.22272,
             "included_at_iso": "2020-06-27T19:33:06.222720",
