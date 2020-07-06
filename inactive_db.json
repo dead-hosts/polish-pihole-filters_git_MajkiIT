@@ -609,6 +609,13 @@
             "last_retested_at_iso": "2020-07-05T18:55:42.261342",
             "status": "INACTIVE"
         },
+        "ktu.sv2.biz": {
+            "included_at_epoch": 1594033298.397981,
+            "included_at_iso": "2020-07-06T11:01:38.397981",
+            "last_retested_at_epoch": 1594033298.397981,
+            "last_retested_at_iso": "2020-07-06T11:01:38.397981",
+            "status": "INACTIVE"
+        },
         "limpingline.com": {
             "included_at_epoch": 1593285707.500275,
             "included_at_iso": "2020-06-27T19:21:47.500275",
