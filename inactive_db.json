@@ -189,6 +189,13 @@
             "last_retested_at_iso": "2020-07-11T19:11:03.845966",
             "status": "INACTIVE"
         },
+        "ads.brabys.com": {
+            "included_at_epoch": 1594549395.090519,
+            "included_at_iso": "2020-07-12T10:23:15.090519",
+            "last_retested_at_epoch": 1594549395.090519,
+            "last_retested_at_iso": "2020-07-12T10:23:15.090519",
+            "status": "INACTIVE"
+        },
         "ads.cricbuzz.com": {
             "included_at_epoch": 1594494663.880822,
             "included_at_iso": "2020-07-11T19:11:03.880822",
@@ -201,6 +208,13 @@
             "included_at_iso": "2020-07-11T19:11:03.888813",
             "last_retested_at_epoch": 1594494663.888813,
             "last_retested_at_iso": "2020-07-11T19:11:03.888813",
+            "status": "INACTIVE"
+        },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1594549395.143257,
+            "included_at_iso": "2020-07-12T10:23:15.143257",
+            "last_retested_at_epoch": 1594549395.143257,
+            "last_retested_at_iso": "2020-07-12T10:23:15.143257",
             "status": "INACTIVE"
         },
         "ads.forium.de": {
