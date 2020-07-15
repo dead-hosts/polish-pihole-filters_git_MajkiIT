@@ -1935,9 +1935,9 @@
         "state": "future"
     },
     "boomads.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "boudja.com": {
         "epoch": 1628035200.0,
@@ -2045,8 +2045,8 @@
         "state": "future"
     },
     "carambo.la": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1657843200.0,
+        "expiration_date": "15-jul-2022",
         "state": "future"
     },
     "carbonads.com": {
@@ -2225,8 +2225,8 @@
         "state": "future"
     },
     "click2freemoney.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "click2paid.com": {
@@ -2360,8 +2360,8 @@
         "state": "future"
     },
     "clickxchange.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "clickz.com": {
@@ -3230,8 +3230,8 @@
         "state": "future"
     },
     "exchange-it.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "exchangead.com": {
@@ -3575,8 +3575,8 @@
         "state": "future"
     },
     "funklicks.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "funpageexchange.com": {
