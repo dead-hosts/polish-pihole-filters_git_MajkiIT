@@ -6770,8 +6770,8 @@
         "state": "future"
     },
     "sitestat.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "sixsigmatraffic.com": {
@@ -6780,8 +6780,8 @@
         "state": "future"
     },
     "skimresources.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "sklepnecik.pl": {
@@ -6885,8 +6885,8 @@
         "state": "future"
     },
     "spacash.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "spacead.pl": {
@@ -7915,8 +7915,8 @@
         "state": "future"
     },
     "voicefive.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "voicevegetable.com": {
@@ -8257,7 +8257,7 @@
     "yieldlab.net": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "yieldmanager.com": {
         "epoch": 1596844800.0,
