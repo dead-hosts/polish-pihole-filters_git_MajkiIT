@@ -609,6 +609,13 @@
             "last_retested_at_iso": "2020-07-17T19:34:45.857767",
             "status": "INACTIVE"
         },
+        "liquidad.narrowcastmedia.com": {
+            "included_at_epoch": 1595027567.382625,
+            "included_at_iso": "2020-07-17T23:12:47.382625",
+            "last_retested_at_epoch": 1595027567.382625,
+            "last_retested_at_iso": "2020-07-17T23:12:47.382625",
+            "status": "INACTIVE"
+        },
         "lopsidedspoon.com": {
             "included_at_epoch": 1593285707.785436,
             "included_at_iso": "2020-06-27T19:21:47.785436",
