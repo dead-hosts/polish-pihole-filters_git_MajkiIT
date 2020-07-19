@@ -7267,7 +7267,7 @@
     "theadex.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "theadhost.com": {
         "epoch": 1625961600.0,
@@ -8095,9 +8095,9 @@
         "state": "future"
     },
     "widgetbucks.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "wisepops.com": {
         "epoch": 1856822400.0,
