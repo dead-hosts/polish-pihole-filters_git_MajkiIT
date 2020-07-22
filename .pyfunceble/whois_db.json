@@ -2595,8 +2595,8 @@
         "state": "future"
     },
     "craktraffic.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "crawlability.com": {
@@ -3690,9 +3690,9 @@
         "state": "future"
     },
     "globe7.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "globus-inter.com": {
         "epoch": 1618012800.0,
@@ -3992,7 +3992,7 @@
     "hurricanedigitalmedia.com": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hydramedia.com": {
         "epoch": 1622937600.0,
