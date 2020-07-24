@@ -3155,8 +3155,8 @@
         "state": "future"
     },
     "entercasino.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "eqads.com": {
@@ -3437,7 +3437,7 @@
     "fineclicks.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "firstlightera.com": {
         "epoch": 1635811200.0,
@@ -3552,7 +3552,7 @@
     "freestats.tv": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "freewebcounter.com": {
         "epoch": 1607385600.0,
@@ -3990,9 +3990,9 @@
         "state": "future"
     },
     "hurricanedigitalmedia.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
-        "state": "past"
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
     },
     "hydramedia.com": {
         "epoch": 1622937600.0,
@@ -4110,8 +4110,8 @@
         "state": "future"
     },
     "impressionmedia.cz": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1690070400.0,
+        "expiration_date": "23-jul-2023",
         "state": "future"
     },
     "impressionz.co.uk": {
@@ -4130,8 +4130,8 @@
         "state": "future"
     },
     "incentaclick.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "incognitosearches.com": {
@@ -4615,8 +4615,8 @@
         "state": "future"
     },
     "liverail.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1658620800.0,
+        "expiration_date": "24-jul-2022",
         "state": "future"
     },
     "lizardslaugh.com": {
@@ -5085,8 +5085,8 @@
         "state": "future"
     },
     "mypagerank.ru": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "mypowermall.com": {
