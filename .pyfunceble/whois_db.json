@@ -1790,8 +1790,8 @@
         "state": "future"
     },
     "betegy.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "bidclix.com": {
@@ -7125,8 +7125,8 @@
         "state": "future"
     },
     "switchads.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "swordfishdc.com": {
