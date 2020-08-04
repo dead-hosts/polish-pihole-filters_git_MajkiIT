@@ -231,6 +231,13 @@
             "last_retested_at_iso": "2020-08-03T10:53:26.263663",
             "status": "INACTIVE"
         },
+        "ads.kompass.com": {
+            "included_at_epoch": 1596537275.899002,
+            "included_at_iso": "2020-08-04T10:34:35.899002",
+            "last_retested_at_epoch": 1596537275.899002,
+            "last_retested_at_iso": "2020-08-04T10:34:35.899002",
+            "status": "INACTIVE"
+        },
         "ads.motormedia.nl": {
             "included_at_epoch": 1595328449.034687,
             "included_at_iso": "2020-07-21T10:47:29.034687",
@@ -271,6 +278,13 @@
             "included_at_iso": "2020-07-26T19:00:51.615132",
             "last_retested_at_epoch": 1596452006.723972,
             "last_retested_at_iso": "2020-08-03T10:53:26.723972",
+            "status": "INACTIVE"
+        },
+        "adserver.hwupgrade.it": {
+            "included_at_epoch": 1596537276.336381,
+            "included_at_iso": "2020-08-04T10:34:36.336381",
+            "last_retested_at_epoch": 1596537276.336381,
+            "last_retested_at_iso": "2020-08-04T10:34:36.336381",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
