@@ -1420,9 +1420,9 @@
         "state": "future"
     },
     "all4spy.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
-        "state": "past"
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
     },
     "alladvantage.com": {
         "epoch": 1614297600.0,
@@ -3070,8 +3070,8 @@
         "state": "future"
     },
     "effectivemeasure.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "effectivemeasure.net": {
@@ -6865,9 +6865,9 @@
         "state": "future"
     },
     "softclick.com.br": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "sonobi.com": {
         "epoch": 1606608000.0,

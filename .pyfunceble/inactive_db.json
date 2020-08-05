@@ -448,6 +448,13 @@
             "last_retested_at_iso": "2020-08-04T12:20:41.130925",
             "status": "INACTIVE"
         },
+        "chiefcurrent.com": {
+            "included_at_epoch": 1596627487.614338,
+            "included_at_iso": "2020-08-05T11:38:07.614338",
+            "last_retested_at_epoch": 1596627487.614338,
+            "last_retested_at_iso": "2020-08-05T11:38:07.614338",
+            "status": "INACTIVE"
+        },
         "clients.tbo.com": {
             "included_at_epoch": 1595791482.436891,
             "included_at_iso": "2020-07-26T19:24:42.436891",
