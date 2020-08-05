@@ -217,6 +217,13 @@
             "last_retested_at_iso": "2020-08-04T11:31:23.102872",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1596624488.646728,
+            "included_at_iso": "2020-08-05T10:48:08.646728",
+            "last_retested_at_epoch": 1596624488.646728,
+            "last_retested_at_iso": "2020-08-05T10:48:08.646728",
+            "status": "INACTIVE"
+        },
         "ads.forium.de": {
             "included_at_epoch": 1595328448.908672,
             "included_at_iso": "2020-07-21T10:47:28.908672",
@@ -229,13 +236,6 @@
             "included_at_iso": "2020-08-01T19:04:59.300219",
             "last_retested_at_epoch": 1596540683.113541,
             "last_retested_at_iso": "2020-08-04T11:31:23.113541",
-            "status": "INACTIVE"
-        },
-        "ads.kompass.com": {
-            "included_at_epoch": 1596537275.899002,
-            "included_at_iso": "2020-08-04T10:34:35.899002",
-            "last_retested_at_epoch": 1596537275.899002,
-            "last_retested_at_iso": "2020-08-04T10:34:35.899002",
             "status": "INACTIVE"
         },
         "ads.motormedia.nl": {
@@ -278,13 +278,6 @@
             "included_at_iso": "2020-07-26T19:00:51.615132",
             "last_retested_at_epoch": 1596540683.149972,
             "last_retested_at_iso": "2020-08-04T11:31:23.149972",
-            "status": "INACTIVE"
-        },
-        "adserver.hwupgrade.it": {
-            "included_at_epoch": 1596537276.336381,
-            "included_at_iso": "2020-08-04T10:34:36.336381",
-            "last_retested_at_epoch": 1596537276.336381,
-            "last_retested_at_iso": "2020-08-04T10:34:36.336381",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
@@ -455,13 +448,6 @@
             "last_retested_at_iso": "2020-08-04T12:20:41.130925",
             "status": "INACTIVE"
         },
-        "chiefcurrent.com": {
-            "included_at_epoch": 1594150040.009097,
-            "included_at_iso": "2020-07-07T19:27:20.009097",
-            "last_retested_at_epoch": 1596543641.136989,
-            "last_retested_at_iso": "2020-08-04T12:20:41.136989",
-            "status": "INACTIVE"
-        },
         "clients.tbo.com": {
             "included_at_epoch": 1595791482.436891,
             "included_at_iso": "2020-07-26T19:24:42.436891",
@@ -593,13 +579,6 @@
             "included_at_iso": "2020-07-26T19:34:25.294041",
             "last_retested_at_epoch": 1596543647.412771,
             "last_retested_at_iso": "2020-08-04T12:20:47.412771",
-            "status": "INACTIVE"
-        },
-        "hoqqzlvwukpo.com": {
-            "included_at_epoch": 1594150768.098431,
-            "included_at_iso": "2020-07-07T19:39:28.098431",
-            "last_retested_at_epoch": 1596543647.229872,
-            "last_retested_at_iso": "2020-08-04T12:20:47.229872",
             "status": "INACTIVE"
         },
         "i.xx.openx.com": {
