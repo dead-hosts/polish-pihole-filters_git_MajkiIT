@@ -161,6 +161,13 @@
             "last_retested_at_iso": "2020-08-06T19:06:39.875865",
             "status": "INACTIVE"
         },
+        "admerize.be": {
+            "included_at_epoch": 1596745641.042935,
+            "included_at_iso": "2020-08-06T20:27:21.042935",
+            "last_retested_at_epoch": 1596745641.042935,
+            "last_retested_at_iso": "2020-08-06T20:27:21.042935",
+            "status": "INACTIVE"
+        },
         "ads.adshareware.net": {
             "included_at_epoch": 1595962924.240087,
             "included_at_iso": "2020-07-28T19:02:04.240087",
