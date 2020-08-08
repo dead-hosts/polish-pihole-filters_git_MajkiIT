@@ -1650,8 +1650,8 @@
         "state": "future"
     },
     "bannerconnect.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "bannerconnect.net": {
@@ -3045,8 +3045,8 @@
         "state": "future"
     },
     "ecircle-ag.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "ecoupons.com": {
@@ -3075,8 +3075,8 @@
         "state": "future"
     },
     "effectivemeasure.net": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1691366400.0,
+        "expiration_date": "07-aug-2023",
         "state": "future"
     },
     "elasticchange.com": {
@@ -4227,7 +4227,7 @@
     "inspectorclick.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "instantmadness.com": {
         "epoch": 1624406400.0,
@@ -4585,8 +4585,8 @@
         "state": "future"
     },
     "linkshighway.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "linkstorms.com": {
@@ -6160,8 +6160,8 @@
         "state": "future"
     },
     "radiate.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "rampidads.com": {
