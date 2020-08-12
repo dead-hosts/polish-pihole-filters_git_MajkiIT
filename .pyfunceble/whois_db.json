@@ -1115,9 +1115,9 @@
         "state": "future"
     },
     "adultadvertising.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
     },
     "adv-adserver.com": {
         "epoch": 1623888000.0,
@@ -2795,8 +2795,8 @@
         "state": "future"
     },
     "demdex.net": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "deployads.com": {
@@ -5152,7 +5152,7 @@
     "nbhxgjz.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nbjmp.com": {
         "epoch": 1606780800.0,
