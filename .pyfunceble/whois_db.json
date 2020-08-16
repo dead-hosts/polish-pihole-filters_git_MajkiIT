@@ -1220,8 +1220,8 @@
         "state": "future"
     },
     "adviva.net": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "advnt.com": {
@@ -1897,7 +1897,7 @@
     "blueadvertise.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bluekai.com": {
         "epoch": 1625529600.0,
@@ -1980,8 +1980,8 @@
         "state": "future"
     },
     "british-banners.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1692144000.0,
+        "expiration_date": "16-aug-2023",
         "state": "future"
     },
     "broadboundary.com": {
@@ -2082,7 +2082,7 @@
     "cashengines.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cashfiesta.com": {
         "epoch": 1612656000.0,
