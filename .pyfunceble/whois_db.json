@@ -7715,8 +7715,8 @@
         "state": "future"
     },
     "unarmedindustry.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "undertone.com": {
@@ -7892,7 +7892,7 @@
     "visistat.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "visitpath.com": {
         "epoch": 1599091200.0,
