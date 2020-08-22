@@ -6585,9 +6585,9 @@
         "state": "future"
     },
     "sedotracker.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "sendmepixel.com": {
         "epoch": 1628899200.0,
@@ -7900,8 +7900,8 @@
         "state": "future"
     },
     "visual-pagerank.fr": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "visualrevenue.com": {
