@@ -1185,8 +1185,8 @@
         "state": "future"
     },
     "advertmarket.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "advertserve.com": {
@@ -2090,8 +2090,8 @@
         "state": "future"
     },
     "cashlayer.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "cashpartner.com": {
@@ -3335,9 +3335,9 @@
         "state": "future"
     },
     "eyeviewads.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
-        "state": "past"
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
     },
     "eyewonder.com": {
         "epoch": 1608681600.0,
@@ -5345,8 +5345,8 @@
         "state": "future"
     },
     "nuseek.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "nzaza.com": {
@@ -5877,7 +5877,7 @@
     "popupnation.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "popuptraffic.com": {
         "epoch": 1607817600.0,
@@ -5997,7 +5997,7 @@
     "projectwonderful.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "promobenef.com": {
         "epoch": 1622851200.0,
@@ -6200,8 +6200,8 @@
         "state": "future"
     },
     "re-directme.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "reachjunction.com": {
@@ -6345,8 +6345,8 @@
         "state": "future"
     },
     "revstats.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "richmails.com": {
