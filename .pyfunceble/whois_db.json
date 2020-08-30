@@ -4479,8 +4479,9 @@
         "state": "future"
     },
     "lcx.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "leadboltads.net": {
@@ -6743,6 +6744,7 @@
     "shoplov.in": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "shoppingads.com": {
@@ -7555,7 +7557,8 @@
     "trafficspaces.net": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "trafficstrategies.com": {
         "epoch": 1615248000.0,
