@@ -134,10 +134,10 @@
             "status": "INACTIVE"
         },
         "ad.rambler.ru": {
-            "included_at_epoch": 1596308697.343369,
-            "included_at_iso": "2020-08-01T19:04:57.343369",
-            "last_retested_at_epoch": 1598643012.027566,
-            "last_retested_at_iso": "2020-08-28T19:30:12.027566",
+            "included_at_epoch": 1598815780.926657,
+            "included_at_iso": "2020-08-30T19:29:40.926657",
+            "last_retested_at_epoch": 1598815780.926657,
+            "last_retested_at_iso": "2020-08-30T19:29:40.926657",
             "status": "INACTIVE"
         },
         "ad.twitchguru.com": {
@@ -225,10 +225,10 @@
             "status": "INACTIVE"
         },
         "ads.indiatimes.com": {
-            "included_at_epoch": 1596308699.300219,
-            "included_at_iso": "2020-08-01T19:04:59.300219",
-            "last_retested_at_epoch": 1598643014.050453,
-            "last_retested_at_iso": "2020-08-28T19:30:14.050453",
+            "included_at_epoch": 1598815781.467826,
+            "included_at_iso": "2020-08-30T19:29:41.467826",
+            "last_retested_at_epoch": 1598815781.467826,
+            "last_retested_at_iso": "2020-08-30T19:29:41.467826",
             "status": "INACTIVE"
         },
         "ads.motormedia.nl": {
@@ -274,10 +274,10 @@
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
-            "included_at_epoch": 1596308699.810374,
-            "included_at_iso": "2020-08-01T19:04:59.810374",
-            "last_retested_at_epoch": 1598643014.587063,
-            "last_retested_at_iso": "2020-08-28T19:30:14.587063",
+            "included_at_epoch": 1598815781.821476,
+            "included_at_iso": "2020-08-30T19:29:41.821476",
+            "last_retested_at_epoch": 1598815781.821476,
+            "last_retested_at_iso": "2020-08-30T19:29:41.821476",
             "status": "INACTIVE"
         },
         "adserver1.ogilvy-interactive.de": {
@@ -315,13 +315,6 @@
             "last_retested_at_iso": "2020-08-28T19:47:18.277669",
             "status": "INACTIVE"
         },
-        "affiliate.mercola.com": {
-            "included_at_epoch": 1596309718.124849,
-            "included_at_iso": "2020-08-01T19:21:58.124849",
-            "last_retested_at_epoch": 1598644038.502956,
-            "last_retested_at_iso": "2020-08-28T19:47:18.502956",
-            "status": "INACTIVE"
-        },
         "affiliates.internationaljock.com": {
             "included_at_epoch": 1598297764.686233,
             "included_at_iso": "2020-08-24T19:36:04.686233",
@@ -348,13 +341,6 @@
             "included_at_iso": "2020-08-24T19:36:05.073945",
             "last_retested_at_epoch": 1598644038.951474,
             "last_retested_at_iso": "2020-08-28T19:47:18.951474",
-            "status": "INACTIVE"
-        },
-        "anm.intelli-direct.com": {
-            "included_at_epoch": 1596309718.587717,
-            "included_at_iso": "2020-08-01T19:21:58.587717",
-            "last_retested_at_epoch": 1598644038.957258,
-            "last_retested_at_iso": "2020-08-28T19:47:18.957258",
             "status": "INACTIVE"
         },
         "as1.advfn.com": {
@@ -733,13 +719,6 @@
             "included_at_iso": "2020-08-10T19:21:26.111526",
             "last_retested_at_epoch": 1598643010.417532,
             "last_retested_at_iso": "2020-08-28T19:30:10.417532",
-            "status": "INACTIVE"
-        },
-        "ordingly.com": {
-            "included_at_epoch": 1596309729.870913,
-            "included_at_iso": "2020-08-01T19:22:09.870913",
-            "last_retested_at_epoch": 1598644050.433579,
-            "last_retested_at_iso": "2020-08-28T19:47:30.433579",
             "status": "INACTIVE"
         },
         "pixel.redditmedia.com": {
