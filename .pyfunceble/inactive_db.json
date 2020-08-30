@@ -315,6 +315,13 @@
             "last_retested_at_iso": "2020-08-28T19:47:18.277669",
             "status": "INACTIVE"
         },
+        "affiliate.mercola.com": {
+            "included_at_epoch": 1598816799.703172,
+            "included_at_iso": "2020-08-30T19:46:39.703172",
+            "last_retested_at_epoch": 1598816799.703172,
+            "last_retested_at_iso": "2020-08-30T19:46:39.703172",
+            "status": "INACTIVE"
+        },
         "affiliates.internationaljock.com": {
             "included_at_epoch": 1598297764.686233,
             "included_at_iso": "2020-08-24T19:36:04.686233",
@@ -341,6 +348,13 @@
             "included_at_iso": "2020-08-24T19:36:05.073945",
             "last_retested_at_epoch": 1598644038.951474,
             "last_retested_at_iso": "2020-08-28T19:47:18.951474",
+            "status": "INACTIVE"
+        },
+        "anm.intelli-direct.com": {
+            "included_at_epoch": 1598816799.797215,
+            "included_at_iso": "2020-08-30T19:46:39.797215",
+            "last_retested_at_epoch": 1598816799.797215,
+            "last_retested_at_iso": "2020-08-30T19:46:39.797215",
             "status": "INACTIVE"
         },
         "as1.advfn.com": {
@@ -719,6 +733,13 @@
             "included_at_iso": "2020-08-10T19:21:26.111526",
             "last_retested_at_epoch": 1598643010.417532,
             "last_retested_at_iso": "2020-08-28T19:30:10.417532",
+            "status": "INACTIVE"
+        },
+        "ordingly.com": {
+            "included_at_epoch": 1598816801.824993,
+            "included_at_iso": "2020-08-30T19:46:41.824993",
+            "last_retested_at_epoch": 1598816801.824993,
+            "last_retested_at_iso": "2020-08-30T19:46:41.824993",
             "status": "INACTIVE"
         },
         "pixel.redditmedia.com": {

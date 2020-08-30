@@ -1806,8 +1806,9 @@
         "state": "future"
     },
     "bidr.io": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "bidswitch.net": {
@@ -4108,6 +4109,7 @@
     "imprese.cz": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
+        "server": "whois.nic.cz",
         "state": "past"
     },
     "impressionmedia.cz": {
@@ -4146,8 +4148,9 @@
         "state": "future"
     },
     "indexstats.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "indexww.com": {
@@ -5211,8 +5214,9 @@
         "state": "future"
     },
     "net-filter.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "netaffiliation.com": {
@@ -6416,8 +6420,9 @@
         "state": "future"
     },
     "roxr.net": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rtbpop.com": {
@@ -6966,8 +6971,9 @@
         "state": "future"
     },
     "spywarenuker.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spywords.com": {
@@ -7171,8 +7177,9 @@
         "state": "future"
     },
     "tailsweep.se": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "takru.com": {
