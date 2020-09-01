@@ -105,6 +105,13 @@
             "last_retested_at_iso": "2020-08-28T19:30:10.679746",
             "status": "INVALID"
         },
+        "(^|\\.)push-ad\\.com$": {
+            "included_at_epoch": 1598988107.780177,
+            "included_at_iso": "2020-09-01T19:21:47.780177",
+            "last_retested_at_epoch": 1598988107.780177,
+            "last_retested_at_iso": "2020-09-01T19:21:47.780177",
+            "status": "INVALID"
+        },
         "(^|\\.)smartadserver\\.com$": {
             "included_at_epoch": 1597087286.373044,
             "included_at_iso": "2020-08-10T19:21:26.373044",
@@ -180,6 +187,13 @@
             "included_at_iso": "2020-08-24T19:17:56.111605",
             "last_retested_at_epoch": 1598643013.81814,
             "last_retested_at_iso": "2020-08-28T19:30:13.818140",
+            "status": "INACTIVE"
+        },
+        "ads.ask.com": {
+            "included_at_epoch": 1598988108.701211,
+            "included_at_iso": "2020-09-01T19:21:48.701211",
+            "last_retested_at_epoch": 1598988108.701211,
+            "last_retested_at_iso": "2020-09-01T19:21:48.701211",
             "status": "INACTIVE"
         },
         "ads.berlinonline.de": {
