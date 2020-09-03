@@ -476,6 +476,13 @@
             "last_retested_at_iso": "2020-08-28T19:47:21.200297",
             "status": "INACTIVE"
         },
+        "chiefcurrent.com": {
+            "included_at_epoch": 1599162531.916305,
+            "included_at_iso": "2020-09-03T19:48:51.916305",
+            "last_retested_at_epoch": 1599162531.916305,
+            "last_retested_at_iso": "2020-09-03T19:48:51.916305",
+            "status": "INACTIVE"
+        },
         "clients.tbo.com": {
             "included_at_epoch": 1598297767.86806,
             "included_at_iso": "2020-08-24T19:36:07.868060",
