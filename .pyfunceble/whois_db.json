@@ -4854,6 +4854,12 @@
         "expiration_date": "25-jul-2021",
         "state": "future"
     },
+    "meetrics.net": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "megastats.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",

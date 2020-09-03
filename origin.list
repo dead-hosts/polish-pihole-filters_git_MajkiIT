@@ -1,4 +1,4 @@
-#202009012056
+#202009030802
 # Polish filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -182,6 +182,8 @@
 0.0.0.0 crxk2s.tipnet.pl
 0.0.0.0 ced.sascdn.com
 0.0.0.0 r.sascdn.com
+0.0.0.0 s372.meetrics.net
+0.0.0.0 meetrics.net
 #
 # [Regex]
 0.0.0.0 (^|\.)gemius\.(com|pl)$
@@ -3159,6 +3161,7 @@
 0.0.0.0 brand.ad
 0.0.0.0 burdaffi.burdadigital.pl
 0.0.0.0 click.aliexpress.com
+0.0.0.0 clkpl.tradedoubler.com
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com

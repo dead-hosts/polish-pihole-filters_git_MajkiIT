@@ -231,6 +231,13 @@
             "last_retested_at_iso": "2020-08-28T19:30:13.915441",
             "status": "INACTIVE"
         },
+        "ads.factorymedia.com": {
+            "included_at_epoch": 1599161494.780334,
+            "included_at_iso": "2020-09-03T19:31:34.780334",
+            "last_retested_at_epoch": 1599161494.780334,
+            "last_retested_at_iso": "2020-09-03T19:31:34.780334",
+            "status": "INACTIVE"
+        },
         "ads.forium.de": {
             "included_at_epoch": 1597777968.270779,
             "included_at_iso": "2020-08-18T19:12:48.270779",
@@ -469,13 +476,6 @@
             "last_retested_at_iso": "2020-08-28T19:47:21.200297",
             "status": "INACTIVE"
         },
-        "chiefcurrent.com": {
-            "included_at_epoch": 1596627487.614338,
-            "included_at_iso": "2020-08-05T11:38:07.614338",
-            "last_retested_at_epoch": 1598644041.223847,
-            "last_retested_at_iso": "2020-08-28T19:47:21.223847",
-            "status": "INACTIVE"
-        },
         "clients.tbo.com": {
             "included_at_epoch": 1598297767.86806,
             "included_at_iso": "2020-08-24T19:36:07.868060",
@@ -621,13 +621,6 @@
             "included_at_iso": "2020-08-24T19:55:08.380858",
             "last_retested_at_epoch": 1598645059.123983,
             "last_retested_at_iso": "2020-08-28T20:04:19.123983",
-            "status": "INACTIVE"
-        },
-        "hoqqzlvwukpo.com": {
-            "included_at_epoch": 1596629762.461395,
-            "included_at_iso": "2020-08-05T12:16:02.461395",
-            "last_retested_at_epoch": 1598645058.941175,
-            "last_retested_at_iso": "2020-08-28T20:04:18.941175",
             "status": "INACTIVE"
         },
         "i.xx.openx.com": {
