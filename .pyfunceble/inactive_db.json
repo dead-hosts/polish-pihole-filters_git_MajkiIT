@@ -169,10 +169,10 @@
             "status": "INACTIVE"
         },
         "admerize.be": {
-            "included_at_epoch": 1596745641.042935,
-            "included_at_iso": "2020-08-06T20:27:21.042935",
-            "last_retested_at_epoch": 1598643013.234347,
-            "last_retested_at_iso": "2020-08-28T19:30:13.234347",
+            "included_at_epoch": 1599333763.694181,
+            "included_at_iso": "2020-09-05T19:22:43.694181",
+            "last_retested_at_epoch": 1599333763.694181,
+            "last_retested_at_iso": "2020-09-05T19:22:43.694181",
             "status": "INACTIVE"
         },
         "ads.adshareware.net": {
@@ -537,6 +537,13 @@
             "included_at_iso": "2020-08-24T19:36:08.669122",
             "last_retested_at_epoch": 1598644042.585388,
             "last_retested_at_iso": "2020-08-28T19:47:22.585388",
+            "status": "INACTIVE"
+        },
+        "d1.abtshield.com": {
+            "included_at_epoch": 1599333762.910059,
+            "included_at_iso": "2020-09-05T19:22:42.910059",
+            "last_retested_at_epoch": 1599333762.910059,
+            "last_retested_at_iso": "2020-09-05T19:22:42.910059",
             "status": "INACTIVE"
         },
         "delightdriving.com": {
