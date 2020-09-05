@@ -315,13 +315,6 @@
             "last_retested_at_iso": "2020-08-28T19:47:18.075665",
             "status": "INACTIVE"
         },
-        "advfromnwl.com": {
-            "included_at_epoch": 1596915189.52075,
-            "included_at_iso": "2020-08-08T19:33:09.520750",
-            "last_retested_at_epoch": 1598644038.133291,
-            "last_retested_at_iso": "2020-08-28T19:47:18.133291",
-            "status": "INACTIVE"
-        },
         "adview.ppro.de": {
             "included_at_epoch": 1598297764.277501,
             "included_at_iso": "2020-08-24T19:36:04.277501",
@@ -712,13 +705,6 @@
             "included_at_iso": "2020-08-24T19:36:14.380620",
             "last_retested_at_epoch": 1598644048.446758,
             "last_retested_at_iso": "2020-08-28T19:47:28.446758",
-            "status": "INACTIVE"
-        },
-        "metrics.windowsitpro.com": {
-            "included_at_epoch": 1596915199.438438,
-            "included_at_iso": "2020-08-08T19:33:19.438438",
-            "last_retested_at_epoch": 1598644048.62265,
-            "last_retested_at_iso": "2020-08-28T19:47:28.622650",
             "status": "INACTIVE"
         },
         "nedstat.nl": {
