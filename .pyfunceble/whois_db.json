@@ -921,8 +921,9 @@
         "state": "future"
     },
     "adsfac.net": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsfac.us": {
@@ -1416,8 +1417,9 @@
         "state": "future"
     },
     "alipromo.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1662336000.0,
+        "expiration_date": "05-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "all4spy.com": {
@@ -1681,8 +1683,9 @@
         "state": "future"
     },
     "bannermall.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bannerpower.com": {
@@ -3238,8 +3241,9 @@
         "state": "future"
     },
     "exchangead.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchangeclicksonline.com": {
@@ -3548,8 +3552,9 @@
         "state": "future"
     },
     "freestats.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freestats.tv": {
@@ -4181,8 +4186,9 @@
         "state": "future"
     },
     "infinityads.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "infolinks.com": {
@@ -4513,8 +4519,9 @@
         "state": "future"
     },
     "leadplace.fr": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "leadzupc.com": {
@@ -4959,8 +4966,9 @@
         "state": "future"
     },
     "mmtro.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moatads.com": {
@@ -5024,8 +5032,9 @@
         "state": "future"
     },
     "mousestats.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moviads.pl": {
@@ -6443,8 +6452,9 @@
         "state": "future"
     },
     "rtbpopd.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rtmark.net": {
