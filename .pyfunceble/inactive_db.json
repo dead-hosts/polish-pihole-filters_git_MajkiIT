@@ -231,6 +231,13 @@
             "last_retested_at_iso": "2020-08-28T19:30:13.915441",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1599506612.94842,
+            "included_at_iso": "2020-09-07T19:23:32.948420",
+            "last_retested_at_epoch": 1599506612.94842,
+            "last_retested_at_iso": "2020-09-07T19:23:32.948420",
+            "status": "INACTIVE"
+        },
         "ads.factorymedia.com": {
             "included_at_epoch": 1599161494.780334,
             "included_at_iso": "2020-09-03T19:31:34.780334",
