@@ -7161,10 +7161,10 @@
         "state": "future"
     },
     "swan-swan-goose.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "switchadhub.com": {
         "epoch": 1625529600.0,
@@ -7699,10 +7699,10 @@
         "state": "future"
     },
     "turboadv.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "turn.com": {
         "epoch": 1711929600.0,
@@ -7805,8 +7805,9 @@
         "state": "future"
     },
     "urlcash.net": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "usapromotravel.com": {
@@ -8091,8 +8092,9 @@
         "state": "future"
     },
     "webtrendslive.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wetrack.it": {
