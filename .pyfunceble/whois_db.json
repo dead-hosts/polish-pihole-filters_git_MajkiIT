@@ -2424,7 +2424,8 @@
     "code-server.biz": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "coin-have.com": {
         "epoch": 1600819200.0,
@@ -2652,8 +2653,9 @@
         "state": "future"
     },
     "croissed.info": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "crowdgravity.com": {
@@ -4698,8 +4700,9 @@
         "state": "future"
     },
     "lucklayed.info": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "lumpyleaf.com": {
@@ -4818,8 +4821,9 @@
         "state": "future"
     },
     "mediaiqdigital.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mediamath.com": {
@@ -6115,8 +6119,9 @@
         "state": "future"
     },
     "pubmatic.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1757289600.0,
+        "expiration_date": "08-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "puls-biznesu.info": {

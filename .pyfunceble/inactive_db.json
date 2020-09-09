@@ -420,6 +420,13 @@
             "last_retested_at_iso": "2020-08-28T19:47:19.532434",
             "status": "INACTIVE"
         },
+        "bannergrabber.internet.gr": {
+            "included_at_epoch": 1599680493.074277,
+            "included_at_iso": "2020-09-09T19:41:33.074277",
+            "last_retested_at_epoch": 1599680493.074277,
+            "last_retested_at_iso": "2020-09-09T19:41:33.074277",
+            "status": "INACTIVE"
+        },
         "banners.directnic.com": {
             "included_at_epoch": 1598297765.762186,
             "included_at_iso": "2020-08-24T19:36:05.762186",
