@@ -280,6 +280,13 @@
             "last_retested_at_iso": "2020-08-28T19:30:14.194261",
             "status": "INACTIVE"
         },
+        "ads.techtv.com": {
+            "included_at_epoch": 1600025167.348833,
+            "included_at_iso": "2020-09-13T19:26:07.348833",
+            "last_retested_at_epoch": 1600025167.348833,
+            "last_retested_at_iso": "2020-09-13T19:26:07.348833",
+            "status": "INACTIVE"
+        },
         "adserv.gamezone.de": {
             "included_at_epoch": 1598296676.825555,
             "included_at_iso": "2020-08-24T19:17:56.825555",
