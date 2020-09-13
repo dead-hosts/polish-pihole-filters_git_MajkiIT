@@ -315,6 +315,13 @@
             "last_retested_at_iso": "2020-08-28T19:47:17.197497",
             "status": "INACTIVE"
         },
+        "advertpro.sitepoint.com": {
+            "included_at_epoch": 1600026193.946846,
+            "included_at_iso": "2020-09-13T19:43:13.946846",
+            "last_retested_at_epoch": 1600026193.946846,
+            "last_retested_at_iso": "2020-09-13T19:43:13.946846",
+            "status": "INACTIVE"
+        },
         "advfromnwl.com": {
             "included_at_epoch": 1599507649.657993,
             "included_at_iso": "2020-09-07T19:40:49.657993",
