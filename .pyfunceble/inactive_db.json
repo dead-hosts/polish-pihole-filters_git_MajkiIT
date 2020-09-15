@@ -162,10 +162,10 @@
             "status": "INACTIVE"
         },
         "adk2ads.tictacti.com": {
-            "included_at_epoch": 1597777967.281305,
-            "included_at_iso": "2020-08-18T19:12:47.281305",
-            "last_retested_at_epoch": 1598643012.974489,
-            "last_retested_at_iso": "2020-08-28T19:30:12.974489",
+            "included_at_epoch": 1600198068.624716,
+            "included_at_iso": "2020-09-15T19:27:48.624716",
+            "last_retested_at_epoch": 1600198068.624716,
+            "last_retested_at_iso": "2020-09-15T19:27:48.624716",
             "status": "INACTIVE"
         },
         "admerize.be": {
@@ -411,13 +411,6 @@
             "included_at_iso": "2020-08-24T19:36:05.584683",
             "last_retested_at_epoch": 1598644039.48878,
             "last_retested_at_iso": "2020-08-28T19:47:19.488780",
-            "status": "INACTIVE"
-        },
-        "bannerexchange.cjb.net": {
-            "included_at_epoch": 1597607389.384729,
-            "included_at_iso": "2020-08-16T19:49:49.384729",
-            "last_retested_at_epoch": 1598644039.532434,
-            "last_retested_at_iso": "2020-08-28T19:47:19.532434",
             "status": "INACTIVE"
         },
         "bannergrabber.internet.gr": {

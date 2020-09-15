@@ -1067,7 +1067,8 @@
     "adtext.pl": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "adthis.com": {
         "epoch": 1631232000.0,
@@ -1106,8 +1107,9 @@
         "state": "future"
     },
     "adtrade.net": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adtrak.net": {
