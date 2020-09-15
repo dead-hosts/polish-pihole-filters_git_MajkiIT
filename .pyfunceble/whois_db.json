@@ -2234,7 +2234,8 @@
     "class-act-clicks.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "click2freemoney.com": {
         "epoch": 1626307200.0,
@@ -3701,8 +3702,9 @@
         "state": "future"
     },
     "globalismedia.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "globaltakeoff.net": {
@@ -5446,8 +5448,9 @@
         "state": "future"
     },
     "oneandonlynetwork.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onenetworkdirect.com": {
@@ -6796,7 +6799,8 @@
     "shoppingads.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "simpli.fi": {
         "epoch": 1710460800.0,

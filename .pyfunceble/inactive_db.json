@@ -245,25 +245,11 @@
             "last_retested_at_iso": "2020-09-03T19:31:34.780334",
             "status": "INACTIVE"
         },
-        "ads.forium.de": {
-            "included_at_epoch": 1597777968.270779,
-            "included_at_iso": "2020-08-18T19:12:48.270779",
-            "last_retested_at_epoch": 1598643013.979178,
-            "last_retested_at_iso": "2020-08-28T19:30:13.979178",
-            "status": "INACTIVE"
-        },
         "ads.indiatimes.com": {
             "included_at_epoch": 1598815781.467826,
             "included_at_iso": "2020-08-30T19:29:41.467826",
             "last_retested_at_epoch": 1598815781.467826,
             "last_retested_at_iso": "2020-08-30T19:29:41.467826",
-            "status": "INACTIVE"
-        },
-        "ads.motormedia.nl": {
-            "included_at_epoch": 1597777968.400331,
-            "included_at_iso": "2020-08-18T19:12:48.400331",
-            "last_retested_at_epoch": 1598643014.115542,
-            "last_retested_at_iso": "2020-08-28T19:30:14.115542",
             "status": "INACTIVE"
         },
         "ads.nwsource.com": {
@@ -411,6 +397,13 @@
             "included_at_iso": "2020-08-24T19:36:05.584683",
             "last_retested_at_epoch": 1598644039.48878,
             "last_retested_at_iso": "2020-08-28T19:47:19.488780",
+            "status": "INACTIVE"
+        },
+        "bannerexchange.cjb.net": {
+            "included_at_epoch": 1600199099.380479,
+            "included_at_iso": "2020-09-15T19:44:59.380479",
+            "last_retested_at_epoch": 1600199099.380479,
+            "last_retested_at_iso": "2020-09-15T19:44:59.380479",
             "status": "INACTIVE"
         },
         "bannergrabber.internet.gr": {
