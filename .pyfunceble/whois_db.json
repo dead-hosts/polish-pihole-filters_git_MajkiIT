@@ -4757,6 +4757,12 @@
         "expiration_date": "22-feb-2019",
         "state": "future"
     },
+    "mahieutin.xyz": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "marchex.com": {
         "epoch": 1641340800.0,
         "expiration_date": "05-jan-2022",
@@ -6802,10 +6808,10 @@
         "state": "past"
     },
     "shoppingads.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "simpli.fi": {
         "epoch": 1710460800.0,
@@ -7180,8 +7186,9 @@
         "state": "future"
     },
     "supertop100.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "swan-swan-goose.com": {
@@ -7323,8 +7330,9 @@
         "state": "future"
     },
     "text-link-ads.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "textads.biz": {
@@ -7947,8 +7955,9 @@
         "state": "future"
     },
     "vidora.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "viewpoint.com": {
@@ -8058,8 +8067,9 @@
         "state": "future"
     },
     "webmasterplan.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "weborama.fr": {

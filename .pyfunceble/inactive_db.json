@@ -644,13 +644,6 @@
             "last_retested_at_iso": "2020-08-28T19:47:25.522917",
             "status": "INACTIVE"
         },
-        "hidden.gogoceleb.com": {
-            "included_at_epoch": 1597952102.90427,
-            "included_at_iso": "2020-08-20T19:35:02.904270",
-            "last_retested_at_epoch": 1598644045.692098,
-            "last_retested_at_iso": "2020-08-28T19:47:25.692098",
-            "status": "INACTIVE"
-        },
         "hitslink.interia.com.pl": {
             "included_at_epoch": 1598298908.380858,
             "included_at_iso": "2020-08-24T19:55:08.380858",
@@ -663,13 +656,6 @@
             "included_at_iso": "2020-09-03T19:57:57.037904",
             "last_retested_at_epoch": 1599163077.037904,
             "last_retested_at_iso": "2020-09-03T19:57:57.037904",
-            "status": "INACTIVE"
-        },
-        "i.xx.openx.com": {
-            "included_at_epoch": 1597952103.299008,
-            "included_at_iso": "2020-08-20T19:35:03.299008",
-            "last_retested_at_epoch": 1598644046.151666,
-            "last_retested_at_iso": "2020-08-28T19:47:26.151666",
             "status": "INACTIVE"
         },
         "iaatzkkqyv.com": {
@@ -952,6 +938,13 @@
             "last_retested_at_iso": "2020-08-28T20:04:16.061599",
             "status": "INACTIVE"
         },
+        "track.reinvigorate.net": {
+            "included_at_epoch": 1600372477.676522,
+            "included_at_iso": "2020-09-17T19:54:37.676522",
+            "last_retested_at_epoch": 1600372477.676522,
+            "last_retested_at_iso": "2020-09-17T19:54:37.676522",
+            "status": "INACTIVE"
+        },
         "tracker.twenga.pl": {
             "included_at_epoch": 1598298908.601882,
             "included_at_iso": "2020-08-24T19:55:08.601882",
@@ -995,10 +988,10 @@
             "status": "INACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
-            "included_at_epoch": 1597952686.659076,
-            "included_at_iso": "2020-08-20T19:44:46.659076",
-            "last_retested_at_epoch": 1598645057.688829,
-            "last_retested_at_iso": "2020-08-28T20:04:17.688829",
+            "included_at_epoch": 1600372477.320125,
+            "included_at_iso": "2020-09-17T19:54:37.320125",
+            "last_retested_at_epoch": 1600372477.320125,
+            "last_retested_at_iso": "2020-09-17T19:54:37.320125",
             "status": "INACTIVE"
         },
         "www.banner-link.com.br": {
