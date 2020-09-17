@@ -1300,8 +1300,9 @@
         "state": "future"
     },
     "adzones.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "af-ad.co.uk": {
@@ -2234,10 +2235,10 @@
         "state": "future"
     },
     "class-act-clicks.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "click2freemoney.com": {
         "epoch": 1626307200.0,
@@ -3609,8 +3610,9 @@
         "state": "future"
     },
     "fusionads.net": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fusionquest.com": {
@@ -4165,7 +4167,8 @@
     "incognitosearches.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "incrediblesugar.com": {
         "epoch": 1584748800.0,
