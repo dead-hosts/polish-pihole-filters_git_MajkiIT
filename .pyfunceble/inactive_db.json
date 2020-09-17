@@ -245,11 +245,25 @@
             "last_retested_at_iso": "2020-09-03T19:31:34.780334",
             "status": "INACTIVE"
         },
+        "ads.forium.de": {
+            "included_at_epoch": 1600370927.477449,
+            "included_at_iso": "2020-09-17T19:28:47.477449",
+            "last_retested_at_epoch": 1600370927.477449,
+            "last_retested_at_iso": "2020-09-17T19:28:47.477449",
+            "status": "INACTIVE"
+        },
         "ads.indiatimes.com": {
             "included_at_epoch": 1598815781.467826,
             "included_at_iso": "2020-08-30T19:29:41.467826",
             "last_retested_at_epoch": 1598815781.467826,
             "last_retested_at_iso": "2020-08-30T19:29:41.467826",
+            "status": "INACTIVE"
+        },
+        "ads.motormedia.nl": {
+            "included_at_epoch": 1600370927.614619,
+            "included_at_iso": "2020-09-17T19:28:47.614619",
+            "last_retested_at_epoch": 1600370927.614619,
+            "last_retested_at_iso": "2020-09-17T19:28:47.614619",
             "status": "INACTIVE"
         },
         "ads.nwsource.com": {
@@ -299,6 +313,13 @@
             "included_at_iso": "2020-08-24T19:17:56.933675",
             "last_retested_at_epoch": 1598644037.197497,
             "last_retested_at_iso": "2020-08-28T19:47:17.197497",
+            "status": "INACTIVE"
+        },
+        "adtext.pl": {
+            "included_at_epoch": 1600370926.246415,
+            "included_at_iso": "2020-09-17T19:28:46.246415",
+            "last_retested_at_epoch": 1600370926.246415,
+            "last_retested_at_iso": "2020-09-17T19:28:46.246415",
             "status": "INACTIVE"
         },
         "advertpro.sitepoint.com": {
