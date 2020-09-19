@@ -3996,8 +3996,9 @@
         "state": "future"
     },
     "hs-analytics.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1663459200.0,
+        "expiration_date": "18-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "htmlhubing.xyz": {
@@ -4168,10 +4169,10 @@
         "state": "future"
     },
     "incognitosearches.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "incrediblesugar.com": {
         "epoch": 1584748800.0,
@@ -4815,7 +4816,8 @@
     "media-servers.net": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "media.net": {
         "epoch": 1615852800.0,
@@ -5652,7 +5654,8 @@
     "pay-ads.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "pay24iv.com": {
         "epoch": "1556236800",
@@ -5806,8 +5809,9 @@
         "state": "future"
     },
     "pixel.watch": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.nic.watch",
         "state": "future"
     },
     "pixelmarkway.com": {
@@ -6011,8 +6015,9 @@
         "state": "future"
     },
     "primaryads.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "primetime.net": {
@@ -6655,8 +6660,9 @@
         "state": "future"
     },
     "sedoparking.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sedotracker.com": {
@@ -6983,8 +6989,9 @@
         "state": "future"
     },
     "specially4u.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "specificmedia.co.uk": {
@@ -7005,7 +7012,8 @@
     "speedomizer.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "speedshiftmedia.com": {
         "epoch": 1733097600.0,
@@ -7489,8 +7497,9 @@
         "state": "future"
     },
     "toplistcity.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "toprebates.com": {

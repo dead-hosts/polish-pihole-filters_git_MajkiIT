@@ -644,6 +644,13 @@
             "last_retested_at_iso": "2020-08-28T19:47:25.522917",
             "status": "INACTIVE"
         },
+        "hidden.gogoceleb.com": {
+            "included_at_epoch": 1600544780.752107,
+            "included_at_iso": "2020-09-19T19:46:20.752107",
+            "last_retested_at_epoch": 1600544780.752107,
+            "last_retested_at_iso": "2020-09-19T19:46:20.752107",
+            "status": "INACTIVE"
+        },
         "hitslink.interia.com.pl": {
             "included_at_epoch": 1598298908.380858,
             "included_at_iso": "2020-08-24T19:55:08.380858",
@@ -656,6 +663,13 @@
             "included_at_iso": "2020-09-03T19:57:57.037904",
             "last_retested_at_epoch": 1599163077.037904,
             "last_retested_at_iso": "2020-09-03T19:57:57.037904",
+            "status": "INACTIVE"
+        },
+        "i.xx.openx.com": {
+            "included_at_epoch": 1600544780.854027,
+            "included_at_iso": "2020-09-19T19:46:20.854027",
+            "last_retested_at_epoch": 1600544780.854027,
+            "last_retested_at_iso": "2020-09-19T19:46:20.854027",
             "status": "INACTIVE"
         },
         "iaatzkkqyv.com": {
@@ -796,6 +810,13 @@
             "included_at_iso": "2020-09-09T19:24:24.197622",
             "last_retested_at_epoch": 1599679464.197622,
             "last_retested_at_iso": "2020-09-09T19:24:24.197622",
+            "status": "INACTIVE"
+        },
+        "promotion-campaigns.com": {
+            "included_at_epoch": 1600544782.114753,
+            "included_at_iso": "2020-09-19T19:46:22.114753",
+            "last_retested_at_epoch": 1600544782.114753,
+            "last_retested_at_iso": "2020-09-19T19:46:22.114753",
             "status": "INACTIVE"
         },
         "provalist.info": {
