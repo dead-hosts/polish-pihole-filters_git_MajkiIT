@@ -4815,10 +4815,10 @@
         "state": "future"
     },
     "media-servers.net": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "media.net": {
         "epoch": 1615852800.0,
@@ -5049,8 +5049,9 @@
         "state": "future"
     },
     "monsterpops.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mookie1.com": {
@@ -5583,8 +5584,9 @@
         "state": "future"
     },
     "owebmoney.ru": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "owneriq.net": {
@@ -5653,10 +5655,10 @@
         "state": "future"
     },
     "pay-ads.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "pay24iv.com": {
         "epoch": "1556236800",
@@ -7012,10 +7014,10 @@
         "state": "future"
     },
     "speedomizer.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "speedshiftmedia.com": {
         "epoch": 1733097600.0,
@@ -7099,8 +7101,9 @@
         "state": "future"
     },
     "statsie.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "statxpress.com": {

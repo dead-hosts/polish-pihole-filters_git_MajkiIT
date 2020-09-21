@@ -147,20 +147,6 @@
             "last_retested_at_iso": "2020-08-30T19:29:40.926657",
             "status": "INACTIVE"
         },
-        "ad.twitchguru.com": {
-            "included_at_epoch": 1598296674.290408,
-            "included_at_iso": "2020-08-24T19:17:54.290408",
-            "last_retested_at_epoch": 1598643012.049569,
-            "last_retested_at_iso": "2020-08-28T19:30:12.049569",
-            "status": "INACTIVE"
-        },
-        "adfarm.mediaplex.com": {
-            "included_at_epoch": 1598296674.906946,
-            "included_at_iso": "2020-08-24T19:17:54.906946",
-            "last_retested_at_epoch": 1598643012.632051,
-            "last_retested_at_iso": "2020-08-28T19:30:12.632051",
-            "status": "INACTIVE"
-        },
         "adk2ads.tictacti.com": {
             "included_at_epoch": 1600198068.624716,
             "included_at_iso": "2020-09-15T19:27:48.624716",
@@ -180,13 +166,6 @@
             "included_at_iso": "2020-08-26T19:18:00.029274",
             "last_retested_at_epoch": 1598643013.807643,
             "last_retested_at_iso": "2020-08-28T19:30:13.807643",
-            "status": "INACTIVE"
-        },
-        "ads.affiliates-spinit.com": {
-            "included_at_epoch": 1598296676.111605,
-            "included_at_iso": "2020-08-24T19:17:56.111605",
-            "last_retested_at_epoch": 1598643013.81814,
-            "last_retested_at_iso": "2020-08-28T19:30:13.818140",
             "status": "INACTIVE"
         },
         "ads.ask.com": {
@@ -266,20 +245,6 @@
             "last_retested_at_iso": "2020-09-17T19:28:47.614619",
             "status": "INACTIVE"
         },
-        "ads.nwsource.com": {
-            "included_at_epoch": 1598296676.436583,
-            "included_at_iso": "2020-08-24T19:17:56.436583",
-            "last_retested_at_epoch": 1598643014.142544,
-            "last_retested_at_iso": "2020-08-28T19:30:14.142544",
-            "status": "INACTIVE"
-        },
-        "ads.resoom.de": {
-            "included_at_epoch": 1598296676.496624,
-            "included_at_iso": "2020-08-24T19:17:56.496624",
-            "last_retested_at_epoch": 1598643014.194261,
-            "last_retested_at_iso": "2020-08-28T19:30:14.194261",
-            "status": "INACTIVE"
-        },
         "ads.techtv.com": {
             "included_at_epoch": 1600025167.348833,
             "included_at_iso": "2020-09-13T19:26:07.348833",
@@ -288,17 +253,17 @@
             "status": "INACTIVE"
         },
         "adserv.gamezone.de": {
-            "included_at_epoch": 1598296676.825555,
-            "included_at_iso": "2020-08-24T19:17:56.825555",
-            "last_retested_at_epoch": 1598643014.522231,
-            "last_retested_at_iso": "2020-08-28T19:30:14.522231",
+            "included_at_epoch": 1600717625.093525,
+            "included_at_iso": "2020-09-21T19:47:05.093525",
+            "last_retested_at_epoch": 1600717625.093525,
+            "last_retested_at_iso": "2020-09-21T19:47:05.093525",
             "status": "INACTIVE"
         },
         "adserver.flossiemediagroup.com": {
-            "included_at_epoch": 1598296676.867328,
-            "included_at_iso": "2020-08-24T19:17:56.867328",
-            "last_retested_at_epoch": 1598643014.56089,
-            "last_retested_at_iso": "2020-08-28T19:30:14.560890",
+            "included_at_epoch": 1600717625.100513,
+            "included_at_iso": "2020-09-21T19:47:05.100513",
+            "last_retested_at_epoch": 1600717625.100513,
+            "last_retested_at_iso": "2020-09-21T19:47:05.100513",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
@@ -309,10 +274,10 @@
             "status": "INACTIVE"
         },
         "adserver1.ogilvy-interactive.de": {
-            "included_at_epoch": 1598296676.933675,
-            "included_at_iso": "2020-08-24T19:17:56.933675",
-            "last_retested_at_epoch": 1598644037.197497,
-            "last_retested_at_iso": "2020-08-28T19:47:17.197497",
+            "included_at_epoch": 1600717625.109088,
+            "included_at_iso": "2020-09-21T19:47:05.109088",
+            "last_retested_at_epoch": 1600717625.109088,
+            "last_retested_at_iso": "2020-09-21T19:47:05.109088",
             "status": "INACTIVE"
         },
         "adtext.pl": {
