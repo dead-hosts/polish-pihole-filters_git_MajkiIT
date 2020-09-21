@@ -741,10 +741,10 @@
         "state": "future"
     },
     "adorigin.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "adotmob.com": {
         "epoch": 1612396800.0,
@@ -1019,8 +1019,9 @@
         "state": "future"
     },
     "adstage.io": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "adsupply.com": {
@@ -6893,8 +6894,9 @@
         "state": "future"
     },
     "smartclick.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "smartlook.com": {
