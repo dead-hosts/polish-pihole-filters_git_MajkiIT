@@ -2262,8 +2262,9 @@
         "state": "future"
     },
     "clickadz.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickagents.com": {
@@ -4991,8 +4992,9 @@
         "state": "future"
     },
     "mixtraffic.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ml314.com": {
@@ -5258,8 +5260,9 @@
         "state": "future"
     },
     "nend.net": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "neoffic.com": {
@@ -6006,8 +6009,9 @@
         "state": "future"
     },
     "predictad.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1663804800.0,
+        "expiration_date": "22-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "premium-offers.com": {
@@ -6708,8 +6712,9 @@
         "state": "future"
     },
     "servedbyopenx.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "servethis.com": {
