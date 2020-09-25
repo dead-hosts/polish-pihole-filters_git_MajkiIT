@@ -3257,8 +3257,9 @@
         "state": "future"
     },
     "ewebcounter.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchange-it.com": {
@@ -3565,7 +3566,8 @@
     "freeonlineusers.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "freepay.com": {
         "epoch": 1612310400.0,
@@ -4979,8 +4981,9 @@
         "state": "future"
     },
     "misstrends.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mixedreading.com": {
