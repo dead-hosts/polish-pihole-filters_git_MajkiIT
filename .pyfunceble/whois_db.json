@@ -3845,6 +3845,12 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "gredgar-prevalid.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "greetzebra.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -8035,6 +8041,12 @@
     "vervewireless.com": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "vfthr.com": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vibrantmedia.com": {

@@ -106,10 +106,10 @@
             "status": "INVALID"
         },
         "(^|\\.)push-ad\\.com$": {
-            "included_at_epoch": 1598988107.780177,
-            "included_at_iso": "2020-09-01T19:21:47.780177",
-            "last_retested_at_epoch": 1598988107.780177,
-            "last_retested_at_iso": "2020-09-01T19:21:47.780177",
+            "included_at_epoch": 1601580277.021723,
+            "included_at_iso": "2020-10-01T19:24:37.021723",
+            "last_retested_at_epoch": 1601580277.021723,
+            "last_retested_at_iso": "2020-10-01T19:24:37.021723",
             "status": "INVALID"
         },
         "(^|\\.)smartadserver\\.com$": {
@@ -2878,10 +2878,10 @@
             "status": "ACTIVE"
         },
         "ads.ask.com": {
-            "included_at_epoch": 1598988108.701211,
-            "included_at_iso": "2020-09-01T19:21:48.701211",
-            "last_retested_at_epoch": 1598988108.701211,
-            "last_retested_at_iso": "2020-09-01T19:21:48.701211",
+            "included_at_epoch": 1601580277.073171,
+            "included_at_iso": "2020-10-01T19:24:37.073171",
+            "last_retested_at_epoch": 1601580277.073171,
+            "last_retested_at_iso": "2020-10-01T19:24:37.073171",
             "status": "INACTIVE"
         },
         "ads.aspalliance.com": {
@@ -4952,8 +4952,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601062399.260771,
             "included_at_iso": "2020-09-25T19:33:19.260771",
-            "last_retested_at_epoch": 1601407317.559256,
-            "last_retested_at_iso": "2020-09-29T19:21:57.559256",
+            "last_retested_at_epoch": 1601580277.12421,
+            "last_retested_at_iso": "2020-10-01T19:24:37.124210",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4973,8 +4973,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601062399.378415,
             "included_at_iso": "2020-09-25T19:33:19.378415",
-            "last_retested_at_epoch": 1601407317.609637,
-            "last_retested_at_iso": "2020-09-29T19:21:57.609637",
+            "last_retested_at_epoch": 1601580277.173408,
+            "last_retested_at_iso": "2020-10-01T19:24:37.173408",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -6958,6 +6958,13 @@
             "last_retested_at_iso": "2020-09-25T19:50:29.947261",
             "status": "ACTIVE"
         },
+        "aranzujemy.co.pl": {
+            "included_at_epoch": 1601580276.971038,
+            "included_at_iso": "2020-10-01T19:24:36.971038",
+            "last_retested_at_epoch": 1601580276.971038,
+            "last_retested_at_iso": "2020-10-01T19:24:36.971038",
+            "status": "ACTIVE"
+        },
         "arbo.hit.gemius.pl": {
             "included_at_epoch": 1601062387.745159,
             "included_at_iso": "2020-09-25T19:33:07.745159",
@@ -7005,6 +7012,13 @@
             "included_at_iso": "2020-09-25T19:33:06.817178",
             "last_retested_at_epoch": 1601062386.817178,
             "last_retested_at_iso": "2020-09-25T19:33:06.817178",
+            "status": "ACTIVE"
+        },
+        "as.2020mustang.com": {
+            "included_at_epoch": 1601580276.708421,
+            "included_at_iso": "2020-10-01T19:24:36.708421",
+            "last_retested_at_epoch": 1601580276.708421,
+            "last_retested_at_iso": "2020-10-01T19:24:36.708421",
             "status": "ACTIVE"
         },
         "as.webmd.com": {
@@ -12381,6 +12395,13 @@
             "included_at_iso": "2020-09-25T19:33:05.792600",
             "last_retested_at_epoch": 1601062385.7926,
             "last_retested_at_iso": "2020-09-25T19:33:05.792600",
+            "status": "ACTIVE"
+        },
+        "gredgar-prevalid.com": {
+            "included_at_epoch": 1601580276.623458,
+            "included_at_iso": "2020-10-01T19:24:36.623458",
+            "last_retested_at_epoch": 1601580276.623458,
+            "last_retested_at_iso": "2020-10-01T19:24:36.623458",
             "status": "ACTIVE"
         },
         "greetzebra.com": {
@@ -21098,6 +21119,13 @@
             "last_retested_at_iso": "2020-09-25T19:57:44.419610",
             "status": "ACTIVE"
         },
+        "vfthr.com": {
+            "included_at_epoch": 1601580276.756577,
+            "included_at_iso": "2020-10-01T19:24:36.756577",
+            "last_retested_at_epoch": 1601580276.756577,
+            "last_retested_at_iso": "2020-10-01T19:24:36.756577",
+            "status": "ACTIVE"
+        },
         "vhsrwd.aip24.pl": {
             "included_at_epoch": 1601063873.40221,
             "included_at_iso": "2020-09-25T19:57:53.402210",
@@ -21777,6 +21805,13 @@
             "last_retested_at_iso": "2020-09-27T19:20:49.141067",
             "status": "ACTIVE"
         },
+        "www.aranzujemy.co.pl": {
+            "included_at_epoch": 1601580276.919969,
+            "included_at_iso": "2020-10-01T19:24:36.919969",
+            "last_retested_at_epoch": 1601580276.919969,
+            "last_retested_at_iso": "2020-10-01T19:24:36.919969",
+            "status": "ACTIVE"
+        },
         "www.banner-link.com.br": {
             "included_at_epoch": 1600890955.772341,
             "included_at_iso": "2020-09-23T19:55:55.772341",
@@ -21831,6 +21866,13 @@
             "included_at_iso": "2020-09-25T19:33:06.482598",
             "last_retested_at_epoch": 1601062386.482598,
             "last_retested_at_iso": "2020-09-25T19:33:06.482598",
+            "status": "ACTIVE"
+        },
+        "www.imglnke.com": {
+            "included_at_epoch": 1601580276.82152,
+            "included_at_iso": "2020-10-01T19:24:36.821520",
+            "last_retested_at_epoch": 1601580276.82152,
+            "last_retested_at_iso": "2020-10-01T19:24:36.821520",
             "status": "ACTIVE"
         },
         "www.kaplanindex.com": {
@@ -21894,6 +21936,13 @@
             "included_at_iso": "2020-09-25T19:57:53.309790",
             "last_retested_at_epoch": 1601063873.30979,
             "last_retested_at_iso": "2020-09-25T19:57:53.309790",
+            "status": "ACTIVE"
+        },
+        "www.vfthr.com": {
+            "included_at_epoch": 1601580276.869672,
+            "included_at_iso": "2020-10-01T19:24:36.869672",
+            "last_retested_at_epoch": 1601580276.869672,
+            "last_retested_at_iso": "2020-10-01T19:24:36.869672",
             "status": "ACTIVE"
         },
         "www8.glam.com": {
