@@ -3263,10 +3263,10 @@
             "status": "ACTIVE"
         },
         "ads.edbindex.dk": {
-            "included_at_epoch": 1599506612.94842,
-            "included_at_iso": "2020-09-07T19:23:32.948420",
-            "last_retested_at_epoch": 1599506612.94842,
-            "last_retested_at_iso": "2020-09-07T19:23:32.948420",
+            "included_at_epoch": 1601925984.627068,
+            "included_at_iso": "2020-10-05T19:26:24.627068",
+            "last_retested_at_epoch": 1601925984.627068,
+            "last_retested_at_iso": "2020-10-05T19:26:24.627068",
             "status": "INACTIVE"
         },
         "ads.edipresse.pl": {
@@ -4952,8 +4952,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601062399.260771,
             "included_at_iso": "2020-09-25T19:33:19.260771",
-            "last_retested_at_epoch": 1601753058.559863,
-            "last_retested_at_iso": "2020-10-03T19:24:18.559863",
+            "last_retested_at_epoch": 1601925984.67438,
+            "last_retested_at_iso": "2020-10-05T19:26:24.674380",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4973,8 +4973,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601062399.378415,
             "included_at_iso": "2020-09-25T19:33:19.378415",
-            "last_retested_at_epoch": 1601753058.608467,
-            "last_retested_at_iso": "2020-10-03T19:24:18.608467",
+            "last_retested_at_epoch": 1601925984.720648,
+            "last_retested_at_iso": "2020-10-05T19:26:24.720648",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -12999,6 +12999,13 @@
             "last_retested_at_iso": "2020-09-25T19:50:46.466132",
             "status": "ACTIVE"
         },
+        "id.google.pl": {
+            "included_at_epoch": 1601925984.570076,
+            "included_at_iso": "2020-10-05T19:26:24.570076",
+            "last_retested_at_epoch": 1601925984.570076,
+            "last_retested_at_iso": "2020-10-05T19:26:24.570076",
+            "status": "ACTIVE"
+        },
         "idcounter.com": {
             "included_at_epoch": 1601063446.559885,
             "included_at_iso": "2020-09-25T19:50:46.559885",
@@ -18705,10 +18712,10 @@
             "status": "ACTIVE"
         },
         "sidebar.angelfire.com": {
-            "included_at_epoch": 1599334789.610048,
-            "included_at_iso": "2020-09-05T19:39:49.610048",
-            "last_retested_at_epoch": 1599334789.610048,
-            "last_retested_at_iso": "2020-09-05T19:39:49.610048",
+            "included_at_epoch": 1601925984.767788,
+            "included_at_iso": "2020-10-05T19:26:24.767788",
+            "last_retested_at_epoch": 1601925984.767788,
+            "last_retested_at_iso": "2020-10-05T19:26:24.767788",
             "status": "INACTIVE"
         },
         "simpli.fi": {
