@@ -4952,8 +4952,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601062399.260771,
             "included_at_iso": "2020-09-25T19:33:19.260771",
-            "last_retested_at_epoch": 1601925984.67438,
-            "last_retested_at_iso": "2020-10-05T19:26:24.674380",
+            "last_retested_at_epoch": 1602098710.433926,
+            "last_retested_at_iso": "2020-10-07T19:25:10.433926",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4973,8 +4973,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601062399.378415,
             "included_at_iso": "2020-09-25T19:33:19.378415",
-            "last_retested_at_epoch": 1601925984.720648,
-            "last_retested_at_iso": "2020-10-05T19:26:24.720648",
+            "last_retested_at_epoch": 1602098710.502969,
+            "last_retested_at_iso": "2020-10-07T19:25:10.502969",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -6105,10 +6105,10 @@
             "status": "ACTIVE"
         },
         "advfromnwl.com": {
-            "included_at_epoch": 1599507649.657993,
-            "included_at_iso": "2020-09-07T19:40:49.657993",
-            "last_retested_at_epoch": 1599507649.657993,
-            "last_retested_at_iso": "2020-09-07T19:40:49.657993",
+            "included_at_epoch": 1602098710.552066,
+            "included_at_iso": "2020-10-07T19:25:10.552066",
+            "last_retested_at_epoch": 1602098710.552066,
+            "last_retested_at_iso": "2020-10-07T19:25:10.552066",
             "status": "INACTIVE"
         },
         "advice.hit.gemius.pl": {
@@ -14792,10 +14792,10 @@
             "status": "ACTIVE"
         },
         "metrics.windowsitpro.com": {
-            "included_at_epoch": 1599507651.821516,
-            "included_at_iso": "2020-09-07T19:40:51.821516",
-            "last_retested_at_epoch": 1599507651.821516,
-            "last_retested_at_iso": "2020-09-07T19:40:51.821516",
+            "included_at_epoch": 1602098710.600824,
+            "included_at_iso": "2020-10-07T19:25:10.600824",
+            "last_retested_at_epoch": 1602098710.600824,
+            "last_retested_at_iso": "2020-10-07T19:25:10.600824",
             "status": "INACTIVE"
         },
         "metrilo.com": {
