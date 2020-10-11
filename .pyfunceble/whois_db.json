@@ -3520,6 +3520,12 @@
         "expiration_date": "02-nov-2021",
         "state": "future"
     },
+    "fkref.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "flashtalking.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
@@ -6457,6 +6463,12 @@
     "reklamer.com.ua": {
         "epoch": "1580774400",
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "relaxingovercomeexaggerate.com": {
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "relmaxtop.com": {
