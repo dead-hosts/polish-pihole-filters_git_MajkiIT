@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/polish-pihole-filters_git_MajkiIT/domains.list": {
         "base": {
-            "datetime_iso": "2020-10-11T19:25:00.032691",
-            "hash": "a770273d3107e089fb9d3850d80bd5031d78c735d26568cf161d8d64"
+            "datetime_iso": "2020-10-15T19:28:29.807371",
+            "hash": "e82ca5cb40e66ecd1fe6e9ad9e711303fd8f50fef01703bc4f7c2fe7"
         },
         "latest": {
-            "datetime_iso": "2020-10-13T19:28:10.030877",
-            "hash": "a770273d3107e089fb9d3850d80bd5031d78c735d26568cf161d8d64"
+            "datetime_iso": "2020-10-15T19:28:29.807371",
+            "hash": "e82ca5cb40e66ecd1fe6e9ad9e711303fd8f50fef01703bc4f7c2fe7"
         },
         "position": 0
     }
