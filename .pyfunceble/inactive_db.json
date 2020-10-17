@@ -3410,10 +3410,10 @@
             "status": "ACTIVE"
         },
         "ads.forium.de": {
-            "included_at_epoch": 1600370927.477449,
-            "included_at_iso": "2020-09-17T19:28:47.477449",
-            "last_retested_at_epoch": 1600370927.477449,
-            "last_retested_at_iso": "2020-09-17T19:28:47.477449",
+            "included_at_epoch": 1602962928.977917,
+            "included_at_iso": "2020-10-17T19:28:48.977917",
+            "last_retested_at_epoch": 1602962928.977917,
+            "last_retested_at_iso": "2020-10-17T19:28:48.977917",
             "status": "INACTIVE"
         },
         "ads.fortunecity.com": {
@@ -3942,10 +3942,10 @@
             "status": "ACTIVE"
         },
         "ads.motormedia.nl": {
-            "included_at_epoch": 1600370927.614619,
-            "included_at_iso": "2020-09-17T19:28:47.614619",
-            "last_retested_at_epoch": 1600370927.614619,
-            "last_retested_at_iso": "2020-09-17T19:28:47.614619",
+            "included_at_epoch": 1602962929.023684,
+            "included_at_iso": "2020-10-17T19:28:49.023684",
+            "last_retested_at_epoch": 1602962929.023684,
+            "last_retested_at_iso": "2020-10-17T19:28:49.023684",
             "status": "INACTIVE"
         },
         "ads.msn.com": {
@@ -4952,8 +4952,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601062399.260771,
             "included_at_iso": "2020-09-25T19:33:19.260771",
-            "last_retested_at_epoch": 1602790177.640966,
-            "last_retested_at_iso": "2020-10-15T19:29:37.640966",
+            "last_retested_at_epoch": 1602962929.072213,
+            "last_retested_at_iso": "2020-10-17T19:28:49.072213",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4973,8 +4973,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601062399.378415,
             "included_at_iso": "2020-09-25T19:33:19.378415",
-            "last_retested_at_epoch": 1602790177.693565,
-            "last_retested_at_iso": "2020-10-15T19:29:37.693565",
+            "last_retested_at_epoch": 1602962929.12161,
+            "last_retested_at_iso": "2020-10-17T19:28:49.121610",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -5762,11 +5762,11 @@
             "status": "ACTIVE"
         },
         "adtext.pl": {
-            "included_at_epoch": 1600370926.246415,
-            "included_at_iso": "2020-09-17T19:28:46.246415",
-            "last_retested_at_epoch": 1600370926.246415,
-            "last_retested_at_iso": "2020-09-17T19:28:46.246415",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602962928.911697,
+            "included_at_iso": "2020-10-17T19:28:48.911697",
+            "last_retested_at_epoch": 1602962928.911697,
+            "last_retested_at_iso": "2020-10-17T19:28:48.911697",
+            "status": "ACTIVE"
         },
         "adthis.com": {
             "included_at_epoch": 1601062401.405339,
@@ -20406,10 +20406,10 @@
             "status": "ACTIVE"
         },
         "track.reinvigorate.net": {
-            "included_at_epoch": 1600372477.676522,
-            "included_at_iso": "2020-09-17T19:54:37.676522",
-            "last_retested_at_epoch": 1600372477.676522,
-            "last_retested_at_iso": "2020-09-17T19:54:37.676522",
+            "included_at_epoch": 1602962929.218658,
+            "included_at_iso": "2020-10-17T19:28:49.218658",
+            "last_retested_at_epoch": 1602962929.218658,
+            "last_retested_at_iso": "2020-10-17T19:28:49.218658",
             "status": "INACTIVE"
         },
         "track.trojmiasto.pl": {
@@ -21470,10 +21470,10 @@
             "status": "ACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
-            "included_at_epoch": 1600372477.320125,
-            "included_at_iso": "2020-09-17T19:54:37.320125",
-            "last_retested_at_epoch": 1600372477.320125,
-            "last_retested_at_iso": "2020-09-17T19:54:37.320125",
+            "included_at_epoch": 1602962929.170347,
+            "included_at_iso": "2020-10-17T19:28:49.170347",
+            "last_retested_at_epoch": 1602962929.170347,
+            "last_retested_at_iso": "2020-10-17T19:28:49.170347",
             "status": "INACTIVE"
         },
         "webmasterplan.com": {

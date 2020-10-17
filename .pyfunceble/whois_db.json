@@ -1079,10 +1079,10 @@
         "state": "future"
     },
     "adtext.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "adthis.com": {
         "epoch": 1631232000.0,
