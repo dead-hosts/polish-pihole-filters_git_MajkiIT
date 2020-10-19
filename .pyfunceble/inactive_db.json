@@ -4952,8 +4952,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601062399.260771,
             "included_at_iso": "2020-09-25T19:33:19.260771",
-            "last_retested_at_epoch": 1602962929.072213,
-            "last_retested_at_iso": "2020-10-17T19:28:49.072213",
+            "last_retested_at_epoch": 1603135899.494057,
+            "last_retested_at_iso": "2020-10-19T19:31:39.494057",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4973,8 +4973,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601062399.378415,
             "included_at_iso": "2020-09-25T19:33:19.378415",
-            "last_retested_at_epoch": 1602962929.12161,
-            "last_retested_at_iso": "2020-10-17T19:28:49.121610",
+            "last_retested_at_epoch": 1603135899.54091,
+            "last_retested_at_iso": "2020-10-19T19:31:39.540910",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -12566,11 +12566,11 @@
             "status": "ACTIVE"
         },
         "hidden.gogoceleb.com": {
-            "included_at_epoch": 1600544780.752107,
-            "included_at_iso": "2020-09-19T19:46:20.752107",
-            "last_retested_at_epoch": 1600544780.752107,
-            "last_retested_at_iso": "2020-09-19T19:46:20.752107",
-            "status": "INACTIVE"
+            "included_at_epoch": 1603135899.587399,
+            "included_at_iso": "2020-10-19T19:31:39.587399",
+            "last_retested_at_epoch": 1603135899.587399,
+            "last_retested_at_iso": "2020-10-19T19:31:39.587399",
+            "status": "ACTIVE"
         },
         "hightrafficads.com": {
             "included_at_epoch": 1601063445.135589,
@@ -12930,10 +12930,10 @@
             "status": "ACTIVE"
         },
         "i.xx.openx.com": {
-            "included_at_epoch": 1600544780.854027,
-            "included_at_iso": "2020-09-19T19:46:20.854027",
-            "last_retested_at_epoch": 1600544780.854027,
-            "last_retested_at_iso": "2020-09-19T19:46:20.854027",
+            "included_at_epoch": 1603135899.632923,
+            "included_at_iso": "2020-10-19T19:31:39.632923",
+            "last_retested_at_epoch": 1603135899.632923,
+            "last_retested_at_iso": "2020-10-19T19:31:39.632923",
             "status": "INACTIVE"
         },
         "i1img.com": {
@@ -17032,10 +17032,10 @@
             "status": "ACTIVE"
         },
         "promotion-campaigns.com": {
-            "included_at_epoch": 1600544782.114753,
-            "included_at_iso": "2020-09-19T19:46:22.114753",
-            "last_retested_at_epoch": 1600544782.114753,
-            "last_retested_at_iso": "2020-09-19T19:46:22.114753",
+            "included_at_epoch": 1603135899.678861,
+            "included_at_iso": "2020-10-19T19:31:39.678861",
+            "last_retested_at_epoch": 1603135899.678861,
+            "last_retested_at_iso": "2020-10-19T19:31:39.678861",
             "status": "INACTIVE"
         },
         "pronetadvertising.com": {
