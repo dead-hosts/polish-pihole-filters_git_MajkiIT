@@ -3924,6 +3924,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "greetingscompassbough.com": {
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "greetzebra.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -3962,6 +3968,12 @@
     "guscho.ru": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
+    "handelpro.vip": {
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "harrenmedia.com": {
@@ -4920,6 +4932,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "masmovil.site": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "matchcows.com": {
         "epoch": "1571616000",
         "expiration_date": "21-oct-2019",
@@ -5337,8 +5355,8 @@
         "state": "future"
     },
     "n1271adserv.xyz": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
         "server": "whois.nic.xyz",
         "state": "future"
     },
@@ -5487,6 +5505,12 @@
     "netshelter.net": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "network-intranet.com": {
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "neudesicmediagroup.com": {
@@ -7410,6 +7434,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "suumlfkkiyhnv.com": {
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "swan-swan-goose.com": {
         "epoch": 1630972800.0,
         "expiration_date": "07-sep-2021",
@@ -7440,6 +7470,12 @@
     "szybka.pl": {
         "epoch": "1570752000",
         "expiration_date": "11-oct-2019",
+        "state": "future"
+    },
+    "t.co": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "taboola.com": {
