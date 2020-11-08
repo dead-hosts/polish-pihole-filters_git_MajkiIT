@@ -3585,8 +3585,8 @@
         "state": "future"
     },
     "fkref.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
