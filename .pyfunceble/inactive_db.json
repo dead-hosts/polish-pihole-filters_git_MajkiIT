@@ -2080,10 +2080,10 @@
             "status": "ACTIVE"
         },
         "adk2ads.tictacti.com": {
-            "included_at_epoch": 1602617349.596693,
-            "included_at_iso": "2020-10-13T19:29:09.596693",
-            "last_retested_at_epoch": 1602617349.596693,
-            "last_retested_at_iso": "2020-10-13T19:29:09.596693",
+            "included_at_epoch": 1605041677.029517,
+            "included_at_iso": "2020-11-10T20:54:37.029517",
+            "last_retested_at_epoch": 1605041677.029517,
+            "last_retested_at_iso": "2020-11-10T20:54:37.029517",
             "status": "INACTIVE"
         },
         "adkontekst.pl": {
@@ -4397,10 +4397,10 @@
             "status": "ACTIVE"
         },
         "ads.techtv.com": {
-            "included_at_epoch": 1602617349.661468,
-            "included_at_iso": "2020-10-13T19:29:09.661468",
-            "last_retested_at_epoch": 1602617349.661468,
-            "last_retested_at_iso": "2020-10-13T19:29:09.661468",
+            "included_at_epoch": 1605041677.110574,
+            "included_at_iso": "2020-11-10T20:54:37.110574",
+            "last_retested_at_epoch": 1605041677.110574,
+            "last_retested_at_iso": "2020-11-10T20:54:37.110574",
             "status": "INACTIVE"
         },
         "ads.themovienation.com": {
@@ -4966,8 +4966,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1603490490.200403,
             "included_at_iso": "2020-10-23T22:01:30.200403",
-            "last_retested_at_epoch": 1604865964.950329,
-            "last_retested_at_iso": "2020-11-08T20:06:04.950329",
+            "last_retested_at_epoch": 1605041677.162729,
+            "last_retested_at_iso": "2020-11-10T20:54:37.162729",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4987,8 +4987,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1603490490.302349,
             "included_at_iso": "2020-10-23T22:01:30.302349",
-            "last_retested_at_epoch": 1604865965.000767,
-            "last_retested_at_iso": "2020-11-08T20:06:05.000767",
+            "last_retested_at_epoch": 1605041677.214226,
+            "last_retested_at_iso": "2020-11-10T20:54:37.214226",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -6084,10 +6084,10 @@
             "status": "ACTIVE"
         },
         "advertpro.sitepoint.com": {
-            "included_at_epoch": 1602617349.804129,
-            "included_at_iso": "2020-10-13T19:29:09.804129",
-            "last_retested_at_epoch": 1602617349.804129,
-            "last_retested_at_iso": "2020-10-13T19:29:09.804129",
+            "included_at_epoch": 1605041677.265065,
+            "included_at_iso": "2020-11-10T20:54:37.265065",
+            "last_retested_at_epoch": 1605041677.265065,
+            "last_retested_at_iso": "2020-11-10T20:54:37.265065",
             "status": "INACTIVE"
         },
         "advertpro.ya.com": {
