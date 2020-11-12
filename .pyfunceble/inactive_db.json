@@ -4966,8 +4966,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1603490490.200403,
             "included_at_iso": "2020-10-23T22:01:30.200403",
-            "last_retested_at_epoch": 1605041677.162729,
-            "last_retested_at_iso": "2020-11-10T20:54:37.162729",
+            "last_retested_at_epoch": 1605214119.429065,
+            "last_retested_at_iso": "2020-11-12T20:48:39.429065",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4987,8 +4987,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1603490490.302349,
             "included_at_iso": "2020-10-23T22:01:30.302349",
-            "last_retested_at_epoch": 1605041677.214226,
-            "last_retested_at_iso": "2020-11-10T20:54:37.214226",
+            "last_retested_at_epoch": 1605214119.477351,
+            "last_retested_at_iso": "2020-11-12T20:48:39.477351",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -7603,10 +7603,10 @@
             "status": "ACTIVE"
         },
         "bannerexchange.cjb.net": {
-            "included_at_epoch": 1602790177.748885,
-            "included_at_iso": "2020-10-15T19:29:37.748885",
-            "last_retested_at_epoch": 1602790177.748885,
-            "last_retested_at_iso": "2020-10-15T19:29:37.748885",
+            "included_at_epoch": 1605214119.526952,
+            "included_at_iso": "2020-11-12T20:48:39.526952",
+            "last_retested_at_epoch": 1605214119.526952,
+            "last_retested_at_iso": "2020-11-12T20:48:39.526952",
             "status": "INACTIVE"
         },
         "bannerflow.com": {
@@ -19468,10 +19468,10 @@
             "status": "ACTIVE"
         },
         "stats.aptelink.pl": {
-            "included_at_epoch": 1602790177.569336,
-            "included_at_iso": "2020-10-15T19:29:37.569336",
-            "last_retested_at_epoch": 1602790177.569336,
-            "last_retested_at_iso": "2020-10-15T19:29:37.569336",
+            "included_at_epoch": 1605214119.360856,
+            "included_at_iso": "2020-11-12T20:48:39.360856",
+            "last_retested_at_epoch": 1605214119.360856,
+            "last_retested_at_iso": "2020-11-12T20:48:39.360856",
             "status": "ACTIVE"
         },
         "stats.asp24.pl": {
