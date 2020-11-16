@@ -1,4 +1,10 @@
 {
+    "000webhostapp.com": {
+        "epoch": 1652227200.0,
+        "expiration_date": "11-may-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "101com.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -2835,6 +2841,12 @@
     "danban.com": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "dansotant.xyz": {
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "dapper.net": {
