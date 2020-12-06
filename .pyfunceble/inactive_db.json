@@ -4959,8 +4959,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1605918684.809646,
             "included_at_iso": "2020-11-21T00:31:24.809646",
-            "last_retested_at_epoch": 1607117620.324891,
-            "last_retested_at_iso": "2020-12-04T21:33:40.324891",
+            "last_retested_at_epoch": 1607285164.089738,
+            "last_retested_at_iso": "2020-12-06T20:06:04.089738",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4980,8 +4980,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1605918684.908808,
             "included_at_iso": "2020-11-21T00:31:24.908808",
-            "last_retested_at_epoch": 1607117620.388258,
-            "last_retested_at_iso": "2020-12-04T21:33:40.388258",
+            "last_retested_at_epoch": 1607285164.150347,
+            "last_retested_at_iso": "2020-12-06T20:06:04.150347",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
