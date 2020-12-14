@@ -877,6 +877,12 @@
         "expiration_date": "22-jun-2023",
         "state": "future"
     },
+    "ads-analytic.com": {
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ads-click.com": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
@@ -5966,6 +5972,12 @@
         "expiration_date": "06-apr-2021",
         "state": "future"
     },
+    "peachlandeu.com": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "peefeehu.com": {
         "epoch": 1636416000.0,
         "expiration_date": "09-nov-2021",
@@ -7348,6 +7360,12 @@
     "spillvacation.com": {
         "epoch": "1571616000",
         "expiration_date": "21-oct-2019",
+        "state": "future"
+    },
+    "sport32news.com": {
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spotxchange.com": {
