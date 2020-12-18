@@ -4966,8 +4966,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1605918684.809646,
             "included_at_iso": "2020-11-21T00:31:24.809646",
-            "last_retested_at_epoch": 1608151644.606235,
-            "last_retested_at_iso": "2020-12-16T20:47:24.606235",
+            "last_retested_at_epoch": 1608323804.566267,
+            "last_retested_at_iso": "2020-12-18T20:36:44.566267",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -4987,8 +4987,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1605918684.908808,
             "included_at_iso": "2020-11-21T00:31:24.908808",
-            "last_retested_at_epoch": 1608151644.654291,
-            "last_retested_at_iso": "2020-12-16T20:47:24.654291",
+            "last_retested_at_epoch": 1608323804.614379,
+            "last_retested_at_iso": "2020-12-18T20:36:44.614379",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -10666,6 +10666,13 @@
             "included_at_iso": "2020-11-21T00:31:39.928914",
             "last_retested_at_epoch": 1605918699.928914,
             "last_retested_at_iso": "2020-11-21T00:31:39.928914",
+            "status": "ACTIVE"
+        },
+        "dynacrems.wp.pl": {
+            "included_at_epoch": 1608323804.497475,
+            "included_at_iso": "2020-12-18T20:36:44.497475",
+            "last_retested_at_epoch": 1608323804.497475,
+            "last_retested_at_iso": "2020-12-18T20:36:44.497475",
             "status": "ACTIVE"
         },
         "dynamic.fmpub.net": {
