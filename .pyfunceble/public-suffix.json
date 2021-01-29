@@ -121,7 +121,6 @@
         "org.af"
     ],
     "ag": [
-        "co.ag",
         "org.ag",
         "com.ag",
         "net.ag",
@@ -166,9 +165,6 @@
         "pb.ao"
     ],
     "app": [
-        "vercel.app",
-        "telebit.app",
-        "loginline.app",
         "run.app",
         "platform0.app",
         "hasura.app",
@@ -7058,10 +7054,6 @@
         "publ.pt",
         "edu.pt",
         "blogspot.pt",
-        "publ.pt",
-        "edu.pt",
-        "com.pt",
-        "gov.pt",
         "int.pt",
         "nym.pt",
         "gov.pt",
