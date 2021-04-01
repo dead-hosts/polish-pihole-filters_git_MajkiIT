@@ -1,4 +1,4 @@
-#202101292232
+#202103310303
 # Polish filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -3169,12 +3169,16 @@
 0.0.0.0 reklama.shinden.eu
 0.0.0.0 wirtualn-d.openx.net
 #
+# Cookies
+0.0.0.0 consent.cookiefirst.com
+#
 #
 #
 #
 #
 #
 # [certyficate.it]
+0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 69oxt4q05.com
 0.0.0.0 a.ib.gazeta.pl
 0.0.0.0 achcdn.com
@@ -3185,6 +3189,7 @@
 0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.vider.pl
 0.0.0.0 ad.webshark.pl
+0.0.0.0 ad.winiso.pl
 0.0.0.0 ad.zanox.com
 0.0.0.0 adclick.lt
 0.0.0.0 adform.net
@@ -3200,6 +3205,7 @@
 0.0.0.0 affiliates-solutions.com
 0.0.0.0 agoraperformance.pl
 0.0.0.0 almuradtiles.zohosites.com
+0.0.0.0 amazon-adsystem.com
 0.0.0.0 angeldonationblog.com
 0.0.0.0 angelo.fernandonguyen.online
 0.0.0.0 api.systempartnerski.pl
@@ -3210,6 +3216,7 @@
 0.0.0.0 bodelen.com
 0.0.0.0 brand.ad
 0.0.0.0 burdaffi.burdadigital.pl
+0.0.0.0 buzz.give5.pl
 0.0.0.0 click.aliexpress.com
 0.0.0.0 clkpl.tradedoubler.com
 0.0.0.0 codevexillium.org
@@ -3316,5 +3323,6 @@
 0.0.0.0 ww1.flashx.net
 0.0.0.0 www.adfreestyle.pl
 0.0.0.0 www.comperialead.pl
+0.0.0.0 www.mp3zik.net
 0.0.0.0 zostofou.link
 0.0.0.0 zukxd6fkxqn.com
