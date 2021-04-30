@@ -428,6 +428,7 @@
         "org.bn"
     ],
     "bo": [
+        "academia.bo",
         "agro.bo",
         "arte.bo",
         "blog.bo",
@@ -474,7 +475,6 @@
         "abc.br",
         "ac.gov.br",
         "ac.leg.br",
-        "academia.bo",
         "adm.br",
         "adv.br",
         "agr.br",
