@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-banery.acr.pl,AVAILABILITY,origin.list,2021-05-03 13:16:02.793163
 brand.ad,AVAILABILITY,origin.list,2021-05-03 21:15:25.003965
 clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-05-03 21:15:31.292924
 ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-05-03 21:15:39.308913
@@ -198,3 +197,4 @@ bannerexchange.cjb.net,AVAILABILITY,origin.list,2021-05-04 05:58:06.396800
 ranking-id.de,AVAILABILITY,origin.list,2021-05-04 11:52:18.169023
 ads.harpers.org,AVAILABILITY,origin.list,2021-05-04 18:06:01.276654
 ads.ncm.com,AVAILABILITY,origin.list,2021-05-04 18:13:50.722401
+banery.acr.pl,AVAILABILITY,origin.list,2021-05-04 21:09:58.341441
