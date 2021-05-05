@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-brand.ad,AVAILABILITY,origin.list,2021-05-03 21:15:25.003965
-clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-05-03 21:15:31.292924
-ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-05-03 21:15:39.308913
-ad.mgd.de,AVAILABILITY,origin.list,2021-05-03 21:15:46.128695
-adnet.worldreviewer.com,AVAILABILITY,origin.list,2021-05-03 21:15:52.425210
-www.zjllvkfa.com,AVAILABILITY,origin.list,2021-05-03 21:15:58.622193
-ads.flooble.com,AVAILABILITY,origin.list,2021-05-04 02:21:19.450451
-ads.gsm-exchange.com,AVAILABILITY,origin.list,2021-05-04 02:23:23.843747
 reklam-1.com,AVAILABILITY,origin.list,2021-05-04 05:29:14.735854
 reklam-one.com,AVAILABILITY,origin.list,2021-05-04 05:29:20.557817
 reklam.ebiuniverse.com,AVAILABILITY,origin.list,2021-05-04 05:29:27.115909
@@ -198,3 +190,9 @@ ranking-id.de,AVAILABILITY,origin.list,2021-05-04 11:52:18.169023
 ads.harpers.org,AVAILABILITY,origin.list,2021-05-04 18:06:01.276654
 ads.ncm.com,AVAILABILITY,origin.list,2021-05-04 18:13:50.722401
 banery.acr.pl,AVAILABILITY,origin.list,2021-05-04 21:09:58.341441
+brand.ad,AVAILABILITY,origin.list,2021-05-05 05:32:06.088345
+clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-05-05 05:32:12.238608
+ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-05-05 05:32:28.777453
+ad.mgd.de,AVAILABILITY,origin.list,2021-05-05 05:32:35.919416
+adnet.worldreviewer.com,AVAILABILITY,origin.list,2021-05-05 05:32:42.169938
+www.zjllvkfa.com,AVAILABILITY,origin.list,2021-05-05 05:32:48.517824
