@@ -181,8 +181,7 @@
         "run.app",
         "telebit.app",
         "vercel.app",
-        "web.app",
-        "wnext.app"
+        "web.app"
     ],
     "ar": [
         "blogspot.com.ar",
@@ -1487,6 +1486,7 @@
         "blogspot.de",
         "bplaced.de",
         "com.de",
+        "community-pro.de",
         "customer.speedpartner.de",
         "dd-dns.de",
         "ddnss.de",
@@ -5759,6 +5759,7 @@
         "west1-us.cloudjiffy.net",
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
+        "wnext.app",
         "yandexcloud.net",
         "za.net"
     ],
@@ -6772,7 +6773,6 @@
         "org.nr"
     ],
     "nu": [
-        "community-pro.de",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
