@@ -7661,7 +7661,6 @@
     "sl": [
         "com.sl",
         "edu.sl",
-        "gov.sl",
         "net.sl",
         "org.sl"
     ],
@@ -8203,6 +8202,7 @@
         "ga.us",
         "gen.mi.us",
         "golffan.us",
+        "gov.sl",
         "graphox.us",
         "gu.us",
         "hi.us",
