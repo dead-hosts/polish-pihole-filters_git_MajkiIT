@@ -447,6 +447,7 @@
         "indigena.bo",
         "industria.bo",
         "info.bo",
+        "int.bo",
         "medicina.bo",
         "mil.bo",
         "movimiento.bo",
@@ -782,7 +783,6 @@
         "fin.ci",
         "go.ci",
         "gouv.ci",
-        "int.bo",
         "int.ci",
         "md.ci",
         "net.ci",
@@ -796,7 +796,6 @@
         "ck"
     ],
     "cl": [
-        "aprendemas.cl",
         "blogspot.cl",
         "co.cl",
         "gob.cl",
@@ -998,6 +997,7 @@
         "dattolocal.com",
         "dattorelay.com",
         "dattoweb.com",
+        "ddns5.com",
         "ddnsfree.com",
         "ddnsgeek.com",
         "ddnsking.com",
@@ -1665,6 +1665,7 @@
         "eun.eg",
         "gov.eg",
         "mil.eg",
+        "mypep.link",
         "name.eg",
         "net.eg",
         "org.eg",
@@ -4705,8 +4706,7 @@
     ],
     "link": [
         "cyon.link",
-        "dweb.link",
-        "mypep.link"
+        "dweb.link"
     ],
     "lk": [
         "ac.lk",
@@ -6775,6 +6775,7 @@
         "org.nr"
     ],
     "nu": [
+        "blogspot.com.eg",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
