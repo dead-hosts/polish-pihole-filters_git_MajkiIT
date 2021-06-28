@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reklama.reflektor.cz,AVAILABILITY,origin.list,2021-06-19 13:42:45.321466
-ad.myapple.pl,AVAILABILITY,origin.list,2021-06-20 01:37:19.974071
-ad.prv.pl,AVAILABILITY,origin.list,2021-06-20 02:13:31.931039
-c1.nowlinux.com,AVAILABILITY,origin.list,2021-06-20 03:24:24.183346
-www.adfreestyle.pl,AVAILABILITY,origin.list,2021-06-20 05:41:17.690645
-popups.infostart.com,AVAILABILITY,origin.list,2021-06-20 05:42:22.408306
 vidoza2.github.io,AVAILABILITY,origin.list,2021-06-20 17:23:04.768015
 vidoza.github.io,AVAILABILITY,origin.list,2021-06-20 17:23:09.830858
 babs.tv2.dk,AVAILABILITY,origin.list,2021-06-27 18:24:16.217342
@@ -203,3 +197,5 @@ obozua.adocean.pl,AVAILABILITY,origin.list,2021-06-28 00:18:18.313069
 s1.gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-28 00:18:27.145755
 ads.bonniercorp.com,AVAILABILITY,origin.list,2021-06-28 00:18:34.067221
 adrolays.de,AVAILABILITY,origin.list,2021-06-28 00:18:46.455718
+reklama.reflektor.cz,AVAILABILITY,origin.list,2021-06-28 00:23:26.264070
+popups.infostart.com,AVAILABILITY,origin.list,2021-06-28 00:25:19.062328
