@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.100.tbn.ru,AVAILABILITY,origin.list,2021-08-16 05:18:27.277118
-ad.tbn.ru,AVAILABILITY,origin.list,2021-08-16 05:18:38.935097
-ads.clearchannel.com,AVAILABILITY,origin.list,2021-08-16 05:18:45.486550
 ads.themovienation.com,AVAILABILITY,origin.list,2021-08-16 19:27:44.129572
 sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-08-17 00:41:58.026735
 ad.way.cz,AVAILABILITY,origin.list,2021-08-17 00:42:06.714306
@@ -220,3 +217,6 @@ s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-08-17 09:58:46.623824
 s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-08-17 09:58:55.290429
 s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-08-17 09:59:07.968266
 interstat.hu,AVAILABILITY,origin.list,2021-08-17 09:59:15.379874
+ad.100.tbn.ru,AVAILABILITY,origin.list,2021-08-17 10:01:08.049739
+ad.tbn.ru,AVAILABILITY,origin.list,2021-08-17 10:01:19.281547
+ads.clearchannel.com,AVAILABILITY,origin.list,2021-08-17 10:01:26.101587
