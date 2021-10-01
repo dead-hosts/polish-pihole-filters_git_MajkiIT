@@ -4,29 +4,30 @@ cli_decoding:
     rpz: false
     wildcard: false
 cli_testing:
-    autocontinue: false
+    autocontinue: true
     ci:
-        active: false
+        active: true
         branch: master
-        command: null
-        commit_message: PyFunceble - AutoSave
+        command: hash dead_hosts_launcher && dead_hosts_launcher --save
+        commit_message: '[Autosave][Dead-Hosts::polish-pihole-filters_git_MajkiIT]'
         distribution_branch: master
-        end_command: null
-        end_commit_message: PyFunceble - Results
-        max_exec_minutes: 15
+        end_command: hash dead_hosts_launcher && dead_hosts_launcher --end
+        end_commit_message: '[Final/Result][Dead-Hosts::polish-pihole-filters_git_MajkiIT]
+            | cc @MajkiIT | '
+        max_exec_minutes: 20
     cidr_expand: false
     complements: false
-    cooldown_time: 0.0
+    cooldown_time: 3.25
     days_between:
         db_clean: 28
         db_retest: 1
     db_type: csv
     display_mode:
-        all: false
+        all: true
         colour: true
-        dots: false
-        execution_time: false
-        less: true
+        dots: true
+        execution_time: true
+        less: false
         percentage: true
         quiet: false
         simple: false
@@ -44,7 +45,7 @@ cli_testing:
     local_network: false
     max_workers: null
     mining: false
-    preload_file: false
+    preload_file: true
     sorting_mode:
         hierarchical: false
         standard: true
@@ -53,6 +54,9 @@ cli_testing:
         reputation: false
         syntax: false
     whois_db: true
+collection:
+    push: true
+    url_base: https://collection.dead-hosts.funilrys.com
 debug:
     active: false
     level: info
@@ -60,7 +64,9 @@ dns:
     delay: 0.0
     follow_server_order: true
     protocol: UDP
-    server: null
+    server:
+    - 8.8.8.8
+    - 8.8.4.4
     trust_server: false
 http_codes:
     list:
@@ -132,6 +138,7 @@ links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
+    collection: true
     dns: true
     http_status_code: true
     netinfo: true
