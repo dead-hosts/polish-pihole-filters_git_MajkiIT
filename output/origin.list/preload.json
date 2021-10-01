@@ -2,10 +2,10 @@
     {
         "checker_type": "AVAILABILITY",
         "destination": "origin.list",
-        "hash": "8f6776f4737011b23646051fdc617026190e0c2e7a5aff0990e85428",
+        "hash": "343a04c846dc93ca45b6554cc710fb0ca7096330f351eaf1e247207c",
         "line_number": 3343,
         "output_dir": "/home/runner/work/polish-pihole-filters_git_MajkiIT/polish-pihole-filters_git_MajkiIT/output/origin.list",
-        "previous_hash": "8f6776f4737011b23646051fdc617026190e0c2e7a5aff0990e85428",
+        "previous_hash": "343a04c846dc93ca45b6554cc710fb0ca7096330f351eaf1e247207c",
         "session_id": "ec8bcd9522ec74ac82b741bf",
         "source": "origin.list",
         "subject": "origin.list",
