@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.sharewareonline.com,AVAILABILITY,origin.list,2021-10-07 11:25:50.087098
-ads.geekswithblogs.net,AVAILABILITY,origin.list,2021-10-07 11:25:50.734214
-pl.tradenewsinvesting.com,AVAILABILITY,origin.list,2021-10-07 11:25:51.400508
-ads.crakmedia.com,AVAILABILITY,origin.list,2021-10-07 11:25:52.044520
-ads.motor-forum.nl,AVAILABILITY,origin.list,2021-10-07 11:25:52.653435
-ads.nola.com,AVAILABILITY,origin.list,2021-10-07 11:25:53.341156
-ads.space.com,AVAILABILITY,origin.list,2021-10-07 11:25:53.998783
 ads4.clearchannel.com,AVAILABILITY,origin.list,2021-10-09 11:26:29.883633
 ads.glispa.com,AVAILABILITY,origin.list,2021-10-09 11:26:30.724772
 reklame.unwired-i.net,AVAILABILITY,origin.list,2021-10-09 11:26:31.452731
@@ -230,3 +223,10 @@ ad.jamba.net,AVAILABILITY,origin.list,2021-10-09 11:30:54.478420
 ad.jamster.co.uk,AVAILABILITY,origin.list,2021-10-09 11:30:55.689849
 ranking-id.de,AVAILABILITY,origin.list,2021-10-09 11:30:56.370428
 www.uziilrlvkiy.com,AVAILABILITY,origin.list,2021-10-09 11:30:57.275773
+adserver.sharewareonline.com,AVAILABILITY,origin.list,2021-10-09 11:43:47.570970
+ads.geekswithblogs.net,AVAILABILITY,origin.list,2021-10-09 11:43:48.187729
+pl.tradenewsinvesting.com,AVAILABILITY,origin.list,2021-10-09 11:43:48.941234
+ads.crakmedia.com,AVAILABILITY,origin.list,2021-10-09 11:43:49.575990
+ads.motor-forum.nl,AVAILABILITY,origin.list,2021-10-09 11:43:50.168430
+ads.nola.com,AVAILABILITY,origin.list,2021-10-09 11:43:50.830535
+ads.space.com,AVAILABILITY,origin.list,2021-10-09 11:43:51.478002
