@@ -7989,7 +7989,6 @@
     "sy": [
         "com.sy",
         "edu.sy",
-        "gov.sy",
         "mil.sy",
         "net.sy",
         "org.sy"
@@ -8673,6 +8672,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--o3cw4h": [
+        "gov.sy",
+        "xn--h3cuzk1di.xn--o3cw4h"
     ],
     "xyz": [
         "blogsite.xyz",
