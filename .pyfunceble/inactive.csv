@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-track.omgpl.com,AVAILABILITY,origin.list,2022-07-07 05:25:03.179372
 adfarm.mediaplex.com,AVAILABILITY,origin.list,2022-07-08 05:21:26.155030
 ads.factorymedia.com,AVAILABILITY,origin.list,2022-07-08 05:21:26.610349
 adserver1.ogilvy-interactive.de,AVAILABILITY,origin.list,2022-07-08 05:21:27.006275
@@ -216,3 +215,4 @@ digital4ro.adocean.pl,AVAILABILITY,origin.list,2022-07-08 05:24:17.412888
 ad.ilove.ch,AVAILABILITY,origin.list,2022-07-08 05:24:17.728797
 admerize.be,AVAILABILITY,origin.list,2022-07-08 05:24:18.296842
 counter.fateback.com,AVAILABILITY,origin.list,2022-07-08 05:24:18.141476
+track.omgpl.com,AVAILABILITY,origin.list,2022-07-09 05:12:51.669844
