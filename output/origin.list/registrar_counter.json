@@ -1,14 +1,22 @@
 {
     "counter": {
+        "Chengdu West Dimension Digital Technology Co., LTD": 1,
         "Dynadot LLC": 1,
         "GoDaddy.com, LLC": 1,
+        "Google LLC": 1,
         "NameCheap, Inc.": 1,
-        "total": 3
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "URL Solutions, Inc.": 1,
+        "total": 7
     },
     "percentage": {
-        "Dynadot LLC": 33.333333333333336,
-        "GoDaddy.com, LLC": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
-        "total": 100.0
+        "Chengdu West Dimension Digital Technology Co., LTD": 14.285714285714286,
+        "Dynadot LLC": 14.285714285714286,
+        "GoDaddy.com, LLC": 14.285714285714286,
+        "Google LLC": 14.285714285714286,
+        "NameCheap, Inc.": 14.285714285714286,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14.285714285714286,
+        "URL Solutions, Inc.": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }

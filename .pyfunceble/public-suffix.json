@@ -169,6 +169,7 @@
         "clerkstage.app",
         "deta.app",
         "developer.app",
+        "easypanel.app",
         "edgecompute.app",
         "encr.app",
         "fireweb.app",
@@ -221,6 +222,7 @@
         "cloudns.asia"
     ],
     "at": [
+        "123webseite.at",
         "12hp.at",
         "2ix.at",
         "4lima.at",
@@ -339,6 +341,7 @@
         "bd"
     ],
     "be": [
+        "123website.be",
         "ac.be",
         "blogspot.be",
         "cloud.interhostsolutions.be",
@@ -657,6 +660,7 @@
         "se.gov.br",
         "se.leg.br",
         "seg.br",
+        "simplesite.com.br",
         "sjc.br",
         "slg.br",
         "slz.br",
@@ -770,6 +774,7 @@
         "blogspot.cf"
     ],
     "ch": [
+        "123website.ch",
         "12hp.ch",
         "2ix.ch",
         "4lima.ch",
@@ -878,8 +883,7 @@
     "club": [
         "barsy.club",
         "cloudns.club",
-        "jele.club",
-        "pony.club"
+        "jele.club"
     ],
     "cm": [
         "co.cm",
@@ -950,8 +954,10 @@
         "com.co",
         "crd.co",
         "edu.co",
+        "firewalledreplit.co",
         "firm.co",
         "gov.co",
+        "id.firewalledreplit.co",
         "id.repl.co",
         "info.co",
         "int.co",
@@ -1421,6 +1427,7 @@
         "shopitsite.com",
         "siiites.com",
         "simple-url.com",
+        "simplesite.com",
         "sinaapp.com",
         "site.tb-hosting.com",
         "skygearapp.com",
@@ -1430,6 +1437,7 @@
         "stackhero-network.com",
         "static.observableusercontent.com",
         "stg-builder.code.com",
+        "streamlitapp.com",
         "stufftoread.com",
         "teaches-yoga.com",
         "temp-dns.com",
@@ -1455,10 +1463,52 @@
         "us-west-2.elasticbeanstalk.com",
         "us.com",
         "uy.com",
+        "vfs.cloud9.af-south-1.amazonaws.com",
+        "vfs.cloud9.ap-east-1.amazonaws.com",
+        "vfs.cloud9.ap-northeast-1.amazonaws.com",
+        "vfs.cloud9.ap-northeast-2.amazonaws.com",
+        "vfs.cloud9.ap-northeast-3.amazonaws.com",
+        "vfs.cloud9.ap-south-1.amazonaws.com",
+        "vfs.cloud9.ap-southeast-1.amazonaws.com",
+        "vfs.cloud9.ap-southeast-2.amazonaws.com",
+        "vfs.cloud9.ca-central-1.amazonaws.com",
+        "vfs.cloud9.eu-central-1.amazonaws.com",
+        "vfs.cloud9.eu-north-1.amazonaws.com",
+        "vfs.cloud9.eu-south-1.amazonaws.com",
+        "vfs.cloud9.eu-west-1.amazonaws.com",
+        "vfs.cloud9.eu-west-2.amazonaws.com",
+        "vfs.cloud9.eu-west-3.amazonaws.com",
+        "vfs.cloud9.me-south-1.amazonaws.com",
+        "vfs.cloud9.sa-east-1.amazonaws.com",
+        "vfs.cloud9.us-east-1.amazonaws.com",
+        "vfs.cloud9.us-east-2.amazonaws.com",
+        "vfs.cloud9.us-west-1.amazonaws.com",
+        "vfs.cloud9.us-west-2.amazonaws.com",
         "vipsinaapp.com",
         "vs.mythic-beasts.com",
         "vultrobjects.com",
         "wafflecell.com",
+        "webview-assets.cloud9.af-south-1.amazonaws.com",
+        "webview-assets.cloud9.ap-east-1.amazonaws.com",
+        "webview-assets.cloud9.ap-northeast-1.amazonaws.com",
+        "webview-assets.cloud9.ap-northeast-2.amazonaws.com",
+        "webview-assets.cloud9.ap-northeast-3.amazonaws.com",
+        "webview-assets.cloud9.ap-south-1.amazonaws.com",
+        "webview-assets.cloud9.ap-southeast-1.amazonaws.com",
+        "webview-assets.cloud9.ap-southeast-2.amazonaws.com",
+        "webview-assets.cloud9.ca-central-1.amazonaws.com",
+        "webview-assets.cloud9.eu-central-1.amazonaws.com",
+        "webview-assets.cloud9.eu-north-1.amazonaws.com",
+        "webview-assets.cloud9.eu-south-1.amazonaws.com",
+        "webview-assets.cloud9.eu-west-1.amazonaws.com",
+        "webview-assets.cloud9.eu-west-2.amazonaws.com",
+        "webview-assets.cloud9.eu-west-3.amazonaws.com",
+        "webview-assets.cloud9.me-south-1.amazonaws.com",
+        "webview-assets.cloud9.sa-east-1.amazonaws.com",
+        "webview-assets.cloud9.us-east-1.amazonaws.com",
+        "webview-assets.cloud9.us-east-2.amazonaws.com",
+        "webview-assets.cloud9.us-west-1.amazonaws.com",
+        "webview-assets.cloud9.us-west-2.amazonaws.com",
         "withgoogle.com",
         "withyoutube.com",
         "wixsite.com",
@@ -1548,6 +1598,7 @@
         "usr.cloud.muni.cz"
     ],
     "de": [
+        "123webseite.de",
         "12hp.de",
         "2ix.de",
         "4lima.de",
@@ -1655,6 +1706,7 @@
         "london.cloudapps.digital"
     ],
     "dk": [
+        "123hjemmeside.dk",
         "biz.dk",
         "blogspot.dk",
         "co.dk",
@@ -1749,6 +1801,7 @@
         "er"
     ],
     "es": [
+        "123miweb.es",
         "blogspot.com.es",
         "com.es",
         "edu.es",
@@ -1794,10 +1847,8 @@
     "farm": [
         "storj.farm"
     ],
-    "fashion": [
-        "of.fashion"
-    ],
     "fi": [
+        "123kotisivu.fi",
         "aland.fi",
         "blogspot.fi",
         "demo.datacenter.fi",
@@ -1833,9 +1884,11 @@
         "edu.fm",
         "net.fm",
         "org.fm",
-        "radio.fm"
+        "radio.fm",
+        "user.fm"
     ],
     "fr": [
+        "123siteweb.fr",
         "aeroport.fr",
         "asso.fr",
         "avocat.fr",
@@ -1947,7 +2000,8 @@
         "edu.gr",
         "gov.gr",
         "net.gr",
-        "org.gr"
+        "org.gr",
+        "simplesite.gr"
     ],
     "group": [
         "discourse.group"
@@ -2039,6 +2093,7 @@
     ],
     "host": [
         "cloudaccess.host",
+        "easypanel.host",
         "fastvps.host",
         "freesite.host",
         "half.host",
@@ -2162,22 +2217,51 @@
         "tv.im"
     ],
     "in": [
+        "5g.in",
+        "6g.in",
         "ac.in",
+        "ai.in",
+        "am.in",
         "barsy.in",
+        "bihar.in",
+        "biz.in",
         "blogspot.in",
+        "business.in",
+        "ca.in",
         "cloudns.in",
+        "cn.in",
         "co.in",
+        "com.in",
+        "coop.in",
+        "cs.in",
+        "delhi.in",
+        "dr.in",
         "edu.in",
+        "er.in",
         "firm.in",
         "gen.in",
         "gov.in",
+        "gujarat.in",
         "ind.in",
+        "info.in",
+        "int.in",
+        "internet.in",
+        "io.in",
+        "me.in",
         "mil.in",
         "net.in",
         "nic.in",
         "org.in",
+        "pg.in",
+        "post.in",
+        "pro.in",
         "res.in",
         "supabase.in",
+        "travel.in",
+        "tv.in",
+        "uk.in",
+        "up.in",
+        "us.in",
         "web.in"
     ],
     "info": [
@@ -2217,6 +2301,7 @@
         "backyards.banzaicloud.io",
         "barsy.io",
         "basicserver.io",
+        "beagleboard.io",
         "bitbucket.io",
         "bluebite.io",
         "boxfuse.io",
@@ -2254,6 +2339,7 @@
         "musician.io",
         "ngrok.io",
         "nid.io",
+        "on-acorn.io",
         "on-k3s.io",
         "on-rio.io",
         "paas.beebyte.io",
@@ -2319,6 +2405,7 @@
         "org.is"
     ],
     "it": [
+        "123homepage.it",
         "16-b.it",
         "32-b.it",
         "64-b.it",
@@ -4919,10 +5006,6 @@
     "lol": [
         "omg.lol"
     ],
-    "london": [
-        "in.london",
-        "of.london"
-    ],
     "lr": [
         "com.lr",
         "edu.lr",
@@ -4947,6 +5030,7 @@
         "gov.lt"
     ],
     "lu": [
+        "123website.lu",
         "blogspot.lu"
     ],
     "lv": [
@@ -4981,10 +5065,6 @@
     ],
     "management": [
         "router.management"
-    ],
-    "marketing": [
-        "from.marketing",
-        "with.marketing"
     ],
     "mc": [
         "asso.mc",
@@ -5044,9 +5124,8 @@
         "wedeploy.me",
         "yombo.me"
     ],
-    "men": [
-        "for.men",
-        "repair.men"
+    "media": [
+        "framer.media"
     ],
     "menu": [
         "barsy.menu"
@@ -5100,10 +5179,6 @@
     "mobi": [
         "barsy.mobi",
         "dscloud.mobi"
-    ],
-    "mom": [
-        "and.mom",
-        "for.mom"
     ],
     "mp": [
         "ju.mp"
@@ -5777,6 +5852,7 @@
     ],
     "net": [
         "1.azurestaticapps.net",
+        "2.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
@@ -6013,6 +6089,7 @@
         "web.ni"
     ],
     "nl": [
+        "123website.nl",
         "blogspot.nl",
         "cistron.nl",
         "co.nl",
@@ -6024,6 +6101,7 @@
         "transurl.nl"
     ],
     "no": [
+        "123hjemmeside.no",
         "aa.no",
         "aarborte.no",
         "aejrie.no",
@@ -7004,12 +7082,10 @@
         "pro.om"
     ],
     "one": [
-        "for.one",
         "homelink.one",
         "onred.one",
         "service.one",
-        "staging.onred.one",
-        "under.one"
+        "staging.onred.one"
     ],
     "online": [
         "barsy.online",
@@ -7253,6 +7329,9 @@
         "ngo.ph",
         "org.ph"
     ],
+    "photos": [
+        "framer.photos"
+    ],
     "pictures": [
         "1337.pictures"
     ],
@@ -7427,6 +7506,7 @@
         "sex.pl",
         "shop.pl",
         "shoparena.pl",
+        "simplesite.pl",
         "sklep.pl",
         "sko.gov.pl",
         "skoczow.pl",
@@ -7557,6 +7637,7 @@
         "sec.ps"
     ],
     "pt": [
+        "123paginaweb.pt",
         "blogspot.pt",
         "com.pt",
         "edu.pt",
@@ -7647,6 +7728,7 @@
         "ua.rs"
     ],
     "ru": [
+        "123sait.ru",
         "ac.ru",
         "adygeya.ru",
         "bashkiria.ru",
@@ -7723,9 +7805,6 @@
         "pub.sa",
         "sch.sa"
     ],
-    "sale": [
-        "for.sale"
-    ],
     "sb": [
         "com.sb",
         "edu.sb",
@@ -7759,6 +7838,7 @@
         "tv.sd"
     ],
     "se": [
+        "123minsida.se",
         "a.se",
         "ac.se",
         "b.se",
@@ -8670,16 +8750,15 @@
         "net.vu",
         "org.vu"
     ],
+    "website": [
+        "framer.website"
+    ],
     "wf": [
         "biz.wf",
         "sch.wf"
     ],
-    "win": [
-        "that.win"
-    ],
-    "work": [
-        "from.work",
-        "to.work"
+    "wiki": [
+        "framer.wiki"
     ],
     "ws": [
         "advisor.ws",
@@ -8792,6 +8871,16 @@
         "орг.срб",
         "пр.срб",
         "упр.срб"
+    ],
+    "ישראל": [
+        "xn--4dbgdty6c.xn--4dbrk0ce",
+        "xn--5dbhl8d.xn--4dbrk0ce",
+        "xn--8dbq2a.xn--4dbrk0ce",
+        "xn--hebda8b.xn--4dbrk0ce",
+        "אקדמיה.ישראל",
+        "ישוב.ישראל",
+        "ממשל.ישראל",
+        "צהל.ישראל"
     ],
     "ไทย": [
         "xn--12c1fe0br.xn--o3cw4h",
