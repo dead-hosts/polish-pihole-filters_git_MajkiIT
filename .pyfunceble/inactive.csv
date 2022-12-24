@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-(^|\.)hit\.gemius\.pl$,AVAILABILITY,origin.list,2022-12-22 05:23:53.822450
-(^|\.)hit\.interia\.pl$,AVAILABILITY,origin.list,2022-12-22 05:23:54.393338
-promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2022-12-22 05:23:54.403517
-(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2022-12-22 05:23:54.441497
-ad.smartclip.net,AVAILABILITY,origin.list,2022-12-22 05:23:54.743099
-(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2022-12-22 05:23:54.916887
-b.aol.com,AVAILABILITY,origin.list,2022-12-22 05:23:55.053244
-s1.sk.adocean.pl,AVAILABILITY,origin.list,2022-12-22 05:23:56.118284
-count.rbc.ru,AVAILABILITY,origin.list,2022-12-22 05:23:56.125884
-ads.motormedia.nl,AVAILABILITY,origin.list,2022-12-22 05:23:56.308600
 www.gcqdiydpfytvn.com,AVAILABILITY,origin.list,2022-12-23 05:25:00.293223
 (^|\.)mylead\.global$,AVAILABILITY,origin.list,2022-12-23 05:25:00.706664
 ad.leadbolt.net,AVAILABILITY,origin.list,2022-12-23 05:25:00.737052
@@ -234,3 +224,13 @@ ns156.n1307adserv.xyz,AVAILABILITY,origin.list,2022-12-23 05:26:42.151999
 remotead.cnet.com,AVAILABILITY,origin.list,2022-12-23 05:26:42.212636
 s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2022-12-23 05:26:42.429841
 int.sitestat.com,AVAILABILITY,origin.list,2022-12-23 05:26:50.430483
+(^|\.)hit\.gemius\.pl$,AVAILABILITY,origin.list,2022-12-24 05:23:07.115566
+(^|\.)hit\.interia\.pl$,AVAILABILITY,origin.list,2022-12-24 05:23:07.266278
+promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2022-12-24 05:23:07.561161
+(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2022-12-24 05:23:07.614145
+ad.smartclip.net,AVAILABILITY,origin.list,2022-12-24 05:23:07.737789
+(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2022-12-24 05:23:07.751367
+b.aol.com,AVAILABILITY,origin.list,2022-12-24 05:23:08.322701
+s1.sk.adocean.pl,AVAILABILITY,origin.list,2022-12-24 05:23:08.686040
+count.rbc.ru,AVAILABILITY,origin.list,2022-12-24 05:23:08.959227
+ads.motormedia.nl,AVAILABILITY,origin.list,2022-12-24 05:23:09.563961
