@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-(^|\.)hit\.gemius\.pl$,AVAILABILITY,origin.list,2022-12-26 05:27:08.311173
-(^|\.)hit\.interia\.pl$,AVAILABILITY,origin.list,2022-12-26 05:27:08.642910
-promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2022-12-26 05:27:08.838870
-(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2022-12-26 05:27:08.872047
-ad.smartclip.net,AVAILABILITY,origin.list,2022-12-26 05:27:09.233223
-(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2022-12-26 05:27:09.299979
-b.aol.com,AVAILABILITY,origin.list,2022-12-26 05:27:09.496460
-s1.sk.adocean.pl,AVAILABILITY,origin.list,2022-12-26 05:27:10.346626
-count.rbc.ru,AVAILABILITY,origin.list,2022-12-26 05:27:10.403891
-ads.motormedia.nl,AVAILABILITY,origin.list,2022-12-26 05:27:10.812765
 (^|\.)mylead\.global$,AVAILABILITY,origin.list,2022-12-27 05:22:28.892052
 (^|\.)000webhostapp\.com$,AVAILABILITY,origin.list,2022-12-27 05:22:31.545297
 (^|\.)push-ad\.com$,AVAILABILITY,origin.list,2022-12-27 05:22:32.030626
@@ -234,3 +224,13 @@ s1.cz.adocean.pl,AVAILABILITY,origin.list,2022-12-27 05:24:06.900836
 s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2022-12-27 05:24:07.533111
 gratkapl.adocean.pl,AVAILABILITY,origin.list,2022-12-27 05:24:07.692697
 int.sitestat.com,AVAILABILITY,origin.list,2022-12-27 05:24:15.323082
+(^|\.)hit\.gemius\.pl$,AVAILABILITY,origin.list,2022-12-28 05:23:32.733614
+(^|\.)hit\.interia\.pl$,AVAILABILITY,origin.list,2022-12-28 05:23:33.367984
+(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2022-12-28 05:23:43.808357
+(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2022-12-28 05:23:46.299295
+promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2022-12-28 05:23:53.908960
+ad.smartclip.net,AVAILABILITY,origin.list,2022-12-28 05:24:00.536108
+b.aol.com,AVAILABILITY,origin.list,2022-12-28 05:24:00.573547
+s1.sk.adocean.pl,AVAILABILITY,origin.list,2022-12-28 05:24:00.658225
+count.rbc.ru,AVAILABILITY,origin.list,2022-12-28 05:24:00.995514
+ads.motormedia.nl,AVAILABILITY,origin.list,2022-12-28 05:24:01.377911
