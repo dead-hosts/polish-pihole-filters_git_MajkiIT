@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2022-12-28 05:23:43.808357
-(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2022-12-28 05:23:46.299295
-promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2022-12-28 05:23:53.908960
-ad.smartclip.net,AVAILABILITY,origin.list,2022-12-28 05:24:00.536108
-b.aol.com,AVAILABILITY,origin.list,2022-12-28 05:24:00.573547
-s1.sk.adocean.pl,AVAILABILITY,origin.list,2022-12-28 05:24:00.658225
-count.rbc.ru,AVAILABILITY,origin.list,2022-12-28 05:24:00.995514
-ads.motormedia.nl,AVAILABILITY,origin.list,2022-12-28 05:24:01.377911
 (^|\.)mylead\.global$,AVAILABILITY,origin.list,2022-12-29 05:27:20.658613
 (^|\.)000webhostapp\.com$,AVAILABILITY,origin.list,2022-12-29 05:27:21.192281
 (^|\.)push-ad\.com$,AVAILABILITY,origin.list,2022-12-29 05:27:21.669479
@@ -234,3 +226,11 @@ gratkapl.adocean.pl,AVAILABILITY,origin.list,2022-12-29 05:29:01.285466
 (^|\.)hit\.interia\.pl$,AVAILABILITY,origin.list,2022-12-29 05:29:01.479047
 nedstat.nl,AVAILABILITY,origin.list,2022-12-29 05:29:03.777937
 int.sitestat.com,AVAILABILITY,origin.list,2022-12-29 05:29:08.791930
+(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2022-12-30 05:23:21.354135
+(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2022-12-30 05:23:21.875269
+promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2022-12-30 05:23:42.432699
+ad.smartclip.net,AVAILABILITY,origin.list,2022-12-30 05:23:43.567605
+b.aol.com,AVAILABILITY,origin.list,2022-12-30 05:23:43.570706
+count.rbc.ru,AVAILABILITY,origin.list,2022-12-30 05:23:43.932112
+ads.motormedia.nl,AVAILABILITY,origin.list,2022-12-30 05:23:43.968006
+s1.sk.adocean.pl,AVAILABILITY,origin.list,2022-12-30 05:23:44.127817
