@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2023-01-01 05:23:05.041674
-(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2023-01-01 05:23:05.207286
-b.aol.com,AVAILABILITY,origin.list,2023-01-01 05:23:25.647867
-count.rbc.ru,AVAILABILITY,origin.list,2023-01-01 05:23:25.659203
-promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2023-01-01 05:23:25.769639
-ad.smartclip.net,AVAILABILITY,origin.list,2023-01-01 05:23:25.834780
-s1.sk.adocean.pl,AVAILABILITY,origin.list,2023-01-01 05:23:26.732129
-ads.motormedia.nl,AVAILABILITY,origin.list,2023-01-01 05:23:26.738043
 (^|\.)mylead\.global$,AVAILABILITY,origin.list,2023-01-02 05:23:02.815839
 (^|\.)push-ad\.com$,AVAILABILITY,origin.list,2023-01-02 05:23:03.264569
 (^|\.)000webhostapp\.com$,AVAILABILITY,origin.list,2023-01-02 05:23:03.749856
@@ -234,3 +226,11 @@ intactro.adocean.pl,AVAILABILITY,origin.list,2023-01-02 05:24:40.357092
 counter.fateback.com,AVAILABILITY,origin.list,2023-01-02 05:24:45.079906
 int.sitestat.com,AVAILABILITY,origin.list,2023-01-02 05:24:46.853426
 nedstat.nl,AVAILABILITY,origin.list,2023-01-02 05:24:54.911649
+(^|\.)smartadserver\.com$,AVAILABILITY,origin.list,2023-01-03 05:22:10.862791
+(^|\.)lcx\.pl$,AVAILABILITY,origin.list,2023-01-03 05:22:10.965201
+b.aol.com,AVAILABILITY,origin.list,2023-01-03 05:22:11.221951
+promo.webpayments.closeby.internet.apps.samsung.com,AVAILABILITY,origin.list,2023-01-03 05:22:11.451591
+ad.smartclip.net,AVAILABILITY,origin.list,2023-01-03 05:22:11.599730
+count.rbc.ru,AVAILABILITY,origin.list,2023-01-03 05:22:11.730344
+s1.sk.adocean.pl,AVAILABILITY,origin.list,2023-01-03 05:22:12.240556
+ads.motormedia.nl,AVAILABILITY,origin.list,2023-01-03 05:22:13.223630
