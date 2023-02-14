@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-boxarchives.xyz,AVAILABILITY,origin.list,2023-02-12 05:23:14.083357
-opsonew3org.sg,AVAILABILITY,origin.list,2023-02-12 05:23:14.558172
-redhatbox.xyz,AVAILABILITY,origin.list,2023-02-12 05:23:15.093463
-thiksikr.com,AVAILABILITY,origin.list,2023-02-12 05:23:15.617297
-pinvazo.com,AVAILABILITY,origin.list,2023-02-12 05:23:15.665585
-managebox.xyz,AVAILABILITY,origin.list,2023-02-12 05:23:15.678498
-fknixrgkmhkn.com,AVAILABILITY,origin.list,2023-02-12 05:23:18.586990
-darksidebox.xyz,AVAILABILITY,origin.list,2023-02-12 05:23:18.740467
-transferwiser.io,AVAILABILITY,origin.list,2023-02-12 05:23:18.743613
-wss.analyticacdn.com,AVAILABILITY,origin.list,2023-02-12 05:23:18.745239
-www.mp3zik.net,AVAILABILITY,origin.list,2023-02-12 05:23:19.192862
-mis.em.nscontext.eu,AVAILABILITY,origin.list,2023-02-12 05:23:19.300647
 !,AVAILABILITY,origin.list,2023-02-13 05:24:58.710447
 (^|\.)mylead\.global$,AVAILABILITY,origin.list,2023-02-13 05:24:58.856111
 (^|\.)push-ad\.com$,AVAILABILITY,origin.list,2023-02-13 05:24:59.104150
@@ -238,3 +226,15 @@ adserver.hardsextube.com,AVAILABILITY,origin.list,2023-02-13 05:27:48.086739
 counter.fateback.com,AVAILABILITY,origin.list,2023-02-13 05:27:51.130713
 int.sitestat.com,AVAILABILITY,origin.list,2023-02-13 05:27:53.666634
 nedstat.nl,AVAILABILITY,origin.list,2023-02-13 05:28:01.959980
+boxarchives.xyz,AVAILABILITY,origin.list,2023-02-14 05:23:15.971141
+opsonew3org.sg,AVAILABILITY,origin.list,2023-02-14 05:23:16.469370
+thiksikr.com,AVAILABILITY,origin.list,2023-02-14 05:23:17.496955
+redhatbox.xyz,AVAILABILITY,origin.list,2023-02-14 05:23:17.639387
+pinvazo.com,AVAILABILITY,origin.list,2023-02-14 05:23:17.678542
+fknixrgkmhkn.com,AVAILABILITY,origin.list,2023-02-14 05:23:19.809875
+www.mp3zik.net,AVAILABILITY,origin.list,2023-02-14 05:23:20.362428
+transferwiser.io,AVAILABILITY,origin.list,2023-02-14 05:23:21.921806
+managebox.xyz,AVAILABILITY,origin.list,2023-02-14 05:23:21.925386
+wss.analyticacdn.com,AVAILABILITY,origin.list,2023-02-14 05:23:21.936694
+darksidebox.xyz,AVAILABILITY,origin.list,2023-02-14 05:23:21.938484
+mis.em.nscontext.eu,AVAILABILITY,origin.list,2023-02-14 05:23:22.990143
