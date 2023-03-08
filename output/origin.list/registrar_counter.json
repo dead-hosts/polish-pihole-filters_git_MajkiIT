@@ -1,10 +1,12 @@
 {
     "counter": {
-        "URL Solutions, Inc.": 1,
-        "total": 1
+        "Google LLC.": 1,
+        "Key-Systems GmbH": 1,
+        "total": 2
     },
     "percentage": {
-        "URL Solutions, Inc.": 100.0,
+        "Google LLC.": 50.0,
+        "Key-Systems GmbH": 50.0,
         "total": 100.0
     }
 }
