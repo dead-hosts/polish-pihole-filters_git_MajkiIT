@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-boxarchives.xyz,AVAILABILITY,origin.list,2023-04-27 05:21:44.576530
-darksidebox.xyz,AVAILABILITY,origin.list,2023-04-27 05:21:45.077751
-managebox.xyz,AVAILABILITY,origin.list,2023-04-27 05:21:45.601277
-opsonew3org.sg,AVAILABILITY,origin.list,2023-04-27 05:21:46.135950
-pinvazo.com,AVAILABILITY,origin.list,2023-04-27 05:21:46.232039
-redhatbox.xyz,AVAILABILITY,origin.list,2023-04-27 05:21:46.680622
-transferwiser.io,AVAILABILITY,origin.list,2023-04-27 05:21:46.740093
-thiksikr.com,AVAILABILITY,origin.list,2023-04-27 05:21:47.101816
 !,AVAILABILITY,origin.list,2023-04-28 05:21:20.275848
 wss.analyticacdn.com,AVAILABILITY,origin.list,2023-04-28 05:21:20.467697
 (^|\.)000webhostapp\.com$,AVAILABILITY,origin.list,2023-04-28 05:21:20.782810
@@ -232,3 +224,11 @@ intactro.adocean.pl,AVAILABILITY,origin.list,2023-04-28 05:22:04.882854
 counter.fateback.com,AVAILABILITY,origin.list,2023-04-28 05:22:07.251111
 int.sitestat.com,AVAILABILITY,origin.list,2023-04-28 05:22:08.519871
 nedstat.nl,AVAILABILITY,origin.list,2023-04-28 05:22:16.765631
+boxarchives.xyz,AVAILABILITY,origin.list,2023-04-29 05:19:22.883260
+darksidebox.xyz,AVAILABILITY,origin.list,2023-04-29 05:19:22.920804
+managebox.xyz,AVAILABILITY,origin.list,2023-04-29 05:19:23.334989
+opsonew3org.sg,AVAILABILITY,origin.list,2023-04-29 05:19:23.360517
+pinvazo.com,AVAILABILITY,origin.list,2023-04-29 05:19:23.768425
+redhatbox.xyz,AVAILABILITY,origin.list,2023-04-29 05:19:23.799518
+transferwiser.io,AVAILABILITY,origin.list,2023-04-29 05:19:23.841504
+thiksikr.com,AVAILABILITY,origin.list,2023-04-29 05:19:24.230294
