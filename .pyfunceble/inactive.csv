@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-anm.intelli-direct.com,AVAILABILITY,origin.list,2023-09-14 05:12:23.911069
-promotion-campaigns.com,AVAILABILITY,origin.list,2023-09-14 05:12:25.240723
-stg.wp.pl$script,AVAILABILITY,origin.list,2023-09-14 05:12:26.291040
-(^|\.)000webhostapp\.com$,AVAILABILITY,origin.list,2023-09-14 05:12:26.136720
-stats-srv.rp.pl,AVAILABILITY,origin.list,2023-09-14 05:12:26.723502
-adserver1.ogilvy-interactive.de,AVAILABILITY,origin.list,2023-09-14 05:12:26.476254
-(^|\.)mylead\.global$,AVAILABILITY,origin.list,2023-09-14 05:12:27.183034
-!,AVAILABILITY,origin.list,2023-09-14 05:12:27.552888
-"adkontekst.pl$script,image",AVAILABILITY,origin.list,2023-09-14 05:12:27.645639
-5v.pl/stats.php,AVAILABILITY,origin.list,2023-09-14 05:12:27.744430
-(^|\.)push-ad\.com$,AVAILABILITY,origin.list,2023-09-14 05:12:27.992813
-api.solvemedia.com/papi/action$popup,AVAILABILITY,origin.list,2023-09-14 05:12:28.196803
-wss.analyticacdn.com,AVAILABILITY,origin.list,2023-09-14 05:12:28.449984
-ww1.flashx.net,AVAILABILITY,origin.list,2023-09-14 05:12:28.486964
 kariera-polecamy.neuca.pl,AVAILABILITY,origin.list,2023-09-15 05:12:35.009788
 quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2023-09-15 05:12:35.407497
 reklam-one.com,AVAILABILITY,origin.list,2023-09-15 05:12:35.776800
@@ -217,3 +203,17 @@ ad.100.tbn.ru,AVAILABILITY,origin.list,2023-09-15 05:13:12.617235
 counter.fateback.com,AVAILABILITY,origin.list,2023-09-15 05:13:18.127054
 int.sitestat.com,AVAILABILITY,origin.list,2023-09-15 05:13:18.913633
 nedstat.nl,AVAILABILITY,origin.list,2023-09-15 05:13:26.900770
+anm.intelli-direct.com,AVAILABILITY,origin.list,2023-09-16 05:11:17.229204
+promotion-campaigns.com,AVAILABILITY,origin.list,2023-09-16 05:11:17.490023
+stg.wp.pl$script,AVAILABILITY,origin.list,2023-09-16 05:11:17.610827
+(^|\.)000webhostapp\.com$,AVAILABILITY,origin.list,2023-09-16 05:11:17.865363
+stats-srv.rp.pl,AVAILABILITY,origin.list,2023-09-16 05:11:17.971988
+adserver1.ogilvy-interactive.de,AVAILABILITY,origin.list,2023-09-16 05:11:18.229947
+(^|\.)mylead\.global$,AVAILABILITY,origin.list,2023-09-16 05:11:18.344639
+!,AVAILABILITY,origin.list,2023-09-16 05:11:18.618610
+"adkontekst.pl$script,image",AVAILABILITY,origin.list,2023-09-16 05:11:18.722297
+5v.pl/stats.php,AVAILABILITY,origin.list,2023-09-16 05:11:18.989657
+(^|\.)push-ad\.com$,AVAILABILITY,origin.list,2023-09-16 05:11:19.104113
+api.solvemedia.com/papi/action$popup,AVAILABILITY,origin.list,2023-09-16 05:11:19.357167
+wss.analyticacdn.com,AVAILABILITY,origin.list,2023-09-16 05:11:19.561711
+ww1.flashx.net,AVAILABILITY,origin.list,2023-09-16 05:11:19.756032
