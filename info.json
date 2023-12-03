@@ -16,6 +16,11 @@
     "ping": [
         "@MajkiIT"
     ],
+    "platform_container_id": null,
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
+    "platform_shortname": "polish-pihole-filters_git_majkiit",
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
     "repo": "dead-hosts/polish-pihole-filters_git_MajkiIT",
     "start_datetime": "2020-12-26T20:07:10.184564",
